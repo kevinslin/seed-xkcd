@@ -11,3 +11,6 @@ sources:
 ---
 ![Yes, Eminem is wearing a sleeveless hoodie.  What of it?](https://imgs.xkcd.com/comics/the_raven.jpg)
 > "[The Raven](https://xkcd.com/133/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Yes, Eminem is wearing a sleeveless hoodie.  What of it?

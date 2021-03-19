@@ -11,3 +11,6 @@ sources:
 ---
 ![We once tried playing blindfold chess on the Aerosmith ride at Disney World.](https://imgs.xkcd.com/comics/chess_photo.png)
 > "[Chess Photo](https://xkcd.com/249/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+We once tried playing blindfold chess on the Aerosmith ride at Disney World.

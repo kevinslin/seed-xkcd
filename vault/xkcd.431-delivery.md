@@ -11,3 +11,6 @@ sources:
 ---
 ![Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!](https://imgs.xkcd.com/comics/delivery.png)
 > "[Delivery](https://xkcd.com/431/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!

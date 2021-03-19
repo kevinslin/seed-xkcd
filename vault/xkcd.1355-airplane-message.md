@@ -11,3 +11,6 @@ sources:
 ---
 ![PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.](https://imgs.xkcd.com/comics/airplane_message.png)
 > "[Airplane Message](https://xkcd.com/1355/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.

@@ -11,3 +11,6 @@ sources:
 ---
 ![Programming the sexbots to enjoy sex seemed a sensible move at the time, but we didn't realize the consequences of their developing fetishes.](https://imgs.xkcd.com/comics/android_girlfriend.png)
 > "[Android Girlfriend](https://xkcd.com/595/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Programming the sexbots to enjoy sex seemed a sensible move at the time, but we didn't realize the consequences of their developing fetishes.

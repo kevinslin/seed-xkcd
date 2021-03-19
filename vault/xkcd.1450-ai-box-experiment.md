@@ -11,3 +11,6 @@ sources:
 ---
 ![I'm working to bring about a superintelligent AI that will eternally torment everyone who failed to make fun of the Roko's Basilisk people.](https://imgs.xkcd.com/comics/ai_box_experiment.png)
 > "[AI-Box Experiment](https://xkcd.com/1450/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+I'm working to bring about a superintelligent AI that will eternally torment everyone who failed to make fun of the Roko's Basilisk people.

@@ -11,3 +11,6 @@ sources:
 ---
 ![And I was really impressed with how they managed to shock the Goatse guy.](https://imgs.xkcd.com/comics/trolling.png)
 > "[Trolling](https://xkcd.com/351/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+And I was really impressed with how they managed to shock the Goatse guy.

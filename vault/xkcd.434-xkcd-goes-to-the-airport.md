@@ -11,3 +11,6 @@ sources:
 ---
 ![Under three ounces, but it stains panties.](https://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png)
 > "[xkcd Goes to the Airport](https://xkcd.com/434/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Under three ounces, but it stains panties.

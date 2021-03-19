@@ -11,3 +11,6 @@ sources:
 ---
 ![Since the goatee, glasses, and Seltzer & Friedberg DVD collection didn't tip you off, there will be a $20 negligence charge for this service.](https://imgs.xkcd.com/comics/bad_ex.png)
 > "[Bad Ex](https://xkcd.com/796/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Since the goatee, glasses, and Seltzer & Friedberg DVD collection didn't tip you off, there will be a $20 negligence charge for this service.

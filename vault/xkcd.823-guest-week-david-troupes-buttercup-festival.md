@@ -11,3 +11,6 @@ sources:
 ---
 ![Guest comic by David Troupes of Buttercup Festival, who is living in that lovely tree outside your window.](https://imgs.xkcd.com/comics/guest_week_david_troupes_buttercup_festival.png)
 > "[Guest Week: David Troupes (Buttercup Festival)](https://xkcd.com/823/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Guest comic by David Troupes of Buttercup Festival, who is living in that lovely tree outside your window.

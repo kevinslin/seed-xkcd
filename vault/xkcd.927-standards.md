@@ -11,3 +11,6 @@ sources:
 ---
 ![Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.](https://imgs.xkcd.com/comics/standards.png)
 > "[Standards](https://xkcd.com/927/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.

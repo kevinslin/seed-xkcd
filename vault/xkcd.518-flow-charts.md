@@ -11,3 +11,6 @@ sources:
 ---
 ![At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!](https://imgs.xkcd.com/comics/flow_charts.png)
 > "[Flow Charts](https://xkcd.com/518/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!

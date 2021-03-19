@@ -11,3 +11,6 @@ sources:
 ---
 ![Sure, it may not meet science fair standards, but I want credit for getting my baking soda and vinegar mountain added to the Decade Volcanoes list.](https://imgs.xkcd.com/comics/baking_soda_and_vinegar.png)
 > "[Baking Soda and Vinegar](https://xkcd.com/1611/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Sure, it may not meet science fair standards, but I want credit for getting my baking soda and vinegar mountain added to the Decade Volcanoes list.

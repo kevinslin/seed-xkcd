@@ -11,3 +11,6 @@ sources:
 ---
 ![I'm only willing to visit placid lakes, salt flats, and painting exhibits until the world's 3D technology improves.](https://imgs.xkcd.com/comics/headache.png)
 > "[Headache](https://xkcd.com/880/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+I'm only willing to visit placid lakes, salt flats, and painting exhibits until the world's 3D technology improves.

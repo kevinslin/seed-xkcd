@@ -11,3 +11,6 @@ sources:
 ---
 ![All electromagnetic equations: The same as all fluid dynamics equations, but with the 8 and 23 replaced with the permittivity and permeability of free space, respectively.](https://imgs.xkcd.com/comics/equations.png)
 > "[Equations](https://xkcd.com/2034/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+All electromagnetic equations: The same as all fluid dynamics equations, but with the 8 and 23 replaced with the permittivity and permeability of free space, respectively.

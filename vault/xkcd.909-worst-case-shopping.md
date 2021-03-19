@@ -11,3 +11,6 @@ sources:
 ---
 ![Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.](https://imgs.xkcd.com/comics/worst_case_shopping.png)
 > "[Worst-Case Shopping](https://xkcd.com/909/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.

@@ -11,3 +11,6 @@ sources:
 ---
 ![The best wedge issue is an actual wedge.](https://imgs.xkcd.com/comics/midcontinent_rift_system.png)
 > "[Midcontinent Rift System](https://xkcd.com/2103/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+The best wedge issue is an actual wedge.

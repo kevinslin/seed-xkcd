@@ -3,7 +3,7 @@ import path from "path";
 // @ts-ignore
 import xkcd from 'xkcd';
 import fs from "fs-extra";
-import { NotePropsV2, NoteUtilsV2 } from "@dendronhq/common-all";
+import { NoteProps, NoteUtils } from "@dendronhq/common-all";
 import { cleanFileName, note2File } from "@dendronhq/common-server";
 import { DateTime } from 'luxon';
 
@@ -53,7 +53,7 @@ function getXkcd(num: number): Promise<XKCDResp> {
     });
 }
 
-function toNote(opts: { meta: XKCDResp }): NotePropsV2 {
+function toNote(opts: { meta: XKCDResp }): NoteProps {
     const { meta } = opts;
     const { num, title, year, month, day, alt, img, transcript } = meta;
     var dt = DateTime.local(parseInt(year), parseInt(month), parseInt(day));
@@ -61,8 +61,8 @@ function toNote(opts: { meta: XKCDResp }): NotePropsV2 {
         `![${cleanLinkString(alt)}](${img})`,
         `> "[${title}](https://xkcd.com/${num}/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License`,
         "",
-        // "## Transcript",
-        // transcript
+        "## Alt Text",
+        cleanLinkString(alt)
     ].join("\n");
     const fname = `xkcd.${num}-${_.kebabCase(title)}`;
     const sources = {
@@ -70,7 +70,7 @@ function toNote(opts: { meta: XKCDResp }): NotePropsV2 {
         url: 'https://creativecommons.org/licenses/by-nc/2.5/',
         license: "Creative Commons 2.5",
     }
-    return NoteUtilsV2.create({
+    return NoteUtils.create({
         id: fname,
         title,
         created: dt.toMillis(),
