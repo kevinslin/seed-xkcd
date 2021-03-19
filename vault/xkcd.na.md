@@ -11,6 +11,7 @@ sources:
 ---
 ![I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.](https://imgs.xkcd.com/comics/na.png)
 
+
 ## Transcript
 {{A flowchart.}}
 Na->Na->Na->Na->Na->Na->Na->Na (branches to ->Hey->Hey->Goodbye and ->Batman!) ->Na->Na (branches to Katamari Damacy!) ->Na (arrow labeled "Land of 1,000 Dances) loops around to the last Na again)
