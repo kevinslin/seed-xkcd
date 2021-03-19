@@ -2,7 +2,7 @@
 id: xkcd.1201-integration-by-parts
 title: Integration by Parts
 desc: ''
-updated: 1616186984344
+updated: 1366354800000
 created: 1366354800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1308-christmas-lights
 title: Christmas Lights
 desc: ''
-updated: 1616186984399
+updated: 1387958400000
 created: 1387958400000
 sources:
   name: xkcd

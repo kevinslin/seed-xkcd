@@ -2,7 +2,7 @@
 id: xkcd.307-excessive-quotation
 title: Excessive Quotation
 desc: ''
-updated: 1616186984557
+updated: 1187938800000
 created: 1187938800000
 sources:
   name: xkcd

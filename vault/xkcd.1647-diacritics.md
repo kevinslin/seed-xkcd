@@ -2,7 +2,7 @@
 id: xkcd.1647-diacritics
 title: Diacritics
 desc: ''
-updated: 1616186984500
+updated: 1456300800000
 created: 1456300800000
 sources:
   name: xkcd

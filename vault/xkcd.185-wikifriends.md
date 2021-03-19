@@ -2,7 +2,7 @@
 id: xkcd.185-wikifriends
 title: Wikifriends
 desc: ''
-updated: 1616186984434
+updated: 1163750400000
 created: 1163750400000
 sources:
   name: xkcd

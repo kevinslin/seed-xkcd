@@ -2,7 +2,7 @@
 id: xkcd.1931-virtual-assistant
 title: Virtual Assistant
 desc: ''
-updated: 1616186984480
+updated: 1513756800000
 created: 1513756800000
 sources:
   name: xkcd

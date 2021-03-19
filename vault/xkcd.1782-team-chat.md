@@ -2,7 +2,7 @@
 id: xkcd.1782-team-chat
 title: Team Chat
 desc: ''
-updated: 1616186984527
+updated: 1483689600000
 created: 1483689600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1342-ancient-stars
 title: Ancient Stars
 desc: ''
-updated: 1616186984405
+updated: 1394780400000
 created: 1394780400000
 sources:
   name: xkcd

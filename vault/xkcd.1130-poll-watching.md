@@ -2,7 +2,7 @@
 id: xkcd.1130-poll-watching
 title: Poll Watching
 desc: ''
-updated: 1616186984651
+updated: 1352102400000
 created: 1352102400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1403-thesis-defense
 title: Thesis Defense
 desc: ''
-updated: 1616186984533
+updated: 1407135600000
 created: 1407135600000
 sources:
   name: xkcd

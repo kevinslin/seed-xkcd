@@ -2,7 +2,7 @@
 id: xkcd.328-eggs
 title: Eggs
 desc: ''
-updated: 1616186984560
+updated: 1192172400000
 created: 1192172400000
 sources:
   name: xkcd

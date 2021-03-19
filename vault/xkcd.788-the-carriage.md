@@ -2,7 +2,7 @@
 id: xkcd.788-the-carriage
 title: The Carriage
 desc: ''
-updated: 1616186984625
+updated: 1283497200000
 created: 1283497200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.67-nerd-girls
 title: Nerd Girls
 desc: ''
-updated: 1616186984389
+updated: 1140595200000
 created: 1140595200000
 sources:
   name: xkcd

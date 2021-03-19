@@ -2,7 +2,7 @@
 id: xkcd.1149-broomstick
 title: Broomstick
 desc: ''
-updated: 1616186984652
+updated: 1355904000000
 created: 1355904000000
 sources:
   name: xkcd

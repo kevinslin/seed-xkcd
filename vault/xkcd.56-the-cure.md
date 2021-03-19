@@ -2,7 +2,7 @@
 id: xkcd.56-the-cure
 title: The Cure
 desc: ''
-updated: 1616186984387
+updated: 1138608000000
 created: 1138608000000
 sources:
   name: xkcd

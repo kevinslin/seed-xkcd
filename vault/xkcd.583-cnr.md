@@ -2,7 +2,7 @@
 id: xkcd.583-cnr
 title: CNR
 desc: ''
-updated: 1616186984598
+updated: 1242198000000
 created: 1242198000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.129-content-protection
 title: Content Protection
 desc: ''
-updated: 1616186984424
+updated: 1153119600000
 created: 1153119600000
 sources:
   name: xkcd

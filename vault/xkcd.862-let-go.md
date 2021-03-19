@@ -2,7 +2,7 @@
 id: xkcd.862-let-go
 title: Let Go
 desc: ''
-updated: 1616186984666
+updated: 1298016000000
 created: 1298016000000
 sources:
   name: xkcd

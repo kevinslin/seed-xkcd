@@ -2,7 +2,7 @@
 id: xkcd.1132-frequentists-vs-bayesians
 title: Frequentists vs. Bayesians
 desc: ''
-updated: 1616186984651
+updated: 1352448000000
 created: 1352448000000
 sources:
   name: xkcd

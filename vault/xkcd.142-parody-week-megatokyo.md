@@ -2,7 +2,7 @@
 id: xkcd.142-parody-week-megatokyo
 title: 'Parody Week: Megatokyo'
 desc: ''
-updated: 1616186984427
+updated: 1155625200000
 created: 1155625200000
 sources:
   name: xkcd

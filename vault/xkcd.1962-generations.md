@@ -2,7 +2,7 @@
 id: xkcd.1962-generations
 title: Generations
 desc: ''
-updated: 1616186984485
+updated: 1519977600000
 created: 1519977600000
 sources:
   name: xkcd

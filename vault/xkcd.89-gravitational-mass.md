@@ -2,7 +2,7 @@
 id: xkcd.89-gravitational-mass
 title: Gravitational Mass
 desc: ''
-updated: 1616186984394
+updated: 1144998000000
 created: 1144998000000
 sources:
   name: xkcd

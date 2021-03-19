@@ -2,7 +2,7 @@
 id: xkcd.597-addiction
 title: Addiction
 desc: ''
-updated: 1616186984600
+updated: 1245049200000
 created: 1245049200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1009-sigh
 title: Sigh
 desc: ''
-updated: 1616186984673
+updated: 1327651200000
 created: 1327651200000
 sources:
   name: xkcd

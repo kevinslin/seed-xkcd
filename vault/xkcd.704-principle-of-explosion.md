@@ -2,7 +2,7 @@
 id: xkcd.704-principle-of-explosion
 title: Principle of Explosion
 desc: ''
-updated: 1616186984615
+updated: 1266566400000
 created: 1266566400000
 sources:
   name: xkcd

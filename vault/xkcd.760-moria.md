@@ -2,7 +2,7 @@
 id: xkcd.760-moria
 title: Moria
 desc: ''
-updated: 1616186984621
+updated: 1277881200000
 created: 1277881200000
 sources:
   name: xkcd

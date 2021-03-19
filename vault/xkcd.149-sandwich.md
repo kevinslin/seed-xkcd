@@ -2,7 +2,7 @@
 id: xkcd.149-sandwich
 title: Sandwich
 desc: ''
-updated: 1616186984428
+updated: 1156748400000
 created: 1156748400000
 sources:
   name: xkcd

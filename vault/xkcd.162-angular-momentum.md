@@ -2,7 +2,7 @@
 id: xkcd.162-angular-momentum
 title: Angular Momentum
 desc: ''
-updated: 1616186984430
+updated: 1159167600000
 created: 1159167600000
 sources:
   name: xkcd

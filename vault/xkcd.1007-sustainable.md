@@ -2,7 +2,7 @@
 id: xkcd.1007-sustainable
 title: Sustainable
 desc: ''
-updated: 1616186984673
+updated: 1327305600000
 created: 1327305600000
 sources:
   name: xkcd

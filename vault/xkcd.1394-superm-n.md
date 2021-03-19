@@ -2,7 +2,7 @@
 id: xkcd.1394-superm-n
 title: Superm*n
 desc: ''
-updated: 1616186984418
+updated: 1405321200000
 created: 1405321200000
 sources:
   name: xkcd

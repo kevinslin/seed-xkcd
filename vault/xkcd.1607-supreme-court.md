@@ -2,7 +2,7 @@
 id: xkcd.1607-supreme-court
 title: Supreme Court
 desc: ''
-updated: 1616186984494
+updated: 1448265600000
 created: 1448265600000
 sources:
   name: xkcd

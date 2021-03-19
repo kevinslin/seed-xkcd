@@ -2,7 +2,7 @@
 id: xkcd.734-outbreak
 title: Outbreak
 desc: ''
-updated: 1616186984619
+updated: 1272610800000
 created: 1272610800000
 sources:
   name: xkcd

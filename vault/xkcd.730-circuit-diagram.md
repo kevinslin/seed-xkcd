@@ -2,7 +2,7 @@
 id: xkcd.730-circuit-diagram
 title: Circuit Diagram
 desc: ''
-updated: 1616186984619
+updated: 1271833200000
 created: 1271833200000
 sources:
   name: xkcd

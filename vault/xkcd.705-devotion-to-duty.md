@@ -2,7 +2,7 @@
 id: xkcd.705-devotion-to-duty
 title: Devotion to Duty
 desc: ''
-updated: 1616186984617
+updated: 1266825600000
 created: 1266825600000
 sources:
   name: xkcd

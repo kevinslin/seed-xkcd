@@ -2,7 +2,7 @@
 id: xkcd.1842-anti-drone-eagles
 title: Anti-Drone Eagles
 desc: ''
-updated: 1616186984445
+updated: 1495782000000
 created: 1495782000000
 sources:
   name: xkcd

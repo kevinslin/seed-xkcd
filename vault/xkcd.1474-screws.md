@@ -2,7 +2,7 @@
 id: xkcd.1474-screws
 title: Screws
 desc: ''
-updated: 1616186984540
+updated: 1421395200000
 created: 1421395200000
 sources:
   name: xkcd

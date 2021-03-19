@@ -2,7 +2,7 @@
 id: xkcd.522-google-trends
 title: Google Trends
 desc: ''
-updated: 1616186984589
+updated: 1230278400000
 created: 1230278400000
 sources:
   name: xkcd

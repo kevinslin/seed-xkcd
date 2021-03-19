@@ -2,7 +2,7 @@
 id: xkcd.1015-kerning
 title: Kerning
 desc: ''
-updated: 1616186984673
+updated: 1328860800000
 created: 1328860800000
 sources:
   name: xkcd

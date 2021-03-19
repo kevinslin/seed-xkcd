@@ -2,7 +2,7 @@
 id: xkcd.463-voting-machines
 title: Voting Machines
 desc: ''
-updated: 1616186984580
+updated: 1218783600000
 created: 1218783600000
 sources:
   name: xkcd

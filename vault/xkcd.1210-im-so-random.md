@@ -2,7 +2,7 @@
 id: xkcd.1210-im-so-random
 title: I'm So Random
 desc: ''
-updated: 1616186984350
+updated: 1368169200000
 created: 1368169200000
 sources:
   name: xkcd

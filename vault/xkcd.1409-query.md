@@ -2,7 +2,7 @@
 id: xkcd.1409-query
 title: Query
 desc: ''
-updated: 1616186984534
+updated: 1408345200000
 created: 1408345200000
 sources:
   name: xkcd

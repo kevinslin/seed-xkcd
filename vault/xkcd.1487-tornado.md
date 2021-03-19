@@ -2,7 +2,7 @@
 id: xkcd.1487-tornado
 title: Tornado
 desc: ''
-updated: 1616186984541
+updated: 1424073600000
 created: 1424073600000
 sources:
   name: xkcd

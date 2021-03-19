@@ -2,7 +2,7 @@
 id: xkcd.706-freedom
 title: Freedom
 desc: ''
-updated: 1616186984617
+updated: 1266998400000
 created: 1266998400000
 sources:
   name: xkcd

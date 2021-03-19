@@ -2,7 +2,7 @@
 id: xkcd.1995-mc-hammer-age
 title: MC Hammer Age
 desc: ''
-updated: 1616186984492
+updated: 1526626800000
 created: 1526626800000
 sources:
   name: xkcd

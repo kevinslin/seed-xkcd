@@ -2,7 +2,7 @@
 id: xkcd.1184-circumference-formula
 title: Circumference Formula
 desc: ''
-updated: 1616186984655
+updated: 1362985200000
 created: 1362985200000
 sources:
   name: xkcd

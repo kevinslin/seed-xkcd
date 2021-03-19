@@ -2,7 +2,7 @@
 id: xkcd.917-hofstadter
 title: Hofstadter
 desc: ''
-updated: 1616186984630
+updated: 1309158000000
 created: 1309158000000
 sources:
   name: xkcd

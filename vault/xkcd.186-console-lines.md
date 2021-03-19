@@ -2,7 +2,7 @@
 id: xkcd.186-console-lines
 title: Console Lines
 desc: ''
-updated: 1616186984435
+updated: 1164009600000
 created: 1164009600000
 sources:
   name: xkcd

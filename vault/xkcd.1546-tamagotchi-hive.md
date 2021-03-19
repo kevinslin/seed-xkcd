@@ -2,7 +2,7 @@
 id: xkcd.1546-tamagotchi-hive
 title: Tamagotchi Hive
 desc: ''
-updated: 1616186984464
+updated: 1435906800000
 created: 1435906800000
 sources:
   name: xkcd

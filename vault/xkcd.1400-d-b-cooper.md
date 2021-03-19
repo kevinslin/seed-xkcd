@@ -2,7 +2,7 @@
 id: xkcd.1400-d-b-cooper
 title: D.B. Cooper
 desc: ''
-updated: 1616186984533
+updated: 1406530800000
 created: 1406530800000
 sources:
   name: xkcd

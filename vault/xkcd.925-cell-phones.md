@@ -2,7 +2,7 @@
 id: xkcd.925-cell-phones
 title: Cell Phones
 desc: ''
-updated: 1616186984631
+updated: 1310713200000
 created: 1310713200000
 sources:
   name: xkcd

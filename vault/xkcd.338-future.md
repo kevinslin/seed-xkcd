@@ -2,7 +2,7 @@
 id: xkcd.338-future
 title: Future
 desc: ''
-updated: 1616186984560
+updated: 1194249600000
 created: 1194249600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.796-bad-ex
 title: Bad Ex
 desc: ''
-updated: 1616186984625
+updated: 1285138800000
 created: 1285138800000
 sources:
   name: xkcd

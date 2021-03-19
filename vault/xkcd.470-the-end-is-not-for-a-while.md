@@ -2,7 +2,7 @@
 id: xkcd.470-the-end-is-not-for-a-while
 title: The End is Not for a While
 desc: ''
-updated: 1616186984580
+updated: 1220252400000
 created: 1220252400000
 sources:
   name: xkcd

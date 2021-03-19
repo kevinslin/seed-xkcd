@@ -2,7 +2,7 @@
 id: xkcd.259-clich-eacute-d-exchanges
 title: Clich&eacute;d Exchanges
 desc: ''
-updated: 1616186984551
+updated: 1178694000000
 created: 1178694000000
 sources:
   name: xkcd

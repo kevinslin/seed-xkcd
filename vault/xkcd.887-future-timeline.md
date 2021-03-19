@@ -2,7 +2,7 @@
 id: xkcd.887-future-timeline
 title: Future Timeline
 desc: ''
-updated: 1616186984668
+updated: 1303110000000
 created: 1303110000000
 sources:
   name: xkcd

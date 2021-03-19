@@ -2,7 +2,7 @@
 id: xkcd.828-positive-attitude
 title: Positive Attitude
 desc: ''
-updated: 1616186984661
+updated: 1291190400000
 created: 1291190400000
 sources:
   name: xkcd

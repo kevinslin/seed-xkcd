@@ -2,7 +2,7 @@
 id: xkcd.1572-xkcd-survey
 title: xkcd Survey
 desc: ''
-updated: 1616186984468
+updated: 1441090800000
 created: 1441090800000
 sources:
   name: xkcd

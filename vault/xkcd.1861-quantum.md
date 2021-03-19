@@ -2,7 +2,7 @@
 id: xkcd.1861-quantum
 title: Quantum
 desc: ''
-updated: 1616186984449
+updated: 1499670000000
 created: 1499670000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.333-getting-out-of-hand
 title: Getting Out of Hand
 desc: ''
-updated: 1616186984560
+updated: 1193209200000
 created: 1193209200000
 sources:
   name: xkcd

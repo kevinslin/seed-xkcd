@@ -2,7 +2,7 @@
 id: xkcd.1702-home-itch-remedies
 title: Home Itch Remedies
 desc: ''
-updated: 1616186984508
+updated: 1467615600000
 created: 1467615600000
 sources:
   name: xkcd

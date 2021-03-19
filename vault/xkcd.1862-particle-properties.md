@@ -2,7 +2,7 @@
 id: xkcd.1862-particle-properties
 title: Particle Properties
 desc: ''
-updated: 1616186984449
+updated: 1499842800000
 created: 1499842800000
 sources:
   name: xkcd

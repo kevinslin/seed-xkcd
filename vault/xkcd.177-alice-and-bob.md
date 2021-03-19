@@ -2,7 +2,7 @@
 id: xkcd.177-alice-and-bob
 title: Alice and Bob
 desc: ''
-updated: 1616186984433
+updated: 1162195200000
 created: 1162195200000
 sources:
   name: xkcd

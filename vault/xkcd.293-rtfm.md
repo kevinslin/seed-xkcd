@@ -2,7 +2,7 @@
 id: xkcd.293-rtfm
 title: RTFM
 desc: ''
-updated: 1616186984555
+updated: 1185174000000
 created: 1185174000000
 sources:
   name: xkcd

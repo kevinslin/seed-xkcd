@@ -2,7 +2,7 @@
 id: xkcd.853-consecutive-vowels
 title: Consecutive Vowels
 desc: ''
-updated: 1616186984664
+updated: 1296201600000
 created: 1296201600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.997-wait-wait
 title: Wait Wait
 desc: ''
-updated: 1616186984639
+updated: 1325232000000
 created: 1325232000000
 sources:
   name: xkcd

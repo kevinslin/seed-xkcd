@@ -2,7 +2,7 @@
 id: xkcd.1640-super-bowl-context
 title: Super Bowl Context
 desc: ''
-updated: 1616186984499
+updated: 1454918400000
 created: 1454918400000
 sources:
   name: xkcd

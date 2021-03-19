@@ -2,7 +2,7 @@
 id: xkcd.1627-woosh
 title: Woosh
 desc: ''
-updated: 1616186984497
+updated: 1452240000000
 created: 1452240000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1445-efficiency
 title: Efficiency
 desc: ''
-updated: 1616186984537
+updated: 1415606400000
 created: 1415606400000
 sources:
   name: xkcd

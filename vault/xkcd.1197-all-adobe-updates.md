@@ -2,7 +2,7 @@
 id: xkcd.1197-all-adobe-updates
 title: All Adobe Updates
 desc: ''
-updated: 1616186984656
+updated: 1365577200000
 created: 1365577200000
 sources:
   name: xkcd

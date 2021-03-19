@@ -2,7 +2,7 @@
 id: xkcd.224-lisp
 title: Lisp
 desc: ''
-updated: 1616186984545
+updated: 1171612800000
 created: 1171612800000
 sources:
   name: xkcd

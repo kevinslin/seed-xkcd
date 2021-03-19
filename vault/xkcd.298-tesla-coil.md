@@ -2,7 +2,7 @@
 id: xkcd.298-tesla-coil
 title: Tesla Coil
 desc: ''
-updated: 1616186984556
+updated: 1186124400000
 created: 1186124400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1887-two-down-one-to-go
 title: 'Two Down, One to Go'
 desc: ''
-updated: 1616186984454
+updated: 1504854000000
 created: 1504854000000
 sources:
   name: xkcd

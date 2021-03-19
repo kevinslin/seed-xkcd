@@ -2,7 +2,7 @@
 id: xkcd.1764-xkcde
 title: XKCDE
 desc: ''
-updated: 1616186984523
+updated: 1480060800000
 created: 1480060800000
 sources:
   name: xkcd

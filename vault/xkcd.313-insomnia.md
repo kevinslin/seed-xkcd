@@ -2,7 +2,7 @@
 id: xkcd.313-insomnia
 title: Insomnia
 desc: ''
-updated: 1616186984558
+updated: 1189148400000
 created: 1189148400000
 sources:
   name: xkcd

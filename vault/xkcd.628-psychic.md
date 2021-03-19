@@ -2,7 +2,7 @@
 id: xkcd.628-psychic
 title: Psychic
 desc: ''
-updated: 1616186984605
+updated: 1251270000000
 created: 1251270000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1667-algorithms
 title: Algorithms
 desc: ''
-updated: 1616186984502
+updated: 1460530800000
 created: 1460530800000
 sources:
   name: xkcd

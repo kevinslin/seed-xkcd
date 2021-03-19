@@ -2,7 +2,7 @@
 id: xkcd.977-map-projections
 title: Map Projections
 desc: ''
-updated: 1616186984636
+updated: 1321257600000
 created: 1321257600000
 sources:
   name: xkcd

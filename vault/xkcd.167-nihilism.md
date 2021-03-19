@@ -2,7 +2,7 @@
 id: xkcd.167-nihilism
 title: Nihilism
 desc: ''
-updated: 1616186984431
+updated: 1160118000000
 created: 1160118000000
 sources:
   name: xkcd

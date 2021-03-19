@@ -2,7 +2,7 @@
 id: xkcd.1218-doors-of-durin
 title: Doors of Durin
 desc: ''
-updated: 1616186984353
+updated: 1369810800000
 created: 1369810800000
 sources:
   name: xkcd

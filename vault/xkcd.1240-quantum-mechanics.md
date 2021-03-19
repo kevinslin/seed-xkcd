@@ -2,7 +2,7 @@
 id: xkcd.1240-quantum-mechanics
 title: Quantum Mechanics
 desc: ''
-updated: 1616186984360
+updated: 1374217200000
 created: 1374217200000
 sources:
   name: xkcd

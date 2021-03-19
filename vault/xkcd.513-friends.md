@@ -2,7 +2,7 @@
 id: xkcd.513-friends
 title: Friends
 desc: ''
-updated: 1616186984587
+updated: 1228464000000
 created: 1228464000000
 sources:
   name: xkcd

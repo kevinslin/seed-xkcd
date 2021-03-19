@@ -2,7 +2,7 @@
 id: xkcd.782-desecration
 title: Desecration
 desc: ''
-updated: 1616186984623
+updated: 1282287600000
 created: 1282287600000
 sources:
   name: xkcd

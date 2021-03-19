@@ -2,7 +2,7 @@
 id: xkcd.656-october-30th
 title: October 30th
 desc: ''
-updated: 1616186984608
+updated: 1256886000000
 created: 1256886000000
 sources:
   name: xkcd

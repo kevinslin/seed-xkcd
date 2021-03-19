@@ -2,7 +2,7 @@
 id: xkcd.1885-ensemble-model
 title: Ensemble Model
 desc: ''
-updated: 1616186984453
+updated: 1504508400000
 created: 1504508400000
 sources:
   name: xkcd

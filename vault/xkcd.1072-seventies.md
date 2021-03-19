@@ -2,7 +2,7 @@
 id: xkcd.1072-seventies
 title: Seventies
 desc: ''
-updated: 1616186984691
+updated: 1340348400000
 created: 1340348400000
 sources:
   name: xkcd

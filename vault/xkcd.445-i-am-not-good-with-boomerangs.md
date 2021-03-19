@@ -2,7 +2,7 @@
 id: xkcd.445-i-am-not-good-with-boomerangs
 title: I Am Not Good with Boomerangs
 desc: ''
-updated: 1616186984577
+updated: 1215154800000
 created: 1215154800000
 sources:
   name: xkcd

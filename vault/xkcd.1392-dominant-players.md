@@ -2,7 +2,7 @@
 id: xkcd.1392-dominant-players
 title: Dominant Players
 desc: ''
-updated: 1616186984417
+updated: 1404889200000
 created: 1404889200000
 sources:
   name: xkcd

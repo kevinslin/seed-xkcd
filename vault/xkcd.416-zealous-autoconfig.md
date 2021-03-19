@@ -2,7 +2,7 @@
 id: xkcd.416-zealous-autoconfig
 title: Zealous Autoconfig
 desc: ''
-updated: 1616186984572
+updated: 1209366000000
 created: 1209366000000
 sources:
   name: xkcd

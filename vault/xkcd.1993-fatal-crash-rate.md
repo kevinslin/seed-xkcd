@@ -2,7 +2,7 @@
 id: xkcd.1993-fatal-crash-rate
 title: Fatal Crash Rate
 desc: ''
-updated: 1616186984492
+updated: 1526281200000
 created: 1526281200000
 sources:
   name: xkcd

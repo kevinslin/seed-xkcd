@@ -2,7 +2,7 @@
 id: xkcd.517-marshmallow-gun
 title: Marshmallow Gun
 desc: ''
-updated: 1616186984588
+updated: 1229328000000
 created: 1229328000000
 sources:
   name: xkcd

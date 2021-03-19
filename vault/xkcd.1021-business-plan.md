@@ -2,7 +2,7 @@
 id: xkcd.1021-business-plan
 title: Business Plan
 desc: ''
-updated: 1616186984674
+updated: 1330070400000
 created: 1330070400000
 sources:
   name: xkcd

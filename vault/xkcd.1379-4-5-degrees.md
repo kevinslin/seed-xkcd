@@ -2,7 +2,7 @@
 id: xkcd.1379-4-5-degrees
 title: 4.5 Degrees
 desc: ''
-updated: 1616186984413
+updated: 1402297200000
 created: 1402297200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1827-survivorship-bias
 title: Survivorship Bias
 desc: ''
-updated: 1616186984443
+updated: 1492758000000
 created: 1492758000000
 sources:
   name: xkcd

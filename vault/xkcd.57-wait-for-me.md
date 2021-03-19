@@ -2,7 +2,7 @@
 id: xkcd.57-wait-for-me
 title: Wait For Me
 desc: ''
-updated: 1616186984387
+updated: 1138694400000
 created: 1138694400000
 sources:
   name: xkcd

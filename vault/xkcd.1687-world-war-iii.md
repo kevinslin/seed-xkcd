@@ -2,7 +2,7 @@
 id: xkcd.1687-world-war-iii
 title: World War III+
 desc: ''
-updated: 1616186984505
+updated: 1464591600000
 created: 1464591600000
 sources:
   name: xkcd

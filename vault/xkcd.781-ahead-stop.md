@@ -2,7 +2,7 @@
 id: xkcd.781-ahead-stop
 title: Ahead Stop
 desc: ''
-updated: 1616186984623
+updated: 1282114800000
 created: 1282114800000
 sources:
   name: xkcd

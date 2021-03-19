@@ -2,7 +2,7 @@
 id: xkcd.1972-autogyros
 title: Autogyros
 desc: ''
-updated: 1616186984488
+updated: 1522047600000
 created: 1522047600000
 sources:
   name: xkcd

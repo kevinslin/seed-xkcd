@@ -2,7 +2,7 @@
 id: xkcd.1571-car-model-names
 title: Car Model Names
 desc: ''
-updated: 1616186984468
+updated: 1441004400000
 created: 1441004400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.12-poisson
 title: Poisson
 desc: ''
-updated: 1616186984377
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

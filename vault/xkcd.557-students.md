@@ -2,7 +2,7 @@
 id: xkcd.557-students
 title: Students
 desc: ''
-updated: 1616186984595
+updated: 1237359600000
 created: 1237359600000
 sources:
   name: xkcd

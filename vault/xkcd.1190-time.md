@@ -2,7 +2,7 @@
 id: xkcd.1190-time
 title: Time
 desc: ''
-updated: 1616186984655
+updated: 1364194800000
 created: 1364194800000
 sources:
   name: xkcd

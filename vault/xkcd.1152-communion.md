@@ -2,7 +2,7 @@
 id: xkcd.1152-communion
 title: Communion
 desc: ''
-updated: 1616186984652
+updated: 1356508800000
 created: 1356508800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1812-onboarding
 title: Onboarding
 desc: ''
-updated: 1616186984439
+updated: 1489734000000
 created: 1489734000000
 sources:
   name: xkcd

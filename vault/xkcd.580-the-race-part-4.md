@@ -2,7 +2,7 @@
 id: xkcd.580-the-race-part-4
 title: 'The Race: Part 4'
 desc: ''
-updated: 1616186984597
+updated: 1241679600000
 created: 1241679600000
 sources:
   name: xkcd

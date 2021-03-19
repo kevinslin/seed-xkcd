@@ -2,7 +2,7 @@
 id: xkcd.1286-encryptic
 title: Encryptic
 desc: ''
-updated: 1616186984372
+updated: 1383552000000
 created: 1383552000000
 sources:
   name: xkcd

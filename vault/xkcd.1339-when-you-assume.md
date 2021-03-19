@@ -2,7 +2,7 @@
 id: xkcd.1339-when-you-assume
 title: When You Assume
 desc: ''
-updated: 1616186984405
+updated: 1394179200000
 created: 1394179200000
 sources:
   name: xkcd

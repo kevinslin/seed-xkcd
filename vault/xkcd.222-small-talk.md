@@ -2,7 +2,7 @@
 id: xkcd.222-small-talk
 title: Small Talk
 desc: ''
-updated: 1616186984545
+updated: 1171267200000
 created: 1171267200000
 sources:
   name: xkcd

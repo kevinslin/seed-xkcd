@@ -2,7 +2,7 @@
 id: xkcd.237-keyboards-are-disgusting
 title: Keyboards are Disgusting
 desc: ''
-updated: 1616186984547
+updated: 1174287600000
 created: 1174287600000
 sources:
   name: xkcd

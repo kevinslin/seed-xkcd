@@ -2,7 +2,7 @@
 id: xkcd.1755-old-days
 title: Old Days
 desc: ''
-updated: 1616186984521
+updated: 1478242800000
 created: 1478242800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.469-improvised
 title: Improvised
 desc: ''
-updated: 1616186984580
+updated: 1219993200000
 created: 1219993200000
 sources:
   name: xkcd

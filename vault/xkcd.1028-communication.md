@@ -2,7 +2,7 @@
 id: xkcd.1028-communication
 title: Communication
 desc: ''
-updated: 1616186984675
+updated: 1331535600000
 created: 1331535600000
 sources:
   name: xkcd

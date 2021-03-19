@@ -2,7 +2,7 @@
 id: xkcd.606-cutting-edge
 title: Cutting Edge
 desc: ''
-updated: 1616186984601
+updated: 1246863600000
 created: 1246863600000
 sources:
   name: xkcd

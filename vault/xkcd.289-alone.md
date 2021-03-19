@@ -2,7 +2,7 @@
 id: xkcd.289-alone
 title: Alone
 desc: ''
-updated: 1616186984555
+updated: 1184310000000
 created: 1184310000000
 sources:
   name: xkcd

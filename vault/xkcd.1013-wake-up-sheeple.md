@@ -2,7 +2,7 @@
 id: xkcd.1013-wake-up-sheeple
 title: Wake Up Sheeple
 desc: ''
-updated: 1616186984673
+updated: 1328515200000
 created: 1328515200000
 sources:
   name: xkcd

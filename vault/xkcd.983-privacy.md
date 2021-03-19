@@ -2,7 +2,7 @@
 id: xkcd.983-privacy
 title: Privacy
 desc: ''
-updated: 1616186984637
+updated: 1322467200000
 created: 1322467200000
 sources:
   name: xkcd

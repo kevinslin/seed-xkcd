@@ -2,7 +2,7 @@
 id: xkcd.990-plastic-bags
 title: Plastic Bags
 desc: ''
-updated: 1616186984638
+updated: 1323849600000
 created: 1323849600000
 sources:
   name: xkcd

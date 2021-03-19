@@ -2,7 +2,7 @@
 id: xkcd.749-study
 title: Study
 desc: ''
-updated: 1616186984620
+updated: 1275634800000
 created: 1275634800000
 sources:
   name: xkcd

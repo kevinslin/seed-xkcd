@@ -2,7 +2,7 @@
 id: xkcd.752-phobia
 title: Phobia
 desc: ''
-updated: 1616186984620
+updated: 1276239600000
 created: 1276239600000
 sources:
   name: xkcd

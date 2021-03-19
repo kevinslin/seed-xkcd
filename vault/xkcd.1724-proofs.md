@@ -2,7 +2,7 @@
 id: xkcd.1724-proofs
 title: Proofs
 desc: ''
-updated: 1616186984512
+updated: 1472022000000
 created: 1472022000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.936-password-strength
 title: Password Strength
 desc: ''
-updated: 1616186984632
+updated: 1312959600000
 created: 1312959600000
 sources:
   name: xkcd

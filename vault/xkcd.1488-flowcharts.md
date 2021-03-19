@@ -2,7 +2,7 @@
 id: xkcd.1488-flowcharts
 title: Flowcharts
 desc: ''
-updated: 1616186984541
+updated: 1424246400000
 created: 1424246400000
 sources:
   name: xkcd

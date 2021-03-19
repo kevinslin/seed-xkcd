@@ -2,7 +2,7 @@
 id: xkcd.767-temper
 title: Temper
 desc: ''
-updated: 1616186984622
+updated: 1279263600000
 created: 1279263600000
 sources:
   name: xkcd

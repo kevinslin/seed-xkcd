@@ -2,7 +2,7 @@
 id: xkcd.536-space-elevators
 title: Space Elevators
 desc: ''
-updated: 1616186984592
+updated: 1233129600000
 created: 1233129600000
 sources:
   name: xkcd

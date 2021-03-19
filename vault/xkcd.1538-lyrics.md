@@ -2,7 +2,7 @@
 id: xkcd.1538-lyrics
 title: Lyrics
 desc: ''
-updated: 1616186984462
+updated: 1434351600000
 created: 1434351600000
 sources:
   name: xkcd

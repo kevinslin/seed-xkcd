@@ -2,7 +2,7 @@
 id: xkcd.1422-my-phone-is-dying
 title: My Phone is Dying
 desc: ''
-updated: 1616186984535
+updated: 1410937200000
 created: 1410937200000
 sources:
   name: xkcd

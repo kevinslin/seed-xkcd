@@ -2,7 +2,7 @@
 id: xkcd.88-escher-bracelet
 title: Escher Bracelet
 desc: ''
-updated: 1616186984394
+updated: 1144825200000
 created: 1144825200000
 sources:
   name: xkcd

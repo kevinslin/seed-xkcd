@@ -2,7 +2,7 @@
 id: xkcd.1738-moon-shapes
 title: Moon Shapes
 desc: ''
-updated: 1616186984517
+updated: 1474873200000
 created: 1474873200000
 sources:
   name: xkcd

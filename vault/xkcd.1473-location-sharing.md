@@ -2,7 +2,7 @@
 id: xkcd.1473-location-sharing
 title: Location Sharing
 desc: ''
-updated: 1616186984540
+updated: 1421222400000
 created: 1421222400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.669-experiment
 title: Experiment
 desc: ''
-updated: 1616186984612
+updated: 1259568000000
 created: 1259568000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1883-supervillain-plan
 title: Supervillain Plan
 desc: ''
-updated: 1616186984453
+updated: 1504076400000
 created: 1504076400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1548-90-s-kid
 title: 90s Kid
 desc: ''
-updated: 1616186984464
+updated: 1436338800000
 created: 1436338800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1016-valentine-dilemma
 title: Valentine Dilemma
 desc: ''
-updated: 1616186984673
+updated: 1329120000000
 created: 1329120000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1717-pyramid-honey
 title: Pyramid Honey
 desc: ''
-updated: 1616186984510
+updated: 1470639600000
 created: 1470639600000
 sources:
   name: xkcd

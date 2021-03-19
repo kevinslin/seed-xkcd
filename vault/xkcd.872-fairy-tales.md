@@ -2,7 +2,7 @@
 id: xkcd.872-fairy-tales
 title: Fairy Tales
 desc: ''
-updated: 1616186984667
+updated: 1300086000000
 created: 1300086000000
 sources:
   name: xkcd

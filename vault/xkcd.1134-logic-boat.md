@@ -2,7 +2,7 @@
 id: xkcd.1134-logic-boat
 title: Logic Boat
 desc: ''
-updated: 1616186984651
+updated: 1352880000000
 created: 1352880000000
 sources:
   name: xkcd

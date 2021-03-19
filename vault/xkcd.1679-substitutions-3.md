@@ -2,7 +2,7 @@
 id: xkcd.1679-substitutions-3
 title: Substitutions 3
 desc: ''
-updated: 1616186984504
+updated: 1462950000000
 created: 1462950000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.281-online-package-tracking
 title: Online Package Tracking
 desc: ''
-updated: 1616186984554
+updated: 1182754800000
 created: 1182754800000
 sources:
   name: xkcd

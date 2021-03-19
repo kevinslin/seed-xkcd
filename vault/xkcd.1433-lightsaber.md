@@ -2,7 +2,7 @@
 id: xkcd.1433-lightsaber
 title: Lightsaber
 desc: ''
-updated: 1616186984536
+updated: 1413183600000
 created: 1413183600000
 sources:
   name: xkcd

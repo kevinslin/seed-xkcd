@@ -2,7 +2,7 @@
 id: xkcd.1338-land-mammals
 title: Land Mammals
 desc: ''
-updated: 1616186984405
+updated: 1394006400000
 created: 1394006400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1863-screenshots
 title: Screenshots
 desc: ''
-updated: 1616186984449
+updated: 1500015600000
 created: 1500015600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1512-horoscopes
 title: Horoscopes
 desc: ''
-updated: 1616186984458
+updated: 1429081200000
 created: 1429081200000
 sources:
   name: xkcd

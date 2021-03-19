@@ -2,7 +2,7 @@
 id: xkcd.1740-rosetta
 title: Rosetta
 desc: ''
-updated: 1616186984517
+updated: 1475218800000
 created: 1475218800000
 sources:
   name: xkcd

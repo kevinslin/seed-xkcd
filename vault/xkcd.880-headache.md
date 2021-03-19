@@ -2,7 +2,7 @@
 id: xkcd.880-headache
 title: Headache
 desc: ''
-updated: 1616186984667
+updated: 1301641200000
 created: 1301641200000
 sources:
   name: xkcd

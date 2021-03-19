@@ -2,7 +2,7 @@
 id: xkcd.840-serious
 title: Serious
 desc: ''
-updated: 1616186984663
+updated: 1293609600000
 created: 1293609600000
 sources:
   name: xkcd

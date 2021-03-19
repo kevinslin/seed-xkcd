@@ -2,7 +2,7 @@
 id: xkcd.101-laser-scope
 title: Laser Scope
 desc: ''
-updated: 1616186984419
+updated: 1147417200000
 created: 1147417200000
 sources:
   name: xkcd

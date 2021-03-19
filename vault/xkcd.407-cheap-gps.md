@@ -2,7 +2,7 @@
 id: xkcd.407-cheap-gps
 title: Cheap GPS
 desc: ''
-updated: 1616186984571
+updated: 1207551600000
 created: 1207551600000
 sources:
   name: xkcd

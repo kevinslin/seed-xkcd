@@ -2,7 +2,7 @@
 id: xkcd.483-fiction-rule-of-thumb
 title: Fiction Rule of Thumb
 desc: ''
-updated: 1616186984583
+updated: 1222844400000
 created: 1222844400000
 sources:
   name: xkcd

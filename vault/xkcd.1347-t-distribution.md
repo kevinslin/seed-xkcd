@@ -2,7 +2,7 @@
 id: xkcd.1347-t-distribution
 title: t Distribution
 desc: ''
-updated: 1616186984406
+updated: 1395817200000
 created: 1395817200000
 sources:
   name: xkcd

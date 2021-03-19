@@ -2,7 +2,7 @@
 id: xkcd.1051-visited
 title: Visited
 desc: ''
-updated: 1616186984688
+updated: 1336114800000
 created: 1336114800000
 sources:
   name: xkcd

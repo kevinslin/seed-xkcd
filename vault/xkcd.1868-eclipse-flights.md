@@ -2,7 +2,7 @@
 id: xkcd.1868-eclipse-flights
 title: Eclipse Flights
 desc: ''
-updated: 1616186984450
+updated: 1501052400000
 created: 1501052400000
 sources:
   name: xkcd

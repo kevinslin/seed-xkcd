@@ -2,7 +2,7 @@
 id: xkcd.1584-moments-of-inspiration
 title: Moments of Inspiration
 desc: ''
-updated: 1616186984471
+updated: 1443596400000
 created: 1443596400000
 sources:
   name: xkcd

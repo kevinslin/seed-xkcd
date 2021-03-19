@@ -2,7 +2,7 @@
 id: xkcd.1281-minifigs
 title: Minifigs
 desc: ''
-updated: 1616186984371
+updated: 1382511600000
 created: 1382511600000
 sources:
   name: xkcd

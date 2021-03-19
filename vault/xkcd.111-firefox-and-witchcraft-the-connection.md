@@ -2,7 +2,7 @@
 id: xkcd.111-firefox-and-witchcraft-the-connection
 title: Firefox and Witchcraft - The Connection?
 desc: ''
-updated: 1616186984421
+updated: 1149490800000
 created: 1149490800000
 sources:
   name: xkcd

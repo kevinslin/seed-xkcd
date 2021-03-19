@@ -2,7 +2,7 @@
 id: xkcd.1598-salvage
 title: Salvage
 desc: ''
-updated: 1616186984472
+updated: 1446451200000
 created: 1446451200000
 sources:
   name: xkcd

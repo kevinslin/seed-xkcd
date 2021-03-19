@@ -2,7 +2,7 @@
 id: xkcd.496-secretary-part-3
 title: 'Secretary: Part 3'
 desc: ''
-updated: 1616186984585
+updated: 1225263600000
 created: 1225263600000
 sources:
   name: xkcd

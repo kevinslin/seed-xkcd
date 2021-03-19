@@ -2,7 +2,7 @@
 id: xkcd.1780-appliance-repair
 title: Appliance Repair
 desc: ''
-updated: 1616186984526
+updated: 1483344000000
 created: 1483344000000
 sources:
   name: xkcd

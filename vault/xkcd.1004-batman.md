@@ -2,7 +2,7 @@
 id: xkcd.1004-batman
 title: Batman
 desc: ''
-updated: 1616186984672
+updated: 1326700800000
 created: 1326700800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.160-penny-arcade-parody
 title: Penny Arcade Parody
 desc: ''
-updated: 1616186984430
+updated: 1158735600000
 created: 1158735600000
 sources:
   name: xkcd

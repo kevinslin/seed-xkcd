@@ -2,7 +2,7 @@
 id: xkcd.1419-on-the-phone
 title: On the Phone
 desc: ''
-updated: 1616186984535
+updated: 1410332400000
 created: 1410332400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1367-installing
 title: Installing
 desc: ''
-updated: 1616186984410
+updated: 1399878000000
 created: 1399878000000
 sources:
   name: xkcd

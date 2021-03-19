@@ -2,7 +2,7 @@
 id: xkcd.1803-location-reviews
 title: Location Reviews
 desc: ''
-updated: 1616186984438
+updated: 1487923200000
 created: 1487923200000
 sources:
   name: xkcd

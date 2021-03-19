@@ -2,7 +2,7 @@
 id: xkcd.391-anti-mindvirus
 title: Anti-Mindvirus
 desc: ''
-updated: 1616186984568
+updated: 1204531200000
 created: 1204531200000
 sources:
   name: xkcd

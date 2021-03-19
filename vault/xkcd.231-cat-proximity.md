@@ -2,7 +2,7 @@
 id: xkcd.231-cat-proximity
 title: Cat Proximity
 desc: ''
-updated: 1616186984546
+updated: 1173081600000
 created: 1173081600000
 sources:
   name: xkcd

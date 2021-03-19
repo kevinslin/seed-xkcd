@@ -2,7 +2,7 @@
 id: xkcd.1836-okeanos
 title: Okeanos
 desc: ''
-updated: 1616186984444
+updated: 1494572400000
 created: 1494572400000
 sources:
   name: xkcd

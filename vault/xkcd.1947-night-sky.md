@@ -2,7 +2,7 @@
 id: xkcd.1947-night-sky
 title: Night Sky
 desc: ''
-updated: 1616186984482
+updated: 1516953600000
 created: 1516953600000
 sources:
   name: xkcd

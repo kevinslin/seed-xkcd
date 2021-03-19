@@ -2,7 +2,7 @@
 id: xkcd.1600-market-watch
 title: MarketWatch
 desc: ''
-updated: 1616186984493
+updated: 1446796800000
 created: 1446796800000
 sources:
   name: xkcd

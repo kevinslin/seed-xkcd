@@ -2,7 +2,7 @@
 id: xkcd.477-typewriter
 title: Typewriter
 desc: ''
-updated: 1616186984583
+updated: 1221634800000
 created: 1221634800000
 sources:
   name: xkcd

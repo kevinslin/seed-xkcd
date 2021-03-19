@@ -2,7 +2,7 @@
 id: xkcd.1516-win-by-induction
 title: Win by Induction
 desc: ''
-updated: 1616186984458
+updated: 1429858800000
 created: 1429858800000
 sources:
   name: xkcd

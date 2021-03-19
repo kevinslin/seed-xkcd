@@ -2,7 +2,7 @@
 id: xkcd.979-wisdom-of-the-ancients
 title: Wisdom of the Ancients
 desc: ''
-updated: 1616186984636
+updated: 1321603200000
 created: 1321603200000
 sources:
   name: xkcd

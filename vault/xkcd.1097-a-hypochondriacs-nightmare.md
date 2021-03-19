@@ -2,7 +2,7 @@
 id: xkcd.1097-a-hypochondriacs-nightmare
 title: A Hypochondriac's Nightmare
 desc: ''
-updated: 1616186984698
+updated: 1345446000000
 created: 1345446000000
 sources:
   name: xkcd

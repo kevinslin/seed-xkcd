@@ -2,7 +2,7 @@
 id: xkcd.59-graduation
 title: Graduation
 desc: ''
-updated: 1616186984388
+updated: 1138953600000
 created: 1138953600000
 sources:
   name: xkcd

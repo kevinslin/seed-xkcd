@@ -2,7 +2,7 @@
 id: xkcd.1264-slideshow
 title: Slideshow
 desc: ''
-updated: 1616186984368
+updated: 1379055600000
 created: 1379055600000
 sources:
   name: xkcd

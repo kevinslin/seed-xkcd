@@ -2,7 +2,7 @@
 id: xkcd.438-internet-argument
 title: Internet Argument
 desc: ''
-updated: 1616186984576
+updated: 1213772400000
 created: 1213772400000
 sources:
   name: xkcd

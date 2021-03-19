@@ -2,7 +2,7 @@
 id: xkcd.314-dating-pools
 title: Dating Pools
 desc: ''
-updated: 1616186984558
+updated: 1189407600000
 created: 1189407600000
 sources:
   name: xkcd

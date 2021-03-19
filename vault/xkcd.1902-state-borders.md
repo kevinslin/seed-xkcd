@@ -2,7 +2,7 @@
 id: xkcd.1902-state-borders
 title: State Borders
 desc: ''
-updated: 1616186984473
+updated: 1507878000000
 created: 1507878000000
 sources:
   name: xkcd

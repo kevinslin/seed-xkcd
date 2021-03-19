@@ -2,7 +2,7 @@
 id: xkcd.1242-scary-names
 title: Scary Names
 desc: ''
-updated: 1616186984360
+updated: 1374649200000
 created: 1374649200000
 sources:
   name: xkcd

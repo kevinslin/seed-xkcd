@@ -2,7 +2,7 @@
 id: xkcd.1642-gravitational-waves
 title: Gravitational Waves
 desc: ''
-updated: 1616186984499
+updated: 1455177600000
 created: 1455177600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1646-twitter-bot
 title: Twitter Bot
 desc: ''
-updated: 1616186984500
+updated: 1456128000000
 created: 1456128000000
 sources:
   name: xkcd

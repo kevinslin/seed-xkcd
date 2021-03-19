@@ -2,7 +2,7 @@
 id: xkcd.1988-containers
 title: Containers
 desc: ''
-updated: 1616186984491
+updated: 1525244400000
 created: 1525244400000
 sources:
   name: xkcd

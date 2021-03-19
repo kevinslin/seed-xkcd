@@ -2,7 +2,7 @@
 id: xkcd.1948-campaign-fundraising-emails
 title: Campaign Fundraising Emails
 desc: ''
-updated: 1616186984483
+updated: 1517212800000
 created: 1517212800000
 sources:
   name: xkcd

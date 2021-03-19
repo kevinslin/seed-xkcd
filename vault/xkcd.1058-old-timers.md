@@ -2,7 +2,7 @@
 id: xkcd.1058-old-timers
 title: Old-Timers
 desc: ''
-updated: 1616186984689
+updated: 1337583600000
 created: 1337583600000
 sources:
   name: xkcd

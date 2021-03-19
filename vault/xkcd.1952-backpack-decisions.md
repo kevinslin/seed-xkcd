@@ -2,7 +2,7 @@
 id: xkcd.1952-backpack-decisions
 title: Backpack Decisions
 desc: ''
-updated: 1616186984484
+updated: 1517990400000
 created: 1517990400000
 sources:
   name: xkcd

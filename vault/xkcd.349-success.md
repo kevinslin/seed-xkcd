@@ -2,7 +2,7 @@
 id: xkcd.349-success
 title: Success
 desc: ''
-updated: 1616186984562
+updated: 1196064000000
 created: 1196064000000
 sources:
   name: xkcd

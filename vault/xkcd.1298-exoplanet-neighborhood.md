@@ -2,7 +2,7 @@
 id: xkcd.1298-exoplanet-neighborhood
 title: Exoplanet Neighborhood
 desc: ''
-updated: 1616186984374
+updated: 1385971200000
 created: 1385971200000
 sources:
   name: xkcd

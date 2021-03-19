@@ -2,7 +2,7 @@
 id: xkcd.188-reload
 title: Reload
 desc: ''
-updated: 1616186984435
+updated: 1164355200000
 created: 1164355200000
 sources:
   name: xkcd

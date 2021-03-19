@@ -2,7 +2,7 @@
 id: xkcd.1113-killed-in-action
 title: Killed In Action
 desc: ''
-updated: 1616186984649
+updated: 1348642800000
 created: 1348642800000
 sources:
   name: xkcd

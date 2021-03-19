@@ -2,7 +2,7 @@
 id: xkcd.1193-externalities
 title: Externalities
 desc: ''
-updated: 1616186984655
+updated: 1364799600000
 created: 1364799600000
 sources:
   name: xkcd

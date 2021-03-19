@@ -2,7 +2,7 @@
 id: xkcd.427-bad-timing
 title: Bad Timing
 desc: ''
-updated: 1616186984574
+updated: 1211526000000
 created: 1211526000000
 sources:
   name: xkcd

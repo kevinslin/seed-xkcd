@@ -2,7 +2,7 @@
 id: xkcd.1713-50-ccs
 title: 50 ccs
 desc: ''
-updated: 1616186984510
+updated: 1469775600000
 created: 1469775600000
 sources:
   name: xkcd

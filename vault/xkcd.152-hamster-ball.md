@@ -2,7 +2,7 @@
 id: xkcd.152-hamster-ball
 title: Hamster Ball
 desc: ''
-updated: 1616186984428
+updated: 1157266800000
 created: 1157266800000
 sources:
   name: xkcd

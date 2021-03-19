@@ -2,7 +2,7 @@
 id: xkcd.451-impostor
 title: Impostor
 desc: ''
-updated: 1616186984577
+updated: 1216364400000
 created: 1216364400000
 sources:
   name: xkcd

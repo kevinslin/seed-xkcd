@@ -2,7 +2,7 @@
 id: xkcd.773-university-website
 title: University Website
 desc: ''
-updated: 1616186984622
+updated: 1280473200000
 created: 1280473200000
 sources:
   name: xkcd

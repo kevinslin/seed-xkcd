@@ -2,7 +2,7 @@
 id: xkcd.858-milk
 title: Milk
 desc: ''
-updated: 1616186984665
+updated: 1297238400000
 created: 1297238400000
 sources:
   name: xkcd

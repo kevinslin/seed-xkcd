@@ -2,7 +2,7 @@
 id: xkcd.1837-rental-car
 title: Rental Car
 desc: ''
-updated: 1616186984444
+updated: 1494831600000
 created: 1494831600000
 sources:
   name: xkcd

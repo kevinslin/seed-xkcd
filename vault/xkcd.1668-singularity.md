@@ -2,7 +2,7 @@
 id: xkcd.1668-singularity
 title: Singularity
 desc: ''
-updated: 1616186984502
+updated: 1460703600000
 created: 1460703600000
 sources:
   name: xkcd

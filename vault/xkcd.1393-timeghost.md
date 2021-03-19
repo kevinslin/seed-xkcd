@@ -2,7 +2,7 @@
 id: xkcd.1393-timeghost
 title: Timeghost
 desc: ''
-updated: 1616186984417
+updated: 1405062000000
 created: 1405062000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.655-climbing
 title: Climbing
 desc: ''
-updated: 1616186984608
+updated: 1256713200000
 created: 1256713200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.489-going-west
 title: Going West
 desc: ''
-updated: 1616186984584
+updated: 1224054000000
 created: 1224054000000
 sources:
   name: xkcd

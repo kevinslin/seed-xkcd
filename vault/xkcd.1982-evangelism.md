@@ -2,7 +2,7 @@
 id: xkcd.1982-evangelism
 title: Evangelism
 desc: ''
-updated: 1616186984489
+updated: 1524034800000
 created: 1524034800000
 sources:
   name: xkcd

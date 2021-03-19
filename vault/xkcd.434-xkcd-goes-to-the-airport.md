@@ -2,7 +2,7 @@
 id: xkcd.434-xkcd-goes-to-the-airport
 title: xkcd Goes to the Airport
 desc: ''
-updated: 1616186984575
+updated: 1212994800000
 created: 1212994800000
 sources:
   name: xkcd

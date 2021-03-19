@@ -2,7 +2,7 @@
 id: xkcd.544-pep-talk
 title: Pep Talk
 desc: ''
-updated: 1616186984593
+updated: 1234771200000
 created: 1234771200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.615-avoidance
 title: Avoidance
 desc: ''
-updated: 1616186984603
+updated: 1248678000000
 created: 1248678000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1000-1000-comics
 title: 1000 Comics
 desc: ''
-updated: 1616186984671
+updated: 1325836800000
 created: 1325836800000
 sources:
   name: xkcd

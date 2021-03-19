@@ -2,7 +2,7 @@
 id: xkcd.215-letting-go
 title: Letting Go
 desc: ''
-updated: 1616186984545
+updated: 1169798400000
 created: 1169798400000
 sources:
   name: xkcd

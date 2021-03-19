@@ -2,7 +2,7 @@
 id: xkcd.1696-ai-research
 title: AI Research
 desc: ''
-updated: 1616186984506
+updated: 1466406000000
 created: 1466406000000
 sources:
   name: xkcd

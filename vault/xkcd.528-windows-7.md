@@ -2,7 +2,7 @@
 id: xkcd.528-windows-7
 title: Windows 7
 desc: ''
-updated: 1616186984589
+updated: 1231488000000
 created: 1231488000000
 sources:
   name: xkcd

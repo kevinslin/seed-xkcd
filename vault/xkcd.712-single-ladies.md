@@ -2,7 +2,7 @@
 id: xkcd.712-single-ladies
 title: Single Ladies
 desc: ''
-updated: 1616186984617
+updated: 1268208000000
 created: 1268208000000
 sources:
   name: xkcd

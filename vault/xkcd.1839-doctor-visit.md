@@ -2,7 +2,7 @@
 id: xkcd.1839-doctor-visit
 title: Doctor Visit
 desc: ''
-updated: 1616186984445
+updated: 1495177200000
 created: 1495177200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1435-presidential-alert
 title: Presidential Alert
 desc: ''
-updated: 1616186984536
+updated: 1413529200000
 created: 1413529200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.794-inside-joke
 title: Inside Joke
 desc: ''
-updated: 1616186984625
+updated: 1284706800000
 created: 1284706800000
 sources:
   name: xkcd

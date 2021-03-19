@@ -2,7 +2,7 @@
 id: xkcd.1386-people-are-stupid
 title: People are Stupid
 desc: ''
-updated: 1616186984414
+updated: 1403679600000
 created: 1403679600000
 sources:
   name: xkcd

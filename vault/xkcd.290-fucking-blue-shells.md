@@ -2,7 +2,7 @@
 id: xkcd.290-fucking-blue-shells
 title: Fucking Blue Shells
 desc: ''
-updated: 1616186984555
+updated: 1184569200000
 created: 1184569200000
 sources:
   name: xkcd

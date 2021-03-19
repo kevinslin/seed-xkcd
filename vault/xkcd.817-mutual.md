@@ -2,7 +2,7 @@
 id: xkcd.817-mutual
 title: Mutual
 desc: ''
-updated: 1616186984660
+updated: 1289376000000
 created: 1289376000000
 sources:
   name: xkcd

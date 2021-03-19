@@ -2,7 +2,7 @@
 id: xkcd.1701-speed-and-danger
 title: Speed and Danger
 desc: ''
-updated: 1616186984507
+updated: 1467356400000
 created: 1467356400000
 sources:
   name: xkcd

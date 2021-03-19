@@ -2,7 +2,7 @@
 id: xkcd.336-priorities
 title: Priorities
 desc: ''
-updated: 1616186984560
+updated: 1193814000000
 created: 1193814000000
 sources:
   name: xkcd

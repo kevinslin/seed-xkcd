@@ -2,7 +2,7 @@
 id: xkcd.1370-president
 title: President
 desc: ''
-updated: 1616186984411
+updated: 1400482800000
 created: 1400482800000
 sources:
   name: xkcd

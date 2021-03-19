@@ -2,7 +2,7 @@
 id: xkcd.411-techno
 title: Techno
 desc: ''
-updated: 1616186984572
+updated: 1208329200000
 created: 1208329200000
 sources:
   name: xkcd

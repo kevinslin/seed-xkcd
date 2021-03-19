@@ -2,7 +2,7 @@
 id: xkcd.249-chess-photo
 title: Chess Photo
 desc: ''
-updated: 1616186984549
+updated: 1176706800000
 created: 1176706800000
 sources:
   name: xkcd

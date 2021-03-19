@@ -2,7 +2,7 @@
 id: xkcd.1615-red-car
 title: Red Car
 desc: ''
-updated: 1616186984495
+updated: 1449820800000
 created: 1449820800000
 sources:
   name: xkcd

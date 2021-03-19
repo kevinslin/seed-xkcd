@@ -2,7 +2,7 @@
 id: xkcd.1145-sky-color
 title: Sky Color
 desc: ''
-updated: 1616186984652
+updated: 1355126400000
 created: 1355126400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.158-six-months
 title: Six Months
 desc: ''
-updated: 1616186984430
+updated: 1158562800000
 created: 1158562800000
 sources:
   name: xkcd

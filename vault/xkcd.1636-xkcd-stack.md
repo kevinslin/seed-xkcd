@@ -2,7 +2,7 @@
 id: xkcd.1636-xkcd-stack
 title: XKCD Stack
 desc: ''
-updated: 1616186984499
+updated: 1454054400000
 created: 1454054400000
 sources:
   name: xkcd

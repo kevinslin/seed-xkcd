@@ -2,7 +2,7 @@
 id: xkcd.1654-universal-install-script
 title: Universal Install Script
 desc: ''
-updated: 1616186984501
+updated: 1457683200000
 created: 1457683200000
 sources:
   name: xkcd

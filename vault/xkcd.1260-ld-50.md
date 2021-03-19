@@ -2,7 +2,7 @@
 id: xkcd.1260-ld-50
 title: LD50
 desc: ''
-updated: 1616186984367
+updated: 1378278000000
 created: 1378278000000
 sources:
   name: xkcd

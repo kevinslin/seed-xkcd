@@ -2,7 +2,7 @@
 id: xkcd.985-percentage-points
 title: Percentage Points
 desc: ''
-updated: 1616186984637
+updated: 1322812800000
 created: 1322812800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.272-linux-user-at-best-buy
 title: Linux User at Best Buy
 desc: ''
-updated: 1616186984552
+updated: 1180940400000
 created: 1180940400000
 sources:
   name: xkcd

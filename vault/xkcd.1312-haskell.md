@@ -2,7 +2,7 @@
 id: xkcd.1312-haskell
 title: Haskell
 desc: ''
-updated: 1616186984400
+updated: 1388736000000
 created: 1388736000000
 sources:
   name: xkcd

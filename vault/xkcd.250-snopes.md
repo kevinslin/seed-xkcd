@@ -2,7 +2,7 @@
 id: xkcd.250-snopes
 title: Snopes
 desc: ''
-updated: 1616186984549
+updated: 1176879600000
 created: 1176879600000
 sources:
   name: xkcd

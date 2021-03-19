@@ -2,7 +2,7 @@
 id: xkcd.1910-sky-spotters
 title: Sky Spotters
 desc: ''
-updated: 1616186984475
+updated: 1509519600000
 created: 1509519600000
 sources:
   name: xkcd

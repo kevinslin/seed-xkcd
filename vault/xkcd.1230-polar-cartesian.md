@@ -2,7 +2,7 @@
 id: xkcd.1230-polar-cartesian
 title: Polar/Cartesian
 desc: ''
-updated: 1616186984357
+updated: 1372230000000
 created: 1372230000000
 sources:
   name: xkcd

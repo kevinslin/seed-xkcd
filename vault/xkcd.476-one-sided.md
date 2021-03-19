@@ -2,7 +2,7 @@
 id: xkcd.476-one-sided
 title: One-Sided
 desc: ''
-updated: 1616186984583
+updated: 1221462000000
 created: 1221462000000
 sources:
   name: xkcd

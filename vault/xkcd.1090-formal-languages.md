@@ -2,7 +2,7 @@
 id: xkcd.1090-formal-languages
 title: Formal Languages
 desc: ''
-updated: 1616186984697
+updated: 1343977200000
 created: 1343977200000
 sources:
   name: xkcd

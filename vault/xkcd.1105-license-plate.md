@@ -2,7 +2,7 @@
 id: xkcd.1105-license-plate
 title: License Plate
 desc: ''
-updated: 1616186984649
+updated: 1347001200000
 created: 1347001200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1174-app
 title: App
 desc: ''
-updated: 1616186984654
+updated: 1360915200000
 created: 1360915200000
 sources:
   name: xkcd

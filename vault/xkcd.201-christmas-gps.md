@@ -2,7 +2,7 @@
 id: xkcd.201-christmas-gps
 title: Christmas GPS
 desc: ''
-updated: 1616186984543
+updated: 1167033600000
 created: 1167033600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.678-researcher-translation
 title: Researcher Translation
 desc: ''
-updated: 1616186984612
+updated: 1261382400000
 created: 1261382400000
 sources:
   name: xkcd

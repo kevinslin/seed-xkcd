@@ -2,7 +2,7 @@
 id: xkcd.604-qwertial-aphasia
 title: Qwertial Aphasia
 desc: ''
-updated: 1616186984600
+updated: 1246431600000
 created: 1246431600000
 sources:
   name: xkcd

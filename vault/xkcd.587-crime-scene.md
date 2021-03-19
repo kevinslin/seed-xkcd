@@ -2,7 +2,7 @@
 id: xkcd.587-crime-scene
 title: Crime Scene
 desc: ''
-updated: 1616186984598
+updated: 1242975600000
 created: 1242975600000
 sources:
   name: xkcd

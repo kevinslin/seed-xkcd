@@ -2,7 +2,7 @@
 id: xkcd.1039-ru-bis-co
 title: RuBisCO
 desc: ''
-updated: 1616186984677
+updated: 1333695600000
 created: 1333695600000
 sources:
   name: xkcd

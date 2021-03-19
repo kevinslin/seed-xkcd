@@ -2,7 +2,7 @@
 id: xkcd.1784-bad-map-projection-liquid-resize
 title: 'Bad Map Projection: Liquid Resize'
 desc: ''
-updated: 1616186984527
+updated: 1484121600000
 created: 1484121600000
 sources:
   name: xkcd

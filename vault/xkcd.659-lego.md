@@ -2,7 +2,7 @@
 id: xkcd.659-lego
 title: Lego
 desc: ''
-updated: 1616186984608
+updated: 1257494400000
 created: 1257494400000
 sources:
   name: xkcd

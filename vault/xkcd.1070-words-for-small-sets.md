@@ -2,7 +2,7 @@
 id: xkcd.1070-words-for-small-sets
 title: Words for Small Sets
 desc: ''
-updated: 1616186984691
+updated: 1340002800000
 created: 1340002800000
 sources:
   name: xkcd

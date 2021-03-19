@@ -2,7 +2,7 @@
 id: xkcd.1165-amazon
 title: Amazon
 desc: ''
-updated: 1616186984653
+updated: 1359100800000
 created: 1359100800000
 sources:
   name: xkcd

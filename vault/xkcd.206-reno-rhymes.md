@@ -2,7 +2,7 @@
 id: xkcd.206-reno-rhymes
 title: Reno Rhymes
 desc: ''
-updated: 1616186984544
+updated: 1167984000000
 created: 1167984000000
 sources:
   name: xkcd

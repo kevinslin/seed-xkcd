@@ -2,7 +2,7 @@
 id: xkcd.554-not-enough-work
 title: Not Enough Work
 desc: ''
-updated: 1616186984594
+updated: 1236754800000
 created: 1236754800000
 sources:
   name: xkcd

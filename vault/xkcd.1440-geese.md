@@ -2,7 +2,7 @@
 id: xkcd.1440-geese
 title: Geese
 desc: ''
-updated: 1616186984537
+updated: 1414566000000
 created: 1414566000000
 sources:
   name: xkcd

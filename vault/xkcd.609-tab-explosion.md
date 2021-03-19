@@ -2,7 +2,7 @@
 id: xkcd.609-tab-explosion
 title: Tab Explosion
 desc: ''
-updated: 1616186984602
+updated: 1247468400000
 created: 1247468400000
 sources:
   name: xkcd

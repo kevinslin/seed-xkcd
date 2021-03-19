@@ -2,7 +2,7 @@
 id: xkcd.874-time-management
 title: Time Management
 desc: ''
-updated: 1616186984667
+updated: 1300431600000
 created: 1300431600000
 sources:
   name: xkcd

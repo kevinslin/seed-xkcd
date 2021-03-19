@@ -2,7 +2,7 @@
 id: xkcd.909-worst-case-shopping
 title: Worst-Case Shopping
 desc: ''
-updated: 1616186984630
+updated: 1307516400000
 created: 1307516400000
 sources:
   name: xkcd

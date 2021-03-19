@@ -2,7 +2,7 @@
 id: xkcd.651-bag-check
 title: Bag Check
 desc: ''
-updated: 1616186984607
+updated: 1255935600000
 created: 1255935600000
 sources:
   name: xkcd

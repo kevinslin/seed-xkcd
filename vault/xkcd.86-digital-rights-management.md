@@ -2,7 +2,7 @@
 id: xkcd.86-digital-rights-management
 title: Digital Rights Management
 desc: ''
-updated: 1616186984393
+updated: 1144393200000
 created: 1144393200000
 sources:
   name: xkcd

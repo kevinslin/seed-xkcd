@@ -2,7 +2,7 @@
 id: xkcd.1966-smart-home-security
 title: Smart Home Security
 desc: ''
-updated: 1616186984486
+updated: 1520838000000
 created: 1520838000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1407-worst-hurricane
 title: Worst Hurricane
 desc: ''
-updated: 1616186984534
+updated: 1407913200000
 created: 1407913200000
 sources:
   name: xkcd

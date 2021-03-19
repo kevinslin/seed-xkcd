@@ -2,7 +2,7 @@
 id: xkcd.269-tcmp
 title: TCMP
 desc: ''
-updated: 1616186984552
+updated: 1180335600000
 created: 1180335600000
 sources:
   name: xkcd

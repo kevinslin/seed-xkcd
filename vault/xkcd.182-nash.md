@@ -2,7 +2,7 @@
 id: xkcd.182-nash
 title: Nash
 desc: ''
-updated: 1616186984434
+updated: 1163145600000
 created: 1163145600000
 sources:
   name: xkcd

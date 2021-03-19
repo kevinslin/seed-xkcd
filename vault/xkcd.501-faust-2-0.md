@@ -2,7 +2,7 @@
 id: xkcd.501-faust-2-0
 title: Faust 2.0
 desc: ''
-updated: 1616186984585
+updated: 1226044800000
 created: 1226044800000
 sources:
   name: xkcd

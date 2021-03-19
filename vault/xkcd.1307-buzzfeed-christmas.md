@@ -2,7 +2,7 @@
 id: xkcd.1307-buzzfeed-christmas
 title: Buzzfeed Christmas
 desc: ''
-updated: 1616186984398
+updated: 1387785600000
 created: 1387785600000
 sources:
   name: xkcd

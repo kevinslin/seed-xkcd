@@ -2,7 +2,7 @@
 id: xkcd.1860-communicating
 title: Communicating
 desc: ''
-updated: 1616186984449
+updated: 1499410800000
 created: 1499410800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1670-laws-of-physics
 title: Laws of Physics
 desc: ''
-updated: 1616186984503
+updated: 1461135600000
 created: 1461135600000
 sources:
   name: xkcd

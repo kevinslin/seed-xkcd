@@ -2,7 +2,7 @@
 id: xkcd.297-lisp-cycles
 title: Lisp Cycles
 desc: ''
-updated: 1616186984556
+updated: 1185951600000
 created: 1185951600000
 sources:
   name: xkcd

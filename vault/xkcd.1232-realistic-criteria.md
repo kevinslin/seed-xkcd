@@ -2,7 +2,7 @@
 id: xkcd.1232-realistic-criteria
 title: Realistic Criteria
 desc: ''
-updated: 1616186984357
+updated: 1372662000000
 created: 1372662000000
 sources:
   name: xkcd

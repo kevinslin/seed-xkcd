@@ -2,7 +2,7 @@
 id: xkcd.455-hats
 title: Hats
 desc: ''
-updated: 1616186984579
+updated: 1217228400000
 created: 1217228400000
 sources:
   name: xkcd

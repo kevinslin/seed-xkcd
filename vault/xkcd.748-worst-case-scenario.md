@@ -2,7 +2,7 @@
 id: xkcd.748-worst-case-scenario
 title: Worst-Case Scenario
 desc: ''
-updated: 1616186984620
+updated: 1275462000000
 created: 1275462000000
 sources:
   name: xkcd

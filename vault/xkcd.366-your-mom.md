@@ -2,7 +2,7 @@
 id: xkcd.366-your-mom
 title: Your Mom
 desc: ''
-updated: 1616186984564
+updated: 1199433600000
 created: 1199433600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1656-it-begins
 title: It Begins
 desc: ''
-updated: 1616186984501
+updated: 1458111600000
 created: 1458111600000
 sources:
   name: xkcd

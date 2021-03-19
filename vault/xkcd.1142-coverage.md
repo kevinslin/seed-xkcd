@@ -2,7 +2,7 @@
 id: xkcd.1142-coverage
 title: Coverage
 desc: ''
-updated: 1616186984652
+updated: 1354521600000
 created: 1354521600000
 sources:
   name: xkcd

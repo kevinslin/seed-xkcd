@@ -2,7 +2,7 @@
 id: xkcd.473-still-raw
 title: Still Raw
 desc: ''
-updated: 1616186984582
+updated: 1220857200000
 created: 1220857200000
 sources:
   name: xkcd

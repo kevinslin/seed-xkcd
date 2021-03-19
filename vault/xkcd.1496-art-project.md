@@ -2,7 +2,7 @@
 id: xkcd.1496-art-project
 title: Art Project
 desc: ''
-updated: 1616186984542
+updated: 1425884400000
 created: 1425884400000
 sources:
   name: xkcd

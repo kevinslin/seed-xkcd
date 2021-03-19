@@ -2,7 +2,7 @@
 id: xkcd.1843-opening-crawl
 title: Opening Crawl
 desc: ''
-updated: 1616186984445
+updated: 1496041200000
 created: 1496041200000
 sources:
   name: xkcd

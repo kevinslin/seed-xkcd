@@ -2,7 +2,7 @@
 id: xkcd.1041-whites-of-their-eyes
 title: Whites of Their Eyes
 desc: ''
-updated: 1616186984682
+updated: 1334127600000
 created: 1334127600000
 sources:
   name: xkcd

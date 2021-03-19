@@ -2,7 +2,7 @@
 id: xkcd.1179-iso-8601
 title: ISO 8601
 desc: ''
-updated: 1616186984654
+updated: 1361952000000
 created: 1361952000000
 sources:
   name: xkcd

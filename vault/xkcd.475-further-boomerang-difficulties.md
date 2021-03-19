@@ -2,7 +2,7 @@
 id: xkcd.475-further-boomerang-difficulties
 title: Further Boomerang Difficulties
 desc: ''
-updated: 1616186984583
+updated: 1221202800000
 created: 1221202800000
 sources:
   name: xkcd

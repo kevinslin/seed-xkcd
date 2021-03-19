@@ -2,7 +2,7 @@
 id: xkcd.603-idiocracy
 title: Idiocracy
 desc: ''
-updated: 1616186984600
+updated: 1246258800000
 created: 1246258800000
 sources:
   name: xkcd

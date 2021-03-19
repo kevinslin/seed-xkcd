@@ -2,7 +2,7 @@
 id: xkcd.1429-data
 title: Data
 desc: ''
-updated: 1616186984536
+updated: 1412319600000
 created: 1412319600000
 sources:
   name: xkcd

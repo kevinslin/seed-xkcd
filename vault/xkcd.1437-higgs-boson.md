@@ -2,7 +2,7 @@
 id: xkcd.1437-higgs-boson
 title: Higgs Boson
 desc: ''
-updated: 1616186984536
+updated: 1413961200000
 created: 1413961200000
 sources:
   name: xkcd

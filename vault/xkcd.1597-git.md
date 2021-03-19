@@ -2,7 +2,7 @@
 id: xkcd.1597-git
 title: Git
 desc: ''
-updated: 1616186984472
+updated: 1446188400000
 created: 1446188400000
 sources:
   name: xkcd

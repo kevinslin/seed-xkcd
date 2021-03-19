@@ -2,7 +2,7 @@
 id: xkcd.356-nerd-sniping
 title: Nerd Sniping
 desc: ''
-updated: 1616186984563
+updated: 1197446400000
 created: 1197446400000
 sources:
   name: xkcd

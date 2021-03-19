@@ -2,7 +2,7 @@
 id: xkcd.1078-knights
 title: Knights
 desc: ''
-updated: 1616186984692
+updated: 1341558000000
 created: 1341558000000
 sources:
   name: xkcd

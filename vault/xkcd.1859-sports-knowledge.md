@@ -2,7 +2,7 @@
 id: xkcd.1859-sports-knowledge
 title: Sports Knowledge
 desc: ''
-updated: 1616186984448
+updated: 1499238000000
 created: 1499238000000
 sources:
   name: xkcd

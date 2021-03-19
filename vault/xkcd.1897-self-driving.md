@@ -2,7 +2,7 @@
 id: xkcd.1897-self-driving
 title: Self Driving
 desc: ''
-updated: 1616186984455
+updated: 1506927600000
 created: 1506927600000
 sources:
   name: xkcd

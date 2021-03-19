@@ -2,7 +2,7 @@
 id: xkcd.1666-brain-upload
 title: Brain Upload
 desc: ''
-updated: 1616186984502
+updated: 1460358000000
 created: 1460358000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1510-napoleon
 title: Napoleon
 desc: ''
-updated: 1616186984457
+updated: 1428649200000
 created: 1428649200000
 sources:
   name: xkcd

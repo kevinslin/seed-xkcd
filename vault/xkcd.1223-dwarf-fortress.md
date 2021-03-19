@@ -2,7 +2,7 @@
 id: xkcd.1223-dwarf-fortress
 title: Dwarf Fortress
 desc: ''
-updated: 1616186984354
+updated: 1370847600000
 created: 1370847600000
 sources:
   name: xkcd

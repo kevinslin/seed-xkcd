@@ -2,7 +2,7 @@
 id: xkcd.251-cd-tray-fight
 title: CD Tray Fight
 desc: ''
-updated: 1616186984549
+updated: 1177052400000
 created: 1177052400000
 sources:
   name: xkcd

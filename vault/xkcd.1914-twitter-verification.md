@@ -2,7 +2,7 @@
 id: xkcd.1914-twitter-verification
 title: Twitter Verification
 desc: ''
-updated: 1616186984476
+updated: 1510300800000
 created: 1510300800000
 sources:
   name: xkcd

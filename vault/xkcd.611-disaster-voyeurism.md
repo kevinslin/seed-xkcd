@@ -2,7 +2,7 @@
 id: xkcd.611-disaster-voyeurism
 title: Disaster Voyeurism
 desc: ''
-updated: 1616186984602
+updated: 1247814000000
 created: 1247814000000
 sources:
   name: xkcd

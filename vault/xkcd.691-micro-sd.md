@@ -2,7 +2,7 @@
 id: xkcd.691-micro-sd
 title: MicroSD
 desc: ''
-updated: 1616186984613
+updated: 1263974400000
 created: 1263974400000
 sources:
   name: xkcd

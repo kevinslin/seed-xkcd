@@ -2,7 +2,7 @@
 id: xkcd.1346-career
 title: Career
 desc: ''
-updated: 1616186984406
+updated: 1395644400000
 created: 1395644400000
 sources:
   name: xkcd

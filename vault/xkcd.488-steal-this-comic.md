@@ -2,7 +2,7 @@
 id: xkcd.488-steal-this-comic
 title: Steal This Comic
 desc: ''
-updated: 1616186984584
+updated: 1223881200000
 created: 1223881200000
 sources:
   name: xkcd

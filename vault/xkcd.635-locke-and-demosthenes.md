@@ -2,7 +2,7 @@
 id: xkcd.635-locke-and-demosthenes
 title: Locke and Demosthenes
 desc: ''
-updated: 1616186984605
+updated: 1252566000000
 created: 1252566000000
 sources:
   name: xkcd

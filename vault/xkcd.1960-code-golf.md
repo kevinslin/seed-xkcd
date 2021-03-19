@@ -2,7 +2,7 @@
 id: xkcd.1960-code-golf
 title: Code Golf
 desc: ''
-updated: 1616186984485
+updated: 1519632000000
 created: 1519632000000
 sources:
   name: xkcd

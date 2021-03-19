@@ -2,7 +2,7 @@
 id: xkcd.1513-code-quality
 title: Code Quality
 desc: ''
-updated: 1616186984458
+updated: 1429254000000
 created: 1429254000000
 sources:
   name: xkcd

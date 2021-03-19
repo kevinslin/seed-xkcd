@@ -2,7 +2,7 @@
 id: xkcd.1490-atoms
 title: Atoms
 desc: ''
-updated: 1616186984541
+updated: 1424678400000
 created: 1424678400000
 sources:
   name: xkcd

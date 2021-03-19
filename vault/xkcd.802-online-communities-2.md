@@ -2,7 +2,7 @@
 id: xkcd.802-online-communities-2
 title: Online Communities 2
 desc: ''
-updated: 1616186984657
+updated: 1286348400000
 created: 1286348400000
 sources:
   name: xkcd

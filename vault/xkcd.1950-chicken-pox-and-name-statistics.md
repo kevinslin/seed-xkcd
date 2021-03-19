@@ -2,7 +2,7 @@
 id: xkcd.1950-chicken-pox-and-name-statistics
 title: Chicken Pox and Name Statistics
 desc: ''
-updated: 1616186984483
+updated: 1517558400000
 created: 1517558400000
 sources:
   name: xkcd

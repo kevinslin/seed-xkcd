@@ -2,7 +2,7 @@
 id: xkcd.1777-dear-diary
 title: Dear Diary
 desc: ''
-updated: 1616186984526
+updated: 1482739200000
 created: 1482739200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.923-strunk-and-white
 title: Strunk and White
 desc: ''
-updated: 1616186984631
+updated: 1310367600000
 created: 1310367600000
 sources:
   name: xkcd

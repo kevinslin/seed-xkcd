@@ -2,7 +2,7 @@
 id: xkcd.1073-weekend
 title: Weekend
 desc: ''
-updated: 1616186984691
+updated: 1340607600000
 created: 1340607600000
 sources:
   name: xkcd

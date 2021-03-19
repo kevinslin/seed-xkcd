@@ -2,7 +2,7 @@
 id: xkcd.1289-simple-answers
 title: Simple Answers
 desc: ''
-updated: 1616186984372
+updated: 1384156800000
 created: 1384156800000
 sources:
   name: xkcd

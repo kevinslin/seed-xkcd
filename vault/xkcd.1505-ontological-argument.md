@@ -2,7 +2,7 @@
 id: xkcd.1505-ontological-argument
 title: Ontological Argument
 desc: ''
-updated: 1616186984457
+updated: 1427698800000
 created: 1427698800000
 sources:
   name: xkcd

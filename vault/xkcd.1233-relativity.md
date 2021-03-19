@@ -2,7 +2,7 @@
 id: xkcd.1233-relativity
 title: Relativity
 desc: ''
-updated: 1616186984357
+updated: 1372834800000
 created: 1372834800000
 sources:
   name: xkcd

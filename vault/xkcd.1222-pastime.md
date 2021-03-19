@@ -2,7 +2,7 @@
 id: xkcd.1222-pastime
 title: Pastime
 desc: ''
-updated: 1616186984354
+updated: 1370588400000
 created: 1370588400000
 sources:
   name: xkcd

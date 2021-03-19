@@ -2,7 +2,7 @@
 id: xkcd.913-core
 title: Core
 desc: ''
-updated: 1616186984630
+updated: 1308294000000
 created: 1308294000000
 sources:
   name: xkcd

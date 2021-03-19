@@ -2,7 +2,7 @@
 id: xkcd.1619-watson-medical-algorithm
 title: Watson Medical Algorithm
 desc: ''
-updated: 1616186984496
+updated: 1450684800000
 created: 1450684800000
 sources:
   name: xkcd

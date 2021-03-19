@@ -2,7 +2,7 @@
 id: xkcd.1882-color-models
 title: Color Models
 desc: ''
-updated: 1616186984453
+updated: 1503903600000
 created: 1503903600000
 sources:
   name: xkcd

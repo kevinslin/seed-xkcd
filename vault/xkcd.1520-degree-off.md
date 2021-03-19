@@ -2,7 +2,7 @@
 id: xkcd.1520-degree-off
 title: Degree-Off
 desc: ''
-updated: 1616186984459
+updated: 1430722800000
 created: 1430722800000
 sources:
   name: xkcd

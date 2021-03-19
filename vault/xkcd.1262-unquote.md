@@ -2,7 +2,7 @@
 id: xkcd.1262-unquote
 title: Unquote
 desc: ''
-updated: 1616186984367
+updated: 1378710000000
 created: 1378710000000
 sources:
   name: xkcd

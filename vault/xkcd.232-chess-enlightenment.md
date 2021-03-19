@@ -2,7 +2,7 @@
 id: xkcd.232-chess-enlightenment
 title: Chess Enlightenment
 desc: ''
-updated: 1616186984546
+updated: 1173254400000
 created: 1173254400000
 sources:
   name: xkcd

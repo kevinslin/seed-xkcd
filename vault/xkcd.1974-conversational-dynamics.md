@@ -2,7 +2,7 @@
 id: xkcd.1974-conversational-dynamics
 title: Conversational Dynamics
 desc: ''
-updated: 1616186984489
+updated: 1522393200000
 created: 1522393200000
 sources:
   name: xkcd

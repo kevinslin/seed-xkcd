@@ -2,7 +2,7 @@
 id: xkcd.1789-phone-numbers
 title: Phone Numbers
 desc: ''
-updated: 1616186984528
+updated: 1485158400000
 created: 1485158400000
 sources:
   name: xkcd

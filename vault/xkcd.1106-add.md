@@ -2,7 +2,7 @@
 id: xkcd.1106-add
 title: ADD
 desc: ''
-updated: 1616186984649
+updated: 1347260400000
 created: 1347260400000
 sources:
   name: xkcd

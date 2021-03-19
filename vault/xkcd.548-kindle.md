@@ -2,7 +2,7 @@
 id: xkcd.548-kindle
 title: Kindle
 desc: ''
-updated: 1616186984594
+updated: 1235548800000
 created: 1235548800000
 sources:
   name: xkcd

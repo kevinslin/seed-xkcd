@@ -2,7 +2,7 @@
 id: xkcd.81-attention-shopper
 title: 'Attention, shopper'
 desc: ''
-updated: 1616186984392
+updated: 1143446400000
 created: 1143446400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1937-iata-airport-abbreviations
 title: IATA Airport Abbreviations
 desc: ''
-updated: 1616186984481
+updated: 1514966400000
 created: 1514966400000
 sources:
   name: xkcd

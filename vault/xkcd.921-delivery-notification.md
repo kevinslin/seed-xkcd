@@ -2,7 +2,7 @@
 id: xkcd.921-delivery-notification
 title: Delivery Notification
 desc: ''
-updated: 1616186984631
+updated: 1309935600000
 created: 1309935600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.30-donner
 title: Donner
 desc: ''
-updated: 1616186984382
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

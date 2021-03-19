@@ -2,7 +2,7 @@
 id: xkcd.1304-glass-trolling
 title: Glass Trolling
 desc: ''
-updated: 1616186984398
+updated: 1387180800000
 created: 1387180800000
 sources:
   name: xkcd

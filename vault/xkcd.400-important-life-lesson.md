@@ -2,7 +2,7 @@
 id: xkcd.400-important-life-lesson
 title: Important Life Lesson
 desc: ''
-updated: 1616186984570
+updated: 1206342000000
 created: 1206342000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1734-reductionism
 title: Reductionism
 desc: ''
-updated: 1616186984516
+updated: 1474009200000
 created: 1474009200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1828-iss-solar-transit
 title: ISS Solar Transit
 desc: ''
-updated: 1616186984443
+updated: 1493017200000
 created: 1493017200000
 sources:
   name: xkcd

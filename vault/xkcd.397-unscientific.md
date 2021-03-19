@@ -2,7 +2,7 @@
 id: xkcd.397-unscientific
 title: Unscientific
 desc: ''
-updated: 1616186984568
+updated: 1205737200000
 created: 1205737200000
 sources:
   name: xkcd

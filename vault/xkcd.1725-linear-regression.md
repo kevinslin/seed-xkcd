@@ -2,7 +2,7 @@
 id: xkcd.1725-linear-regression
 title: Linear Regression
 desc: ''
-updated: 1616186984512
+updated: 1472194800000
 created: 1472194800000
 sources:
   name: xkcd

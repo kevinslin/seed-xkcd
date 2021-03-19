@@ -2,7 +2,7 @@
 id: xkcd.1968-robot-future
 title: Robot Future
 desc: ''
-updated: 1616186984488
+updated: 1521183600000
 created: 1521183600000
 sources:
   name: xkcd

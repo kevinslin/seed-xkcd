@@ -2,7 +2,7 @@
 id: xkcd.1998-gdpr
 title: GDPR
 desc: ''
-updated: 1616186984493
+updated: 1527231600000
 created: 1527231600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1760-tv-problems
 title: TV Problems
 desc: ''
-updated: 1616186984522
+updated: 1479283200000
 created: 1479283200000
 sources:
   name: xkcd

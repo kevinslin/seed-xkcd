@@ -2,7 +2,7 @@
 id: xkcd.1750-life-goals
 title: Life Goals
 desc: ''
-updated: 1616186984520
+updated: 1477292400000
 created: 1477292400000
 sources:
   name: xkcd

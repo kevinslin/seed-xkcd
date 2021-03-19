@@ -2,7 +2,7 @@
 id: xkcd.1236-seashell
 title: Seashell
 desc: ''
-updated: 1616186984358
+updated: 1373439600000
 created: 1373439600000
 sources:
   name: xkcd

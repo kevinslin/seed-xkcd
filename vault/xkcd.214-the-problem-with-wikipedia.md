@@ -2,7 +2,7 @@
 id: xkcd.214-the-problem-with-wikipedia
 title: The Problem with Wikipedia
 desc: ''
-updated: 1616186984544
+updated: 1169625600000
 created: 1169625600000
 sources:
   name: xkcd

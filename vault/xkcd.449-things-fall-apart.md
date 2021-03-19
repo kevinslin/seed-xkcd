@@ -2,7 +2,7 @@
 id: xkcd.449-things-fall-apart
 title: Things Fall Apart
 desc: ''
-updated: 1616186984577
+updated: 1216018800000
 created: 1216018800000
 sources:
   name: xkcd

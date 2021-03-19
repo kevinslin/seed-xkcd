@@ -2,7 +2,7 @@
 id: xkcd.662-i-phone-or-droid
 title: iPhone or Droid
 desc: ''
-updated: 1616186984609
+updated: 1258099200000
 created: 1258099200000
 sources:
   name: xkcd

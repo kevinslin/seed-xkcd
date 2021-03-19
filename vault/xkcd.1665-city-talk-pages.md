@@ -2,7 +2,7 @@
 id: xkcd.1665-city-talk-pages
 title: City Talk Pages
 desc: ''
-updated: 1616186984502
+updated: 1460098800000
 created: 1460098800000
 sources:
   name: xkcd

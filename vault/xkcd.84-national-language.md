@@ -2,7 +2,7 @@
 id: xkcd.84-national-language
 title: National Language
 desc: ''
-updated: 1616186984392
+updated: 1144047600000
 created: 1144047600000
 sources:
   name: xkcd

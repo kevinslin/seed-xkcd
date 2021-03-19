@@ -2,7 +2,7 @@
 id: xkcd.1524-dimensions
 title: Dimensions
 desc: ''
-updated: 1616186984459
+updated: 1431500400000
 created: 1431500400000
 sources:
   name: xkcd

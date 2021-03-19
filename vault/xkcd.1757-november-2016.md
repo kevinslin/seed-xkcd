@@ -2,7 +2,7 @@
 id: xkcd.1757-november-2016
 title: November 2016
 desc: ''
-updated: 1616186984521
+updated: 1478678400000
 created: 1478678400000
 sources:
   name: xkcd

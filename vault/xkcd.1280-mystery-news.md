@@ -2,7 +2,7 @@
 id: xkcd.1280-mystery-news
 title: Mystery News
 desc: ''
-updated: 1616186984371
+updated: 1382338800000
 created: 1382338800000
 sources:
   name: xkcd

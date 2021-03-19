@@ -2,7 +2,7 @@
 id: xkcd.1066-laundry
 title: Laundry
 desc: ''
-updated: 1616186984690
+updated: 1339138800000
 created: 1339138800000
 sources:
   name: xkcd

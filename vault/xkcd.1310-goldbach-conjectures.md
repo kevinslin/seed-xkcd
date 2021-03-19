@@ -2,7 +2,7 @@
 id: xkcd.1310-goldbach-conjectures
 title: Goldbach Conjectures
 desc: ''
-updated: 1616186984399
+updated: 1388390400000
 created: 1388390400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1865-wifi-vs-cellular
 title: Wifi vs Cellular
 desc: ''
-updated: 1616186984449
+updated: 1500447600000
 created: 1500447600000
 sources:
   name: xkcd

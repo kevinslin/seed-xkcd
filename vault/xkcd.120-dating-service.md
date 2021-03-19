@@ -2,7 +2,7 @@
 id: xkcd.120-dating-service
 title: Dating Service
 desc: ''
-updated: 1616186984423
+updated: 1151305200000
 created: 1151305200000
 sources:
   name: xkcd

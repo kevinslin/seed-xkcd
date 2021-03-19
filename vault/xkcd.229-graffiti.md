@@ -2,7 +2,7 @@
 id: xkcd.229-graffiti
 title: Graffiti
 desc: ''
-updated: 1616186984546
+updated: 1172649600000
 created: 1172649600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1191-the-past
 title: The Past
 desc: ''
-updated: 1616186984655
+updated: 1364367600000
 created: 1364367600000
 sources:
   name: xkcd

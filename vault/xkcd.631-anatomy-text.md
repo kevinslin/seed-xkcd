@@ -2,7 +2,7 @@
 id: xkcd.631-anatomy-text
 title: Anatomy Text
 desc: ''
-updated: 1616186984605
+updated: 1251874800000
 created: 1251874800000
 sources:
   name: xkcd

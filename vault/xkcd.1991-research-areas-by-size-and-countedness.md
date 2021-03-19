@@ -2,7 +2,7 @@
 id: xkcd.1991-research-areas-by-size-and-countedness
 title: Research Areas by Size and Countedness
 desc: ''
-updated: 1616186984491
+updated: 1525849200000
 created: 1525849200000
 sources:
   name: xkcd

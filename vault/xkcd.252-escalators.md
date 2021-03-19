@@ -2,7 +2,7 @@
 id: xkcd.252-escalators
 title: Escalators
 desc: ''
-updated: 1616186984549
+updated: 1177311600000
 created: 1177311600000
 sources:
   name: xkcd

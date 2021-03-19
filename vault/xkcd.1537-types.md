@@ -2,7 +2,7 @@
 id: xkcd.1537-types
 title: Types
 desc: ''
-updated: 1616186984462
+updated: 1434092400000
 created: 1434092400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1187-aspect-ratio
 title: Aspect Ratio
 desc: ''
-updated: 1616186984655
+updated: 1363590000000
 created: 1363590000000
 sources:
   name: xkcd

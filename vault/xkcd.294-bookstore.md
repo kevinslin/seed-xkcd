@@ -2,7 +2,7 @@
 id: xkcd.294-bookstore
 title: Bookstore
 desc: ''
-updated: 1616186984555
+updated: 1185346800000
 created: 1185346800000
 sources:
   name: xkcd

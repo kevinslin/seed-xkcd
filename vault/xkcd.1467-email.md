@@ -2,7 +2,7 @@
 id: xkcd.1467-email
 title: Email
 desc: ''
-updated: 1616186984540
+updated: 1420012800000
 created: 1420012800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.128-d-pain-over-dt
 title: dPain over dt
 desc: ''
-updated: 1616186984424
+updated: 1152860400000
 created: 1152860400000
 sources:
   name: xkcd

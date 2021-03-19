@@ -2,7 +2,7 @@
 id: xkcd.991-phantom-menace
 title: Phantom Menace
 desc: ''
-updated: 1616186984638
+updated: 1324022400000
 created: 1324022400000
 sources:
   name: xkcd

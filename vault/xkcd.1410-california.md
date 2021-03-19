@@ -2,7 +2,7 @@
 id: xkcd.1410-california
 title: California
 desc: ''
-updated: 1616186984534
+updated: 1408518000000
 created: 1408518000000
 sources:
   name: xkcd

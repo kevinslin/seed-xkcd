@@ -2,7 +2,7 @@
 id: xkcd.1618-cold-medicine
 title: Cold Medicine
 desc: ''
-updated: 1616186984496
+updated: 1450425600000
 created: 1450425600000
 sources:
   name: xkcd

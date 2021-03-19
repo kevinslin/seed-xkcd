@@ -2,7 +2,7 @@
 id: xkcd.1775-things-you-learn
 title: Things You Learn
 desc: ''
-updated: 1616186984525
+updated: 1482307200000
 created: 1482307200000
 sources:
   name: xkcd

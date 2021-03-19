@@ -2,7 +2,7 @@
 id: xkcd.49-want
 title: Want
 desc: ''
-updated: 1616186984386
+updated: 1137225600000
 created: 1137225600000
 sources:
   name: xkcd

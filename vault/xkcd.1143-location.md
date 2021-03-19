@@ -2,7 +2,7 @@
 id: xkcd.1143-location
 title: Location
 desc: ''
-updated: 1616186984652
+updated: 1354694400000
 created: 1354694400000
 sources:
   name: xkcd

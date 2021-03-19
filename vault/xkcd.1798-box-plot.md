@@ -2,7 +2,7 @@
 id: xkcd.1798-box-plot
 title: Box Plot
 desc: ''
-updated: 1616186984530
+updated: 1486972800000
 created: 1486972800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1908-credit-card-rewards
 title: Credit Card Rewards
 desc: ''
-updated: 1616186984474
+updated: 1509087600000
 created: 1509087600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.242-the-difference
 title: The Difference
 desc: ''
-updated: 1616186984548
+updated: 1175238000000
 created: 1175238000000
 sources:
   name: xkcd

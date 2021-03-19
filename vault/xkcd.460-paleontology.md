@@ -2,7 +2,7 @@
 id: xkcd.460-paleontology
 title: Paleontology
 desc: ''
-updated: 1616186984579
+updated: 1218178800000
 created: 1218178800000
 sources:
   name: xkcd

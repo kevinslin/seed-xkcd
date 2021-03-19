@@ -2,7 +2,7 @@
 id: xkcd.1287-puzzle
 title: Puzzle
 desc: ''
-updated: 1616186984372
+updated: 1383724800000
 created: 1383724800000
 sources:
   name: xkcd

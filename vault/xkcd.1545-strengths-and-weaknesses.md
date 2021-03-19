@@ -2,7 +2,7 @@
 id: xkcd.1545-strengths-and-weaknesses
 title: Strengths and Weaknesses
 desc: ''
-updated: 1616186984463
+updated: 1435734000000
 created: 1435734000000
 sources:
   name: xkcd

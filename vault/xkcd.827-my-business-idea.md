@@ -2,7 +2,7 @@
 id: xkcd.827-my-business-idea
 title: My Business Idea
 desc: ''
-updated: 1616186984661
+updated: 1291017600000
 created: 1291017600000
 sources:
   name: xkcd

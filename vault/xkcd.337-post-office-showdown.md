@@ -2,7 +2,7 @@
 id: xkcd.337-post-office-showdown
 title: Post Office Showdown
 desc: ''
-updated: 1616186984560
+updated: 1193986800000
 created: 1193986800000
 sources:
   name: xkcd

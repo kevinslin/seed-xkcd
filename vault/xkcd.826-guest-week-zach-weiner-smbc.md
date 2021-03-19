@@ -2,7 +2,7 @@
 id: xkcd.826-guest-week-zach-weiner-smbc
 title: 'Guest Week: Zach Weiner (SMBC)'
 desc: ''
-updated: 1616186984661
+updated: 1290758400000
 created: 1290758400000
 sources:
   name: xkcd

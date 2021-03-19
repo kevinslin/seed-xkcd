@@ -2,7 +2,7 @@
 id: xkcd.1730-starshade
 title: Starshade
 desc: ''
-updated: 1616186984513
+updated: 1473231600000
 created: 1473231600000
 sources:
   name: xkcd

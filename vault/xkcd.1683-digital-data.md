@@ -2,7 +2,7 @@
 id: xkcd.1683-digital-data
 title: Digital Data
 desc: ''
-updated: 1616186984505
+updated: 1463727600000
 created: 1463727600000
 sources:
   name: xkcd

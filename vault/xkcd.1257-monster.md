@@ -2,7 +2,7 @@
 id: xkcd.1257-monster
 title: Monster
 desc: ''
-updated: 1616186984366
+updated: 1377673200000
 created: 1377673200000
 sources:
   name: xkcd

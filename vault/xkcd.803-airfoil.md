@@ -2,7 +2,7 @@
 id: xkcd.803-airfoil
 title: Airfoil
 desc: ''
-updated: 1616186984657
+updated: 1286521200000
 created: 1286521200000
 sources:
   name: xkcd

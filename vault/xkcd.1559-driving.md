@@ -2,7 +2,7 @@
 id: xkcd.1559-driving
 title: Driving
 desc: ''
-updated: 1616186984465
+updated: 1438585200000
 created: 1438585200000
 sources:
   name: xkcd

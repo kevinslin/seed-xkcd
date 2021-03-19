@@ -2,7 +2,7 @@
 id: xkcd.1504-opportunity
 title: Opportunity
 desc: ''
-updated: 1616186984457
+updated: 1427439600000
 created: 1427439600000
 sources:
   name: xkcd

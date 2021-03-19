@@ -2,7 +2,7 @@
 id: xkcd.702-snow-tracking
 title: Snow Tracking
 desc: ''
-updated: 1616186984615
+updated: 1266220800000
 created: 1266220800000
 sources:
   name: xkcd

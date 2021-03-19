@@ -2,7 +2,7 @@
 id: xkcd.484-flash-games
 title: Flash Games
 desc: ''
-updated: 1616186984583
+updated: 1223017200000
 created: 1223017200000
 sources:
   name: xkcd

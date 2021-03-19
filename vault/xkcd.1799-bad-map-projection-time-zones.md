@@ -2,7 +2,7 @@
 id: xkcd.1799-bad-map-projection-time-zones
 title: 'Bad Map Projection: Time Zones'
 desc: ''
-updated: 1616186984530
+updated: 1487145600000
 created: 1487145600000
 sources:
   name: xkcd

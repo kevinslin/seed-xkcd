@@ -2,7 +2,7 @@
 id: xkcd.1099-tuesdays
 title: Tuesdays
 desc: ''
-updated: 1616186984698
+updated: 1345791600000
 created: 1345791600000
 sources:
   name: xkcd

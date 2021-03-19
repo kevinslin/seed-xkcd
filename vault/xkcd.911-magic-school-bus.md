@@ -2,7 +2,7 @@
 id: xkcd.911-magic-school-bus
 title: Magic School Bus
 desc: ''
-updated: 1616186984630
+updated: 1307948400000
 created: 1307948400000
 sources:
   name: xkcd

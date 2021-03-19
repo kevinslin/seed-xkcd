@@ -2,7 +2,7 @@
 id: xkcd.844-good-code
 title: Good Code
 desc: ''
-updated: 1616186984663
+updated: 1294387200000
 created: 1294387200000
 sources:
   name: xkcd

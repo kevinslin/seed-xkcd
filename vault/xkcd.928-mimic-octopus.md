@@ -2,7 +2,7 @@
 id: xkcd.928-mimic-octopus
 title: Mimic Octopus
 desc: ''
-updated: 1616186984631
+updated: 1311318000000
 created: 1311318000000
 sources:
   name: xkcd

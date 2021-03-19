@@ -2,7 +2,7 @@
 id: xkcd.320-28-hour-day
 title: 28-Hour Day
 desc: ''
-updated: 1616186984559
+updated: 1190617200000
 created: 1190617200000
 sources:
   name: xkcd

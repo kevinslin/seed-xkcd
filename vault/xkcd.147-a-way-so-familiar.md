@@ -2,7 +2,7 @@
 id: xkcd.147-a-way-so-familiar
 title: A Way So Familiar
 desc: ''
-updated: 1616186984428
+updated: 1156316400000
 created: 1156316400000
 sources:
   name: xkcd

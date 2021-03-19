@@ -2,7 +2,7 @@
 id: xkcd.1337-hack
 title: Hack
 desc: ''
-updated: 1616186984404
+updated: 1393833600000
 created: 1393833600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1327-mobile-marketing
 title: Mobile Marketing
 desc: ''
-updated: 1616186984403
+updated: 1391760000000
 created: 1391760000000
 sources:
   name: xkcd

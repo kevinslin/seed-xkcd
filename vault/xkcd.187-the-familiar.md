@@ -2,7 +2,7 @@
 id: xkcd.187-the-familiar
 title: The Familiar
 desc: ''
-updated: 1616186984435
+updated: 1164182400000
 created: 1164182400000
 sources:
   name: xkcd

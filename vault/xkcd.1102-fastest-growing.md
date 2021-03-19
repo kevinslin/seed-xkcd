@@ -2,7 +2,7 @@
 id: xkcd.1102-fastest-growing
 title: Fastest-Growing
 desc: ''
-updated: 1616186984648
+updated: 1346396400000
 created: 1346396400000
 sources:
   name: xkcd

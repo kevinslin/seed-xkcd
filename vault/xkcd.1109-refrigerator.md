@@ -2,7 +2,7 @@
 id: xkcd.1109-refrigerator
 title: Refrigerator
 desc: ''
-updated: 1616186984649
+updated: 1347865200000
 created: 1347865200000
 sources:
   name: xkcd

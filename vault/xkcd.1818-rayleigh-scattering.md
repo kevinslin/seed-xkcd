@@ -2,7 +2,7 @@
 id: xkcd.1818-rayleigh-scattering
 title: Rayleigh Scattering
 desc: ''
-updated: 1616186984441
+updated: 1490943600000
 created: 1490943600000
 sources:
   name: xkcd

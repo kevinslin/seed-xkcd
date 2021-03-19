@@ -2,7 +2,7 @@
 id: xkcd.718-the-flake-equation
 title: The Flake Equation
 desc: ''
-updated: 1616186984618
+updated: 1269414000000
 created: 1269414000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1534-beer
 title: Beer
 desc: ''
-updated: 1616186984461
+updated: 1433487600000
 created: 1433487600000
 sources:
   name: xkcd

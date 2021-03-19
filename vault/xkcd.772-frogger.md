@@ -2,7 +2,7 @@
 id: xkcd.772-frogger
 title: Frogger
 desc: ''
-updated: 1616186984622
+updated: 1280300400000
 created: 1280300400000
 sources:
   name: xkcd

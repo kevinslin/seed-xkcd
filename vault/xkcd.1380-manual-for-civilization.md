@@ -2,7 +2,7 @@
 id: xkcd.1380-manual-for-civilization
 title: Manual for Civilization
 desc: ''
-updated: 1616186984413
+updated: 1402470000000
 created: 1402470000000
 sources:
   name: xkcd

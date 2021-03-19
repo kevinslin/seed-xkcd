@@ -2,7 +2,7 @@
 id: xkcd.1549-xkcd-phone-3
 title: xkcd Phone 3
 desc: ''
-updated: 1616186984464
+updated: 1436511600000
 created: 1436511600000
 sources:
   name: xkcd

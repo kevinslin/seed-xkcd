@@ -2,7 +2,7 @@
 id: xkcd.1942-memorable-quotes
 title: Memorable Quotes
 desc: ''
-updated: 1616186984481
+updated: 1516003200000
 created: 1516003200000
 sources:
   name: xkcd

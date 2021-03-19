@@ -2,7 +2,7 @@
 id: xkcd.24-godel-escher-kurt-halsey
 title: 'Godel, Escher, Kurt Halsey'
 desc: ''
-updated: 1616186984380
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

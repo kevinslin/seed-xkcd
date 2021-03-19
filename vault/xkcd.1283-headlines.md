@@ -2,7 +2,7 @@
 id: xkcd.1283-headlines
 title: Headlines
 desc: ''
-updated: 1616186984371
+updated: 1382943600000
 created: 1382943600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1332-slippery-slope
 title: Slippery Slope
 desc: ''
-updated: 1616186984403
+updated: 1392796800000
 created: 1392796800000
 sources:
   name: xkcd

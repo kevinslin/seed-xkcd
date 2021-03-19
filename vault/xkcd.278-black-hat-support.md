@@ -2,7 +2,7 @@
 id: xkcd.278-black-hat-support
 title: Black Hat Support
 desc: ''
-updated: 1616186984553
+updated: 1182150000000
 created: 1182150000000
 sources:
   name: xkcd

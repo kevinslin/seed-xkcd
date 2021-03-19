@@ -2,7 +2,7 @@
 id: xkcd.126-red-spiders-cometh
 title: Red Spiders Cometh
 desc: ''
-updated: 1616186984424
+updated: 1152514800000
 created: 1152514800000
 sources:
   name: xkcd

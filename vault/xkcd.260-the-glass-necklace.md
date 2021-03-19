@@ -2,7 +2,7 @@
 id: xkcd.260-the-glass-necklace
 title: The Glass Necklace
 desc: ''
-updated: 1616186984551
+updated: 1178866800000
 created: 1178866800000
 sources:
   name: xkcd

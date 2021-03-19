@@ -2,7 +2,7 @@
 id: xkcd.801-golden-hammer
 title: Golden Hammer
 desc: ''
-updated: 1616186984657
+updated: 1286175600000
 created: 1286175600000
 sources:
   name: xkcd

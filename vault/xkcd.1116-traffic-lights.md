@@ -2,7 +2,7 @@
 id: xkcd.1116-traffic-lights
 title: Traffic Lights
 desc: ''
-updated: 1616186984650
+updated: 1349247600000
 created: 1349247600000
 sources:
   name: xkcd

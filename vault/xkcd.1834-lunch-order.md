@@ -2,7 +2,7 @@
 id: xkcd.1834-lunch-order
 title: Lunch Order
 desc: ''
-updated: 1616186984444
+updated: 1494226800000
 created: 1494226800000
 sources:
   name: xkcd

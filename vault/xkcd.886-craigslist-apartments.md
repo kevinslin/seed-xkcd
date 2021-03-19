@@ -2,7 +2,7 @@
 id: xkcd.886-craigslist-apartments
 title: Craigslist Apartments
 desc: ''
-updated: 1616186984668
+updated: 1302850800000
 created: 1302850800000
 sources:
   name: xkcd

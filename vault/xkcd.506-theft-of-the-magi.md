@@ -2,7 +2,7 @@
 id: xkcd.506-theft-of-the-magi
 title: Theft of the Magi
 desc: ''
-updated: 1616186984586
+updated: 1227081600000
 created: 1227081600000
 sources:
   name: xkcd

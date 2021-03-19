@@ -2,7 +2,7 @@
 id: xkcd.1162-log-scale
 title: Log Scale
 desc: ''
-updated: 1616186984653
+updated: 1358496000000
 created: 1358496000000
 sources:
   name: xkcd

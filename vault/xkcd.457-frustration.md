@@ -2,7 +2,7 @@
 id: xkcd.457-frustration
 title: Frustration
 desc: ''
-updated: 1616186984579
+updated: 1217574000000
 created: 1217574000000
 sources:
   name: xkcd

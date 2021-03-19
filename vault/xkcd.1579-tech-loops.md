@@ -2,7 +2,7 @@
 id: xkcd.1579-tech-loops
 title: Tech Loops
 desc: ''
-updated: 1616186984470
+updated: 1442559600000
 created: 1442559600000
 sources:
   name: xkcd

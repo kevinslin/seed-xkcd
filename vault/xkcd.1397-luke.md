@@ -2,7 +2,7 @@
 id: xkcd.1397-luke
 title: Luke
 desc: ''
-updated: 1616186984418
+updated: 1405926000000
 created: 1405926000000
 sources:
   name: xkcd

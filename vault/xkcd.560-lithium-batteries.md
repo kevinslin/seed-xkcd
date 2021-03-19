@@ -2,7 +2,7 @@
 id: xkcd.560-lithium-batteries
 title: Lithium Batteries
 desc: ''
-updated: 1616186984595
+updated: 1237964400000
 created: 1237964400000
 sources:
   name: xkcd

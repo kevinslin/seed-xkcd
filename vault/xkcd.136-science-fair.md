@@ -2,7 +2,7 @@
 id: xkcd.136-science-fair
 title: Science Fair
 desc: ''
-updated: 1616186984426
+updated: 1154502000000
 created: 1154502000000
 sources:
   name: xkcd

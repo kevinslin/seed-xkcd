@@ -2,7 +2,7 @@
 id: xkcd.132-music-knowledge
 title: Music Knowledge
 desc: ''
-updated: 1616186984425
+updated: 1153724400000
 created: 1153724400000
 sources:
   name: xkcd

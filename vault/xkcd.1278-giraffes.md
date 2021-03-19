@@ -2,7 +2,7 @@
 id: xkcd.1278-giraffes
 title: Giraffes
 desc: ''
-updated: 1616186984370
+updated: 1381906800000
 created: 1381906800000
 sources:
   name: xkcd

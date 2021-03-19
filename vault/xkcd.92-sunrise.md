@@ -2,7 +2,7 @@
 id: xkcd.92-sunrise
 title: Sunrise
 desc: ''
-updated: 1616186984394
+updated: 1145602800000
 created: 1145602800000
 sources:
   name: xkcd

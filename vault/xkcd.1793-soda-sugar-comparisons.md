@@ -2,7 +2,7 @@
 id: xkcd.1793-soda-sugar-comparisons
 title: Soda Sugar Comparisons
 desc: ''
-updated: 1616186984529
+updated: 1485936000000
 created: 1485936000000
 sources:
   name: xkcd

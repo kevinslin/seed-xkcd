@@ -2,7 +2,7 @@
 id: xkcd.694-retro-virus
 title: Retro Virus
 desc: ''
-updated: 1616186984614
+updated: 1264579200000
 created: 1264579200000
 sources:
   name: xkcd

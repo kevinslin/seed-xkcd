@@ -2,7 +2,7 @@
 id: xkcd.1575-footprints
 title: Footprints
 desc: ''
-updated: 1616186984468
+updated: 1441782000000
 created: 1441782000000
 sources:
   name: xkcd

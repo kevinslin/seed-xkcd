@@ -2,7 +2,7 @@
 id: xkcd.1320-walmart
 title: Walmart
 desc: ''
-updated: 1616186984401
+updated: 1390377600000
 created: 1390377600000
 sources:
   name: xkcd

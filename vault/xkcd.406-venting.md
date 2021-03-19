@@ -2,7 +2,7 @@
 id: xkcd.406-venting
 title: Venting
 desc: ''
-updated: 1616186984571
+updated: 1207292400000
 created: 1207292400000
 sources:
   name: xkcd

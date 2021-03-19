@@ -2,7 +2,7 @@
 id: xkcd.1268-alternate-universe
 title: Alternate Universe
 desc: ''
-updated: 1616186984368
+updated: 1379919600000
 created: 1379919600000
 sources:
   name: xkcd

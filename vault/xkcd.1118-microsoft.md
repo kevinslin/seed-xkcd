@@ -2,7 +2,7 @@
 id: xkcd.1118-microsoft
 title: Microsoft
 desc: ''
-updated: 1616186984650
+updated: 1349679600000
 created: 1349679600000
 sources:
   name: xkcd

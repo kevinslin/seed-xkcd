@@ -2,7 +2,7 @@
 id: xkcd.1086-eyelash-wish-log
 title: Eyelash Wish Log
 desc: ''
-updated: 1616186984695
+updated: 1343199600000
 created: 1343199600000
 sources:
   name: xkcd

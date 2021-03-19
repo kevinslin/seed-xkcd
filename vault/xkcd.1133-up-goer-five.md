@@ -2,7 +2,7 @@
 id: xkcd.1133-up-goer-five
 title: Up Goer Five
 desc: ''
-updated: 1616186984651
+updated: 1352707200000
 created: 1352707200000
 sources:
   name: xkcd

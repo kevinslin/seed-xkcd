@@ -2,7 +2,7 @@
 id: xkcd.1623-2016-conversation-guide
 title: 2016 Conversation Guide
 desc: ''
-updated: 1616186984496
+updated: 1451462400000
 created: 1451462400000
 sources:
   name: xkcd

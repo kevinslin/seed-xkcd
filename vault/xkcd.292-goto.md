@@ -2,7 +2,7 @@
 id: xkcd.292-goto
 title: goto
 desc: ''
-updated: 1616186984555
+updated: 1184914800000
 created: 1184914800000
 sources:
   name: xkcd

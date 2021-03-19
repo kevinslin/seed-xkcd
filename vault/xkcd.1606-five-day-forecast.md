@@ -2,7 +2,7 @@
 id: xkcd.1606-five-day-forecast
 title: Five-Day Forecast
 desc: ''
-updated: 1616186984494
+updated: 1448006400000
 created: 1448006400000
 sources:
   name: xkcd

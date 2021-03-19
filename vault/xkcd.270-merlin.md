@@ -2,7 +2,7 @@
 id: xkcd.270-merlin
 title: Merlin
 desc: ''
-updated: 1616186984552
+updated: 1180508400000
 created: 1180508400000
 sources:
   name: xkcd

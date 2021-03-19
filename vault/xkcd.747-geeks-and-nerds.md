@@ -2,7 +2,7 @@
 id: xkcd.747-geeks-and-nerds
 title: Geeks and Nerds
 desc: ''
-updated: 1616186984620
+updated: 1275289200000
 created: 1275289200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1943-universal-dreams
 title: Universal Dreams
 desc: ''
-updated: 1616186984482
+updated: 1516176000000
 created: 1516176000000
 sources:
   name: xkcd

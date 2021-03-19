@@ -2,7 +2,7 @@
 id: xkcd.1008-suckville
 title: Suckville
 desc: ''
-updated: 1616186984673
+updated: 1327478400000
 created: 1327478400000
 sources:
   name: xkcd

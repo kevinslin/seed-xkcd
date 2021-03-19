@@ -2,7 +2,7 @@
 id: xkcd.1919-interstellar-asteroid
 title: Interstellar Asteroid
 desc: ''
-updated: 1616186984477
+updated: 1511337600000
 created: 1511337600000
 sources:
   name: xkcd

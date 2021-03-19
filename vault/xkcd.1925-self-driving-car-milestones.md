@@ -2,7 +2,7 @@
 id: xkcd.1925-self-driving-car-milestones
 title: Self-Driving Car Milestones
 desc: ''
-updated: 1616186984478
+updated: 1512547200000
 created: 1512547200000
 sources:
   name: xkcd

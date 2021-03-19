@@ -2,7 +2,7 @@
 id: xkcd.956-sharing
 title: Sharing
 desc: ''
-updated: 1616186984634
+updated: 1317020400000
 created: 1317020400000
 sources:
   name: xkcd

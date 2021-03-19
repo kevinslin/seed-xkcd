@@ -2,7 +2,7 @@
 id: xkcd.727-trade-expert
 title: Trade Expert
 desc: ''
-updated: 1616186984618
+updated: 1271228400000
 created: 1271228400000
 sources:
   name: xkcd

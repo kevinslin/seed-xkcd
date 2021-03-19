@@ -2,7 +2,7 @@
 id: xkcd.124-blogofractal
 title: Blogofractal
 desc: ''
-updated: 1616186984424
+updated: 1152082800000
 created: 1152082800000
 sources:
   name: xkcd

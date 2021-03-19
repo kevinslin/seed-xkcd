@@ -2,7 +2,7 @@
 id: xkcd.1224-council-of-300
 title: Council of 300
 desc: ''
-updated: 1616186984354
+updated: 1371020400000
 created: 1371020400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1570-engineer-syllogism
 title: Engineer Syllogism
 desc: ''
-updated: 1616186984468
+updated: 1440745200000
 created: 1440745200000
 sources:
   name: xkcd

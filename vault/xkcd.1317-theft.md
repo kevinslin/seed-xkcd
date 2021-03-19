@@ -2,7 +2,7 @@
 id: xkcd.1317-theft
 title: Theft
 desc: ''
-updated: 1616186984401
+updated: 1389772800000
 created: 1389772800000
 sources:
   name: xkcd

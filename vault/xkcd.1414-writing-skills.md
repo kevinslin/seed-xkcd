@@ -2,7 +2,7 @@
 id: xkcd.1414-writing-skills
 title: Writing Skills
 desc: ''
-updated: 1616186984534
+updated: 1409295600000
 created: 1409295600000
 sources:
   name: xkcd

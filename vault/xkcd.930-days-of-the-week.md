@@ -2,7 +2,7 @@
 id: xkcd.930-days-of-the-week
 title: Days of the Week
 desc: ''
-updated: 1616186984631
+updated: 1311750000000
 created: 1311750000000
 sources:
   name: xkcd

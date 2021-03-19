@@ -2,7 +2,7 @@
 id: xkcd.660-sympathy
 title: Sympathy
 desc: ''
-updated: 1616186984608
+updated: 1257753600000
 created: 1257753600000
 sources:
   name: xkcd

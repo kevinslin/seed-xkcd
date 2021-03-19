@@ -2,7 +2,7 @@
 id: xkcd.78-garfield
 title: Garfield
 desc: ''
-updated: 1616186984391
+updated: 1142841600000
 created: 1142841600000
 sources:
   name: xkcd

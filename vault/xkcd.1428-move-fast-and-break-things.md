@@ -2,7 +2,7 @@
 id: xkcd.1428-move-fast-and-break-things
 title: Move Fast and Break Things
 desc: ''
-updated: 1616186984536
+updated: 1412146800000
 created: 1412146800000
 sources:
   name: xkcd

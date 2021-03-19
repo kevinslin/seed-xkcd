@@ -2,7 +2,7 @@
 id: xkcd.1328-update
 title: Update
 desc: ''
-updated: 1616186984403
+updated: 1392019200000
 created: 1392019200000
 sources:
   name: xkcd

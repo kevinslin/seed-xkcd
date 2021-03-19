@@ -2,7 +2,7 @@
 id: xkcd.793-physicists
 title: Physicists
 desc: ''
-updated: 1616186984625
+updated: 1284534000000
 created: 1284534000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.271-powers-of-one
 title: Powers of One
 desc: ''
-updated: 1616186984552
+updated: 1180681200000
 created: 1180681200000
 sources:
   name: xkcd

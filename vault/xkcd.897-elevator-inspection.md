@@ -2,7 +2,7 @@
 id: xkcd.897-elevator-inspection
 title: Elevator Inspection
 desc: ''
-updated: 1616186984669
+updated: 1305097200000
 created: 1305097200000
 sources:
   name: xkcd

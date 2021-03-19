@@ -2,7 +2,7 @@
 id: xkcd.376-bug
 title: Bug
 desc: ''
-updated: 1616186984565
+updated: 1201507200000
 created: 1201507200000
 sources:
   name: xkcd

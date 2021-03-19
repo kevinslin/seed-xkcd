@@ -2,7 +2,7 @@
 id: xkcd.837-coupon-code
 title: Coupon Code
 desc: ''
-updated: 1616186984663
+updated: 1293004800000
 created: 1293004800000
 sources:
   name: xkcd

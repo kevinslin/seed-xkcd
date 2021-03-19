@@ -2,7 +2,7 @@
 id: xkcd.1192-humming
 title: Humming
 desc: ''
-updated: 1616186984655
+updated: 1364540400000
 created: 1364540400000
 sources:
   name: xkcd

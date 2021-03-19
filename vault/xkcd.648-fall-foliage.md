@@ -2,7 +2,7 @@
 id: xkcd.648-fall-foliage
 title: Fall Foliage
 desc: ''
-updated: 1616186984607
+updated: 1255330800000
 created: 1255330800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1816-mispronunciation
 title: Mispronunciation
 desc: ''
-updated: 1616186984441
+updated: 1490598000000
 created: 1490598000000
 sources:
   name: xkcd

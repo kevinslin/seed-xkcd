@@ -2,7 +2,7 @@
 id: xkcd.526-converting-to-metric
 title: Converting to Metric
 desc: ''
-updated: 1616186984589
+updated: 1231142400000
 created: 1231142400000
 sources:
   name: xkcd

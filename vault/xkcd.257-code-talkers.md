@@ -2,7 +2,7 @@
 id: xkcd.257-code-talkers
 title: Code Talkers
 desc: ''
-updated: 1616186984550
+updated: 1178262000000
 created: 1178262000000
 sources:
   name: xkcd

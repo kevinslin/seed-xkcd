@@ -2,7 +2,7 @@
 id: xkcd.1319-automation
 title: Automation
 desc: ''
-updated: 1616186984401
+updated: 1390204800000
 created: 1390204800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.922-fight-club
 title: Fight Club
 desc: ''
-updated: 1616186984631
+updated: 1310108400000
 created: 1310108400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.737-yogurt
 title: Yogurt
 desc: ''
-updated: 1616186984619
+updated: 1273215600000
 created: 1273215600000
 sources:
   name: xkcd

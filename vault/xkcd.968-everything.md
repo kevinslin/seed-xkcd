@@ -2,7 +2,7 @@
 id: xkcd.968-everything
 title: Everything
 desc: ''
-updated: 1616186984635
+updated: 1319439600000
 created: 1319439600000
 sources:
   name: xkcd

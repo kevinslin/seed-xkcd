@@ -2,7 +2,7 @@
 id: xkcd.1855-telephoto
 title: Telephoto
 desc: ''
-updated: 1616186984447
+updated: 1498460400000
 created: 1498460400000
 sources:
   name: xkcd

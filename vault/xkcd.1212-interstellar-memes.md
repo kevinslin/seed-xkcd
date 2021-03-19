@@ -2,7 +2,7 @@
 id: xkcd.1212-interstellar-memes
 title: Interstellar Memes
 desc: ''
-updated: 1616186984351
+updated: 1368601200000
 created: 1368601200000
 sources:
   name: xkcd

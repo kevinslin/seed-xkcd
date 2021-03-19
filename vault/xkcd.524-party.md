@@ -2,7 +2,7 @@
 id: xkcd.524-party
 title: Party
 desc: ''
-updated: 1616186984589
+updated: 1230710400000
 created: 1230710400000
 sources:
   name: xkcd

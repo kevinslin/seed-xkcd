@@ -2,7 +2,7 @@
 id: xkcd.241-battle-room
 title: Battle Room
 desc: ''
-updated: 1616186984547
+updated: 1175065200000
 created: 1175065200000
 sources:
   name: xkcd

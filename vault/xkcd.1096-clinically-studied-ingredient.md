@@ -2,7 +2,7 @@
 id: xkcd.1096-clinically-studied-ingredient
 title: Clinically Studied Ingredient
 desc: ''
-updated: 1616186984698
+updated: 1345186800000
 created: 1345186800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.456-cautionary
 title: Cautionary
 desc: ''
-updated: 1616186984579
+updated: 1217401200000
 created: 1217401200000
 sources:
   name: xkcd

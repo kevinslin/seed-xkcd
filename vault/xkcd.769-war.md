@@ -2,7 +2,7 @@
 id: xkcd.769-war
 title: War
 desc: ''
-updated: 1616186984622
+updated: 1279695600000
 created: 1279695600000
 sources:
   name: xkcd

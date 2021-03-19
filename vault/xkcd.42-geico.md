@@ -2,7 +2,7 @@
 id: xkcd.42-geico
 title: Geico
 desc: ''
-updated: 1616186984384
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

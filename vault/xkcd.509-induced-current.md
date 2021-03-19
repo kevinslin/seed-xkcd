@@ -2,7 +2,7 @@
 id: xkcd.509-induced-current
 title: Induced Current
 desc: ''
-updated: 1616186984586
+updated: 1227686400000
 created: 1227686400000
 sources:
   name: xkcd

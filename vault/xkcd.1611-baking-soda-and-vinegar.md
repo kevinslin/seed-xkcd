@@ -2,7 +2,7 @@
 id: xkcd.1611-baking-soda-and-vinegar
 title: Baking Soda and Vinegar
 desc: ''
-updated: 1616186984495
+updated: 1449043200000
 created: 1449043200000
 sources:
   name: xkcd

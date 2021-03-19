@@ -2,7 +2,7 @@
 id: xkcd.1472-geography
 title: Geography
 desc: ''
-updated: 1616186984540
+updated: 1421049600000
 created: 1421049600000
 sources:
   name: xkcd

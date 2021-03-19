@@ -2,7 +2,7 @@
 id: xkcd.381-mobius-battle
 title: Mobius Battle
 desc: ''
-updated: 1616186984566
+updated: 1202457600000
 created: 1202457600000
 sources:
   name: xkcd

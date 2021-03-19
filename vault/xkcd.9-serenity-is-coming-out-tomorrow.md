@@ -2,7 +2,7 @@
 id: xkcd.9-serenity-is-coming-out-tomorrow
 title: Serenity is coming out tomorrow
 desc: ''
-updated: 1616186984377
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

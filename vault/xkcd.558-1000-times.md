@@ -2,7 +2,7 @@
 id: xkcd.558-1000-times
 title: 1000 Times
 desc: ''
-updated: 1616186984595
+updated: 1237532400000
 created: 1237532400000
 sources:
   name: xkcd

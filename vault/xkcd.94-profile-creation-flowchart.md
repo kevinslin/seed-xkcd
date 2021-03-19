@@ -2,7 +2,7 @@
 id: xkcd.94-profile-creation-flowchart
 title: Profile Creation Flowchart
 desc: ''
-updated: 1616186984395
+updated: 1146034800000
 created: 1146034800000
 sources:
   name: xkcd

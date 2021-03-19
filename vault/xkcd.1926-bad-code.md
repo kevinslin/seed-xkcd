@@ -2,7 +2,7 @@
 id: xkcd.1926-bad-code
 title: Bad Code
 desc: ''
-updated: 1616186984478
+updated: 1512720000000
 created: 1512720000000
 sources:
   name: xkcd

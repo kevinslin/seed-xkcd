@@ -2,7 +2,7 @@
 id: xkcd.1675-message-in-a-bottle
 title: Message in a Bottle
 desc: ''
-updated: 1616186984504
+updated: 1462172400000
 created: 1462172400000
 sources:
   name: xkcd

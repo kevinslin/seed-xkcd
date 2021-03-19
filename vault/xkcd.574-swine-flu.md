@@ -2,7 +2,7 @@
 id: xkcd.574-swine-flu
 title: Swine Flu
 desc: ''
-updated: 1616186984597
+updated: 1240815600000
 created: 1240815600000
 sources:
   name: xkcd

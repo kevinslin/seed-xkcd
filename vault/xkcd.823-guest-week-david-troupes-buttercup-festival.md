@@ -2,7 +2,7 @@
 id: xkcd.823-guest-week-david-troupes-buttercup-festival
 title: 'Guest Week: David Troupes (Buttercup Festival)'
 desc: ''
-updated: 1616186984660
+updated: 1290499200000
 created: 1290499200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1208-footnote-labyrinths
 title: Footnote Labyrinths
 desc: ''
-updated: 1616186984350
+updated: 1367823600000
 created: 1367823600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.135-substitute
 title: Substitute
 desc: ''
-updated: 1616186984425
+updated: 1154329200000
 created: 1154329200000
 sources:
   name: xkcd

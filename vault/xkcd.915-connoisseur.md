@@ -2,7 +2,7 @@
 id: xkcd.915-connoisseur
 title: Connoisseur
 desc: ''
-updated: 1616186984630
+updated: 1308726000000
 created: 1308726000000
 sources:
   name: xkcd

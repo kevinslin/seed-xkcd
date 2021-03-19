@@ -2,7 +2,7 @@
 id: xkcd.1313-regex-golf
 title: Regex Golf
 desc: ''
-updated: 1616186984400
+updated: 1388995200000
 created: 1388995200000
 sources:
   name: xkcd

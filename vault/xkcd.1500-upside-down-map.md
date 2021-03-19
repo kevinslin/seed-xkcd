@@ -2,7 +2,7 @@
 id: xkcd.1500-upside-down-map
 title: Upside-Down Map
 desc: ''
-updated: 1616186984456
+updated: 1426662000000
 created: 1426662000000
 sources:
   name: xkcd

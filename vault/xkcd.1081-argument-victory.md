@@ -2,7 +2,7 @@
 id: xkcd.1081-argument-victory
 title: Argument Victory
 desc: ''
-updated: 1616186984693
+updated: 1342162800000
 created: 1342162800000
 sources:
   name: xkcd

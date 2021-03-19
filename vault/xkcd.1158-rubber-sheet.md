@@ -2,7 +2,7 @@
 id: xkcd.1158-rubber-sheet
 title: Rubber Sheet
 desc: ''
-updated: 1616186984653
+updated: 1357718400000
 created: 1357718400000
 sources:
   name: xkcd

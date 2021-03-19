@@ -2,7 +2,7 @@
 id: xkcd.1961-interaction
 title: Interaction
 desc: ''
-updated: 1616186984485
+updated: 1519804800000
 created: 1519804800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1825-7-eleven
 title: 7 Eleven
 desc: ''
-updated: 1616186984443
+updated: 1492412400000
 created: 1492412400000
 sources:
   name: xkcd

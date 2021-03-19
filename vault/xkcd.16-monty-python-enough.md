@@ -2,7 +2,7 @@
 id: xkcd.16-monty-python-enough
 title: Monty Python -- Enough
 desc: ''
-updated: 1616186984379
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

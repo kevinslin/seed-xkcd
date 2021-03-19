@@ -2,7 +2,7 @@
 id: xkcd.567-urgent-mission
 title: Urgent Mission
 desc: ''
-updated: 1616186984596
+updated: 1239346800000
 created: 1239346800000
 sources:
   name: xkcd

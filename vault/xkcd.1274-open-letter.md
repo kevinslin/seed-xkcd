@@ -2,7 +2,7 @@
 id: xkcd.1274-open-letter
 title: Open Letter
 desc: ''
-updated: 1616186984369
+updated: 1381129200000
 created: 1381129200000
 sources:
   name: xkcd

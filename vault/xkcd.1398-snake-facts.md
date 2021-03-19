@@ -2,7 +2,7 @@
 id: xkcd.1398-snake-facts
 title: Snake Facts
 desc: ''
-updated: 1616186984418
+updated: 1406098800000
 created: 1406098800000
 sources:
   name: xkcd

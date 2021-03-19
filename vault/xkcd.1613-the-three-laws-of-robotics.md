@@ -2,7 +2,7 @@
 id: xkcd.1613-the-three-laws-of-robotics
 title: The Three Laws of Robotics
 desc: ''
-updated: 1616186984495
+updated: 1449475200000
 created: 1449475200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1508-operating-systems
 title: Operating Systems
 desc: ''
-updated: 1616186984457
+updated: 1428303600000
 created: 1428303600000
 sources:
   name: xkcd

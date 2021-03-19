@@ -2,7 +2,7 @@
 id: xkcd.1082-geology
 title: Geology
 desc: ''
-updated: 1616186984694
+updated: 1342422000000
 created: 1342422000000
 sources:
   name: xkcd

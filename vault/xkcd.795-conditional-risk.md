@@ -2,7 +2,7 @@
 id: xkcd.795-conditional-risk
 title: Conditional Risk
 desc: ''
-updated: 1616186984625
+updated: 1284966000000
 created: 1284966000000
 sources:
   name: xkcd

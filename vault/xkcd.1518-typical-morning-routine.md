@@ -2,7 +2,7 @@
 id: xkcd.1518-typical-morning-routine
 title: Typical Morning Routine
 desc: ''
-updated: 1616186984459
+updated: 1430290800000
 created: 1430290800000
 sources:
   name: xkcd

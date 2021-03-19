@@ -2,7 +2,7 @@
 id: xkcd.1810-chat-systems
 title: Chat Systems
 desc: ''
-updated: 1616186984439
+updated: 1489388400000
 created: 1489388400000
 sources:
   name: xkcd

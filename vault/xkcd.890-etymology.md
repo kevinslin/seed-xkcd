@@ -2,7 +2,7 @@
 id: xkcd.890-etymology
 title: Etymology
 desc: ''
-updated: 1616186984668
+updated: 1303714800000
 created: 1303714800000
 sources:
   name: xkcd

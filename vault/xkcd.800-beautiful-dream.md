@@ -2,7 +2,7 @@
 id: xkcd.800-beautiful-dream
 title: Beautiful Dream
 desc: ''
-updated: 1616186984657
+updated: 1285916400000
 created: 1285916400000
 sources:
   name: xkcd

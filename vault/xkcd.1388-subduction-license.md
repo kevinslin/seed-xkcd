@@ -2,7 +2,7 @@
 id: xkcd.1388-subduction-license
 title: Subduction License
 desc: ''
-updated: 1616186984415
+updated: 1404111600000
 created: 1404111600000
 sources:
   name: xkcd

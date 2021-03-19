@@ -2,7 +2,7 @@
 id: xkcd.1479-troubleshooting
 title: Troubleshooting
 desc: ''
-updated: 1616186984541
+updated: 1422432000000
 created: 1422432000000
 sources:
   name: xkcd

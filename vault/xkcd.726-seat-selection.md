@@ -2,7 +2,7 @@
 id: xkcd.726-seat-selection
 title: Seat Selection
 desc: ''
-updated: 1616186984618
+updated: 1271055600000
 created: 1271055600000
 sources:
   name: xkcd

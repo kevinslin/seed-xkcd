@@ -2,7 +2,7 @@
 id: xkcd.815-mu
 title: Mu
 desc: ''
-updated: 1616186984658
+updated: 1288940400000
 created: 1288940400000
 sources:
   name: xkcd

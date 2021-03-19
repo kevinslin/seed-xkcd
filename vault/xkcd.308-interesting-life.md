@@ -2,7 +2,7 @@
 id: xkcd.308-interesting-life
 title: Interesting Life
 desc: ''
-updated: 1616186984558
+updated: 1188198000000
 created: 1188198000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1946-hawaii
 title: Hawaii
 desc: ''
-updated: 1616186984482
+updated: 1516780800000
 created: 1516780800000
 sources:
   name: xkcd

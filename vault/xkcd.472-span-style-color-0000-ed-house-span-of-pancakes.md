@@ -2,7 +2,7 @@
 id: xkcd.472-span-style-color-0000-ed-house-span-of-pancakes
 title: '<span style="color: #0000ED">House</span> of Pancakes'
 desc: ''
-updated: 1616186984581
+updated: 1220598000000
 created: 1220598000000
 sources:
   name: xkcd

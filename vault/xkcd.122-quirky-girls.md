@@ -2,7 +2,7 @@
 id: xkcd.122-quirky-girls
 title: Quirky Girls
 desc: ''
-updated: 1616186984423
+updated: 1151650800000
 created: 1151650800000
 sources:
   name: xkcd

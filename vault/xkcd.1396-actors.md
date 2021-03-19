@@ -2,7 +2,7 @@
 id: xkcd.1396-actors
 title: Actors
 desc: ''
-updated: 1616186984418
+updated: 1405666800000
 created: 1405666800000
 sources:
   name: xkcd

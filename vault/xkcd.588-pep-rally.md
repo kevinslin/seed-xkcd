@@ -2,7 +2,7 @@
 id: xkcd.588-pep-rally
 title: Pep Rally
 desc: ''
-updated: 1616186984599
+updated: 1243234800000
 created: 1243234800000
 sources:
   name: xkcd

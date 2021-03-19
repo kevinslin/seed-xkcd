@@ -2,7 +2,7 @@
 id: xkcd.244-tabletop-roleplaying
 title: Tabletop Roleplaying
 desc: ''
-updated: 1616186984548
+updated: 1175670000000
 created: 1175670000000
 sources:
   name: xkcd

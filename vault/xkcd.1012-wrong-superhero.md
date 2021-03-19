@@ -2,7 +2,7 @@
 id: xkcd.1012-wrong-superhero
 title: Wrong Superhero
 desc: ''
-updated: 1616186984673
+updated: 1328256000000
 created: 1328256000000
 sources:
   name: xkcd

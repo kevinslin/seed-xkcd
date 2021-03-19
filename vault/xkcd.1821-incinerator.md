@@ -2,7 +2,7 @@
 id: xkcd.1821-incinerator
 title: Incinerator
 desc: ''
-updated: 1616186984442
+updated: 1491548400000
 created: 1491548400000
 sources:
   name: xkcd

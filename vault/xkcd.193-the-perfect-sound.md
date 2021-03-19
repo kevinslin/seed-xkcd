@@ -2,7 +2,7 @@
 id: xkcd.193-the-perfect-sound
 title: The Perfect Sound
 desc: ''
-updated: 1616186984436
+updated: 1165392000000
 created: 1165392000000
 sources:
   name: xkcd

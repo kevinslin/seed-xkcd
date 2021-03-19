@@ -2,7 +2,7 @@
 id: xkcd.1660-captain-speaking
 title: Captain Speaking
 desc: ''
-updated: 1616186984502
+updated: 1458889200000
 created: 1458889200000
 sources:
   name: xkcd

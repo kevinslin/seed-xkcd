@@ -2,7 +2,7 @@
 id: xkcd.1177-time-robot
 title: Time Robot
 desc: ''
-updated: 1616186984654
+updated: 1361520000000
 created: 1361520000000
 sources:
   name: xkcd

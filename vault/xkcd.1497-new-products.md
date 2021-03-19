@@ -2,7 +2,7 @@
 id: xkcd.1497-new-products
 title: New Products
 desc: ''
-updated: 1616186984542
+updated: 1426057200000
 created: 1426057200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.343-1337-part-3
 title: '1337: Part 3'
 desc: ''
-updated: 1616186984561
+updated: 1195027200000
 created: 1195027200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.227-color-codes
 title: Color Codes
 desc: ''
-updated: 1616186984546
+updated: 1172217600000
 created: 1172217600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.165-turn-signals
 title: Turn Signals
 desc: ''
-updated: 1616186984431
+updated: 1159772400000
 created: 1159772400000
 sources:
   name: xkcd

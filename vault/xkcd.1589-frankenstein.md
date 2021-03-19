@@ -2,7 +2,7 @@
 id: xkcd.1589-frankenstein
 title: Frankenstein
 desc: ''
-updated: 1616186984471
+updated: 1444633200000
 created: 1444633200000
 sources:
   name: xkcd

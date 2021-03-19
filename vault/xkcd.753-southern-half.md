@@ -2,7 +2,7 @@
 id: xkcd.753-southern-half
 title: Southern Half
 desc: ''
-updated: 1616186984621
+updated: 1276498800000
 created: 1276498800000
 sources:
   name: xkcd

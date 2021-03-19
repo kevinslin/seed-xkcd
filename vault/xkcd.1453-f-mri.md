@@ -2,7 +2,7 @@
 id: xkcd.1453-f-mri
 title: fMRI
 desc: ''
-updated: 1616186984538
+updated: 1417161600000
 created: 1417161600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.593-voynich-manuscript
 title: Voynich Manuscript
 desc: ''
-updated: 1616186984599
+updated: 1244185200000
 created: 1244185200000
 sources:
   name: xkcd

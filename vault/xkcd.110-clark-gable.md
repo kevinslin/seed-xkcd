@@ -2,7 +2,7 @@
 id: xkcd.110-clark-gable
 title: Clark Gable
 desc: ''
-updated: 1616186984421
+updated: 1149231600000
 created: 1149231600000
 sources:
   name: xkcd

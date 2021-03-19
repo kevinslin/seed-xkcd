@@ -2,7 +2,7 @@
 id: xkcd.505-a-bunch-of-rocks
 title: A Bunch of Rocks
 desc: ''
-updated: 1616186984586
+updated: 1226908800000
 created: 1226908800000
 sources:
   name: xkcd

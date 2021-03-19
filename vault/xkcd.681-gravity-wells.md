@@ -2,7 +2,7 @@
 id: xkcd.681-gravity-wells
 title: Gravity Wells
 desc: ''
-updated: 1616186984613
+updated: 1261987200000
 created: 1261987200000
 sources:
   name: xkcd

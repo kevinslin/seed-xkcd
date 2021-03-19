@@ -2,7 +2,7 @@
 id: xkcd.736-cemetery
 title: Cemetery
 desc: ''
-updated: 1616186984619
+updated: 1273042800000
 created: 1273042800000
 sources:
   name: xkcd

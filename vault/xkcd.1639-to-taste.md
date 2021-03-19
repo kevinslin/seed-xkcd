@@ -2,7 +2,7 @@
 id: xkcd.1639-to-taste
 title: To Taste
 desc: ''
-updated: 1616186984499
+updated: 1454659200000
 created: 1454659200000
 sources:
   name: xkcd

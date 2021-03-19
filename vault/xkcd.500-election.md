@@ -2,7 +2,7 @@
 id: xkcd.500-election
 title: Election
 desc: ''
-updated: 1616186984585
+updated: 1225872000000
 created: 1225872000000
 sources:
   name: xkcd

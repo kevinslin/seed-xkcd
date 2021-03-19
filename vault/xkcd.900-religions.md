@@ -2,7 +2,7 @@
 id: xkcd.900-religions
 title: Religions
 desc: ''
-updated: 1616186984629
+updated: 1305702000000
 created: 1305702000000
 sources:
   name: xkcd

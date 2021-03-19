@@ -2,7 +2,7 @@
 id: xkcd.1424-en-garde
 title: En Garde
 desc: ''
-updated: 1616186984535
+updated: 1411369200000
 created: 1411369200000
 sources:
   name: xkcd

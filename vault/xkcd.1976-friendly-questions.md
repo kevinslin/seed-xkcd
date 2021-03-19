@@ -2,7 +2,7 @@
 id: xkcd.1976-friendly-questions
 title: Friendly Questions
 desc: ''
-updated: 1616186984489
+updated: 1522825200000
 created: 1522825200000
 sources:
   name: xkcd

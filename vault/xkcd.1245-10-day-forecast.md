@@ -2,7 +2,7 @@
 id: xkcd.1245-10-day-forecast
 title: 10-Day Forecast
 desc: ''
-updated: 1616186984363
+updated: 1375254000000
 created: 1375254000000
 sources:
   name: xkcd

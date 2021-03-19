@@ -2,7 +2,7 @@
 id: xkcd.1291-shoot-for-the-moon
 title: Shoot for the Moon
 desc: ''
-updated: 1616186984373
+updated: 1384502400000
 created: 1384502400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.533-laptop-hell
 title: Laptop Hell
 desc: ''
-updated: 1616186984591
+updated: 1232524800000
 created: 1232524800000
 sources:
   name: xkcd

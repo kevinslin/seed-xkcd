@@ -2,7 +2,7 @@
 id: xkcd.286-all-your-base
 title: All Your Base
 desc: ''
-updated: 1616186984554
+updated: 1183705200000
 created: 1183705200000
 sources:
   name: xkcd

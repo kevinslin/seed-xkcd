@@ -2,7 +2,7 @@
 id: xkcd.688-self-description
 title: Self-Description
 desc: ''
-updated: 1616186984613
+updated: 1263369600000
 created: 1263369600000
 sources:
   name: xkcd

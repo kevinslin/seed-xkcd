@@ -2,7 +2,7 @@
 id: xkcd.6-irony
 title: Irony
 desc: ''
-updated: 1616186984376
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

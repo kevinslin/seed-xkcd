@@ -2,7 +2,7 @@
 id: xkcd.1739-fixing-problems
 title: Fixing Problems
 desc: ''
-updated: 1616186984517
+updated: 1475046000000
 created: 1475046000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.512-alternate-currency
 title: Alternate Currency
 desc: ''
-updated: 1616186984587
+updated: 1228291200000
 created: 1228291200000
 sources:
   name: xkcd

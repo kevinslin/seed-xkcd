@@ -2,7 +2,7 @@
 id: xkcd.1418-horse
 title: Horse
 desc: ''
-updated: 1616186984535
+updated: 1410159600000
 created: 1410159600000
 sources:
   name: xkcd

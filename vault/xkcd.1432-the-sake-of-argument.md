@@ -2,7 +2,7 @@
 id: xkcd.1432-the-sake-of-argument
 title: The Sake of Argument
 desc: ''
-updated: 1616186984536
+updated: 1412924400000
 created: 1412924400000
 sources:
   name: xkcd

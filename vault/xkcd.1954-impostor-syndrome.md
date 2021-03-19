@@ -2,7 +2,7 @@
 id: xkcd.1954-impostor-syndrome
 title: Impostor Syndrome
 desc: ''
-updated: 1616186984484
+updated: 1518422400000
 created: 1518422400000
 sources:
   name: xkcd

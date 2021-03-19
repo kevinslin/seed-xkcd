@@ -2,7 +2,7 @@
 id: xkcd.310-commitment
 title: Commitment
 desc: ''
-updated: 1616186984558
+updated: 1188543600000
 created: 1188543600000
 sources:
   name: xkcd

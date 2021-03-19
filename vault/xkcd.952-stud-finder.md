@@ -2,7 +2,7 @@
 id: xkcd.952-stud-finder
 title: Stud Finder
 desc: ''
-updated: 1616186984634
+updated: 1316156400000
 created: 1316156400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1309-infinite-scrolling
 title: Infinite Scrolling
 desc: ''
-updated: 1616186984399
+updated: 1388131200000
 created: 1388131200000
 sources:
   name: xkcd

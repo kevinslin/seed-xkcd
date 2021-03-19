@@ -2,7 +2,7 @@
 id: xkcd.1065-shoes
 title: Shoes
 desc: ''
-updated: 1616186984690
+updated: 1338966000000
 created: 1338966000000
 sources:
   name: xkcd

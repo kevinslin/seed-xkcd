@@ -2,7 +2,7 @@
 id: xkcd.947-investing
 title: Investing
 desc: ''
-updated: 1616186984633
+updated: 1315206000000
 created: 1315206000000
 sources:
   name: xkcd

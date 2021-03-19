@@ -2,7 +2,7 @@
 id: xkcd.723-seismic-waves
 title: Seismic Waves
 desc: ''
-updated: 1616186984618
+updated: 1270450800000
 created: 1270450800000
 sources:
   name: xkcd

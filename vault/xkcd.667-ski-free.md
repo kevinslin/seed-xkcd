@@ -2,7 +2,7 @@
 id: xkcd.667-ski-free
 title: SkiFree
 desc: ''
-updated: 1616186984612
+updated: 1259136000000
 created: 1259136000000
 sources:
   name: xkcd

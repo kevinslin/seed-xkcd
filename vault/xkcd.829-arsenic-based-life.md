@@ -2,7 +2,7 @@
 id: xkcd.829-arsenic-based-life
 title: Arsenic-Based Life
 desc: ''
-updated: 1616186984661
+updated: 1291363200000
 created: 1291363200000
 sources:
   name: xkcd

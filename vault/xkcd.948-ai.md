@@ -2,7 +2,7 @@
 id: xkcd.948-ai
 title: AI
 desc: ''
-updated: 1616186984633
+updated: 1315378800000
 created: 1315378800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.493-actuarial
 title: Actuarial
 desc: ''
-updated: 1616186984584
+updated: 1224831600000
 created: 1224831600000
 sources:
   name: xkcd

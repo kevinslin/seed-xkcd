@@ -2,7 +2,7 @@
 id: xkcd.409-electric-skateboard-double-comic
 title: Electric Skateboard (Double Comic)
 desc: ''
-updated: 1616186984571
+updated: 1207897200000
 created: 1207897200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.486-i-am-not-a-ninja
 title: I am Not a Ninja
 desc: ''
-updated: 1616186984584
+updated: 1223449200000
 created: 1223449200000
 sources:
   name: xkcd

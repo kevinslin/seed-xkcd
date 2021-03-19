@@ -2,7 +2,7 @@
 id: xkcd.1848-glacial-erratic
 title: Glacial Erratic
 desc: ''
-updated: 1616186984446
+updated: 1496991600000
 created: 1496991600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1558-vet
 title: Vet
 desc: ''
-updated: 1616186984465
+updated: 1438326000000
 created: 1438326000000
 sources:
   name: xkcd

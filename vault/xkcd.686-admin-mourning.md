@@ -2,7 +2,7 @@
 id: xkcd.686-admin-mourning
 title: Admin Mourning
 desc: ''
-updated: 1616186984613
+updated: 1262937600000
 created: 1262937600000
 sources:
   name: xkcd

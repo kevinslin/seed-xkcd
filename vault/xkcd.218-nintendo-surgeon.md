@@ -2,7 +2,7 @@
 id: xkcd.218-nintendo-surgeon
 title: Nintendo Surgeon
 desc: ''
-updated: 1616186984545
+updated: 1170403200000
 created: 1170403200000
 sources:
   name: xkcd

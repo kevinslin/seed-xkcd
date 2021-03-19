@@ -2,7 +2,7 @@
 id: xkcd.1040-lakes-and-oceans
 title: Lakes and Oceans
 desc: ''
-updated: 1616186984681
+updated: 1333954800000
 created: 1333954800000
 sources:
   name: xkcd

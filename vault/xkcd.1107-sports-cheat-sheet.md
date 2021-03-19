@@ -2,7 +2,7 @@
 id: xkcd.1107-sports-cheat-sheet
 title: Sports Cheat Sheet
 desc: ''
-updated: 1616186984649
+updated: 1347433200000
 created: 1347433200000
 sources:
   name: xkcd

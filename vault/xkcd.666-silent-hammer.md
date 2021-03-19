@@ -2,7 +2,7 @@
 id: xkcd.666-silent-hammer
 title: Silent Hammer
 desc: ''
-updated: 1616186984611
+updated: 1258963200000
 created: 1258963200000
 sources:
   name: xkcd

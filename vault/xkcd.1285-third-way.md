@@ -2,7 +2,7 @@
 id: xkcd.1285-third-way
 title: Third Way
 desc: ''
-updated: 1616186984372
+updated: 1383289200000
 created: 1383289200000
 sources:
   name: xkcd

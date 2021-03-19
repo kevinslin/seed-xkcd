@@ -2,7 +2,7 @@
 id: xkcd.75-curse-levels
 title: Curse Levels
 desc: ''
-updated: 1616186984391
+updated: 1142236800000
 created: 1142236800000
 sources:
   name: xkcd

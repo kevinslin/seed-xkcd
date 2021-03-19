@@ -2,7 +2,7 @@
 id: xkcd.1061-est
 title: EST
 desc: ''
-updated: 1616186984690
+updated: 1338188400000
 created: 1338188400000
 sources:
   name: xkcd

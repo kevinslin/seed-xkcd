@@ -2,7 +2,7 @@
 id: xkcd.1239-social-media
 title: Social Media
 desc: ''
-updated: 1616186984359
+updated: 1374044400000
 created: 1374044400000
 sources:
   name: xkcd

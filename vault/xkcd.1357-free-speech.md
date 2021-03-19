@@ -2,7 +2,7 @@
 id: xkcd.1357-free-speech
 title: Free Speech
 desc: ''
-updated: 1616186984408
+updated: 1397804400000
 created: 1397804400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.563-fermirotica
 title: Fermirotica
 desc: ''
-updated: 1616186984595
+updated: 1238569200000
 created: 1238569200000
 sources:
   name: xkcd

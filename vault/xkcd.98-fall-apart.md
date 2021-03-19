@@ -2,7 +2,7 @@
 id: xkcd.98-fall-apart
 title: Fall Apart
 desc: ''
-updated: 1616186984395
+updated: 1146812400000
 created: 1146812400000
 sources:
   name: xkcd

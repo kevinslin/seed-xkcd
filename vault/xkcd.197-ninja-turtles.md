@@ -2,7 +2,7 @@
 id: xkcd.197-ninja-turtles
 title: Ninja Turtles
 desc: ''
-updated: 1616186984436
+updated: 1166169600000
 created: 1166169600000
 sources:
   name: xkcd

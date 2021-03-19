@@ -2,7 +2,7 @@
 id: xkcd.572-together
 title: Together
 desc: ''
-updated: 1616186984596
+updated: 1240383600000
 created: 1240383600000
 sources:
   name: xkcd

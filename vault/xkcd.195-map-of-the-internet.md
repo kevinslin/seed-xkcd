@@ -2,7 +2,7 @@
 id: xkcd.195-map-of-the-internet
 title: Map of the Internet
 desc: ''
-updated: 1616186984436
+updated: 1165824000000
 created: 1165824000000
 sources:
   name: xkcd

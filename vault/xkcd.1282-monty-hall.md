@@ -2,7 +2,7 @@
 id: xkcd.1282-monty-hall
 title: Monty Hall
 desc: ''
-updated: 1616186984371
+updated: 1382684400000
 created: 1382684400000
 sources:
   name: xkcd

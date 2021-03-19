@@ -2,7 +2,7 @@
 id: xkcd.1903-bun-trend
 title: Bun Trend
 desc: ''
-updated: 1616186984474
+updated: 1508137200000
 created: 1508137200000
 sources:
   name: xkcd

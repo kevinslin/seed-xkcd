@@ -2,7 +2,7 @@
 id: xkcd.622-haiku-proof
 title: Haiku Proof
 desc: ''
-updated: 1616186984604
+updated: 1250060400000
 created: 1250060400000
 sources:
   name: xkcd

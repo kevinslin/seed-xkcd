@@ -2,7 +2,7 @@
 id: xkcd.1845-state-word-map
 title: State Word Map
 desc: ''
-updated: 1616186984446
+updated: 1496386800000
 created: 1496386800000
 sources:
   name: xkcd

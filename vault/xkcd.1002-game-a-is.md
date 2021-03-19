@@ -2,7 +2,7 @@
 id: xkcd.1002-game-a-is
 title: Game AIs
 desc: ''
-updated: 1616186984672
+updated: 1326268800000
 created: 1326268800000
 sources:
   name: xkcd

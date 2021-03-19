@@ -2,7 +2,7 @@
 id: xkcd.1343-manuals
 title: Manuals
 desc: ''
-updated: 1616186984405
+updated: 1395039600000
 created: 1395039600000
 sources:
   name: xkcd

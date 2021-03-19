@@ -2,7 +2,7 @@
 id: xkcd.1557-ozymandias
 title: Ozymandias
 desc: ''
-updated: 1616186984465
+updated: 1438153200000
 created: 1438153200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.7-girl-sleeping-sketch-11-th-grade-spanish-class
 title: Girl sleeping (Sketch -- 11th grade Spanish class)
 desc: ''
-updated: 1616186984376
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

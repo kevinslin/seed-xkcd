@@ -2,7 +2,7 @@
 id: xkcd.429-fantasy
 title: Fantasy
 desc: ''
-updated: 1616186984574
+updated: 1211958000000
 created: 1211958000000
 sources:
   name: xkcd

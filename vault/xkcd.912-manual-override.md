@@ -2,7 +2,7 @@
 id: xkcd.912-manual-override
 title: Manual Override
 desc: ''
-updated: 1616186984630
+updated: 1308121200000
 created: 1308121200000
 sources:
   name: xkcd

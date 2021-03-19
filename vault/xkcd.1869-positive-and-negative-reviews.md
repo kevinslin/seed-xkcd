@@ -2,7 +2,7 @@
 id: xkcd.1869-positive-and-negative-reviews
 title: Positive and Negative Reviews
 desc: ''
-updated: 1616186984450
+updated: 1501225200000
 created: 1501225200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1857-emoji-movie
 title: Emoji Movie
 desc: ''
-updated: 1616186984448
+updated: 1498806000000
 created: 1498806000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.778-scheduling
 title: Scheduling
 desc: ''
-updated: 1616186984623
+updated: 1281510000000
 created: 1281510000000
 sources:
   name: xkcd

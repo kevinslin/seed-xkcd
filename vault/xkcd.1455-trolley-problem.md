@@ -2,7 +2,7 @@
 id: xkcd.1455-trolley-problem
 title: Trolley Problem
 desc: ''
-updated: 1616186984538
+updated: 1417593600000
 created: 1417593600000
 sources:
   name: xkcd

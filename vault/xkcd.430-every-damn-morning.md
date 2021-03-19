@@ -2,7 +2,7 @@
 id: xkcd.430-every-damn-morning
 title: Every Damn Morning
 desc: ''
-updated: 1616186984574
+updated: 1212130800000
 created: 1212130800000
 sources:
   name: xkcd

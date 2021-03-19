@@ -2,7 +2,7 @@
 id: xkcd.1363-xkcd-phone
 title: xkcd Phone
 desc: ''
-updated: 1616186984410
+updated: 1399014000000
 created: 1399014000000
 sources:
   name: xkcd

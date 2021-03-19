@@ -2,7 +2,7 @@
 id: xkcd.164-playing-devils-advocate-to-win
 title: Playing Devil's Advocate to Win
 desc: ''
-updated: 1616186984431
+updated: 1159513200000
 created: 1159513200000
 sources:
   name: xkcd

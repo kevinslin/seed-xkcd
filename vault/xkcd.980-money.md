@@ -2,7 +2,7 @@
 id: xkcd.980-money
 title: Money
 desc: ''
-updated: 1616186984636
+updated: 1321862400000
 created: 1321862400000
 sources:
   name: xkcd

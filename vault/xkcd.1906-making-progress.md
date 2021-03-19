@@ -2,7 +2,7 @@
 id: xkcd.1906-making-progress
 title: Making Progress
 desc: ''
-updated: 1616186984474
+updated: 1508742000000
 created: 1508742000000
 sources:
   name: xkcd

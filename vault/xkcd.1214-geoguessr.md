@@ -2,7 +2,7 @@
 id: xkcd.1214-geoguessr
 title: Geoguessr
 desc: ''
-updated: 1616186984352
+updated: 1369033200000
 created: 1369033200000
 sources:
   name: xkcd

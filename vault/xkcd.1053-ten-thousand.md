@@ -2,7 +2,7 @@
 id: xkcd.1053-ten-thousand
 title: Ten Thousand
 desc: ''
-updated: 1616186984688
+updated: 1336546800000
 created: 1336546800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1333-first-date
 title: First Date
 desc: ''
-updated: 1616186984404
+updated: 1392969600000
 created: 1392969600000
 sources:
   name: xkcd

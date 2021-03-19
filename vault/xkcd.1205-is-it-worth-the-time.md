@@ -2,7 +2,7 @@
 id: xkcd.1205-is-it-worth-the-time
 title: Is It Worth the Time?
 desc: ''
-updated: 1616186984346
+updated: 1367218800000
 created: 1367218800000
 sources:
   name: xkcd

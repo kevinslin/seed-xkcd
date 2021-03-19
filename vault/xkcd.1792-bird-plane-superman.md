@@ -2,7 +2,7 @@
 id: xkcd.1792-bird-plane-superman
 title: Bird/Plane/Superman
 desc: ''
-updated: 1616186984529
+updated: 1485763200000
 created: 1485763200000
 sources:
   name: xkcd

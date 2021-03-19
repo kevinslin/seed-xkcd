@@ -2,7 +2,7 @@
 id: xkcd.332-gyroscopes
 title: Gyroscopes
 desc: ''
-updated: 1616186984560
+updated: 1193036400000
 created: 1193036400000
 sources:
   name: xkcd

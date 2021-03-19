@@ -2,7 +2,7 @@
 id: xkcd.1894-real-estate
 title: Real Estate
 desc: ''
-updated: 1616186984454
+updated: 1506322800000
 created: 1506322800000
 sources:
   name: xkcd

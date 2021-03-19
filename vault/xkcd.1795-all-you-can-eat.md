@@ -2,7 +2,7 @@
 id: xkcd.1795-all-you-can-eat
 title: All You Can Eat
 desc: ''
-updated: 1616186984529
+updated: 1486368000000
 created: 1486368000000
 sources:
   name: xkcd

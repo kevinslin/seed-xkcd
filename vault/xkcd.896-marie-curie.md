@@ -2,7 +2,7 @@
 id: xkcd.896-marie-curie
 title: Marie Curie
 desc: ''
-updated: 1616186984669
+updated: 1304924400000
 created: 1304924400000
 sources:
   name: xkcd

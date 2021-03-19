@@ -2,7 +2,7 @@
 id: xkcd.1732-earth-temperature-timeline
 title: Earth Temperature Timeline
 desc: ''
-updated: 1616186984514
+updated: 1473663600000
 created: 1473663600000
 sources:
   name: xkcd

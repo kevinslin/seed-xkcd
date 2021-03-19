@@ -2,7 +2,7 @@
 id: xkcd.1062-budget-news
 title: Budget News
 desc: ''
-updated: 1616186984690
+updated: 1338361200000
 created: 1338361200000
 sources:
   name: xkcd

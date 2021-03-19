@@ -2,7 +2,7 @@
 id: xkcd.961-eternal-flame
 title: Eternal Flame
 desc: ''
-updated: 1616186984635
+updated: 1317884400000
 created: 1317884400000
 sources:
   name: xkcd

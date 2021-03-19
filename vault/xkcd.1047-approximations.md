@@ -2,7 +2,7 @@
 id: xkcd.1047-approximations
 title: Approximations
 desc: ''
-updated: 1616186984687
+updated: 1335337200000
 created: 1335337200000
 sources:
   name: xkcd

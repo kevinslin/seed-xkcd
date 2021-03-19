@@ -2,7 +2,7 @@
 id: xkcd.610-sheeple
 title: Sheeple
 desc: ''
-updated: 1616186984602
+updated: 1247641200000
 created: 1247641200000
 sources:
   name: xkcd

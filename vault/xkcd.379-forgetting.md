@@ -2,7 +2,7 @@
 id: xkcd.379-forgetting
 title: Forgetting
 desc: ''
-updated: 1616186984566
+updated: 1202112000000
 created: 1202112000000
 sources:
   name: xkcd

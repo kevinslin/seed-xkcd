@@ -2,7 +2,7 @@
 id: xkcd.1772-startup-opportunity
 title: Startup Opportunity
 desc: ''
-updated: 1616186984525
+updated: 1481702400000
 created: 1481702400000
 sources:
   name: xkcd

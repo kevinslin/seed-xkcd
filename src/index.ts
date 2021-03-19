@@ -74,7 +74,7 @@ function toNote(opts: { meta: XKCDResp }): NotePropsV2 {
         id: fname,
         title,
         created: dt.toMillis(),
-        updated: DateTime.local().toMillis(),
+        updated: dt.toMillis(),
         body: body,
         fname,
         vault: { fsPath: "vault" },
@@ -134,8 +134,8 @@ async function getNotes() {
 
 async function main() {
     console.log("start");
-    await getNotes();
-    // await createNotes();
+    //await getNotes();
+    await createNotes();
 }
 
 main();

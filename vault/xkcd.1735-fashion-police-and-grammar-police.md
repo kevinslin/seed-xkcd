@@ -2,7 +2,7 @@
 id: xkcd.1735-fashion-police-and-grammar-police
 title: Fashion Police and Grammar Police
 desc: ''
-updated: 1616186984517
+updated: 1474268400000
 created: 1474268400000
 sources:
   name: xkcd

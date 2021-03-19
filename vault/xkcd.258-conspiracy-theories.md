@@ -2,7 +2,7 @@
 id: xkcd.258-conspiracy-theories
 title: Conspiracy Theories
 desc: ''
-updated: 1616186984551
+updated: 1178521200000
 created: 1178521200000
 sources:
   name: xkcd

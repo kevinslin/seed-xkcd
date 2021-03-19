@@ -2,7 +2,7 @@
 id: xkcd.1969-not-available
 title: Not Available
 desc: ''
-updated: 1616186984488
+updated: 1521442800000
 created: 1521442800000
 sources:
   name: xkcd

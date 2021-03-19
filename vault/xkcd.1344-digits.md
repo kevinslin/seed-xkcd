@@ -2,7 +2,7 @@
 id: xkcd.1344-digits
 title: Digits
 desc: ''
-updated: 1616186984405
+updated: 1395212400000
 created: 1395212400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1758-astrophysics
 title: Astrophysics
 desc: ''
-updated: 1616186984522
+updated: 1478851200000
 created: 1478851200000
 sources:
   name: xkcd

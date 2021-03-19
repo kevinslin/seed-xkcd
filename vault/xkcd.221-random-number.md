@@ -2,7 +2,7 @@
 id: xkcd.221-random-number
 title: Random Number
 desc: ''
-updated: 1616186984545
+updated: 1171008000000
 created: 1171008000000
 sources:
   name: xkcd

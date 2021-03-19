@@ -2,7 +2,7 @@
 id: xkcd.777-pore-strips
 title: Pore Strips
 desc: ''
-updated: 1616186984623
+updated: 1281337200000
 created: 1281337200000
 sources:
   name: xkcd

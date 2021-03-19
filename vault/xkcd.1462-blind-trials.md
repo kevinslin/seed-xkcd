@@ -2,7 +2,7 @@
 id: xkcd.1462-blind-trials
 title: Blind Trials
 desc: ''
-updated: 1616186984539
+updated: 1418976000000
 created: 1418976000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.570-new-car
 title: New Car
 desc: ''
-updated: 1616186984596
+updated: 1239951600000
 created: 1239951600000
 sources:
   name: xkcd

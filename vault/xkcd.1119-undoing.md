@@ -2,7 +2,7 @@
 id: xkcd.1119-undoing
 title: Undoing
 desc: ''
-updated: 1616186984650
+updated: 1349852400000
 created: 1349852400000
 sources:
   name: xkcd

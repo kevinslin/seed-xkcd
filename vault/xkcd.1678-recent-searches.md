@@ -2,7 +2,7 @@
 id: xkcd.1678-recent-searches
 title: Recent Searches
 desc: ''
-updated: 1616186984504
+updated: 1462777200000
 created: 1462777200000
 sources:
   name: xkcd

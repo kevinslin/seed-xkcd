@@ -2,7 +2,7 @@
 id: xkcd.418-stove-ownership
 title: Stove Ownership
 desc: ''
-updated: 1616186984572
+updated: 1209711600000
 created: 1209711600000
 sources:
   name: xkcd

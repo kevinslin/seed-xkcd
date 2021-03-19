@@ -2,7 +2,7 @@
 id: xkcd.1258-first
 title: First
 desc: ''
-updated: 1616186984366
+updated: 1377846000000
 created: 1377846000000
 sources:
   name: xkcd

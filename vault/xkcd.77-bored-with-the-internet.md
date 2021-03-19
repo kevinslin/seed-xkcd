@@ -2,7 +2,7 @@
 id: xkcd.77-bored-with-the-internet
 title: Bored with the Internet
 desc: ''
-updated: 1616186984391
+updated: 1142582400000
 created: 1142582400000
 sources:
   name: xkcd

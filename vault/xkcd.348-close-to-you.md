@@ -2,7 +2,7 @@
 id: xkcd.348-close-to-you
 title: Close to You
 desc: ''
-updated: 1616186984562
+updated: 1195804800000
 created: 1195804800000
 sources:
   name: xkcd

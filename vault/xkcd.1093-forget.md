@@ -2,7 +2,7 @@
 id: xkcd.1093-forget
 title: Forget
 desc: ''
-updated: 1616186984697
+updated: 1344582000000
 created: 1344582000000
 sources:
   name: xkcd

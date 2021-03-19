@@ -2,7 +2,7 @@
 id: xkcd.350-network
 title: Network
 desc: ''
-updated: 1616186984562
+updated: 1196236800000
 created: 1196236800000
 sources:
   name: xkcd

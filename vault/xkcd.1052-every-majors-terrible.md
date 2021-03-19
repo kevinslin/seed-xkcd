@@ -2,7 +2,7 @@
 id: xkcd.1052-every-majors-terrible
 title: Every Major's Terrible
 desc: ''
-updated: 1616186984688
+updated: 1336374000000
 created: 1336374000000
 sources:
   name: xkcd

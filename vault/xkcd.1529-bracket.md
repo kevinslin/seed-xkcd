@@ -2,7 +2,7 @@
 id: xkcd.1529-bracket
 title: Bracket
 desc: ''
-updated: 1616186984460
+updated: 1432537200000
 created: 1432537200000
 sources:
   name: xkcd

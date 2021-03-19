@@ -2,7 +2,7 @@
 id: xkcd.1441-turnabout
 title: Turnabout
 desc: ''
-updated: 1616186984537
+updated: 1414738800000
 created: 1414738800000
 sources:
   name: xkcd

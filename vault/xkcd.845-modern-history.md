@@ -2,7 +2,7 @@
 id: xkcd.845-modern-history
 title: Modern History
 desc: ''
-updated: 1616186984663
+updated: 1294646400000
 created: 1294646400000
 sources:
   name: xkcd

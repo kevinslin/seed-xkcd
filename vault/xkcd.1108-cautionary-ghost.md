@@ -2,7 +2,7 @@
 id: xkcd.1108-cautionary-ghost
 title: Cautionary Ghost
 desc: ''
-updated: 1616186984649
+updated: 1347606000000
 created: 1347606000000
 sources:
   name: xkcd

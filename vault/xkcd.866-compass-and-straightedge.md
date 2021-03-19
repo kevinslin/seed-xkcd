@@ -2,7 +2,7 @@
 id: xkcd.866-compass-and-straightedge
 title: Compass and Straightedge
 desc: ''
-updated: 1616186984666
+updated: 1298880000000
 created: 1298880000000
 sources:
   name: xkcd

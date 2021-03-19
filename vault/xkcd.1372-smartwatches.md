@@ -2,7 +2,7 @@
 id: xkcd.1372-smartwatches
 title: Smartwatches
 desc: ''
-updated: 1616186984411
+updated: 1400828400000
 created: 1400828400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.783-i-dont-want-directions
 title: I Don't Want Directions
 desc: ''
-updated: 1616186984624
+updated: 1282546800000
 created: 1282546800000
 sources:
   name: xkcd

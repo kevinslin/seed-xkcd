@@ -2,7 +2,7 @@
 id: xkcd.1620-christmas-settings
 title: Christmas Settings
 desc: ''
-updated: 1616186984496
+updated: 1450857600000
 created: 1450857600000
 sources:
   name: xkcd

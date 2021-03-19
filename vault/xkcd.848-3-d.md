@@ -2,7 +2,7 @@
 id: xkcd.848-3-d
 title: 3D
 desc: ''
-updated: 1616186984664
+updated: 1295251200000
 created: 1295251200000
 sources:
   name: xkcd

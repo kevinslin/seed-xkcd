@@ -2,7 +2,7 @@
 id: xkcd.1522-astronomy
 title: Astronomy
 desc: ''
-updated: 1616186984459
+updated: 1431068400000
 created: 1431068400000
 sources:
   name: xkcd

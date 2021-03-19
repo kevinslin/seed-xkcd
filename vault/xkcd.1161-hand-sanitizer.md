@@ -2,7 +2,7 @@
 id: xkcd.1161-hand-sanitizer
 title: Hand Sanitizer
 desc: ''
-updated: 1616186984653
+updated: 1358323200000
 created: 1358323200000
 sources:
   name: xkcd

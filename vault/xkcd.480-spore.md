@@ -2,7 +2,7 @@
 id: xkcd.480-spore
 title: Spore
 desc: ''
-updated: 1616186984583
+updated: 1222239600000
 created: 1222239600000
 sources:
   name: xkcd

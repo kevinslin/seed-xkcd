@@ -2,7 +2,7 @@
 id: xkcd.1693-oxidation
 title: Oxidation
 desc: ''
-updated: 1616186984506
+updated: 1465801200000
 created: 1465801200000
 sources:
   name: xkcd

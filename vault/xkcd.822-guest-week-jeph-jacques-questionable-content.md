@@ -2,7 +2,7 @@
 id: xkcd.822-guest-week-jeph-jacques-questionable-content
 title: 'Guest Week: Jeph Jacques (Questionable Content)'
 desc: ''
-updated: 1616186984660
+updated: 1290412800000
 created: 1290412800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.973-mtv-generation
 title: MTV Generation
 desc: ''
-updated: 1616186984636
+updated: 1320390000000
 created: 1320390000000
 sources:
   name: xkcd

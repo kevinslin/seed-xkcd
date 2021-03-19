@@ -2,7 +2,7 @@
 id: xkcd.465-quantum-teleportation
 title: Quantum Teleportation
 desc: ''
-updated: 1616186984580
+updated: 1219215600000
 created: 1219215600000
 sources:
   name: xkcd

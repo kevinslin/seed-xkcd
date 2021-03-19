@@ -2,7 +2,7 @@
 id: xkcd.1927-tinder
 title: Tinder
 desc: ''
-updated: 1616186984478
+updated: 1512979200000
 created: 1512979200000
 sources:
   name: xkcd

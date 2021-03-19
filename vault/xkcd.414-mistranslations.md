@@ -2,7 +2,7 @@
 id: xkcd.414-mistranslations
 title: Mistranslations
 desc: ''
-updated: 1616186984572
+updated: 1208934000000
 created: 1208934000000
 sources:
   name: xkcd

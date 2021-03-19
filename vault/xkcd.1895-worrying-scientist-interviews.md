@@ -2,7 +2,7 @@
 id: xkcd.1895-worrying-scientist-interviews
 title: Worrying Scientist Interviews
 desc: ''
-updated: 1616186984455
+updated: 1506495600000
 created: 1506495600000
 sources:
   name: xkcd

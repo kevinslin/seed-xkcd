@@ -2,7 +2,7 @@
 id: xkcd.1774-adjective-foods
 title: Adjective Foods
 desc: ''
-updated: 1616186984525
+updated: 1482134400000
 created: 1482134400000
 sources:
   name: xkcd

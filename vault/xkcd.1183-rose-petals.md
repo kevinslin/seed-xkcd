@@ -2,7 +2,7 @@
 id: xkcd.1183-rose-petals
 title: Rose Petals
 desc: ''
-updated: 1616186984655
+updated: 1362729600000
 created: 1362729600000
 sources:
   name: xkcd

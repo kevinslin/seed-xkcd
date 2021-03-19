@@ -2,7 +2,7 @@
 id: xkcd.740-the-tell-tale-beat
 title: The Tell-Tale Beat
 desc: ''
-updated: 1616186984619
+updated: 1273820400000
 created: 1273820400000
 sources:
   name: xkcd

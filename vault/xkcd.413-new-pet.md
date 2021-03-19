@@ -2,7 +2,7 @@
 id: xkcd.413-new-pet
 title: New Pet
 desc: ''
-updated: 1616186984572
+updated: 1208761200000
 created: 1208761200000
 sources:
   name: xkcd

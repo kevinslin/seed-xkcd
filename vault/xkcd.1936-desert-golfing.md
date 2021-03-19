@@ -2,7 +2,7 @@
 id: xkcd.1936-desert-golfing
 title: Desert Golfing
 desc: ''
-updated: 1616186984480
+updated: 1514793600000
 created: 1514793600000
 sources:
   name: xkcd

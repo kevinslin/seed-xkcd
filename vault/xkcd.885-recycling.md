@@ -2,7 +2,7 @@
 id: xkcd.885-recycling
 title: Recycling
 desc: ''
-updated: 1616186984668
+updated: 1302678000000
 created: 1302678000000
 sources:
   name: xkcd

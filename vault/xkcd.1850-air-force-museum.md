@@ -2,7 +2,7 @@
 id: xkcd.1850-air-force-museum
 title: Air Force Museum
 desc: ''
-updated: 1616186984446
+updated: 1497423600000
 created: 1497423600000
 sources:
   name: xkcd

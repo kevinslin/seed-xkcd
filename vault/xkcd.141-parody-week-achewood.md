@@ -2,7 +2,7 @@
 id: xkcd.141-parody-week-achewood
 title: 'Parody Week: Achewood'
 desc: ''
-updated: 1616186984427
+updated: 1155538800000
 created: 1155538800000
 sources:
   name: xkcd

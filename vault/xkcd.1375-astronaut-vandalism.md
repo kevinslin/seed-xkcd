@@ -2,7 +2,7 @@
 id: xkcd.1375-astronaut-vandalism
 title: Astronaut Vandalism
 desc: ''
-updated: 1616186984412
+updated: 1401433200000
 created: 1401433200000
 sources:
   name: xkcd

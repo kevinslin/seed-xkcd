@@ -2,7 +2,7 @@
 id: xkcd.1302-year-in-review
 title: Year in Review
 desc: ''
-updated: 1616186984397
+updated: 1386748800000
 created: 1386748800000
 sources:
   name: xkcd

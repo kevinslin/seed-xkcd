@@ -2,7 +2,7 @@
 id: xkcd.273-electromagnetic-spectrum
 title: Electromagnetic Spectrum
 desc: ''
-updated: 1616186984552
+updated: 1181113200000
 created: 1181113200000
 sources:
   name: xkcd

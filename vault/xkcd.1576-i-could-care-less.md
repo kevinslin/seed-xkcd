@@ -2,7 +2,7 @@
 id: xkcd.1576-i-could-care-less
 title: I Could Care Less
 desc: ''
-updated: 1616186984469
+updated: 1441954800000
 created: 1441954800000
 sources:
   name: xkcd

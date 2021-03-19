@@ -2,7 +2,7 @@
 id: xkcd.1890-what-to-bring
 title: What to Bring
 desc: ''
-updated: 1616186984454
+updated: 1505458800000
 created: 1505458800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.856-trochee-fixation
 title: Trochee Fixation
 desc: ''
-updated: 1616186984665
+updated: 1296806400000
 created: 1296806400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1272-shadowfacts
 title: Shadowfacts
 desc: ''
-updated: 1616186984369
+updated: 1380697200000
 created: 1380697200000
 sources:
   name: xkcd

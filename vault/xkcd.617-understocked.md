@@ -2,7 +2,7 @@
 id: xkcd.617-understocked
 title: Understocked
 desc: ''
-updated: 1616186984603
+updated: 1249023600000
 created: 1249023600000
 sources:
   name: xkcd

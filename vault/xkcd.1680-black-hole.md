@@ -2,7 +2,7 @@
 id: xkcd.1680-black-hole
 title: Black Hole
 desc: ''
-updated: 1616186984504
+updated: 1463122800000
 created: 1463122800000
 sources:
   name: xkcd

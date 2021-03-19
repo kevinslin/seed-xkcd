@@ -2,7 +2,7 @@
 id: xkcd.1383-magic-words
 title: Magic Words
 desc: ''
-updated: 1616186984414
+updated: 1403074800000
 created: 1403074800000
 sources:
   name: xkcd

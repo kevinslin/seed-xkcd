@@ -2,7 +2,7 @@
 id: xkcd.1709-inflection
 title: Inflection
 desc: ''
-updated: 1616186984509
+updated: 1468998000000
 created: 1468998000000
 sources:
   name: xkcd

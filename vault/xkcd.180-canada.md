@@ -2,7 +2,7 @@
 id: xkcd.180-canada
 title: Canada
 desc: ''
-updated: 1616186984434
+updated: 1162800000000
 created: 1162800000000
 sources:
   name: xkcd

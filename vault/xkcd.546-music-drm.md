@@ -2,7 +2,7 @@
 id: xkcd.546-music-drm
 title: Music DRM
 desc: ''
-updated: 1616186984593
+updated: 1235116800000
 created: 1235116800000
 sources:
   name: xkcd

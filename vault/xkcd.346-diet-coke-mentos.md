@@ -2,7 +2,7 @@
 id: xkcd.346-diet-coke-mentos
 title: Diet Coke+Mentos
 desc: ''
-updated: 1616186984561
+updated: 1195459200000
 created: 1195459200000
 sources:
   name: xkcd

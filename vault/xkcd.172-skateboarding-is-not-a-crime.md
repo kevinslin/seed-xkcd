@@ -2,7 +2,7 @@
 id: xkcd.172-skateboarding-is-not-a-crime
 title: Skateboarding is Not a Crime
 desc: ''
-updated: 1616186984432
+updated: 1161154800000
 created: 1161154800000
 sources:
   name: xkcd

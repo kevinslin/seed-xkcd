@@ -2,7 +2,7 @@
 id: xkcd.1817-incognito-mode
 title: Incognito Mode
 desc: ''
-updated: 1616186984441
+updated: 1490770800000
 created: 1490770800000
 sources:
   name: xkcd

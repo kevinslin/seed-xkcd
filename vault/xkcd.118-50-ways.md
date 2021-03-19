@@ -2,7 +2,7 @@
 id: xkcd.118-50-ways
 title: 50 Ways
 desc: ''
-updated: 1616186984422
+updated: 1150873200000
 created: 1150873200000
 sources:
   name: xkcd

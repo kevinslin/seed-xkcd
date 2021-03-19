@@ -2,7 +2,7 @@
 id: xkcd.170-turn-back
 title: Turn Back
 desc: ''
-updated: 1616186984431
+updated: 1160722800000
 created: 1160722800000
 sources:
   name: xkcd

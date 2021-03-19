@@ -2,7 +2,7 @@
 id: xkcd.143-parody-week-tfd-and-natalie-dee
 title: 'Parody Week: TFD and Natalie Dee'
 desc: ''
-updated: 1616186984427
+updated: 1155711600000
 created: 1155711600000
 sources:
   name: xkcd

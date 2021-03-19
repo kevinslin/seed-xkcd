@@ -2,7 +2,7 @@
 id: xkcd.367-fandom
 title: Fandom
 desc: ''
-updated: 1616186984565
+updated: 1199692800000
 created: 1199692800000
 sources:
   name: xkcd

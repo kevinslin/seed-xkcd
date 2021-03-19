@@ -2,7 +2,7 @@
 id: xkcd.684-we-get-it
 title: We Get It
 desc: ''
-updated: 1616186984613
+updated: 1262592000000
 created: 1262592000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1941-dying-gift
 title: Dying Gift
 desc: ''
-updated: 1616186984481
+updated: 1515744000000
 created: 1515744000000
 sources:
   name: xkcd

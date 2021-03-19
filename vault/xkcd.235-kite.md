@@ -2,7 +2,7 @@
 id: xkcd.235-kite
 title: Kite
 desc: ''
-updated: 1616186984547
+updated: 1173855600000
 created: 1173855600000
 sources:
   name: xkcd

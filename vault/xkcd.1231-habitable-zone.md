@@ -2,7 +2,7 @@
 id: xkcd.1231-habitable-zone
 title: Habitable Zone
 desc: ''
-updated: 1616186984357
+updated: 1372402800000
 created: 1372402800000
 sources:
   name: xkcd

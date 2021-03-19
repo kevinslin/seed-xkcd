@@ -2,7 +2,7 @@
 id: xkcd.1266-halting-problem
 title: Halting Problem
 desc: ''
-updated: 1616186984368
+updated: 1379487600000
 created: 1379487600000
 sources:
   name: xkcd

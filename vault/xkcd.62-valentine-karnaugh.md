@@ -2,7 +2,7 @@
 id: xkcd.62-valentine-karnaugh
 title: Valentine - Karnaugh
 desc: ''
-updated: 1616186984388
+updated: 1139558400000
 created: 1139558400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.894-progeny
 title: Progeny
 desc: ''
-updated: 1616186984669
+updated: 1304492400000
 created: 1304492400000
 sources:
   name: xkcd

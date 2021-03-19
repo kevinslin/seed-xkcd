@@ -2,7 +2,7 @@
 id: xkcd.1731-wrong
 title: Wrong
 desc: ''
-updated: 1616186984513
+updated: 1473404400000
 created: 1473404400000
 sources:
   name: xkcd

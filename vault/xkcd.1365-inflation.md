@@ -2,7 +2,7 @@
 id: xkcd.1365-inflation
 title: Inflation
 desc: ''
-updated: 1616186984410
+updated: 1399446000000
 created: 1399446000000
 sources:
   name: xkcd

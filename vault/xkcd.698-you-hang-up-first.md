@@ -2,7 +2,7 @@
 id: xkcd.698-you-hang-up-first
 title: You Hang Up First
 desc: ''
-updated: 1616186984614
+updated: 1265356800000
 created: 1265356800000
 sources:
   name: xkcd

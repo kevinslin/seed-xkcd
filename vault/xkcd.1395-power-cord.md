@@ -2,7 +2,7 @@
 id: xkcd.1395-power-cord
 title: Power Cord
 desc: ''
-updated: 1616186984418
+updated: 1405494000000
 created: 1405494000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.535-it-might-be-cool
 title: It Might Be Cool
 desc: ''
-updated: 1616186984591
+updated: 1232956800000
 created: 1232956800000
 sources:
   name: xkcd

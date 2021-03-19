@@ -2,7 +2,7 @@
 id: xkcd.1032-networking
 title: Networking
 desc: ''
-updated: 1616186984675
+updated: 1332313200000
 created: 1332313200000
 sources:
   name: xkcd

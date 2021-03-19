@@ -2,7 +2,7 @@
 id: xkcd.1909-digital-resource-lifespan
 title: Digital Resource Lifespan
 desc: ''
-updated: 1616186984474
+updated: 1509346800000
 created: 1509346800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1480-super-bowl
 title: Super Bowl
 desc: ''
-updated: 1616186984541
+updated: 1422604800000
 created: 1422604800000
 sources:
   name: xkcd

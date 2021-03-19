@@ -2,7 +2,7 @@
 id: xkcd.672-suggestions
 title: Suggestions
 desc: ''
-updated: 1616186984612
+updated: 1260172800000
 created: 1260172800000
 sources:
   name: xkcd

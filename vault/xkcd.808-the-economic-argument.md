@@ -2,7 +2,7 @@
 id: xkcd.808-the-economic-argument
 title: The Economic Argument
 desc: ''
-updated: 1616186984657
+updated: 1287558000000
 created: 1287558000000
 sources:
   name: xkcd

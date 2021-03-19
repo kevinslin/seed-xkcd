@@ -2,7 +2,7 @@
 id: xkcd.373-the-data-so-far
 title: The Data So Far
 desc: ''
-updated: 1616186984565
+updated: 1200902400000
 created: 1200902400000
 sources:
   name: xkcd

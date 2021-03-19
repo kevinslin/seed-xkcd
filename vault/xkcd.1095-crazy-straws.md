@@ -2,7 +2,7 @@
 id: xkcd.1095-crazy-straws
 title: Crazy Straws
 desc: ''
-updated: 1616186984697
+updated: 1345014000000
 created: 1345014000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1840-genetic-testing-results
 title: Genetic Testing Results
 desc: ''
-updated: 1616186984445
+updated: 1495436400000
 created: 1495436400000
 sources:
   name: xkcd

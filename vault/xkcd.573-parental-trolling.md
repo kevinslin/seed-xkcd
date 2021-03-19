@@ -2,7 +2,7 @@
 id: xkcd.573-parental-trolling
 title: Parental Trolling
 desc: ''
-updated: 1616186984597
+updated: 1240556400000
 created: 1240556400000
 sources:
   name: xkcd

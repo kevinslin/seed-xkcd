@@ -2,7 +2,7 @@
 id: xkcd.687-dimensional-analysis
 title: Dimensional Analysis
 desc: ''
-updated: 1616186984613
+updated: 1263196800000
 created: 1263196800000
 sources:
   name: xkcd

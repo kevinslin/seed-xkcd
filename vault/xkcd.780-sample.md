@@ -2,7 +2,7 @@
 id: xkcd.780-sample
 title: Sample
 desc: ''
-updated: 1616186984623
+updated: 1281942000000
 created: 1281942000000
 sources:
   name: xkcd

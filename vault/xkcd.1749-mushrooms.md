@@ -2,7 +2,7 @@
 id: xkcd.1749-mushrooms
 title: Mushrooms
 desc: ''
-updated: 1616186984520
+updated: 1477033200000
 created: 1477033200000
 sources:
   name: xkcd

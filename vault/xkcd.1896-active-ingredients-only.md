@@ -2,7 +2,7 @@
 id: xkcd.1896-active-ingredients-only
 title: Active Ingredients Only
 desc: ''
-updated: 1616186984455
+updated: 1506668400000
 created: 1506668400000
 sources:
   name: xkcd

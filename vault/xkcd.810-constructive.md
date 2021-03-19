@@ -2,7 +2,7 @@
 id: xkcd.810-constructive
 title: Constructive
 desc: ''
-updated: 1616186984658
+updated: 1287990000000
 created: 1287990000000
 sources:
   name: xkcd

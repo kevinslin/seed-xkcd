@@ -2,7 +2,7 @@
 id: xkcd.600-android-boyfriend
 title: Android Boyfriend
 desc: ''
-updated: 1616186984600
+updated: 1245654000000
 created: 1245654000000
 sources:
   name: xkcd

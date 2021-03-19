@@ -2,7 +2,7 @@
 id: xkcd.791-leaving
 title: Leaving
 desc: ''
-updated: 1616186984625
+updated: 1284102000000
 created: 1284102000000
 sources:
   name: xkcd

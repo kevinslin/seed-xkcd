@@ -2,7 +2,7 @@
 id: xkcd.246-labyrinth-puzzle
 title: Labyrinth Puzzle
 desc: ''
-updated: 1616186984548
+updated: 1176102000000
 created: 1176102000000
 sources:
   name: xkcd

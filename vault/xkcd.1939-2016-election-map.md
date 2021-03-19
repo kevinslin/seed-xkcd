@@ -2,7 +2,7 @@
 id: xkcd.1939-2016-election-map
 title: 2016 Election Map
 desc: ''
-updated: 1616186984481
+updated: 1515398400000
 created: 1515398400000
 sources:
   name: xkcd

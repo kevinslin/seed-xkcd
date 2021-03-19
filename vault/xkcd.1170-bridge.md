@@ -2,7 +2,7 @@
 id: xkcd.1170-bridge
 title: Bridge
 desc: ''
-updated: 1616186984654
+updated: 1360137600000
 created: 1360137600000
 sources:
   name: xkcd

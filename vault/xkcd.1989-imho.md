@@ -2,7 +2,7 @@
 id: xkcd.1989-imho
 title: IMHO
 desc: ''
-updated: 1616186984491
+updated: 1525417200000
 created: 1525417200000
 sources:
   name: xkcd

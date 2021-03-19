@@ -2,7 +2,7 @@
 id: xkcd.1114-metallurgy
 title: Metallurgy
 desc: ''
-updated: 1616186984649
+updated: 1348815600000
 created: 1348815600000
 sources:
   name: xkcd

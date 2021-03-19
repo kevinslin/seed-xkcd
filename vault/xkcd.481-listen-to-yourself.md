@@ -2,7 +2,7 @@
 id: xkcd.481-listen-to-yourself
 title: Listen to Yourself
 desc: ''
-updated: 1616186984583
+updated: 1222412400000
 created: 1222412400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.523-decline
 title: Decline
 desc: ''
-updated: 1616186984589
+updated: 1230537600000
 created: 1230537600000
 sources:
   name: xkcd

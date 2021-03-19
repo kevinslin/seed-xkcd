@@ -2,7 +2,7 @@
 id: xkcd.1154-resolution
 title: Resolution
 desc: ''
-updated: 1616186984653
+updated: 1356940800000
 created: 1356940800000
 sources:
   name: xkcd

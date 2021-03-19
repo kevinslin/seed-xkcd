@@ -2,7 +2,7 @@
 id: xkcd.594-period
 title: Period
 desc: ''
-updated: 1616186984599
+updated: 1244444400000
 created: 1244444400000
 sources:
   name: xkcd

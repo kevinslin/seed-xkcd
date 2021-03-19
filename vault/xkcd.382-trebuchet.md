@@ -2,7 +2,7 @@
 id: xkcd.382-trebuchet
 title: Trebuchet
 desc: ''
-updated: 1616186984566
+updated: 1202716800000
 created: 1202716800000
 sources:
   name: xkcd

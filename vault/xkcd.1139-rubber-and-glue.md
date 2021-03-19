@@ -2,7 +2,7 @@
 id: xkcd.1139-rubber-and-glue
 title: Rubber and Glue
 desc: ''
-updated: 1616186984651
+updated: 1353916800000
 created: 1353916800000
 sources:
   name: xkcd

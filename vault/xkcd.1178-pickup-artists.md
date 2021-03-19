@@ -2,7 +2,7 @@
 id: xkcd.1178-pickup-artists
 title: Pickup Artists
 desc: ''
-updated: 1616186984654
+updated: 1361779200000
 created: 1361779200000
 sources:
   name: xkcd

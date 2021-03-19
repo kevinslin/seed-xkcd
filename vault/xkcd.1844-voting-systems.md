@@ -2,7 +2,7 @@
 id: xkcd.1844-voting-systems
 title: Voting Systems
 desc: ''
-updated: 1616186984445
+updated: 1496214000000
 created: 1496214000000
 sources:
   name: xkcd

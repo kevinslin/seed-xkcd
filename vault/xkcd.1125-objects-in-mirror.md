@@ -2,7 +2,7 @@
 id: xkcd.1125-objects-in-mirror
 title: Objects In Mirror
 desc: ''
-updated: 1616186984650
+updated: 1351062000000
 created: 1351062000000
 sources:
   name: xkcd

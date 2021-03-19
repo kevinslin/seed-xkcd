@@ -2,7 +2,7 @@
 id: xkcd.1915-nightmare-email-feature
 title: Nightmare Email Feature
 desc: ''
-updated: 1616186984476
+updated: 1510560000000
 created: 1510560000000
 sources:
   name: xkcd

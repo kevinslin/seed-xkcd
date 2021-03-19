@@ -2,7 +2,7 @@
 id: xkcd.1340-unique-date
 title: Unique Date
 desc: ''
-updated: 1616186984405
+updated: 1394434800000
 created: 1394434800000
 sources:
   name: xkcd

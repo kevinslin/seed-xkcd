@@ -2,7 +2,7 @@
 id: xkcd.26-fourier
 title: Fourier
 desc: ''
-updated: 1616186984381
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

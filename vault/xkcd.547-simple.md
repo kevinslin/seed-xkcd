@@ -2,7 +2,7 @@
 id: xkcd.547-simple
 title: Simple
 desc: ''
-updated: 1616186984594
+updated: 1235376000000
 created: 1235376000000
 sources:
   name: xkcd

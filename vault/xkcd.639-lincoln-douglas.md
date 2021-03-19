@@ -2,7 +2,7 @@
 id: xkcd.639-lincoln-douglas
 title: Lincoln-Douglas
 desc: ''
-updated: 1616186984606
+updated: 1253516400000
 created: 1253516400000
 sources:
   name: xkcd

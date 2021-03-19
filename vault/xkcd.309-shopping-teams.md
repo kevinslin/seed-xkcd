@@ -2,7 +2,7 @@
 id: xkcd.309-shopping-teams
 title: Shopping Teams
 desc: ''
-updated: 1616186984558
+updated: 1188370800000
 created: 1188370800000
 sources:
   name: xkcd

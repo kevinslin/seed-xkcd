@@ -2,7 +2,7 @@
 id: xkcd.1878-earth-orbital-diagram
 title: Earth Orbital Diagram
 desc: ''
-updated: 1616186984452
+updated: 1503039600000
 created: 1503039600000
 sources:
   name: xkcd

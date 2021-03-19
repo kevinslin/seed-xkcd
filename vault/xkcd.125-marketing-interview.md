@@ -2,7 +2,7 @@
 id: xkcd.125-marketing-interview
 title: Marketing Interview
 desc: ''
-updated: 1616186984424
+updated: 1152255600000
 created: 1152255600000
 sources:
   name: xkcd

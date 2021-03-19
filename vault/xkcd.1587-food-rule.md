@@ -2,7 +2,7 @@
 id: xkcd.1587-food-rule
 title: Food Rule
 desc: ''
-updated: 1616186984471
+updated: 1444201200000
 created: 1444201200000
 sources:
   name: xkcd

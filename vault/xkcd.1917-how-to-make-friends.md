@@ -2,7 +2,7 @@
 id: xkcd.1917-how-to-make-friends
 title: How to Make Friends
 desc: ''
-updated: 1616186984476
+updated: 1510905600000
 created: 1510905600000
 sources:
   name: xkcd

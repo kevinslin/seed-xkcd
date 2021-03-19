@@ -2,7 +2,7 @@
 id: xkcd.1531-the-bdlpswdks-effect
 title: The BDLPSWDKS Effect
 desc: ''
-updated: 1616186984460
+updated: 1432882800000
 created: 1432882800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1355-airplane-message
 title: Airplane Message
 desc: ''
-updated: 1616186984408
+updated: 1397458800000
 created: 1397458800000
 sources:
   name: xkcd

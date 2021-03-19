@@ -2,7 +2,7 @@
 id: xkcd.1778-interest-timescales
 title: Interest Timescales
 desc: ''
-updated: 1616186984526
+updated: 1482912000000
 created: 1482912000000
 sources:
   name: xkcd

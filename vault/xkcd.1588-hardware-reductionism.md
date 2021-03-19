@@ -2,7 +2,7 @@
 id: xkcd.1588-hardware-reductionism
 title: Hardware Reductionism
 desc: ''
-updated: 1616186984471
+updated: 1444374000000
 created: 1444374000000
 sources:
   name: xkcd

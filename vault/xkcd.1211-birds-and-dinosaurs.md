@@ -2,7 +2,7 @@
 id: xkcd.1211-birds-and-dinosaurs
 title: Birds and Dinosaurs
 desc: ''
-updated: 1616186984351
+updated: 1368428400000
 created: 1368428400000
 sources:
   name: xkcd

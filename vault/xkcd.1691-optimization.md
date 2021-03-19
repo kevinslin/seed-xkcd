@@ -2,7 +2,7 @@
 id: xkcd.1691-optimization
 title: Optimization
 desc: ''
-updated: 1616186984506
+updated: 1465369200000
 created: 1465369200000
 sources:
   name: xkcd

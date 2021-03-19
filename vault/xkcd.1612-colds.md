@@ -2,7 +2,7 @@
 id: xkcd.1612-colds
 title: Colds
 desc: ''
-updated: 1616186984495
+updated: 1449216000000
 created: 1449216000000
 sources:
   name: xkcd

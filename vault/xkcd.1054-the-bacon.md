@@ -2,7 +2,7 @@
 id: xkcd.1054-the-bacon
 title: The bacon
 desc: ''
-updated: 1616186984688
+updated: 1336719600000
 created: 1336719600000
 sources:
   name: xkcd

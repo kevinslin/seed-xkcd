@@ -2,7 +2,7 @@
 id: xkcd.1404-quantum-vacuum-virtual-plasma
 title: Quantum Vacuum Virtual Plasma
 desc: ''
-updated: 1616186984533
+updated: 1407308400000
 created: 1407308400000
 sources:
   name: xkcd

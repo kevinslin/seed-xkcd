@@ -2,7 +2,7 @@
 id: xkcd.895-teaching-physics
 title: Teaching Physics
 desc: ''
-updated: 1616186984669
+updated: 1304665200000
 created: 1304665200000
 sources:
   name: xkcd

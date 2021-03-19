@@ -2,7 +2,7 @@
 id: xkcd.869-server-attention-span
 title: Server Attention Span
 desc: ''
-updated: 1616186984666
+updated: 1299484800000
 created: 1299484800000
 sources:
   name: xkcd

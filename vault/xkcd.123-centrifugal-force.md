@@ -2,7 +2,7 @@
 id: xkcd.123-centrifugal-force
 title: Centrifugal Force
 desc: ''
-updated: 1616186984423
+updated: 1151910000000
 created: 1151910000000
 sources:
   name: xkcd

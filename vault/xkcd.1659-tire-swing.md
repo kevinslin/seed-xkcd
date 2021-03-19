@@ -2,7 +2,7 @@
 id: xkcd.1659-tire-swing
 title: Tire Swing
 desc: ''
-updated: 1616186984501
+updated: 1458716400000
 created: 1458716400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1970-name-dominoes
 title: Name Dominoes
 desc: ''
-updated: 1616186984488
+updated: 1521615600000
 created: 1521615600000
 sources:
   name: xkcd

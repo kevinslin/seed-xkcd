@@ -2,7 +2,7 @@
 id: xkcd.106-wright-brothers
 title: Wright Brothers
 desc: ''
-updated: 1616186984420
+updated: 1148454000000
 created: 1148454000000
 sources:
   name: xkcd

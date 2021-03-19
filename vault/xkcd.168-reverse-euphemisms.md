@@ -2,7 +2,7 @@
 id: xkcd.168-reverse-euphemisms
 title: Reverse Euphemisms
 desc: ''
-updated: 1616186984431
+updated: 1160377200000
 created: 1160377200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1527-humans
 title: Humans
 desc: ''
-updated: 1616186984460
+updated: 1432105200000
 created: 1432105200000
 sources:
   name: xkcd

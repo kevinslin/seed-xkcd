@@ -2,7 +2,7 @@
 id: xkcd.819-five-minute-comics-part-1
 title: 'Five-Minute Comics: Part 1'
 desc: ''
-updated: 1616186984660
+updated: 1289808000000
 created: 1289808000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1371-brightness
 title: Brightness
 desc: ''
-updated: 1616186984411
+updated: 1400655600000
 created: 1400655600000
 sources:
   name: xkcd

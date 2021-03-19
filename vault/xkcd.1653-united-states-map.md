@@ -2,7 +2,7 @@
 id: xkcd.1653-united-states-map
 title: United States Map
 desc: ''
-updated: 1616186984501
+updated: 1457510400000
 created: 1457510400000
 sources:
   name: xkcd

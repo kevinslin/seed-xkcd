@@ -2,7 +2,7 @@
 id: xkcd.66-abusive-astronomy
 title: Abusive Astronomy
 desc: ''
-updated: 1616186984389
+updated: 1140422400000
 created: 1140422400000
 sources:
   name: xkcd

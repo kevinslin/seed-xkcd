@@ -2,7 +2,7 @@
 id: xkcd.1521-sword-in-the-stone
 title: Sword in the Stone
 desc: ''
-updated: 1616186984459
+updated: 1430895600000
 created: 1430895600000
 sources:
   name: xkcd

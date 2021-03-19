@@ -2,7 +2,7 @@
 id: xkcd.1384-krypton
 title: Krypton
 desc: ''
-updated: 1616186984414
+updated: 1403247600000
 created: 1403247600000
 sources:
   name: xkcd

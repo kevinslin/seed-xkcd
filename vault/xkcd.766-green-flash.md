@@ -2,7 +2,7 @@
 id: xkcd.766-green-flash
 title: Green Flash
 desc: ''
-updated: 1616186984622
+updated: 1279090800000
 created: 1279090800000
 sources:
   name: xkcd

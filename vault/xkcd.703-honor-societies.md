@@ -2,7 +2,7 @@
 id: xkcd.703-honor-societies
 title: Honor Societies
 desc: ''
-updated: 1616186984615
+updated: 1266393600000
 created: 1266393600000
 sources:
   name: xkcd

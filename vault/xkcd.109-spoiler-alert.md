@@ -2,7 +2,7 @@
 id: xkcd.109-spoiler-alert
 title: Spoiler Alert
 desc: ''
-updated: 1616186984420
+updated: 1149058800000
 created: 1149058800000
 sources:
   name: xkcd

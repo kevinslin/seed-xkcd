@@ -2,7 +2,7 @@
 id: xkcd.693-childrens-fantasy
 title: Children's Fantasy
 desc: ''
-updated: 1616186984614
+updated: 1264406400000
 created: 1264406400000
 sources:
   name: xkcd

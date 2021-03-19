@@ -2,7 +2,7 @@
 id: xkcd.1361-google-announcement
 title: Google Announcement
 desc: ''
-updated: 1616186984409
+updated: 1398668400000
 created: 1398668400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1412-teenage-mutant-ninja-turtles
 title: Teenage Mutant Ninja Turtles
 desc: ''
-updated: 1616186984534
+updated: 1408950000000
 created: 1408950000000
 sources:
   name: xkcd

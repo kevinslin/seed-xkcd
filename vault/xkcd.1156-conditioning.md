@@ -2,7 +2,7 @@
 id: xkcd.1156-conditioning
 title: Conditioning
 desc: ''
-updated: 1616186984653
+updated: 1357286400000
 created: 1357286400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.633-blockbuster-mining
 title: Blockbuster Mining
 desc: ''
-updated: 1616186984605
+updated: 1252306800000
 created: 1252306800000
 sources:
   name: xkcd

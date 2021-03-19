@@ -2,7 +2,7 @@
 id: xkcd.776-still-no-sleep
 title: Still No Sleep
 desc: ''
-updated: 1616186984622
+updated: 1281078000000
 created: 1281078000000
 sources:
   name: xkcd

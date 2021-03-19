@@ -2,7 +2,7 @@
 id: xkcd.1227-the-pace-of-modern-life
 title: The Pace of Modern Life
 desc: ''
-updated: 1616186984355
+updated: 1371625200000
 created: 1371625200000
 sources:
   name: xkcd

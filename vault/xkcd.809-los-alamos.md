@@ -2,7 +2,7 @@
 id: xkcd.809-los-alamos
 title: Los Alamos
 desc: ''
-updated: 1616186984657
+updated: 1287730800000
 created: 1287730800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.276-fixed-width
 title: Fixed Width
 desc: ''
-updated: 1616186984553
+updated: 1181718000000
 created: 1181718000000
 sources:
   name: xkcd

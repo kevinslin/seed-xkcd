@@ -2,7 +2,7 @@
 id: xkcd.1854-refresh-types
 title: Refresh Types
 desc: ''
-updated: 1616186984447
+updated: 1498201200000
 created: 1498201200000
 sources:
   name: xkcd

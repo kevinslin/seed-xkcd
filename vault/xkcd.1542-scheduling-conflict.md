@@ -2,7 +2,7 @@
 id: xkcd.1542-scheduling-conflict
 title: Scheduling Conflict
 desc: ''
-updated: 1616186984462
+updated: 1435129200000
 created: 1435129200000
 sources:
   name: xkcd

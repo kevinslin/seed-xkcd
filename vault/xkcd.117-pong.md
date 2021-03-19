@@ -2,7 +2,7 @@
 id: xkcd.117-pong
 title: Pong
 desc: ''
-updated: 1616186984422
+updated: 1150700400000
 created: 1150700400000
 sources:
   name: xkcd

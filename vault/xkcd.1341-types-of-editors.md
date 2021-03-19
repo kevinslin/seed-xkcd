@@ -2,7 +2,7 @@
 id: xkcd.1341-types-of-editors
 title: Types of Editors
 desc: ''
-updated: 1616186984405
+updated: 1394607600000
 created: 1394607600000
 sources:
   name: xkcd

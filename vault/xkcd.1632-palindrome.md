@@ -2,7 +2,7 @@
 id: xkcd.1632-palindrome
 title: Palindrome
 desc: ''
-updated: 1616186984497
+updated: 1453276800000
 created: 1453276800000
 sources:
   name: xkcd

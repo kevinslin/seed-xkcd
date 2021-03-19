@@ -2,7 +2,7 @@
 id: xkcd.261-regarding-mussolini
 title: Regarding Mussolini
 desc: ''
-updated: 1616186984551
+updated: 1179126000000
 created: 1179126000000
 sources:
   name: xkcd

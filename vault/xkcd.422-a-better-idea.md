@@ -2,7 +2,7 @@
 id: xkcd.422-a-better-idea
 title: A Better Idea
 desc: ''
-updated: 1616186984573
+updated: 1210575600000
 created: 1210575600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1905-cast-iron-pan
 title: Cast Iron Pan
 desc: ''
-updated: 1616186984474
+updated: 1508482800000
 created: 1508482800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.975-occulting-telescope
 title: Occulting Telescope
 desc: ''
-updated: 1616186984636
+updated: 1320825600000
 created: 1320825600000
 sources:
   name: xkcd

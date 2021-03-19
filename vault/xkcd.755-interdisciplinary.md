@@ -2,7 +2,7 @@
 id: xkcd.755-interdisciplinary
 title: Interdisciplinary
 desc: ''
-updated: 1616186984621
+updated: 1276844400000
 created: 1276844400000
 sources:
   name: xkcd

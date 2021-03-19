@@ -2,7 +2,7 @@
 id: xkcd.225-open-source
 title: Open Source
 desc: ''
-updated: 1616186984546
+updated: 1171872000000
 created: 1171872000000
 sources:
   name: xkcd

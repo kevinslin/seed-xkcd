@@ -2,7 +2,7 @@
 id: xkcd.1594-human-subjects
 title: Human Subjects
 desc: ''
-updated: 1616186984472
+updated: 1445583600000
 created: 1445583600000
 sources:
   name: xkcd

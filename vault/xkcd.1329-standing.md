@@ -2,7 +2,7 @@
 id: xkcd.1329-standing
 title: Standing
 desc: ''
-updated: 1616186984403
+updated: 1392192000000
 created: 1392192000000
 sources:
   name: xkcd

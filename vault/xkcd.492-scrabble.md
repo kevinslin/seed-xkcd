@@ -2,7 +2,7 @@
 id: xkcd.492-scrabble
 title: Scrabble
 desc: ''
-updated: 1616186984584
+updated: 1224658800000
 created: 1224658800000
 sources:
   name: xkcd

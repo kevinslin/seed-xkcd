@@ -2,7 +2,7 @@
 id: xkcd.1483-quotative-like
 title: Quotative Like
 desc: ''
-updated: 1616186984541
+updated: 1423209600000
 created: 1423209600000
 sources:
   name: xkcd

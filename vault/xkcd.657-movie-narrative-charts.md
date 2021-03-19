@@ -2,7 +2,7 @@
 id: xkcd.657-movie-narrative-charts
 title: Movie Narrative Charts
 desc: ''
-updated: 1616186984608
+updated: 1257148800000
 created: 1257148800000
 sources:
   name: xkcd

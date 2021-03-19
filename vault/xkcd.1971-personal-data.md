@@ -2,7 +2,7 @@
 id: xkcd.1971-personal-data
 title: Personal Data
 desc: ''
-updated: 1616186984488
+updated: 1521788400000
 created: 1521788400000
 sources:
   name: xkcd

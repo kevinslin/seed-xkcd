@@ -2,7 +2,7 @@
 id: xkcd.1468-worrying
 title: Worrying
 desc: ''
-updated: 1616186984540
+updated: 1420185600000
 created: 1420185600000
 sources:
   name: xkcd

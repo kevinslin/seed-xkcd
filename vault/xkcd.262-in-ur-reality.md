@@ -2,7 +2,7 @@
 id: xkcd.262-in-ur-reality
 title: IN UR REALITY
 desc: ''
-updated: 1616186984551
+updated: 1179298800000
 created: 1179298800000
 sources:
   name: xkcd

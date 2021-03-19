@@ -2,7 +2,7 @@
 id: xkcd.353-python
 title: Python
 desc: ''
-updated: 1616186984562
+updated: 1196841600000
 created: 1196841600000
 sources:
   name: xkcd

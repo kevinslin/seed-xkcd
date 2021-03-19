@@ -2,7 +2,7 @@
 id: xkcd.1831-here-to-help
 title: Here to Help
 desc: ''
-updated: 1616186984444
+updated: 1493622000000
 created: 1493622000000
 sources:
   name: xkcd

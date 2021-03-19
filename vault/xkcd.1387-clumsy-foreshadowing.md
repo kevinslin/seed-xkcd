@@ -2,7 +2,7 @@
 id: xkcd.1387-clumsy-foreshadowing
 title: Clumsy Foreshadowing
 desc: ''
-updated: 1616186984415
+updated: 1403852400000
 created: 1403852400000
 sources:
   name: xkcd

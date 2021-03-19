@@ -2,7 +2,7 @@
 id: xkcd.626-newton-and-leibniz
 title: Newton and Leibniz
 desc: ''
-updated: 1616186984604
+updated: 1250838000000
 created: 1250838000000
 sources:
   name: xkcd

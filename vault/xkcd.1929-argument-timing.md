@@ -2,7 +2,7 @@
 id: xkcd.1929-argument-timing
 title: Argument Timing
 desc: ''
-updated: 1616186984479
+updated: 1513324800000
 created: 1513324800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1651-robotic-garage
 title: Robotic Garage
 desc: ''
-updated: 1616186984501
+updated: 1457078400000
 created: 1457078400000
 sources:
   name: xkcd

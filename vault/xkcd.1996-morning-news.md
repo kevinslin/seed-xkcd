@@ -2,7 +2,7 @@
 id: xkcd.1996-morning-news
 title: Morning News
 desc: ''
-updated: 1616186984492
+updated: 1526886000000
 created: 1526886000000
 sources:
   name: xkcd

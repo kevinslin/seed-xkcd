@@ -2,7 +2,7 @@
 id: xkcd.426-geohashing
 title: Geohashing
 desc: ''
-updated: 1616186984573
+updated: 1211353200000
 created: 1211353200000
 sources:
   name: xkcd

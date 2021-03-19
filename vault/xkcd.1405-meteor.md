@@ -2,7 +2,7 @@
 id: xkcd.1405-meteor
 title: Meteor
 desc: ''
-updated: 1616186984533
+updated: 1407481200000
 created: 1407481200000
 sources:
   name: xkcd

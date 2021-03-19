@@ -2,7 +2,7 @@
 id: xkcd.446-in-popular-culture
 title: In Popular Culture
 desc: ''
-updated: 1616186984577
+updated: 1215414000000
 created: 1215414000000
 sources:
   name: xkcd

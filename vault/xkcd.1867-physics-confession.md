@@ -2,7 +2,7 @@
 id: xkcd.1867-physics-confession
 title: Physics Confession
 desc: ''
-updated: 1616186984450
+updated: 1500879600000
 created: 1500879600000
 sources:
   name: xkcd

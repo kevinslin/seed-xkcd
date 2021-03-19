@@ -2,7 +2,7 @@
 id: xkcd.1436-orb-hammer
 title: Orb Hammer
 desc: ''
-updated: 1616186984536
+updated: 1413788400000
 created: 1413788400000
 sources:
   name: xkcd

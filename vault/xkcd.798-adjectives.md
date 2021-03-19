@@ -2,7 +2,7 @@
 id: xkcd.798-adjectives
 title: Adjectives
 desc: ''
-updated: 1616186984626
+updated: 1285570800000
 created: 1285570800000
 sources:
   name: xkcd

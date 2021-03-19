@@ -2,7 +2,7 @@
 id: xkcd.1074-moon-landing
 title: Moon Landing
 desc: ''
-updated: 1616186984692
+updated: 1340780400000
 created: 1340780400000
 sources:
   name: xkcd

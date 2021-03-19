@@ -2,7 +2,7 @@
 id: xkcd.1540-hemingway
 title: Hemingway
 desc: ''
-updated: 1616186984462
+updated: 1434697200000
 created: 1434697200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1295-new-study
 title: New Study
 desc: ''
-updated: 1616186984374
+updated: 1385366400000
 created: 1385366400000
 sources:
   name: xkcd

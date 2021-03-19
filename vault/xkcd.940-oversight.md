@@ -2,7 +2,7 @@
 id: xkcd.940-oversight
 title: Oversight
 desc: ''
-updated: 1616186984632
+updated: 1313737200000
 created: 1313737200000
 sources:
   name: xkcd

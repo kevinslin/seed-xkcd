@@ -2,7 +2,7 @@
 id: xkcd.1591-bells-theorem
 title: Bell's Theorem
 desc: ''
-updated: 1616186984472
+updated: 1444978800000
 created: 1444978800000
 sources:
   name: xkcd

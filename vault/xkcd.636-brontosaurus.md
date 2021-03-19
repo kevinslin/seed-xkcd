@@ -2,7 +2,7 @@
 id: xkcd.636-brontosaurus
 title: Brontosaurus
 desc: ''
-updated: 1616186984605
+updated: 1252911600000
 created: 1252911600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.623-oregon
 title: Oregon
 desc: ''
-updated: 1616186984604
+updated: 1250233200000
 created: 1250233200000
 sources:
   name: xkcd

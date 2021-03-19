@@ -2,7 +2,7 @@
 id: xkcd.838-incident
 title: Incident
 desc: ''
-updated: 1616186984663
+updated: 1293177600000
 created: 1293177600000
 sources:
   name: xkcd

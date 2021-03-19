@@ -2,7 +2,7 @@
 id: xkcd.216-romantic-drama-equation
 title: Romantic Drama Equation
 desc: ''
-updated: 1616186984545
+updated: 1170057600000
 created: 1170057600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1944-the-end-of-the-rainbow
 title: The End of the Rainbow
 desc: ''
-updated: 1616186984482
+updated: 1516348800000
 created: 1516348800000
 sources:
   name: xkcd

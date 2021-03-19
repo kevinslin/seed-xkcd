@@ -2,7 +2,7 @@
 id: xkcd.443-know-your-vines
 title: Know Your Vines
 desc: ''
-updated: 1616186984576
+updated: 1214809200000
 created: 1214809200000
 sources:
   name: xkcd

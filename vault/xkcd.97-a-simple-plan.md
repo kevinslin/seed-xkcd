@@ -2,7 +2,7 @@
 id: xkcd.97-a-simple-plan
 title: A Simple Plan
 desc: ''
-updated: 1616186984395
+updated: 1146639600000
 created: 1146639600000
 sources:
   name: xkcd

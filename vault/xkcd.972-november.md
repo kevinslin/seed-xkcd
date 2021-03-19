@@ -2,7 +2,7 @@
 id: xkcd.972-november
 title: November
 desc: ''
-updated: 1616186984636
+updated: 1320217200000
 created: 1320217200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.967-prairie
 title: Prairie
 desc: ''
-updated: 1616186984635
+updated: 1319180400000
 created: 1319180400000
 sources:
   name: xkcd

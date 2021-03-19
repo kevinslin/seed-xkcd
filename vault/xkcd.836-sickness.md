@@ -2,7 +2,7 @@
 id: xkcd.836-sickness
 title: Sickness
 desc: ''
-updated: 1616186984662
+updated: 1292832000000
 created: 1292832000000
 sources:
   name: xkcd

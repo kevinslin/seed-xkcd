@@ -2,7 +2,7 @@
 id: xkcd.191-lojban
 title: Lojban
 desc: ''
-updated: 1616186984435
+updated: 1164960000000
 created: 1164960000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.768-1996
 title: '1996'
 desc: ''
-updated: 1616186984622
+updated: 1279522800000
 created: 1279522800000
 sources:
   name: xkcd

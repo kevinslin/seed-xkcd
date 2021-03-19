@@ -2,7 +2,7 @@
 id: xkcd.673-the-sun
 title: The Sun
 desc: ''
-updated: 1616186984612
+updated: 1260345600000
 created: 1260345600000
 sources:
   name: xkcd

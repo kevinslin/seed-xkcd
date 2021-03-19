@@ -2,7 +2,7 @@
 id: xkcd.1560-bubblegum
 title: Bubblegum
 desc: ''
-updated: 1616186984466
+updated: 1438758000000
 created: 1438758000000
 sources:
   name: xkcd

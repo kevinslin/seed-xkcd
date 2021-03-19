@@ -2,7 +2,7 @@
 id: xkcd.605-extrapolating
 title: Extrapolating
 desc: ''
-updated: 1616186984601
+updated: 1246604400000
 created: 1246604400000
 sources:
   name: xkcd

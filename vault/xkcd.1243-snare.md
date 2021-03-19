@@ -2,7 +2,7 @@
 id: xkcd.1243-snare
 title: Snare
 desc: ''
-updated: 1616186984361
+updated: 1374822000000
 created: 1374822000000
 sources:
   name: xkcd

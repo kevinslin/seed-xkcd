@@ -2,7 +2,7 @@
 id: xkcd.1431-marriage
 title: Marriage
 desc: ''
-updated: 1616186984536
+updated: 1412751600000
 created: 1412751600000
 sources:
   name: xkcd

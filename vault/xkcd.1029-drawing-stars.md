@@ -2,7 +2,7 @@
 id: xkcd.1029-drawing-stars
 title: Drawing Stars
 desc: ''
-updated: 1616186984675
+updated: 1331708400000
 created: 1331708400000
 sources:
   name: xkcd

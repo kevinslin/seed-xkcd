@@ -2,7 +2,7 @@
 id: xkcd.1705-pokemon-go
 title: Pokémon Go
 desc: ''
-updated: 1616186984508
+updated: 1468220400000
 created: 1468220400000
 sources:
   name: xkcd

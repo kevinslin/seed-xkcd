@@ -2,7 +2,7 @@
 id: xkcd.1564-every-seven-seconds
 title: Every Seven Seconds
 desc: ''
-updated: 1616186984466
+updated: 1439535600000
 created: 1439535600000
 sources:
   name: xkcd

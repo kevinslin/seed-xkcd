@@ -2,7 +2,7 @@
 id: xkcd.131-fans
 title: Fans
 desc: ''
-updated: 1616186984425
+updated: 1153465200000
 created: 1153465200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.431-delivery
 title: Delivery
 desc: ''
-updated: 1616186984574
+updated: 1212390000000
 created: 1212390000000
 sources:
   name: xkcd

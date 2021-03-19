@@ -2,7 +2,7 @@
 id: xkcd.774-atheists
 title: Atheists
 desc: ''
-updated: 1616186984622
+updated: 1280732400000
 created: 1280732400000
 sources:
   name: xkcd

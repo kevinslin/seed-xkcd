@@ -2,7 +2,7 @@
 id: xkcd.799-stephen-hawking
 title: Stephen Hawking
 desc: ''
-updated: 1616186984626
+updated: 1285743600000
 created: 1285743600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1427-i-os-keyboard
 title: iOS Keyboard
 desc: ''
-updated: 1616186984535
+updated: 1411974000000
 created: 1411974000000
 sources:
   name: xkcd

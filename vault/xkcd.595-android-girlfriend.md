@@ -2,7 +2,7 @@
 id: xkcd.595-android-girlfriend
 title: Android Girlfriend
 desc: ''
-updated: 1616186984599
+updated: 1244617200000
 created: 1244617200000
 sources:
   name: xkcd

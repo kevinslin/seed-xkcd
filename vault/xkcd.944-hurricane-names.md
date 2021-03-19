@@ -2,7 +2,7 @@
 id: xkcd.944-hurricane-names
 title: Hurricane Names
 desc: ''
-updated: 1616186984632
+updated: 1314601200000
 created: 1314601200000
 sources:
   name: xkcd

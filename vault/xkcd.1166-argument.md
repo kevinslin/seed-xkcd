@@ -2,7 +2,7 @@
 id: xkcd.1166-argument
 title: Argument
 desc: ''
-updated: 1616186984653
+updated: 1359360000000
 created: 1359360000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.903-extended-mind
 title: Extended Mind
 desc: ''
-updated: 1616186984629
+updated: 1306306800000
 created: 1306306800000
 sources:
   name: xkcd

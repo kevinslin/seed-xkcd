@@ -2,7 +2,7 @@
 id: xkcd.640-tornado-hunter
 title: Tornado Hunter
 desc: ''
-updated: 1616186984606
+updated: 1253689200000
 created: 1253689200000
 sources:
   name: xkcd

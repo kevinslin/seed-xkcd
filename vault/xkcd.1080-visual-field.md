@@ -2,7 +2,7 @@
 id: xkcd.1080-visual-field
 title: Visual Field
 desc: ''
-updated: 1616186984693
+updated: 1341990000000
 created: 1341990000000
 sources:
   name: xkcd

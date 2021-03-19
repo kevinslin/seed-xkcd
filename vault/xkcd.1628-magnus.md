@@ -2,7 +2,7 @@
 id: xkcd.1628-magnus
 title: Magnus
 desc: ''
-updated: 1616186984497
+updated: 1452499200000
 created: 1452499200000
 sources:
   name: xkcd

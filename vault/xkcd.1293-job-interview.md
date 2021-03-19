@@ -2,7 +2,7 @@
 id: xkcd.1293-job-interview
 title: Job Interview
 desc: ''
-updated: 1616186984373
+updated: 1384934400000
 created: 1384934400000
 sources:
   name: xkcd

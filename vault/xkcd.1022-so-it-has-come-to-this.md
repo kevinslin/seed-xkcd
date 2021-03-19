@@ -2,7 +2,7 @@
 id: xkcd.1022-so-it-has-come-to-this
 title: So It Has Come To This
 desc: ''
-updated: 1616186984674
+updated: 1330329600000
 created: 1330329600000
 sources:
   name: xkcd

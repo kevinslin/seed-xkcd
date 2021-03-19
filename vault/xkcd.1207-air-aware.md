@@ -2,7 +2,7 @@
 id: xkcd.1207-air-aware
 title: AirAware
 desc: ''
-updated: 1616186984349
+updated: 1367564400000
 created: 1367564400000
 sources:
   name: xkcd

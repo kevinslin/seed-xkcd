@@ -2,7 +2,7 @@
 id: xkcd.1213-combination-vision-test
 title: Combination Vision Test
 desc: ''
-updated: 1616186984351
+updated: 1368774000000
 created: 1368774000000
 sources:
   name: xkcd

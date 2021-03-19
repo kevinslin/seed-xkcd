@@ -2,7 +2,7 @@
 id: xkcd.471-aversion-fads
 title: Aversion Fads
 desc: ''
-updated: 1616186984580
+updated: 1220425200000
 created: 1220425200000
 sources:
   name: xkcd

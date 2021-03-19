@@ -2,7 +2,7 @@
 id: xkcd.380-emoticon
 title: Emoticon
 desc: ''
-updated: 1616186984566
+updated: 1202284800000
 created: 1202284800000
 sources:
   name: xkcd

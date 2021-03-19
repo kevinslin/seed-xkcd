@@ -2,7 +2,7 @@
 id: xkcd.1664-mycology
 title: Mycology
 desc: ''
-updated: 1616186984502
+updated: 1459926000000
 created: 1459926000000
 sources:
   name: xkcd

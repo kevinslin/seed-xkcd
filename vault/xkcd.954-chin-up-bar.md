@@ -2,7 +2,7 @@
 id: xkcd.954-chin-up-bar
 title: Chin-Up Bar
 desc: ''
-updated: 1616186984634
+updated: 1316588400000
 created: 1316588400000
 sources:
   name: xkcd

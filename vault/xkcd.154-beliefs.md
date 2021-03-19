@@ -2,7 +2,7 @@
 id: xkcd.154-beliefs
 title: Beliefs
 desc: ''
-updated: 1616186984429
+updated: 1157698800000
 created: 1157698800000
 sources:
   name: xkcd

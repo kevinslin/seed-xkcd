@@ -2,7 +2,7 @@
 id: xkcd.1098-star-ratings
 title: Star Ratings
 desc: ''
-updated: 1616186984698
+updated: 1345618800000
 created: 1345618800000
 sources:
   name: xkcd

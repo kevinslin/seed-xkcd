@@ -2,7 +2,7 @@
 id: xkcd.732-hdtv
 title: HDTV
 desc: ''
-updated: 1616186984619
+updated: 1272265200000
 created: 1272265200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.579-the-race-part-3
 title: 'The Race: Part 3'
 desc: ''
-updated: 1616186984597
+updated: 1241593200000
 created: 1241593200000
 sources:
   name: xkcd

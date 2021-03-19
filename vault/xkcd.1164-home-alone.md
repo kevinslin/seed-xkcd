@@ -2,7 +2,7 @@
 id: xkcd.1164-home-alone
 title: Home Alone
 desc: ''
-updated: 1616186984653
+updated: 1358928000000
 created: 1358928000000
 sources:
   name: xkcd

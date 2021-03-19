@@ -2,7 +2,7 @@
 id: xkcd.394-kilobyte
 title: Kilobyte
 desc: ''
-updated: 1616186984568
+updated: 1205132400000
 created: 1205132400000
 sources:
   name: xkcd

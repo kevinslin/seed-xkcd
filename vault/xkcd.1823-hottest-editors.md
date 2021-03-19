@@ -2,7 +2,7 @@
 id: xkcd.1823-hottest-editors
 title: Hottest Editors
 desc: ''
-updated: 1616186984442
+updated: 1491980400000
 created: 1491980400000
 sources:
   name: xkcd

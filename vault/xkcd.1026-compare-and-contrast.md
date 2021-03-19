@@ -2,7 +2,7 @@
 id: xkcd.1026-compare-and-contrast
 title: Compare and Contrast
 desc: ''
-updated: 1616186984674
+updated: 1331107200000
 created: 1331107200000
 sources:
   name: xkcd

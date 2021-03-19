@@ -2,7 +2,7 @@
 id: xkcd.325-a-minus-minus
 title: A-Minus-Minus
 desc: ''
-updated: 1616186984559
+updated: 1191567600000
 created: 1191567600000
 sources:
   name: xkcd

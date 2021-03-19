@@ -2,7 +2,7 @@
 id: xkcd.784-falling-asleep
 title: Falling Asleep
 desc: ''
-updated: 1616186984624
+updated: 1282719600000
 created: 1282719600000
 sources:
   name: xkcd

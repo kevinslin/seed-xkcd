@@ -2,7 +2,7 @@
 id: xkcd.1401-new
 title: New
 desc: ''
-updated: 1616186984533
+updated: 1406703600000
 created: 1406703600000
 sources:
   name: xkcd

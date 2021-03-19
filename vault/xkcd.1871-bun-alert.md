@@ -2,7 +2,7 @@
 id: xkcd.1871-bun-alert
 title: Bun Alert
 desc: ''
-updated: 1616186984450
+updated: 1501657200000
 created: 1501657200000
 sources:
   name: xkcd

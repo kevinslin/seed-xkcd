@@ -2,7 +2,7 @@
 id: xkcd.234-escape-artist
 title: Escape Artist
 desc: ''
-updated: 1616186984547
+updated: 1173682800000
 created: 1173682800000
 sources:
   name: xkcd

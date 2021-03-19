@@ -2,7 +2,7 @@
 id: xkcd.1689-my-friend-catherine
 title: My Friend Catherine
 desc: ''
-updated: 1616186984506
+updated: 1464937200000
 created: 1464937200000
 sources:
   name: xkcd

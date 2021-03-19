@@ -2,7 +2,7 @@
 id: xkcd.939-arrow
 title: Arrow
 desc: ''
-updated: 1616186984632
+updated: 1313564400000
 created: 1313564400000
 sources:
   name: xkcd

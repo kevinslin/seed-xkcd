@@ -2,7 +2,7 @@
 id: xkcd.993-brand-identity
 title: Brand Identity
 desc: ''
-updated: 1616186984639
+updated: 1324454400000
 created: 1324454400000
 sources:
   name: xkcd

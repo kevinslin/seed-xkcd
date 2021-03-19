@@ -2,7 +2,7 @@
 id: xkcd.1733-solar-spectrum
 title: Solar Spectrum
 desc: ''
-updated: 1616186984515
+updated: 1473922800000
 created: 1473922800000
 sources:
   name: xkcd

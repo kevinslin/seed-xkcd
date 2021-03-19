@@ -2,7 +2,7 @@
 id: xkcd.1694-phishing-license
 title: Phishing License
 desc: ''
-updated: 1616186984506
+updated: 1465974000000
 created: 1465974000000
 sources:
   name: xkcd

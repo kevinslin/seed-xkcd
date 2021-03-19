@@ -2,7 +2,7 @@
 id: xkcd.1875-computers-vs-humans
 title: Computers vs Humans
 desc: ''
-updated: 1616186984451
+updated: 1502434800000
 created: 1502434800000
 sources:
   name: xkcd

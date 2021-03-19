@@ -2,7 +2,7 @@
 id: xkcd.520-cuttlefish
 title: Cuttlefish
 desc: ''
-updated: 1616186984589
+updated: 1229932800000
 created: 1229932800000
 sources:
   name: xkcd

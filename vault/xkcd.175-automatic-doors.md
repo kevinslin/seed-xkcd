@@ -2,7 +2,7 @@
 id: xkcd.175-automatic-doors
 title: Automatic Doors
 desc: ''
-updated: 1616186984433
+updated: 1161759600000
 created: 1161759600000
 sources:
   name: xkcd

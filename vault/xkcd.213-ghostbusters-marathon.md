@@ -2,7 +2,7 @@
 id: xkcd.213-ghostbusters-marathon
 title: Ghostbusters Marathon
 desc: ''
-updated: 1616186984544
+updated: 1169452800000
 created: 1169452800000
 sources:
   name: xkcd

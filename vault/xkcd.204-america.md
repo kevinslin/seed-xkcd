@@ -2,7 +2,7 @@
 id: xkcd.204-america
 title: America
 desc: ''
-updated: 1616186984544
+updated: 1167638400000
 created: 1167638400000
 sources:
   name: xkcd

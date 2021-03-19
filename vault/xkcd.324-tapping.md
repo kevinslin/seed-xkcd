@@ -2,7 +2,7 @@
 id: xkcd.324-tapping
 title: Tapping
 desc: ''
-updated: 1616186984559
+updated: 1191394800000
 created: 1191394800000
 sources:
   name: xkcd

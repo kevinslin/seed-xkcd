@@ -2,7 +2,7 @@
 id: xkcd.754-dependencies
 title: Dependencies
 desc: ''
-updated: 1616186984621
+updated: 1276671600000
 created: 1276671600000
 sources:
   name: xkcd

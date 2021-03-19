@@ -2,7 +2,7 @@
 id: xkcd.1955-robots
 title: Robots
 desc: ''
-updated: 1616186984484
+updated: 1518595200000
 created: 1518595200000
 sources:
   name: xkcd

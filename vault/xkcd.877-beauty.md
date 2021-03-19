@@ -2,7 +2,7 @@
 id: xkcd.877-beauty
 title: Beauty
 desc: ''
-updated: 1616186984667
+updated: 1301036400000
 created: 1301036400000
 sources:
   name: xkcd

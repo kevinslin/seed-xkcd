@@ -2,7 +2,7 @@
 id: xkcd.789-showdown
 title: Showdown
 desc: ''
-updated: 1616186984625
+updated: 1283756400000
 created: 1283756400000
 sources:
   name: xkcd

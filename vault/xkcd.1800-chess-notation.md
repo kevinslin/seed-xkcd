@@ -2,7 +2,7 @@
 id: xkcd.1800-chess-notation
 title: Chess Notation
 desc: ''
-updated: 1616186984437
+updated: 1487318400000
 created: 1487318400000
 sources:
   name: xkcd

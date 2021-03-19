@@ -2,7 +2,7 @@
 id: xkcd.102-back-to-the-future
 title: Back to the Future
 desc: ''
-updated: 1616186984419
+updated: 1147676400000
 created: 1147676400000
 sources:
   name: xkcd

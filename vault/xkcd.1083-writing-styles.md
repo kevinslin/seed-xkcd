@@ -2,7 +2,7 @@
 id: xkcd.1083-writing-styles
 title: Writing Styles
 desc: ''
-updated: 1616186984694
+updated: 1342594800000
 created: 1342594800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.420-jealousy
 title: Jealousy
 desc: ''
-updated: 1616186984573
+updated: 1210143600000
 created: 1210143600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.761-dfs
 title: DFS
 desc: ''
-updated: 1616186984621
+updated: 1278054000000
 created: 1278054000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1043-ablogalypse
 title: Ablogalypse
 desc: ''
-updated: 1616186984686
+updated: 1334559600000
 created: 1334559600000
 sources:
   name: xkcd

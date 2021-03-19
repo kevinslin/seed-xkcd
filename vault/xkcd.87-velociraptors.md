@@ -2,7 +2,7 @@
 id: xkcd.87-velociraptors
 title: Velociraptors
 desc: ''
-updated: 1616186984393
+updated: 1144652400000
 created: 1144652400000
 sources:
   name: xkcd

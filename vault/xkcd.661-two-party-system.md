@@ -2,7 +2,7 @@
 id: xkcd.661-two-party-system
 title: Two-Party System
 desc: ''
-updated: 1616186984609
+updated: 1257926400000
 created: 1257926400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.556-alternative-energy-revolution
 title: Alternative Energy Revolution
 desc: ''
-updated: 1616186984594
+updated: 1237186800000
 created: 1237186800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.300-facebook
 title: Facebook
 desc: ''
-updated: 1616186984556
+updated: 1186556400000
 created: 1186556400000
 sources:
   name: xkcd

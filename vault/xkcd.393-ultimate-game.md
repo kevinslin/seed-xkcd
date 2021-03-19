@@ -2,7 +2,7 @@
 id: xkcd.393-ultimate-game
 title: Ultimate Game
 desc: ''
-updated: 1616186984568
+updated: 1204876800000
 created: 1204876800000
 sources:
   name: xkcd

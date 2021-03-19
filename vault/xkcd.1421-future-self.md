@@ -2,7 +2,7 @@
 id: xkcd.1421-future-self
 title: Future Self
 desc: ''
-updated: 1616186984535
+updated: 1410764400000
 created: 1410764400000
 sources:
   name: xkcd

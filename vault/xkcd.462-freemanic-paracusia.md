@@ -2,7 +2,7 @@
 id: xkcd.462-freemanic-paracusia
 title: Freemanic Paracusia
 desc: ''
-updated: 1616186984580
+updated: 1218610800000
 created: 1218610800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1046-skynet
 title: Skynet
 desc: ''
-updated: 1616186984687
+updated: 1335164400000
 created: 1335164400000
 sources:
   name: xkcd

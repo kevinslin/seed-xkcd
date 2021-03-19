@@ -2,7 +2,7 @@
 id: xkcd.435-purity
 title: Purity
 desc: ''
-updated: 1616186984575
+updated: 1213167600000
 created: 1213167600000
 sources:
   name: xkcd

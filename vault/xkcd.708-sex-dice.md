@@ -2,7 +2,7 @@
 id: xkcd.708-sex-dice
 title: Sex Dice
 desc: ''
-updated: 1616186984617
+updated: 1267430400000
 created: 1267430400000
 sources:
   name: xkcd

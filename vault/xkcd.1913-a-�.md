@@ -2,7 +2,7 @@
 id: xkcd.1913-a-�
 title: A �
 desc: ''
-updated: 1616186984475
+updated: 1510128000000
 created: 1510128000000
 sources:
   name: xkcd

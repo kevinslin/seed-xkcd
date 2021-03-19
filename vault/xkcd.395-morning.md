@@ -2,7 +2,7 @@
 id: xkcd.395-morning
 title: Morning
 desc: ''
-updated: 1616186984568
+updated: 1205305200000
 created: 1205305200000
 sources:
   name: xkcd

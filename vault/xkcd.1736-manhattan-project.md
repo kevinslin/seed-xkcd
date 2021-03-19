@@ -2,7 +2,7 @@
 id: xkcd.1736-manhattan-project
 title: Manhattan Project
 desc: ''
-updated: 1616186984517
+updated: 1474441200000
 created: 1474441200000
 sources:
   name: xkcd

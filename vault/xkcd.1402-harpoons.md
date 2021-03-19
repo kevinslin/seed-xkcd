@@ -2,7 +2,7 @@
 id: xkcd.1402-harpoons
 title: Harpoons
 desc: ''
-updated: 1616186984533
+updated: 1406876400000
 created: 1406876400000
 sources:
   name: xkcd

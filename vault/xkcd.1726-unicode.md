@@ -2,7 +2,7 @@
 id: xkcd.1726-unicode
 title: Unicode
 desc: ''
-updated: 1616186984512
+updated: 1472454000000
 created: 1472454000000
 sources:
   name: xkcd

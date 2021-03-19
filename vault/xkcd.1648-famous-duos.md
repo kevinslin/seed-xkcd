@@ -2,7 +2,7 @@
 id: xkcd.1648-famous-duos
 title: Famous Duos
 desc: ''
-updated: 1616186984500
+updated: 1456473600000
 created: 1456473600000
 sources:
   name: xkcd

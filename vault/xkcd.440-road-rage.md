@@ -2,7 +2,7 @@
 id: xkcd.440-road-rage
 title: Road Rage
 desc: ''
-updated: 1616186984576
+updated: 1214204400000
 created: 1214204400000
 sources:
   name: xkcd

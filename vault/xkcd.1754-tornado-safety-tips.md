@@ -2,7 +2,7 @@
 id: xkcd.1754-tornado-safety-tips
 title: Tornado Safety Tips
 desc: ''
-updated: 1616186984521
+updated: 1478070000000
 created: 1478070000000
 sources:
   name: xkcd

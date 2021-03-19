@@ -2,7 +2,7 @@
 id: xkcd.1305-undocumented-feature
 title: Undocumented Feature
 desc: ''
-updated: 1616186984398
+updated: 1387353600000
 created: 1387353600000
 sources:
   name: xkcd

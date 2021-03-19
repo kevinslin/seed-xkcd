@@ -2,7 +2,7 @@
 id: xkcd.616-lease
 title: Lease
 desc: ''
-updated: 1616186984603
+updated: 1248850800000
 created: 1248850800000
 sources:
   name: xkcd

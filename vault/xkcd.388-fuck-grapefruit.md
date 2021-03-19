@@ -2,7 +2,7 @@
 id: xkcd.388-fuck-grapefruit
 title: Fuck Grapefruit
 desc: ''
-updated: 1616186984567
+updated: 1203926400000
 created: 1203926400000
 sources:
   name: xkcd

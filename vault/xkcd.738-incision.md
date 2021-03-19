@@ -2,7 +2,7 @@
 id: xkcd.738-incision
 title: Incision
 desc: ''
-updated: 1616186984619
+updated: 1273474800000
 created: 1273474800000
 sources:
   name: xkcd

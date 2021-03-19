@@ -2,7 +2,7 @@
 id: xkcd.1994-repairs
 title: Repairs
 desc: ''
-updated: 1616186984492
+updated: 1526454000000
 created: 1526454000000
 sources:
   name: xkcd

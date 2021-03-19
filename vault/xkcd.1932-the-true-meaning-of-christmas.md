@@ -2,7 +2,7 @@
 id: xkcd.1932-the-true-meaning-of-christmas
 title: The True Meaning of Christmas
 desc: ''
-updated: 1616186984480
+updated: 1513929600000
 created: 1513929600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.675-revolutionary
 title: Revolutionary
 desc: ''
-updated: 1616186984612
+updated: 1260777600000
 created: 1260777600000
 sources:
   name: xkcd

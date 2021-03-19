@@ -2,7 +2,7 @@
 id: xkcd.1742-will-it-work
 title: Will It Work
 desc: ''
-updated: 1616186984518
+updated: 1475650800000
 created: 1475650800000
 sources:
   name: xkcd

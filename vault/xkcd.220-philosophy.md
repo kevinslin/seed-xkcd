@@ -2,7 +2,7 @@
 id: xkcd.220-philosophy
 title: Philosophy
 desc: ''
-updated: 1616186984545
+updated: 1170835200000
 created: 1170835200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.620-wings
 title: Wings
 desc: ''
-updated: 1616186984603
+updated: 1249628400000
 created: 1249628400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.347-brick-archway
 title: Brick Archway
 desc: ''
-updated: 1616186984562
+updated: 1195632000000
 created: 1195632000000
 sources:
   name: xkcd

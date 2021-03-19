@@ -2,7 +2,7 @@
 id: xkcd.105-parallel-universe
 title: Parallel Universe
 desc: ''
-updated: 1616186984420
+updated: 1148281200000
 created: 1148281200000
 sources:
   name: xkcd

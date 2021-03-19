@@ -2,7 +2,7 @@
 id: xkcd.171-string-theory
 title: String Theory
 desc: ''
-updated: 1616186984432
+updated: 1160982000000
 created: 1160982000000
 sources:
   name: xkcd

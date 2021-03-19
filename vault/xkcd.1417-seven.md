@@ -2,7 +2,7 @@
 id: xkcd.1417-seven
 title: Seven
 desc: ''
-updated: 1616186984535
+updated: 1409900400000
 created: 1409900400000
 sources:
   name: xkcd

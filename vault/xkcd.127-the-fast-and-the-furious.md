@@ -2,7 +2,7 @@
 id: xkcd.127-the-fast-and-the-furious
 title: The Fast and the Furious
 desc: ''
-updated: 1616186984424
+updated: 1152687600000
 created: 1152687600000
 sources:
   name: xkcd

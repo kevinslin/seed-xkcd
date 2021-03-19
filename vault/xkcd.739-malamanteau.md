@@ -2,7 +2,7 @@
 id: xkcd.739-malamanteau
 title: Malamanteau
 desc: ''
-updated: 1616186984619
+updated: 1273647600000
 created: 1273647600000
 sources:
   name: xkcd

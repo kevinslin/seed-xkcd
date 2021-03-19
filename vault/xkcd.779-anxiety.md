@@ -2,7 +2,7 @@
 id: xkcd.779-anxiety
 title: Anxiety
 desc: ''
-updated: 1616186984623
+updated: 1281682800000
 created: 1281682800000
 sources:
   name: xkcd

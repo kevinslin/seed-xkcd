@@ -2,7 +2,7 @@
 id: xkcd.1442-chemistry
 title: Chemistry
 desc: ''
-updated: 1616186984537
+updated: 1415001600000
 created: 1415001600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.383-helping
 title: Helping
 desc: ''
-updated: 1616186984566
+updated: 1202889600000
 created: 1202889600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1556-the-sky
 title: The Sky
 desc: ''
-updated: 1616186984465
+updated: 1437980400000
 created: 1437980400000
 sources:
   name: xkcd

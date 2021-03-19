@@ -2,7 +2,7 @@
 id: xkcd.399-travelling-salesman-problem
 title: Travelling Salesman Problem
 desc: ''
-updated: 1616186984570
+updated: 1206082800000
 created: 1206082800000
 sources:
   name: xkcd

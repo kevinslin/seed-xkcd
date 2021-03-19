@@ -2,7 +2,7 @@
 id: xkcd.1273-tall-infographics
 title: Tall Infographics
 desc: ''
-updated: 1616186984369
+updated: 1380870000000
 created: 1380870000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1876-eclipse-searches
 title: Eclipse Searches
 desc: ''
-updated: 1616186984452
+updated: 1502694000000
 created: 1502694000000
 sources:
   name: xkcd

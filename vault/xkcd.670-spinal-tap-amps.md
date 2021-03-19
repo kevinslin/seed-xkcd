@@ -2,7 +2,7 @@
 id: xkcd.670-spinal-tap-amps
 title: Spinal Tap Amps
 desc: ''
-updated: 1616186984612
+updated: 1259740800000
 created: 1259740800000
 sources:
   name: xkcd

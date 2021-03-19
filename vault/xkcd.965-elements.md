@@ -2,7 +2,7 @@
 id: xkcd.965-elements
 title: Elements
 desc: ''
-updated: 1616186984635
+updated: 1318834800000
 created: 1318834800000
 sources:
   name: xkcd

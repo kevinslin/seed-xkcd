@@ -2,7 +2,7 @@
 id: xkcd.1331-frequency
 title: Frequency
 desc: ''
-updated: 1616186984403
+updated: 1392624000000
 created: 1392624000000
 sources:
   name: xkcd

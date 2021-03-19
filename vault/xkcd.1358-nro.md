@@ -2,7 +2,7 @@
 id: xkcd.1358-nro
 title: NRO
 desc: ''
-updated: 1616186984408
+updated: 1398063600000
 created: 1398063600000
 sources:
   name: xkcd

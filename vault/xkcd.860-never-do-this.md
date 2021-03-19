@@ -2,7 +2,7 @@
 id: xkcd.860-never-do-this
 title: Never Do This
 desc: ''
-updated: 1616186984665
+updated: 1297670400000
 created: 1297670400000
 sources:
   name: xkcd

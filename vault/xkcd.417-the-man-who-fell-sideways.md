@@ -2,7 +2,7 @@
 id: xkcd.417-the-man-who-fell-sideways
 title: The Man Who Fell Sideways
 desc: ''
-updated: 1616186984572
+updated: 1209538800000
 created: 1209538800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.790-control
 title: Control
 desc: ''
-updated: 1616186984625
+updated: 1283929200000
 created: 1283929200000
 sources:
   name: xkcd

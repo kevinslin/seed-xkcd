@@ -2,7 +2,7 @@
 id: xkcd.902-darmok-and-jalad
 title: Darmok and Jalad
 desc: ''
-updated: 1616186984629
+updated: 1306134000000
 created: 1306134000000
 sources:
   name: xkcd

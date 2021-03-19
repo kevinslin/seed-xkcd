@@ -2,7 +2,7 @@
 id: xkcd.1808-hacking
 title: Hacking
 desc: ''
-updated: 1616186984438
+updated: 1488960000000
 created: 1488960000000
 sources:
   name: xkcd

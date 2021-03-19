@@ -2,7 +2,7 @@
 id: xkcd.219-blanket-fort
 title: Blanket Fort
 desc: ''
-updated: 1616186984545
+updated: 1170662400000
 created: 1170662400000
 sources:
   name: xkcd

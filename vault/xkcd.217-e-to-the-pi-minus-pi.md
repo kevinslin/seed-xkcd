@@ -2,7 +2,7 @@
 id: xkcd.217-e-to-the-pi-minus-pi
 title: e to the pi Minus pi
 desc: ''
-updated: 1616186984545
+updated: 1170230400000
 created: 1170230400000
 sources:
   name: xkcd

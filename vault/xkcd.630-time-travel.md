@@ -2,7 +2,7 @@
 id: xkcd.630-time-travel
 title: Time Travel
 desc: ''
-updated: 1616186984605
+updated: 1251702000000
 created: 1251702000000
 sources:
   name: xkcd

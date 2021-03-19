@@ -2,7 +2,7 @@
 id: xkcd.1698-theft-quadrants
 title: Theft Quadrants
 desc: ''
-updated: 1616186984507
+updated: 1466751600000
 created: 1466751600000
 sources:
   name: xkcd

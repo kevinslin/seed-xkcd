@@ -2,7 +2,7 @@
 id: xkcd.871-charity
 title: Charity
 desc: ''
-updated: 1616186984667
+updated: 1299830400000
 created: 1299830400000
 sources:
   name: xkcd

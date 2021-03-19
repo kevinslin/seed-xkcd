@@ -2,7 +2,7 @@
 id: xkcd.146-join-myspace
 title: Join Myspace
 desc: ''
-updated: 1616186984428
+updated: 1156143600000
 created: 1156143600000
 sources:
   name: xkcd

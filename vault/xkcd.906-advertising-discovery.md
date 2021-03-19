@@ -2,7 +2,7 @@
 id: xkcd.906-advertising-discovery
 title: Advertising Discovery
 desc: ''
-updated: 1616186984629
+updated: 1306911600000
 created: 1306911600000
 sources:
   name: xkcd

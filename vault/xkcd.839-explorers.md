@@ -2,7 +2,7 @@
 id: xkcd.839-explorers
 title: Explorers
 desc: ''
-updated: 1616186984663
+updated: 1293436800000
 created: 1293436800000
 sources:
   name: xkcd

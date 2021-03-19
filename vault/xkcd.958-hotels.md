@@ -2,7 +2,7 @@
 id: xkcd.958-hotels
 title: Hotels
 desc: ''
-updated: 1616186984635
+updated: 1317366000000
 created: 1317366000000
 sources:
   name: xkcd

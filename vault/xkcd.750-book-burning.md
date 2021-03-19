@@ -2,7 +2,7 @@
 id: xkcd.750-book-burning
 title: Book Burning
 desc: ''
-updated: 1616186984620
+updated: 1275894000000
 created: 1275894000000
 sources:
   name: xkcd

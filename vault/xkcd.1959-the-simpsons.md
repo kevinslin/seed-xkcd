@@ -2,7 +2,7 @@
 id: xkcd.1959-the-simpsons
 title: The Simpsons
 desc: ''
-updated: 1616186984485
+updated: 1519372800000
 created: 1519372800000
 sources:
   name: xkcd

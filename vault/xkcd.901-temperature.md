@@ -2,7 +2,7 @@
 id: xkcd.901-temperature
 title: Temperature
 desc: ''
-updated: 1616186984629
+updated: 1305874800000
 created: 1305874800000
 sources:
   name: xkcd

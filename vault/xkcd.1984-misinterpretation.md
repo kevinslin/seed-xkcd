@@ -2,7 +2,7 @@
 id: xkcd.1984-misinterpretation
 title: Misinterpretation
 desc: ''
-updated: 1616186984490
+updated: 1524466800000
 created: 1524466800000
 sources:
   name: xkcd

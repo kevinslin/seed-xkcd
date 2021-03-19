@@ -2,7 +2,7 @@
 id: xkcd.1626-judgment-day
 title: Judgment Day
 desc: ''
-updated: 1616186984497
+updated: 1452067200000
 created: 1452067200000
 sources:
   name: xkcd

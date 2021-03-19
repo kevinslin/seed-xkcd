@@ -2,7 +2,7 @@
 id: xkcd.918-google
 title: Google+
 desc: ''
-updated: 1616186984630
+updated: 1309330800000
 created: 1309330800000
 sources:
   name: xkcd

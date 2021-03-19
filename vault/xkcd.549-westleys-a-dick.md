@@ -2,7 +2,7 @@
 id: xkcd.549-westleys-a-dick
 title: Westley's a Dick
 desc: ''
-updated: 1616186984594
+updated: 1235721600000
 created: 1235721600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1880-eclipse-review
 title: Eclipse Review
 desc: ''
-updated: 1616186984453
+updated: 1503471600000
 created: 1503471600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.321-thighs
 title: Thighs
 desc: ''
-updated: 1616186984559
+updated: 1190790000000
 created: 1190790000000
 sources:
   name: xkcd

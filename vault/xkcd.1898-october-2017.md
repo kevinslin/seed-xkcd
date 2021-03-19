@@ -2,7 +2,7 @@
 id: xkcd.1898-october-2017
 title: October 2017
 desc: ''
-updated: 1616186984455
+updated: 1507100400000
 created: 1507100400000
 sources:
   name: xkcd

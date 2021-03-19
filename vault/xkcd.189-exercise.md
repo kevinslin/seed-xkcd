@@ -2,7 +2,7 @@
 id: xkcd.189-exercise
 title: Exercise
 desc: ''
-updated: 1616186984435
+updated: 1164614400000
 created: 1164614400000
 sources:
   name: xkcd

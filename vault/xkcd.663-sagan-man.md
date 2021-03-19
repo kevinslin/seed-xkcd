@@ -2,7 +2,7 @@
 id: xkcd.663-sagan-man
 title: Sagan-Man
 desc: ''
-updated: 1616186984609
+updated: 1258358400000
 created: 1258358400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.566-matrix-revisited
 title: Matrix Revisited
 desc: ''
-updated: 1616186984596
+updated: 1239174000000
 created: 1239174000000
 sources:
   name: xkcd

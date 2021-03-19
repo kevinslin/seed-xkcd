@@ -2,7 +2,7 @@
 id: xkcd.545-neutrality-schmeutrality
 title: Neutrality Schmeutrality
 desc: ''
-updated: 1616186984593
+updated: 1234944000000
 created: 1234944000000
 sources:
   name: xkcd

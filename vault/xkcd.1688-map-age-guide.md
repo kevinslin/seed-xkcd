@@ -2,7 +2,7 @@
 id: xkcd.1688-map-age-guide
 title: Map Age Guide
 desc: ''
-updated: 1616186984505
+updated: 1464764400000
 created: 1464764400000
 sources:
   name: xkcd

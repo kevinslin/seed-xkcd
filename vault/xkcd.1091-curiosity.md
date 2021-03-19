@@ -2,7 +2,7 @@
 id: xkcd.1091-curiosity
 title: Curiosity
 desc: ''
-updated: 1616186984697
+updated: 1344236400000
 created: 1344236400000
 sources:
   name: xkcd

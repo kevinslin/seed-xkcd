@@ -2,7 +2,7 @@
 id: xkcd.1494-insurance
 title: Insurance
 desc: ''
-updated: 1616186984542
+updated: 1425456000000
 created: 1425456000000
 sources:
   name: xkcd

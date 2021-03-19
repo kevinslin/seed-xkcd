@@ -2,7 +2,7 @@
 id: xkcd.1160-drop-those-pounds
 title: Drop Those Pounds
 desc: ''
-updated: 1616186984653
+updated: 1358150400000
 created: 1358150400000
 sources:
   name: xkcd

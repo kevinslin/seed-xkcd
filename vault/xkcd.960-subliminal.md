@@ -2,7 +2,7 @@
 id: xkcd.960-subliminal
 title: Subliminal
 desc: ''
-updated: 1616186984635
+updated: 1317798000000
 created: 1317798000000
 sources:
   name: xkcd

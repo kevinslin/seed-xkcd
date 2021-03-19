@@ -2,7 +2,7 @@
 id: xkcd.166-misusing-slang
 title: Misusing Slang
 desc: ''
-updated: 1616186984431
+updated: 1159945200000
 created: 1159945200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.716-time-machine
 title: Time Machine
 desc: ''
-updated: 1616186984618
+updated: 1268982000000
 created: 1268982000000
 sources:
   name: xkcd

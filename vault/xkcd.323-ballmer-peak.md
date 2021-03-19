@@ -2,7 +2,7 @@
 id: xkcd.323-ballmer-peak
 title: Ballmer Peak
 desc: ''
-updated: 1616186984559
+updated: 1191222000000
 created: 1191222000000
 sources:
   name: xkcd

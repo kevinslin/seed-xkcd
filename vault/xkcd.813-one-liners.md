@@ -2,7 +2,7 @@
 id: xkcd.813-one-liners
 title: One-Liners
 desc: ''
-updated: 1616186984658
+updated: 1288594800000
 created: 1288594800000
 sources:
   name: xkcd

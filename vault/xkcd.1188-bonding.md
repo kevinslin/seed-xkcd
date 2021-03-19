@@ -2,7 +2,7 @@
 id: xkcd.1188-bonding
 title: Bonding
 desc: ''
-updated: 1616186984655
+updated: 1363762800000
 created: 1363762800000
 sources:
   name: xkcd

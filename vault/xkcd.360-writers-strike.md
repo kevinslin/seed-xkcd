@@ -2,7 +2,7 @@
 id: xkcd.360-writers-strike
 title: Writers Strike
 desc: ''
-updated: 1616186984564
+updated: 1198224000000
 created: 1198224000000
 sources:
   name: xkcd

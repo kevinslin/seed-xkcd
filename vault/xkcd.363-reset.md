@@ -2,7 +2,7 @@
 id: xkcd.363-reset
 title: Reset
 desc: ''
-updated: 1616186984564
+updated: 1198828800000
 created: 1198828800000
 sources:
   name: xkcd

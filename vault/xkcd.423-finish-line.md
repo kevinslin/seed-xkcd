@@ -2,7 +2,7 @@
 id: xkcd.423-finish-line
 title: Finish Line
 desc: ''
-updated: 1616186984573
+updated: 1210748400000
 created: 1210748400000
 sources:
   name: xkcd

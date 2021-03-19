@@ -2,7 +2,7 @@
 id: xkcd.266-choices-part-3
 title: 'Choices: Part 3'
 desc: ''
-updated: 1616186984552
+updated: 1179903600000
 created: 1179903600000
 sources:
   name: xkcd

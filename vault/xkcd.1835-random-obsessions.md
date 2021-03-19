@@ -2,7 +2,7 @@
 id: xkcd.1835-random-obsessions
 title: Random Obsessions
 desc: ''
-updated: 1616186984444
+updated: 1494399600000
 created: 1494399600000
 sources:
   name: xkcd

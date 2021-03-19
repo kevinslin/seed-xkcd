@@ -2,7 +2,7 @@
 id: xkcd.1185-ineffective-sorts
 title: Ineffective Sorts
 desc: ''
-updated: 1616186984655
+updated: 1363158000000
 created: 1363158000000
 sources:
   name: xkcd

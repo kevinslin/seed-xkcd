@@ -2,7 +2,7 @@
 id: xkcd.1491-stories-of-the-past-and-future
 title: Stories of the Past and Future
 desc: ''
-updated: 1616186984542
+updated: 1424851200000
 created: 1424851200000
 sources:
   name: xkcd

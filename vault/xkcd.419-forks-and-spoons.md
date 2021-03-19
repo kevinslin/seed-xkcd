@@ -2,7 +2,7 @@
 id: xkcd.419-forks-and-spoons
 title: Forks and Spoons
 desc: ''
-updated: 1616186984572
+updated: 1209970800000
 created: 1209970800000
 sources:
   name: xkcd

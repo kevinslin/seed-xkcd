@@ -2,7 +2,7 @@
 id: xkcd.1148-nothing-to-offer
 title: Nothing to Offer
 desc: ''
-updated: 1616186984652
+updated: 1355731200000
 created: 1355731200000
 sources:
   name: xkcd

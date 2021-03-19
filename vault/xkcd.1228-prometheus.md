@@ -2,7 +2,7 @@
 id: xkcd.1228-prometheus
 title: Prometheus
 desc: ''
-updated: 1616186984355
+updated: 1371798000000
 created: 1371798000000
 sources:
   name: xkcd

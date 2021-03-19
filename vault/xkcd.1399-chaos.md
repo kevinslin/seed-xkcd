@@ -2,7 +2,7 @@
 id: xkcd.1399-chaos
 title: Chaos
 desc: ''
-updated: 1616186984418
+updated: 1406271600000
 created: 1406271600000
 sources:
   name: xkcd

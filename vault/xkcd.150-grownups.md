@@ -2,7 +2,7 @@
 id: xkcd.150-grownups
 title: Grownups
 desc: ''
-updated: 1616186984428
+updated: 1156834800000
 created: 1156834800000
 sources:
   name: xkcd

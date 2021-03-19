@@ -2,7 +2,7 @@
 id: xkcd.115-meerkat
 title: Meerkat
 desc: ''
-updated: 1616186984421
+updated: 1150268400000
 created: 1150268400000
 sources:
   name: xkcd

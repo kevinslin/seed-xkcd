@@ -2,7 +2,7 @@
 id: xkcd.592-drama
 title: Drama
 desc: ''
-updated: 1616186984599
+updated: 1244012400000
 created: 1244012400000
 sources:
   name: xkcd

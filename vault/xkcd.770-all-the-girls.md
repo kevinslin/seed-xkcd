@@ -2,7 +2,7 @@
 id: xkcd.770-all-the-girls
 title: All the Girls
 desc: ''
-updated: 1616186984622
+updated: 1279868400000
 created: 1279868400000
 sources:
   name: xkcd

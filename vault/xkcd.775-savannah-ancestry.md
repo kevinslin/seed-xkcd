@@ -2,7 +2,7 @@
 id: xkcd.775-savannah-ancestry
 title: Savannah Ancestry
 desc: ''
-updated: 1616186984622
+updated: 1280905200000
 created: 1280905200000
 sources:
   name: xkcd

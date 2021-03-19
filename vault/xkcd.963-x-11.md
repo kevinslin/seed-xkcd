@@ -2,7 +2,7 @@
 id: xkcd.963-x-11
 title: X11
 desc: ''
-updated: 1616186984635
+updated: 1318402800000
 created: 1318402800000
 sources:
   name: xkcd

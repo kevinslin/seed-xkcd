@@ -2,7 +2,7 @@
 id: xkcd.1489-fundamental-forces
 title: Fundamental Forces
 desc: ''
-updated: 1616186984541
+updated: 1424419200000
 created: 1424419200000
 sources:
   name: xkcd

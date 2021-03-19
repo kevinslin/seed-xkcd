@@ -2,7 +2,7 @@
 id: xkcd.1530-keyboard-mash
 title: Keyboard Mash
 desc: ''
-updated: 1616186984460
+updated: 1432710000000
 created: 1432710000000
 sources:
   name: xkcd

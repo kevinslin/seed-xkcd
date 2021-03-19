@@ -2,7 +2,7 @@
 id: xkcd.392-making-rules
 title: Making Rules
 desc: ''
-updated: 1616186984568
+updated: 1204704000000
 created: 1204704000000
 sources:
   name: xkcd

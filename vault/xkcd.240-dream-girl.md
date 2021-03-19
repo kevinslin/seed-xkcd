@@ -2,7 +2,7 @@
 id: xkcd.240-dream-girl
 title: Dream Girl
 desc: ''
-updated: 1616186984547
+updated: 1174892400000
 created: 1174892400000
 sources:
   name: xkcd

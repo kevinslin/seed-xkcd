@@ -2,7 +2,7 @@
 id: xkcd.1006-sloppier-than-fiction
 title: Sloppier Than Fiction
 desc: ''
-updated: 1616186984672
+updated: 1327046400000
 created: 1327046400000
 sources:
   name: xkcd

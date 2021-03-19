@@ -2,7 +2,7 @@
 id: xkcd.1715-household-tips
 title: Household Tips
 desc: ''
-updated: 1616186984510
+updated: 1470207600000
 created: 1470207600000
 sources:
   name: xkcd

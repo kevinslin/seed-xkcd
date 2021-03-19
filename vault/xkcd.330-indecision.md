@@ -2,7 +2,7 @@
 id: xkcd.330-indecision
 title: Indecision
 desc: ''
-updated: 1616186984560
+updated: 1192604400000
 created: 1192604400000
 sources:
   name: xkcd

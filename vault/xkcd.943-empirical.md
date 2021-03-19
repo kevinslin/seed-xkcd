@@ -2,7 +2,7 @@
 id: xkcd.943-empirical
 title: Empirical
 desc: ''
-updated: 1616186984632
+updated: 1314342000000
 created: 1314342000000
 sources:
   name: xkcd

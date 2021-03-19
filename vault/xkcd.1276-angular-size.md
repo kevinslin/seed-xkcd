@@ -2,7 +2,7 @@
 id: xkcd.1276-angular-size
 title: Angular Size
 desc: ''
-updated: 1616186984370
+updated: 1381474800000
 created: 1381474800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1879-eclipse-birds
 title: Eclipse Birds
 desc: ''
-updated: 1616186984452
+updated: 1503298800000
 created: 1503298800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.361-christmas-back-home
 title: Christmas Back Home
 desc: ''
-updated: 1616186984564
+updated: 1198483200000
 created: 1198483200000
 sources:
   name: xkcd

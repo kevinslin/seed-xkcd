@@ -2,7 +2,7 @@
 id: xkcd.200-bill-nye
 title: Bill Nye
 desc: ''
-updated: 1616186984437
+updated: 1166774400000
 created: 1166774400000
 sources:
   name: xkcd

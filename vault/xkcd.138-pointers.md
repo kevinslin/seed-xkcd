@@ -2,7 +2,7 @@
 id: xkcd.138-pointers
 title: Pointers
 desc: ''
-updated: 1616186984426
+updated: 1154934000000
 created: 1154934000000
 sources:
   name: xkcd

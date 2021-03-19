@@ -2,7 +2,7 @@
 id: xkcd.1692-man-page
 title: Man Page
 desc: ''
-updated: 1616186984506
+updated: 1465542000000
 created: 1465542000000
 sources:
   name: xkcd

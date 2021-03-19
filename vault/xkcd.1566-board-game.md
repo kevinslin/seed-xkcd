@@ -2,7 +2,7 @@
 id: xkcd.1566-board-game
 title: Board Game
 desc: ''
-updated: 1616186984467
+updated: 1439967600000
 created: 1439967600000
 sources:
   name: xkcd

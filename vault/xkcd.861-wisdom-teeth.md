@@ -2,7 +2,7 @@
 id: xkcd.861-wisdom-teeth
 title: Wisdom Teeth
 desc: ''
-updated: 1616186984666
+updated: 1297843200000
 created: 1297843200000
 sources:
   name: xkcd

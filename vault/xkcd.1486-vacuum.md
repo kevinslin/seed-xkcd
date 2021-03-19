@@ -2,7 +2,7 @@
 id: xkcd.1486-vacuum
 title: Vacuum
 desc: ''
-updated: 1616186984541
+updated: 1423814400000
 created: 1423814400000
 sources:
   name: xkcd

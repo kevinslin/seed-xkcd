@@ -2,7 +2,7 @@
 id: xkcd.468-fetishes
 title: Fetishes
 desc: ''
-updated: 1616186984580
+updated: 1219820400000
 created: 1219820400000
 sources:
   name: xkcd

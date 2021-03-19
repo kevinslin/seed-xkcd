@@ -2,7 +2,7 @@
 id: xkcd.1768-settling
 title: Settling
 desc: ''
-updated: 1616186984524
+updated: 1480924800000
 created: 1480924800000
 sources:
   name: xkcd

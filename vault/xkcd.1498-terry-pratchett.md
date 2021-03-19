@@ -2,7 +2,7 @@
 id: xkcd.1498-terry-pratchett
 title: Terry Pratchett
 desc: ''
-updated: 1616186984542
+updated: 1426230000000
 created: 1426230000000
 sources:
   name: xkcd

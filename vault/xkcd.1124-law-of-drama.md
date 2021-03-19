@@ -2,7 +2,7 @@
 id: xkcd.1124-law-of-drama
 title: Law of Drama
 desc: ''
-updated: 1616186984650
+updated: 1350889200000
 created: 1350889200000
 sources:
   name: xkcd

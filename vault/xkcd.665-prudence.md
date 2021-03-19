@@ -2,7 +2,7 @@
 id: xkcd.665-prudence
 title: Prudence
 desc: ''
-updated: 1616186984611
+updated: 1258704000000
 created: 1258704000000
 sources:
   name: xkcd

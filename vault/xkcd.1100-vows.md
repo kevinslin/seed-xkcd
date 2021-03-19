@@ -2,7 +2,7 @@
 id: xkcd.1100-vows
 title: Vows
 desc: ''
-updated: 1616186984648
+updated: 1346050800000
 created: 1346050800000
 sources:
   name: xkcd

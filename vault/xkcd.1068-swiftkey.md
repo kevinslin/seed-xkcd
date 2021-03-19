@@ -2,7 +2,7 @@
 id: xkcd.1068-swiftkey
 title: Swiftkey
 desc: ''
-updated: 1616186984690
+updated: 1339570800000
 created: 1339570800000
 sources:
   name: xkcd

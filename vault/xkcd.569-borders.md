@@ -2,7 +2,7 @@
 id: xkcd.569-borders
 title: Borders
 desc: ''
-updated: 1616186984596
+updated: 1239778800000
 created: 1239778800000
 sources:
   name: xkcd

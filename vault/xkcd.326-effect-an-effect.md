@@ -2,7 +2,7 @@
 id: xkcd.326-effect-an-effect
 title: Effect an Effect
 desc: ''
-updated: 1616186984559
+updated: 1191826800000
 created: 1191826800000
 sources:
   name: xkcd

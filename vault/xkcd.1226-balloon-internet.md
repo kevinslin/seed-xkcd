@@ -2,7 +2,7 @@
 id: xkcd.1226-balloon-internet
 title: Balloon Internet
 desc: ''
-updated: 1616186984355
+updated: 1371452400000
 created: 1371452400000
 sources:
   name: xkcd

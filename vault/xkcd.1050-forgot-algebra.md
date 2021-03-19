@@ -2,7 +2,7 @@
 id: xkcd.1050-forgot-algebra
 title: Forgot Algebra
 desc: ''
-updated: 1616186984688
+updated: 1335942000000
 created: 1335942000000
 sources:
   name: xkcd

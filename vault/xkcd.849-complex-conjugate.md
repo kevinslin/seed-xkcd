@@ -2,7 +2,7 @@
 id: xkcd.849-complex-conjugate
 title: Complex Conjugate
 desc: ''
-updated: 1616186984664
+updated: 1295424000000
 created: 1295424000000
 sources:
   name: xkcd

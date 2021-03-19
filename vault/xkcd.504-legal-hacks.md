@@ -2,7 +2,7 @@
 id: xkcd.504-legal-hacks
 title: Legal Hacks
 desc: ''
-updated: 1616186984585
+updated: 1226649600000
 created: 1226649600000
 sources:
   name: xkcd

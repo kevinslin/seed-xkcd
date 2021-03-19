@@ -2,7 +2,7 @@
 id: xkcd.756-public-opinion
 title: Public Opinion
 desc: ''
-updated: 1616186984621
+updated: 1277103600000
 created: 1277103600000
 sources:
   name: xkcd

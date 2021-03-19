@@ -2,7 +2,7 @@
 id: xkcd.1892-usb-cables
 title: USB Cables
 desc: ''
-updated: 1616186984454
+updated: 1505890800000
 created: 1505890800000
 sources:
   name: xkcd

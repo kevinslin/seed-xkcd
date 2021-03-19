@@ -2,7 +2,7 @@
 id: xkcd.74-su-doku
 title: Su Doku
 desc: ''
-updated: 1616186984390
+updated: 1141977600000
 created: 1141977600000
 sources:
   name: xkcd

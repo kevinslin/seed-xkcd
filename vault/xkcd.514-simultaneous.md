@@ -2,7 +2,7 @@
 id: xkcd.514-simultaneous
 title: Simultaneous
 desc: ''
-updated: 1616186984587
+updated: 1228723200000
 created: 1228723200000
 sources:
   name: xkcd

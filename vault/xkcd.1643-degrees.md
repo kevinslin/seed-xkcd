@@ -2,7 +2,7 @@
 id: xkcd.1643-degrees
 title: Degrees
 desc: ''
-updated: 1616186984500
+updated: 1455523200000
 created: 1455523200000
 sources:
   name: xkcd

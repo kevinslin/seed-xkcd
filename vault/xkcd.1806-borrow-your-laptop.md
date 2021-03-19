@@ -2,7 +2,7 @@
 id: xkcd.1806-borrow-your-laptop
 title: Borrow Your Laptop
 desc: ''
-updated: 1616186984438
+updated: 1488528000000
 created: 1488528000000
 sources:
   name: xkcd

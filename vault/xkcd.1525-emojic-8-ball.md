@@ -2,7 +2,7 @@
 id: xkcd.1525-emojic-8-ball
 title: Emojic 8 Ball
 desc: ''
-updated: 1616186984460
+updated: 1431673200000
 created: 1431673200000
 sources:
   name: xkcd

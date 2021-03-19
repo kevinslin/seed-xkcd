@@ -2,7 +2,7 @@
 id: xkcd.1851-magnetohydrodynamics
 title: Magnetohydrodynamics
 desc: ''
-updated: 1616186984447
+updated: 1497596400000
 created: 1497596400000
 sources:
   name: xkcd

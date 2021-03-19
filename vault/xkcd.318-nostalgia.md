@@ -2,7 +2,7 @@
 id: xkcd.318-nostalgia
 title: Nostalgia
 desc: ''
-updated: 1616186984559
+updated: 1190185200000
 created: 1190185200000
 sources:
   name: xkcd

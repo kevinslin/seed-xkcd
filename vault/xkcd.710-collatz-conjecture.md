@@ -2,7 +2,7 @@
 id: xkcd.710-collatz-conjecture
 title: Collatz Conjecture
 desc: ''
-updated: 1616186984617
+updated: 1267776000000
 created: 1267776000000
 sources:
   name: xkcd

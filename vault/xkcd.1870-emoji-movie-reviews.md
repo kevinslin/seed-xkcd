@@ -2,7 +2,7 @@
 id: xkcd.1870-emoji-movie-reviews
 title: Emoji Movie Reviews
 desc: ''
-updated: 1616186984450
+updated: 1501484400000
 created: 1501484400000
 sources:
   name: xkcd

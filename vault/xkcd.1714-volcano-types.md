@@ -2,7 +2,7 @@
 id: xkcd.1714-volcano-types
 title: Volcano Types
 desc: ''
-updated: 1616186984510
+updated: 1470034800000
 created: 1470034800000
 sources:
   name: xkcd

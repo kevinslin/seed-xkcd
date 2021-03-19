@@ -2,7 +2,7 @@
 id: xkcd.205-candy-button-paper
 title: Candy Button Paper
 desc: ''
-updated: 1616186984544
+updated: 1167811200000
 created: 1167811200000
 sources:
   name: xkcd

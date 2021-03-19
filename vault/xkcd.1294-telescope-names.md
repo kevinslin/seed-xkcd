@@ -2,7 +2,7 @@
 id: xkcd.1294-telescope-names
 title: Telescope Names
 desc: ''
-updated: 1616186984373
+updated: 1385107200000
 created: 1385107200000
 sources:
   name: xkcd

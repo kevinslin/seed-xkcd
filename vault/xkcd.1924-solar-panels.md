@@ -2,7 +2,7 @@
 id: xkcd.1924-solar-panels
 title: Solar Panels
 desc: ''
-updated: 1616186984478
+updated: 1512374400000
 created: 1512374400000
 sources:
   name: xkcd

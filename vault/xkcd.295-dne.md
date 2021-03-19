@@ -2,7 +2,7 @@
 id: xkcd.295-dne
 title: DNE
 desc: ''
-updated: 1616186984555
+updated: 1185519600000
 created: 1185519600000
 sources:
   name: xkcd

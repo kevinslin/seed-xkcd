@@ -2,7 +2,7 @@
 id: xkcd.1712-politifact
 title: Politifact
 desc: ''
-updated: 1616186984509
+updated: 1469602800000
 created: 1469602800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.792-password-reuse
 title: Password Reuse
 desc: ''
-updated: 1616186984625
+updated: 1284361200000
 created: 1284361200000
 sources:
   name: xkcd

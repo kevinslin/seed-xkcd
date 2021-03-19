@@ -2,7 +2,7 @@
 id: xkcd.364-responsible-behavior
 title: Responsible Behavior
 desc: ''
-updated: 1616186984564
+updated: 1199088000000
 created: 1199088000000
 sources:
   name: xkcd

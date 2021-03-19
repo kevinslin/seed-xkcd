@@ -2,7 +2,7 @@
 id: xkcd.559-no-pun-intended
 title: No Pun Intended
 desc: ''
-updated: 1616186984595
+updated: 1237791600000
 created: 1237791600000
 sources:
   name: xkcd

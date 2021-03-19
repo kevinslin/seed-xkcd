@@ -2,7 +2,7 @@
 id: xkcd.1330-kola-borehole
 title: Kola Borehole
 desc: ''
-updated: 1616186984403
+updated: 1392364800000
 created: 1392364800000
 sources:
   name: xkcd

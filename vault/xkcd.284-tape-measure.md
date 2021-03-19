@@ -2,7 +2,7 @@
 id: xkcd.284-tape-measure
 title: Tape Measure
 desc: ''
-updated: 1616186984554
+updated: 1183359600000
 created: 1183359600000
 sources:
   name: xkcd

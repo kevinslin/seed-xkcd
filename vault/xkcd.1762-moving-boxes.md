@@ -2,7 +2,7 @@
 id: xkcd.1762-moving-boxes
 title: Moving Boxes
 desc: ''
-updated: 1616186984522
+updated: 1479715200000
 created: 1479715200000
 sources:
   name: xkcd

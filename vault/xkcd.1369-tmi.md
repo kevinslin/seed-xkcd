@@ -2,7 +2,7 @@
 id: xkcd.1369-tmi
 title: TMI
 desc: ''
-updated: 1616186984411
+updated: 1400223600000
 created: 1400223600000
 sources:
   name: xkcd

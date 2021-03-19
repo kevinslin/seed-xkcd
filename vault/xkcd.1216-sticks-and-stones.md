@@ -2,7 +2,7 @@
 id: xkcd.1216-sticks-and-stones
 title: Sticks and Stones
 desc: ''
-updated: 1616186984352
+updated: 1369378800000
 created: 1369378800000
 sources:
   name: xkcd

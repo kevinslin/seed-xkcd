@@ -2,7 +2,7 @@
 id: xkcd.1585-similarities
 title: Similarities
 desc: ''
-updated: 1616186984471
+updated: 1443769200000
 created: 1443769200000
 sources:
   name: xkcd

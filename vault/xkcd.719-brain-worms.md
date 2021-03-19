@@ -2,7 +2,7 @@
 id: xkcd.719-brain-worms
 title: Brain Worms
 desc: ''
-updated: 1616186984618
+updated: 1269586800000
 created: 1269586800000
 sources:
   name: xkcd

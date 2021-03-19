@@ -2,7 +2,7 @@
 id: xkcd.1881-drone-training
 title: Drone Training
 desc: ''
-updated: 1616186984453
+updated: 1503644400000
 created: 1503644400000
 sources:
   name: xkcd

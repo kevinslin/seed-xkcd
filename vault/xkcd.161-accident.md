@@ -2,7 +2,7 @@
 id: xkcd.161-accident
 title: Accident
 desc: ''
-updated: 1616186984430
+updated: 1158908400000
 created: 1158908400000
 sources:
   name: xkcd

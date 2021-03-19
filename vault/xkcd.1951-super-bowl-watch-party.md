@@ -2,7 +2,7 @@
 id: xkcd.1951-super-bowl-watch-party
 title: Super Bowl Watch Party
 desc: ''
-updated: 1616186984483
+updated: 1517817600000
 created: 1517817600000
 sources:
   name: xkcd

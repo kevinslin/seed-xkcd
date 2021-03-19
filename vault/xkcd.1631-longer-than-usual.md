@@ -2,7 +2,7 @@
 id: xkcd.1631-longer-than-usual
 title: Longer Than Usual
 desc: ''
-updated: 1616186984497
+updated: 1453104000000
 created: 1453104000000
 sources:
   name: xkcd

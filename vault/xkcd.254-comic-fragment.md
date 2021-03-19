@@ -2,7 +2,7 @@
 id: xkcd.254-comic-fragment
 title: Comic Fragment
 desc: ''
-updated: 1616186984550
+updated: 1177657200000
 created: 1177657200000
 sources:
   name: xkcd

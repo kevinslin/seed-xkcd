@@ -2,7 +2,7 @@
 id: xkcd.530-im-an-idiot
 title: I'm An Idiot
 desc: ''
-updated: 1616186984590
+updated: 1231920000000
 created: 1231920000000
 sources:
   name: xkcd

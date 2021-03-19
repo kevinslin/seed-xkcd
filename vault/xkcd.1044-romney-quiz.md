@@ -2,7 +2,7 @@
 id: xkcd.1044-romney-quiz
 title: Romney Quiz
 desc: ''
-updated: 1616186984687
+updated: 1334732400000
 created: 1334732400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.539-boyfriend
 title: Boyfriend
 desc: ''
-updated: 1616186984593
+updated: 1233734400000
 created: 1233734400000
 sources:
   name: xkcd

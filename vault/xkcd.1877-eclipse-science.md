@@ -2,7 +2,7 @@
 id: xkcd.1877-eclipse-science
 title: Eclipse Science
 desc: ''
-updated: 1616186984452
+updated: 1502866800000
 created: 1502866800000
 sources:
   name: xkcd

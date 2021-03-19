@@ -2,7 +2,7 @@
 id: xkcd.283-projection
 title: Projection
 desc: ''
-updated: 1616186984554
+updated: 1183100400000
 created: 1183100400000
 sources:
   name: xkcd

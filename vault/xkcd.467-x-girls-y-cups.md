@@ -2,7 +2,7 @@
 id: xkcd.467-x-girls-y-cups
 title: X Girls Y Cups
 desc: ''
-updated: 1616186984580
+updated: 1219647600000
 created: 1219647600000
 sources:
   name: xkcd

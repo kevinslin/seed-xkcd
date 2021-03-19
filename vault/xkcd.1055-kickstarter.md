@@ -2,7 +2,7 @@
 id: xkcd.1055-kickstarter
 title: Kickstarter
 desc: ''
-updated: 1616186984688
+updated: 1336978800000
 created: 1336978800000
 sources:
   name: xkcd

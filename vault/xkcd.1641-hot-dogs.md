@@ -2,7 +2,7 @@
 id: xkcd.1641-hot-dogs
 title: Hot Dogs
 desc: ''
-updated: 1616186984499
+updated: 1455091200000
 created: 1455091200000
 sources:
   name: xkcd

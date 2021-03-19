@@ -2,7 +2,7 @@
 id: xkcd.1992-safety-sat
 title: SafetySat
 desc: ''
-updated: 1616186984492
+updated: 1526022000000
 created: 1526022000000
 sources:
   name: xkcd

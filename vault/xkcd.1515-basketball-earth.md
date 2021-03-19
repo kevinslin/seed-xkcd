@@ -2,7 +2,7 @@
 id: xkcd.1515-basketball-earth
 title: Basketball Earth
 desc: ''
-updated: 1616186984458
+updated: 1429686000000
 created: 1429686000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1484-apollo-speeches
 title: Apollo Speeches
 desc: ''
-updated: 1616186984541
+updated: 1423468800000
 created: 1423468800000
 sources:
   name: xkcd

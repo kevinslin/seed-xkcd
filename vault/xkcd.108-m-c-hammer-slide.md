@@ -2,7 +2,7 @@
 id: xkcd.108-m-c-hammer-slide
 title: M.C. Hammer Slide
 desc: ''
-updated: 1616186984420
+updated: 1148886000000
 created: 1148886000000
 sources:
   name: xkcd

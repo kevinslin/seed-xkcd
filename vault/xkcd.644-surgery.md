@@ -2,7 +2,7 @@
 id: xkcd.644-surgery
 title: Surgery
 desc: ''
-updated: 1616186984607
+updated: 1254466800000
 created: 1254466800000
 sources:
   name: xkcd

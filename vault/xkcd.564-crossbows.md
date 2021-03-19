@@ -2,7 +2,7 @@
 id: xkcd.564-crossbows
 title: Crossbows
 desc: ''
-updated: 1616186984595
+updated: 1238742000000
 created: 1238742000000
 sources:
   name: xkcd

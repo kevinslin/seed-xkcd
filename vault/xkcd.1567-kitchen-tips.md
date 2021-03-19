@@ -2,7 +2,7 @@
 id: xkcd.1567-kitchen-tips
 title: Kitchen Tips
 desc: ''
-updated: 1616186984467
+updated: 1440140400000
 created: 1440140400000
 sources:
   name: xkcd

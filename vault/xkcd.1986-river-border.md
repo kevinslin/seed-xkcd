@@ -2,7 +2,7 @@
 id: xkcd.1986-river-border
 title: River Border
 desc: ''
-updated: 1616186984490
+updated: 1524812400000
 created: 1524812400000
 sources:
   name: xkcd

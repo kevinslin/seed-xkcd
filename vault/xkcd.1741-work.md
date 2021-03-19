@@ -2,7 +2,7 @@
 id: xkcd.1741-work
 title: Work
 desc: ''
-updated: 1616186984518
+updated: 1475478000000
 created: 1475478000000
 sources:
   name: xkcd

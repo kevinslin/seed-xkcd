@@ -2,7 +2,7 @@
 id: xkcd.883-pain-rating
 title: Pain Rating
 desc: ''
-updated: 1616186984668
+updated: 1302246000000
 created: 1302246000000
 sources:
   name: xkcd

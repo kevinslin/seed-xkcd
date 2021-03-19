@@ -2,7 +2,7 @@
 id: xkcd.487-numerical-sex-positions
 title: Numerical Sex Positions
 desc: ''
-updated: 1616186984584
+updated: 1223622000000
 created: 1223622000000
 sources:
   name: xkcd

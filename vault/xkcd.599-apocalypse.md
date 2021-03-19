@@ -2,7 +2,7 @@
 id: xkcd.599-apocalypse
 title: Apocalypse
 desc: ''
-updated: 1616186984600
+updated: 1245394800000
 created: 1245394800000
 sources:
   name: xkcd

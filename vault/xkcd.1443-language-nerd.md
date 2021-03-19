@@ -2,7 +2,7 @@
 id: xkcd.1443-language-nerd
 title: Language Nerd
 desc: ''
-updated: 1616186984537
+updated: 1415174400000
 created: 1415174400000
 sources:
   name: xkcd

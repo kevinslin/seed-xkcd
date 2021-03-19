@@ -2,7 +2,7 @@
 id: xkcd.742-campfire
 title: Campfire
 desc: ''
-updated: 1616186984620
+updated: 1274252400000
 created: 1274252400000
 sources:
   name: xkcd

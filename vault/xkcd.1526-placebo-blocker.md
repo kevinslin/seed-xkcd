@@ -2,7 +2,7 @@
 id: xkcd.1526-placebo-blocker
 title: Placebo Blocker
 desc: ''
-updated: 1616186984460
+updated: 1431932400000
 created: 1431932400000
 sources:
   name: xkcd

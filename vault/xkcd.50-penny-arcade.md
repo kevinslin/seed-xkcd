@@ -2,7 +2,7 @@
 id: xkcd.50-penny-arcade
 title: Penny Arcade
 desc: ''
-updated: 1616186984386
+updated: 1137484800000
 created: 1137484800000
 sources:
   name: xkcd

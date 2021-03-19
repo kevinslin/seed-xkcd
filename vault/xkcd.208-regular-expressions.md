@@ -2,7 +2,7 @@
 id: xkcd.208-regular-expressions
 title: Regular Expressions
 desc: ''
-updated: 1616186984544
+updated: 1168416000000
 created: 1168416000000
 sources:
   name: xkcd

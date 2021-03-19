@@ -2,7 +2,7 @@
 id: xkcd.139-i-have-owned-two-electric-skateboards
 title: I Have Owned Two Electric Skateboards
 desc: ''
-updated: 1616186984426
+updated: 1155106800000
 created: 1155106800000
 sources:
   name: xkcd

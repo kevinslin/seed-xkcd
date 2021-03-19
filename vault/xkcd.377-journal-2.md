@@ -2,7 +2,7 @@
 id: xkcd.377-journal-2
 title: Journal 2
 desc: ''
-updated: 1616186984565
+updated: 1201680000000
 created: 1201680000000
 sources:
   name: xkcd

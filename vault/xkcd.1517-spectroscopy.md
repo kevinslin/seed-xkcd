@@ -2,7 +2,7 @@
 id: xkcd.1517-spectroscopy
 title: Spectroscopy
 desc: ''
-updated: 1616186984459
+updated: 1430118000000
 created: 1430118000000
 sources:
   name: xkcd

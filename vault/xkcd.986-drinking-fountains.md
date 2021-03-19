@@ -2,7 +2,7 @@
 id: xkcd.986-drinking-fountains
 title: Drinking Fountains
 desc: ''
-updated: 1616186984637
+updated: 1323072000000
 created: 1323072000000
 sources:
   name: xkcd

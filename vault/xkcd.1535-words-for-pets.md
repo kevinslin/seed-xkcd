@@ -2,7 +2,7 @@
 id: xkcd.1535-words-for-pets
 title: Words for Pets
 desc: ''
-updated: 1616186984461
+updated: 1433746800000
 created: 1433746800000
 sources:
   name: xkcd

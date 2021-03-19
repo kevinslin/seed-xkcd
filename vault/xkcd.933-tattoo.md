@@ -2,7 +2,7 @@
 id: xkcd.933-tattoo
 title: Tattoo
 desc: ''
-updated: 1616186984632
+updated: 1312354800000
 created: 1312354800000
 sources:
   name: xkcd

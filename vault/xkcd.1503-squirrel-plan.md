@@ -2,7 +2,7 @@
 id: xkcd.1503-squirrel-plan
 title: Squirrel Plan
 desc: ''
-updated: 1616186984456
+updated: 1427266800000
 created: 1427266800000
 sources:
   name: xkcd

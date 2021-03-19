@@ -2,7 +2,7 @@
 id: xkcd.1886-typing-notifications
 title: Typing Notifications
 desc: ''
-updated: 1616186984453
+updated: 1504681200000
 created: 1504681200000
 sources:
   name: xkcd

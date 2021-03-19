@@ -2,7 +2,7 @@
 id: xkcd.596-latitude
 title: Latitude
 desc: ''
-updated: 1616186984600
+updated: 1244790000000
 created: 1244790000000
 sources:
   name: xkcd

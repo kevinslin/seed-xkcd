@@ -2,7 +2,7 @@
 id: xkcd.1204-detail
 title: Detail
 desc: ''
-updated: 1616186984346
+updated: 1366959600000
 created: 1366959600000
 sources:
   name: xkcd

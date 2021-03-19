@@ -2,7 +2,7 @@
 id: xkcd.287-np-complete
 title: NP-Complete
 desc: ''
-updated: 1616186984555
+updated: 1183964400000
 created: 1183964400000
 sources:
   name: xkcd

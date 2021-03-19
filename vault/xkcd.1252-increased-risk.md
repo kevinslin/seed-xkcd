@@ -2,7 +2,7 @@
 id: xkcd.1252-increased-risk
 title: Increased Risk
 desc: ''
-updated: 1616186984365
+updated: 1376636400000
 created: 1376636400000
 sources:
   name: xkcd

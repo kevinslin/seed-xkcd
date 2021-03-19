@@ -2,7 +2,7 @@
 id: xkcd.1348-before-the-internet
 title: Before the Internet
 desc: ''
-updated: 1616186984406
+updated: 1395990000000
 created: 1395990000000
 sources:
   name: xkcd

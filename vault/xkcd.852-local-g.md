@@ -2,7 +2,7 @@
 id: xkcd.852-local-g
 title: Local g
 desc: ''
-updated: 1616186984664
+updated: 1296028800000
 created: 1296028800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1981-rickrolling-anniversary
 title: Rickrolling Anniversary
 desc: ''
-updated: 1616186984489
+updated: 1523862000000
 created: 1523862000000
 sources:
   name: xkcd

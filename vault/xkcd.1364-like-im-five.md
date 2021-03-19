@@ -2,7 +2,7 @@
 id: xkcd.1364-like-im-five
 title: Like I'm Five
 desc: ''
-updated: 1616186984410
+updated: 1399273200000
 created: 1399273200000
 sources:
   name: xkcd

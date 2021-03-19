@@ -2,7 +2,7 @@
 id: xkcd.1155-kolmogorov-directions
 title: Kolmogorov Directions
 desc: ''
-updated: 1616186984653
+updated: 1357113600000
 created: 1357113600000
 sources:
   name: xkcd

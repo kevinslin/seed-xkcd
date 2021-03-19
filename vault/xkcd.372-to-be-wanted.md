@@ -2,7 +2,7 @@
 id: xkcd.372-to-be-wanted
 title: To Be Wanted
 desc: ''
-updated: 1616186984565
+updated: 1200643200000
 created: 1200643200000
 sources:
   name: xkcd

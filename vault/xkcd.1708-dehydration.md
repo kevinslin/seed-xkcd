@@ -2,7 +2,7 @@
 id: xkcd.1708-dehydration
 title: Dehydration
 desc: ''
-updated: 1616186984509
+updated: 1468825200000
 created: 1468825200000
 sources:
   name: xkcd

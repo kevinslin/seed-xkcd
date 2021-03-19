@@ -2,7 +2,7 @@
 id: xkcd.1797-stardew-valley
 title: Stardew Valley
 desc: ''
-updated: 1616186984530
+updated: 1486713600000
 created: 1486713600000
 sources:
   name: xkcd

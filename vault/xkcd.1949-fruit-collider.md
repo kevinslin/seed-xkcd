@@ -2,7 +2,7 @@
 id: xkcd.1949-fruit-collider
 title: Fruit Collider
 desc: ''
-updated: 1616186984483
+updated: 1517385600000
 created: 1517385600000
 sources:
   name: xkcd

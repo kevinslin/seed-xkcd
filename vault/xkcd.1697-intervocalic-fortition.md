@@ -2,7 +2,7 @@
 id: xkcd.1697-intervocalic-fortition
 title: Intervocalic Fortition
 desc: ''
-updated: 1616186984507
+updated: 1466578800000
 created: 1466578800000
 sources:
   name: xkcd

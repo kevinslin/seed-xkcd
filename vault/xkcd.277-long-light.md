@@ -2,7 +2,7 @@
 id: xkcd.277-long-light
 title: Long Light
 desc: ''
-updated: 1616186984553
+updated: 1181890800000
 created: 1181890800000
 sources:
   name: xkcd

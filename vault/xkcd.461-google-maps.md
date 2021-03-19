@@ -2,7 +2,7 @@
 id: xkcd.461-google-maps
 title: Google Maps
 desc: ''
-updated: 1616186984579
+updated: 1218438000000
 created: 1218438000000
 sources:
   name: xkcd

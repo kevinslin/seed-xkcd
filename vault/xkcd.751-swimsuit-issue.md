@@ -2,7 +2,7 @@
 id: xkcd.751-swimsuit-issue
 title: Swimsuit Issue
 desc: ''
-updated: 1616186984620
+updated: 1276066800000
 created: 1276066800000
 sources:
   name: xkcd

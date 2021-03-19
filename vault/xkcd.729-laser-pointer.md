@@ -2,7 +2,7 @@
 id: xkcd.729-laser-pointer
 title: Laser Pointer
 desc: ''
-updated: 1616186984619
+updated: 1271660400000
 created: 1271660400000
 sources:
   name: xkcd

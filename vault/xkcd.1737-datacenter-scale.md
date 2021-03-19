@@ -2,7 +2,7 @@
 id: xkcd.1737-datacenter-scale
 title: Datacenter Scale
 desc: ''
-updated: 1616186984517
+updated: 1474614000000
 created: 1474614000000
 sources:
   name: xkcd

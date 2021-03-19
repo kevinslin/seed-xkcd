@@ -2,7 +2,7 @@
 id: xkcd.1492-dress-color
 title: Dress Color
 desc: ''
-updated: 1616186984542
+updated: 1425024000000
 created: 1425024000000
 sources:
   name: xkcd

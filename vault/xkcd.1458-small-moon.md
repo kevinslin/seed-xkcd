@@ -2,7 +2,7 @@
 id: xkcd.1458-small-moon
 title: Small Moon
 desc: ''
-updated: 1616186984538
+updated: 1418198400000
 created: 1418198400000
 sources:
   name: xkcd

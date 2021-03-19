@@ -2,7 +2,7 @@
 id: xkcd.935-missed-connections
 title: Missed Connections
 desc: ''
-updated: 1616186984632
+updated: 1312786800000
 created: 1312786800000
 sources:
   name: xkcd

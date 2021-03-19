@@ -2,7 +2,7 @@
 id: xkcd.1477-star-wars
 title: Star Wars
 desc: ''
-updated: 1616186984540
+updated: 1422000000000
 created: 1422000000000
 sources:
   name: xkcd

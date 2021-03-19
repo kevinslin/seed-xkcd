@@ -2,7 +2,7 @@
 id: xkcd.1866-russells-teapot
 title: Russell's Teapot
 desc: ''
-updated: 1616186984449
+updated: 1500620400000
 created: 1500620400000
 sources:
   name: xkcd

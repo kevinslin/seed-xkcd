@@ -2,7 +2,7 @@
 id: xkcd.1847-dubious-study
 title: Dubious Study
 desc: ''
-updated: 1616186984446
+updated: 1496818800000
 created: 1496818800000
 sources:
   name: xkcd

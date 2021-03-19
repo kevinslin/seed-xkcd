@@ -2,7 +2,7 @@
 id: xkcd.1771-it-was-i
 title: It Was I
 desc: ''
-updated: 1616186984525
+updated: 1481529600000
 created: 1481529600000
 sources:
   name: xkcd

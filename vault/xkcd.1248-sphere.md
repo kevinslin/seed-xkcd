@@ -2,7 +2,7 @@
 id: xkcd.1248-sphere
 title: Sphere
 desc: ''
-updated: 1616186984364
+updated: 1375858800000
 created: 1375858800000
 sources:
   name: xkcd

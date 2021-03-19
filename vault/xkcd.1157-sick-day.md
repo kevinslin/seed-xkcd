@@ -2,7 +2,7 @@
 id: xkcd.1157-sick-day
 title: Sick Day
 desc: ''
-updated: 1616186984653
+updated: 1357545600000
 created: 1357545600000
 sources:
   name: xkcd

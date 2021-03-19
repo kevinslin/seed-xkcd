@@ -2,7 +2,7 @@
 id: xkcd.1874-geologic-faults
 title: Geologic Faults
 desc: ''
-updated: 1616186984451
+updated: 1502262000000
 created: 1502262000000
 sources:
   name: xkcd

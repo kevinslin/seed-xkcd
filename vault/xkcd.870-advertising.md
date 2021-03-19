@@ -2,7 +2,7 @@
 id: xkcd.870-advertising
 title: Advertising
 desc: ''
-updated: 1616186984666
+updated: 1299657600000
 created: 1299657600000
 sources:
   name: xkcd

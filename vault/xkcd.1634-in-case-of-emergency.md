@@ -2,7 +2,7 @@
 id: xkcd.1634-in-case-of-emergency
 title: In Case of Emergency
 desc: ''
-updated: 1616186984499
+updated: 1453708800000
 created: 1453708800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.444-macgyver-gets-lazy
 title: Macgyver Gets Lazy
 desc: ''
-updated: 1616186984576
+updated: 1214982000000
 created: 1214982000000
 sources:
   name: xkcd

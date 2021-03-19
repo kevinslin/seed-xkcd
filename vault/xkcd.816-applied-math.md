@@ -2,7 +2,7 @@
 id: xkcd.816-applied-math
 title: Applied Math
 desc: ''
-updated: 1616186984658
+updated: 1289203200000
 created: 1289203200000
 sources:
   name: xkcd

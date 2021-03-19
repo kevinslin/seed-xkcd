@@ -2,7 +2,7 @@
 id: xkcd.312-with-apologies-to-robert-frost
 title: With Apologies to Robert Frost
 desc: ''
-updated: 1616186984558
+updated: 1188975600000
 created: 1188975600000
 sources:
   name: xkcd

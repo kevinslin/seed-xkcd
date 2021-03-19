@@ -2,7 +2,7 @@
 id: xkcd.96-mail
 title: Mail
 desc: ''
-updated: 1616186984395
+updated: 1146466800000
 created: 1146466800000
 sources:
   name: xkcd

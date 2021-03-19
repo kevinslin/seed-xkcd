@@ -2,7 +2,7 @@
 id: xkcd.1075-warning
 title: Warning
 desc: ''
-updated: 1616186984692
+updated: 1340953200000
 created: 1340953200000
 sources:
   name: xkcd

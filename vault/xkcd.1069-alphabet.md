@@ -2,7 +2,7 @@
 id: xkcd.1069-alphabet
 title: Alphabet
 desc: ''
-updated: 1616186984690
+updated: 1339743600000
 created: 1339743600000
 sources:
   name: xkcd

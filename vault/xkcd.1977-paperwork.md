@@ -2,7 +2,7 @@
 id: xkcd.1977-paperwork
 title: Paperwork
 desc: ''
-updated: 1616186984489
+updated: 1522998000000
 created: 1522998000000
 sources:
   name: xkcd

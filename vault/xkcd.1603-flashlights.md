@@ -2,7 +2,7 @@
 id: xkcd.1603-flashlights
 title: Flashlights
 desc: ''
-updated: 1616186984494
+updated: 1447401600000
 created: 1447401600000
 sources:
   name: xkcd

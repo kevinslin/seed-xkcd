@@ -2,7 +2,7 @@
 id: xkcd.1411-loop
 title: Loop
 desc: ''
-updated: 1616186984534
+updated: 1408690800000
 created: 1408690800000
 sources:
   name: xkcd

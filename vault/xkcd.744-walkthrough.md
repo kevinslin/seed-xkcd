@@ -2,7 +2,7 @@
 id: xkcd.744-walkthrough
 title: Walkthrough
 desc: ''
-updated: 1616186984620
+updated: 1274684400000
 created: 1274684400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1973-star-lore
 title: Star Lore
 desc: ''
-updated: 1616186984488
+updated: 1522220400000
 created: 1522220400000
 sources:
   name: xkcd

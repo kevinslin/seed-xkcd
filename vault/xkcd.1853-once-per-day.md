@@ -2,7 +2,7 @@
 id: xkcd.1853-once-per-day
 title: Once Per Day
 desc: ''
-updated: 1616186984447
+updated: 1498028400000
 created: 1498028400000
 sources:
   name: xkcd

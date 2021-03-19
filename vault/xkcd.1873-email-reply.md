@@ -2,7 +2,7 @@
 id: xkcd.1873-email-reply
 title: Email Reply
 desc: ''
-updated: 1616186984451
+updated: 1502089200000
 created: 1502089200000
 sources:
   name: xkcd

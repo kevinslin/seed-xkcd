@@ -2,7 +2,7 @@
 id: xkcd.1334-second
 title: Second
 desc: ''
-updated: 1616186984404
+updated: 1393228800000
 created: 1393228800000
 sources:
   name: xkcd

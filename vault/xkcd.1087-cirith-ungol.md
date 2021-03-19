@@ -2,7 +2,7 @@
 id: xkcd.1087-cirith-ungol
 title: Cirith Ungol
 desc: ''
-updated: 1616186984695
+updated: 1343372400000
 created: 1343372400000
 sources:
   name: xkcd

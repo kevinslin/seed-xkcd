@@ -2,7 +2,7 @@
 id: xkcd.1173-steroids
 title: Steroids
 desc: ''
-updated: 1616186984654
+updated: 1360742400000
 created: 1360742400000
 sources:
   name: xkcd

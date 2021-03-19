@@ -2,7 +2,7 @@
 id: xkcd.1682-bun
 title: Bun
 desc: ''
-updated: 1616186984505
+updated: 1463554800000
 created: 1463554800000
 sources:
   name: xkcd

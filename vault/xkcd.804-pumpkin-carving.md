@@ -2,7 +2,7 @@
 id: xkcd.804-pumpkin-carving
 title: Pumpkin Carving
 desc: ''
-updated: 1616186984657
+updated: 1286780400000
 created: 1286780400000
 sources:
   name: xkcd

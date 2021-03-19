@@ -2,7 +2,7 @@
 id: xkcd.854-learning-to-cook
 title: Learning to Cook
 desc: ''
-updated: 1616186984664
+updated: 1296460800000
 created: 1296460800000
 sources:
   name: xkcd

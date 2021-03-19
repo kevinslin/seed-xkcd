@@ -2,7 +2,7 @@
 id: xkcd.113-riemann-zeta
 title: Riemann-Zeta
 desc: ''
-updated: 1616186984421
+updated: 1149836400000
 created: 1149836400000
 sources:
   name: xkcd

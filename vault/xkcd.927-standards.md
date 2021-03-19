@@ -2,7 +2,7 @@
 id: xkcd.927-standards
 title: Standards
 desc: ''
-updated: 1616186984631
+updated: 1311145200000
 created: 1311145200000
 sources:
   name: xkcd

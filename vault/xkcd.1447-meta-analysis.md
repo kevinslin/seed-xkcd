@@ -2,7 +2,7 @@
 id: xkcd.1447-meta-analysis
 title: Meta-Analysis
 desc: ''
-updated: 1616186984537
+updated: 1415952000000
 created: 1415952000000
 sources:
   name: xkcd

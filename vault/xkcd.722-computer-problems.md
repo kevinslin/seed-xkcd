@@ -2,7 +2,7 @@
 id: xkcd.722-computer-problems
 title: Computer Problems
 desc: ''
-updated: 1616186984618
+updated: 1270191600000
 created: 1270191600000
 sources:
   name: xkcd

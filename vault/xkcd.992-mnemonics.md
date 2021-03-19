@@ -2,7 +2,7 @@
 id: xkcd.992-mnemonics
 title: Mnemonics
 desc: ''
-updated: 1616186984638
+updated: 1324281600000
 created: 1324281600000
 sources:
   name: xkcd

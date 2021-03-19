@@ -2,7 +2,7 @@
 id: xkcd.1746-making-friends
 title: Making Friends
 desc: ''
-updated: 1616186984520
+updated: 1476428400000
 created: 1476428400000
 sources:
   name: xkcd

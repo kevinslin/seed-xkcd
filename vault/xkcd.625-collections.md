@@ -2,7 +2,7 @@
 id: xkcd.625-collections
 title: Collections
 desc: ''
-updated: 1616186984604
+updated: 1250665200000
 created: 1250665200000
 sources:
   name: xkcd

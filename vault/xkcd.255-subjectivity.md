@@ -2,7 +2,7 @@
 id: xkcd.255-subjectivity
 title: Subjectivity
 desc: ''
-updated: 1616186984550
+updated: 1177916400000
 created: 1177916400000
 sources:
   name: xkcd

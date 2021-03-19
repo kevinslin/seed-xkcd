@@ -2,7 +2,7 @@
 id: xkcd.590-papyrus
 title: Papyrus
 desc: ''
-updated: 1616186984599
+updated: 1243580400000
 created: 1243580400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.707-joshing
 title: Joshing
 desc: ''
-updated: 1616186984617
+updated: 1267171200000
 created: 1267171200000
 sources:
   name: xkcd

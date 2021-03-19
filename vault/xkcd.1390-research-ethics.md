@@ -2,7 +2,7 @@
 id: xkcd.1390-research-ethics
 title: Research Ethics
 desc: ''
-updated: 1616186984417
+updated: 1404457200000
 created: 1404457200000
 sources:
   name: xkcd

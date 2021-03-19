@@ -2,7 +2,7 @@
 id: xkcd.425-fortune-cookies
 title: Fortune Cookies
 desc: ''
-updated: 1616186984573
+updated: 1211180400000
 created: 1211180400000
 sources:
   name: xkcd

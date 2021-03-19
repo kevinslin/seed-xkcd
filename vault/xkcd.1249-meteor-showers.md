@@ -2,7 +2,7 @@
 id: xkcd.1249-meteor-showers
 title: Meteor Showers
 desc: ''
-updated: 1616186984364
+updated: 1376031600000
 created: 1376031600000
 sources:
   name: xkcd

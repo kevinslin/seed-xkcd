@@ -2,7 +2,7 @@
 id: xkcd.551-etch-a-sketch
 title: Etch-a-Sketch
 desc: ''
-updated: 1616186984594
+updated: 1236153600000
 created: 1236153600000
 sources:
   name: xkcd

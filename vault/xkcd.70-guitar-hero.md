@@ -2,7 +2,7 @@
 id: xkcd.70-guitar-hero
 title: Guitar Hero
 desc: ''
-updated: 1616186984390
+updated: 1141200000000
 created: 1141200000000
 sources:
   name: xkcd

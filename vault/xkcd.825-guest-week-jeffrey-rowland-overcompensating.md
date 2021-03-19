@@ -2,7 +2,7 @@
 id: xkcd.825-guest-week-jeffrey-rowland-overcompensating
 title: 'Guest Week: Jeffrey Rowland (Overcompensating)'
 desc: ''
-updated: 1616186984661
+updated: 1290672000000
 created: 1290672000000
 sources:
   name: xkcd

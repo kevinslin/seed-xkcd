@@ -2,7 +2,7 @@
 id: xkcd.1791-telescopes-refractor-vs-reflector
 title: 'Telescopes: Refractor vs Reflector'
 desc: ''
-updated: 1616186984528
+updated: 1485504000000
 created: 1485504000000
 sources:
   name: xkcd

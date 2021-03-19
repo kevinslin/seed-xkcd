@@ -2,7 +2,7 @@
 id: xkcd.1745-record-scratch
 title: Record Scratch
 desc: ''
-updated: 1616186984518
+updated: 1476255600000
 created: 1476255600000
 sources:
   name: xkcd

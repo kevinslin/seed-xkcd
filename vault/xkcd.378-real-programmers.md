@@ -2,7 +2,7 @@
 id: xkcd.378-real-programmers
 title: Real Programmers
 desc: ''
-updated: 1616186984566
+updated: 1201852800000
 created: 1201852800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.340-fight
 title: Fight
 desc: ''
-updated: 1616186984561
+updated: 1194595200000
 created: 1194595200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1366-train
 title: Train
 desc: ''
-updated: 1616186984410
+updated: 1399618800000
 created: 1399618800000
 sources:
   name: xkcd

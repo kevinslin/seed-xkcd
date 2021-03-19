@@ -2,7 +2,7 @@
 id: xkcd.621-superlative
 title: Superlative
 desc: ''
-updated: 1616186984604
+updated: 1249887600000
 created: 1249887600000
 sources:
   name: xkcd

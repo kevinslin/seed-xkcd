@@ -2,7 +2,7 @@
 id: xkcd.51-malaria
 title: Malaria
 desc: ''
-updated: 1616186984386
+updated: 1137571200000
 created: 1137571200000
 sources:
   name: xkcd

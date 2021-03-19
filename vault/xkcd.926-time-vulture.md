@@ -2,7 +2,7 @@
 id: xkcd.926-time-vulture
 title: Time Vulture
 desc: ''
-updated: 1616186984631
+updated: 1310972400000
 created: 1310972400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1110-click-and-drag
 title: Click and Drag
 desc: ''
-updated: 1616186984649
+updated: 1348038000000
 created: 1348038000000
 sources:
   name: xkcd

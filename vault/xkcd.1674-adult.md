@@ -2,7 +2,7 @@
 id: xkcd.1674-adult
 title: Adult
 desc: ''
-updated: 1616186984504
+updated: 1461913200000
 created: 1461913200000
 sources:
   name: xkcd

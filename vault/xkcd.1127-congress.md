@@ -2,7 +2,7 @@
 id: xkcd.1127-congress
 title: Congress
 desc: ''
-updated: 1616186984650
+updated: 1351494000000
 created: 1351494000000
 sources:
   name: xkcd

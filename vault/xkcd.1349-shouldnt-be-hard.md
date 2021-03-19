@@ -2,7 +2,7 @@
 id: xkcd.1349-shouldnt-be-hard
 title: Shouldn't Be Hard
 desc: ''
-updated: 1616186984406
+updated: 1396249200000
 created: 1396249200000
 sources:
   name: xkcd

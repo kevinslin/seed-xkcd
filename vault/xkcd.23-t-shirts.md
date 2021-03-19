@@ -2,7 +2,7 @@
 id: xkcd.23-t-shirts
 title: T-shirts
 desc: ''
-updated: 1616186984380
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

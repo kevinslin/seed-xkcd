@@ -2,7 +2,7 @@
 id: xkcd.1385-throwing-rocks
 title: Throwing Rocks
 desc: ''
-updated: 1616186984414
+updated: 1403506800000
 created: 1403506800000
 sources:
   name: xkcd

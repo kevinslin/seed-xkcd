@@ -2,7 +2,7 @@
 id: xkcd.1270-functional
 title: Functional
 desc: ''
-updated: 1616186984369
+updated: 1380265200000
 created: 1380265200000
 sources:
   name: xkcd

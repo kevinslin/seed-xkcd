@@ -2,7 +2,7 @@
 id: xkcd.1136-broken-mirror
 title: Broken Mirror
 desc: ''
-updated: 1616186984651
+updated: 1353312000000
 created: 1353312000000
 sources:
   name: xkcd

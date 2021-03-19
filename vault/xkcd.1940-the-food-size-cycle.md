@@ -2,7 +2,7 @@
 id: xkcd.1940-the-food-size-cycle
 title: The Food Size Cycle
 desc: ''
-updated: 1616186984481
+updated: 1515571200000
 created: 1515571200000
 sources:
   name: xkcd

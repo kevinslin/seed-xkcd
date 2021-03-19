@@ -2,7 +2,7 @@
 id: xkcd.806-tech-support
 title: Tech Support
 desc: ''
-updated: 1616186984657
+updated: 1287126000000
 created: 1287126000000
 sources:
   name: xkcd

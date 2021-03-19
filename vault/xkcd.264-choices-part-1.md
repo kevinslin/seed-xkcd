@@ -2,7 +2,7 @@
 id: xkcd.264-choices-part-1
 title: 'Choices: Part 1'
 desc: ''
-updated: 1616186984551
+updated: 1179730800000
 created: 1179730800000
 sources:
   name: xkcd

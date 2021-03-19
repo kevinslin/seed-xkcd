@@ -2,7 +2,7 @@
 id: xkcd.145-parody-week-dinosaur-comics
 title: 'Parody Week: Dinosaur Comics'
 desc: ''
-updated: 1616186984427
+updated: 1155884400000
 created: 1155884400000
 sources:
   name: xkcd

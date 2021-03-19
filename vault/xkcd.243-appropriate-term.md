@@ -2,7 +2,7 @@
 id: xkcd.243-appropriate-term
 title: Appropriate Term
 desc: ''
-updated: 1616186984548
+updated: 1175497200000
 created: 1175497200000
 sources:
   name: xkcd

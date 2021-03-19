@@ -2,7 +2,7 @@
 id: xkcd.543-sierpinski-valentine
 title: Sierpinski Valentine
 desc: ''
-updated: 1616186984593
+updated: 1234512000000
 created: 1234512000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.207-what-xkcd-means
 title: What xkcd Means
 desc: ''
-updated: 1616186984544
+updated: 1168243200000
 created: 1168243200000
 sources:
   name: xkcd

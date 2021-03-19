@@ -2,7 +2,7 @@
 id: xkcd.169-words-that-end-in-gry
 title: Words that End in GRY
 desc: ''
-updated: 1616186984431
+updated: 1160550000000
 created: 1160550000000
 sources:
   name: xkcd

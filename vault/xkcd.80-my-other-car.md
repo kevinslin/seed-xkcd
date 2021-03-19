@@ -2,7 +2,7 @@
 id: xkcd.80-my-other-car
 title: My Other Car
 desc: ''
-updated: 1616186984391
+updated: 1143187200000
 created: 1143187200000
 sources:
   name: xkcd

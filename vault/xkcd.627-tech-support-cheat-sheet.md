@@ -2,7 +2,7 @@
 id: xkcd.627-tech-support-cheat-sheet
 title: Tech Support Cheat Sheet
 desc: ''
-updated: 1616186984604
+updated: 1251097200000
 created: 1251097200000
 sources:
   name: xkcd

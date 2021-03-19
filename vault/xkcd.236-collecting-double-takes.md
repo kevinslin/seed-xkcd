@@ -2,7 +2,7 @@
 id: xkcd.236-collecting-double-takes
 title: Collecting Double-Takes
 desc: ''
-updated: 1616186984547
+updated: 1174028400000
 created: 1174028400000
 sources:
   name: xkcd

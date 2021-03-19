@@ -2,7 +2,7 @@
 id: xkcd.1747-spider-paleontology
 title: Spider Paleontology
 desc: ''
-updated: 1616186984520
+updated: 1476687600000
 created: 1476687600000
 sources:
   name: xkcd

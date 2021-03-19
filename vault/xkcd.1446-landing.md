@@ -2,7 +2,7 @@
 id: xkcd.1446-landing
 title: Landing
 desc: ''
-updated: 1616186984537
+updated: 1415779200000
 created: 1415779200000
 sources:
   name: xkcd

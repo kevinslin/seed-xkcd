@@ -2,7 +2,7 @@
 id: xkcd.1997-business-update
 title: Business Update
 desc: ''
-updated: 1616186984492
+updated: 1527058800000
 created: 1527058800000
 sources:
   name: xkcd

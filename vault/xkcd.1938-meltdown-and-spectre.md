@@ -2,7 +2,7 @@
 id: xkcd.1938-meltdown-and-spectre
 title: Meltdown and Spectre
 desc: ''
-updated: 1616186984481
+updated: 1515139200000
 created: 1515139200000
 sources:
   name: xkcd

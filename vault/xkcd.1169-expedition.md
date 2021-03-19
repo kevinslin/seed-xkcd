@@ -2,7 +2,7 @@
 id: xkcd.1169-expedition
 title: Expedition
 desc: ''
-updated: 1616186984654
+updated: 1359964800000
 created: 1359964800000
 sources:
   name: xkcd

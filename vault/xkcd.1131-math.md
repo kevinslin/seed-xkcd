@@ -2,7 +2,7 @@
 id: xkcd.1131-math
 title: Math
 desc: ''
-updated: 1616186984651
+updated: 1352275200000
 created: 1352275200000
 sources:
   name: xkcd

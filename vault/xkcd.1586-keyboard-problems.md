@@ -2,7 +2,7 @@
 id: xkcd.1586-keyboard-problems
 title: Keyboard Problems
 desc: ''
-updated: 1616186984471
+updated: 1444028400000
 created: 1444028400000
 sources:
   name: xkcd

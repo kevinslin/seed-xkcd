@@ -2,7 +2,7 @@
 id: xkcd.720-recipes
 title: Recipes
 desc: ''
-updated: 1616186984618
+updated: 1269846000000
 created: 1269846000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1901-logical
 title: Logical
 desc: ''
-updated: 1616186984473
+updated: 1507705200000
 created: 1507705200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.176-before-sunrise
 title: Before Sunrise
 desc: ''
-updated: 1616186984433
+updated: 1161932400000
 created: 1161932400000
 sources:
   name: xkcd

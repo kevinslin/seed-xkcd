@@ -2,7 +2,7 @@
 id: xkcd.785-open-mic-night
 title: Open Mic Night
 desc: ''
-updated: 1616186984624
+updated: 1282892400000
 created: 1282892400000
 sources:
   name: xkcd

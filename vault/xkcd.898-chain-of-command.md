@@ -2,7 +2,7 @@
 id: xkcd.898-chain-of-command
 title: Chain of Command
 desc: ''
-updated: 1616186984669
+updated: 1305270000000
 created: 1305270000000
 sources:
   name: xkcd

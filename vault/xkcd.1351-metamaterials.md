@@ -2,7 +2,7 @@
 id: xkcd.1351-metamaterials
 title: Metamaterials
 desc: ''
-updated: 1616186984407
+updated: 1396594800000
 created: 1396594800000
 sources:
   name: xkcd

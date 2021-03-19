@@ -2,7 +2,7 @@
 id: xkcd.1900-jet-lag
 title: Jet Lag
 desc: ''
-updated: 1616186984473
+updated: 1507532400000
 created: 1507532400000
 sources:
   name: xkcd

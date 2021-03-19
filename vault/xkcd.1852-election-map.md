@@ -2,7 +2,7 @@
 id: xkcd.1852-election-map
 title: Election Map
 desc: ''
-updated: 1616186984447
+updated: 1497855600000
 created: 1497855600000
 sources:
   name: xkcd

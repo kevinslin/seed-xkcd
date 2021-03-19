@@ -2,7 +2,7 @@
 id: xkcd.1499-arbitrage
 title: Arbitrage
 desc: ''
-updated: 1616186984542
+updated: 1426489200000
 created: 1426489200000
 sources:
   name: xkcd

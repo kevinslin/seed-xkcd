@@ -2,7 +2,7 @@
 id: xkcd.1922-interferometry
 title: Interferometry
 desc: ''
-updated: 1616186984478
+updated: 1511942400000
 created: 1511942400000
 sources:
   name: xkcd

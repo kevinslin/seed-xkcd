@@ -2,7 +2,7 @@
 id: xkcd.299-aeris-dies
 title: Aeris Dies
 desc: ''
-updated: 1616186984556
+updated: 1186383600000
 created: 1186383600000
 sources:
   name: xkcd

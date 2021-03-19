@@ -2,7 +2,7 @@
 id: xkcd.1743-coffee
 title: Coffee
 desc: ''
-updated: 1616186984518
+updated: 1475823600000
 created: 1475823600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.717-furtive
 title: Furtive
 desc: ''
-updated: 1616186984618
+updated: 1269241200000
 created: 1269241200000
 sources:
   name: xkcd

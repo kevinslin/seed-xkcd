@@ -2,7 +2,7 @@
 id: xkcd.55-useless
 title: Useless
 desc: ''
-updated: 1616186984387
+updated: 1138348800000
 created: 1138348800000
 sources:
   name: xkcd

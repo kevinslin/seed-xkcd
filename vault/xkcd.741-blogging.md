@@ -2,7 +2,7 @@
 id: xkcd.741-blogging
 title: Blogging
 desc: ''
-updated: 1616186984620
+updated: 1274079600000
 created: 1274079600000
 sources:
   name: xkcd

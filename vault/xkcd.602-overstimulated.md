@@ -2,7 +2,7 @@
 id: xkcd.602-overstimulated
 title: Overstimulated
 desc: ''
-updated: 1616186984600
+updated: 1245999600000
 created: 1245999600000
 sources:
   name: xkcd

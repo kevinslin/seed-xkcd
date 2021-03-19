@@ -2,7 +2,7 @@
 id: xkcd.1275-int-pi
 title: int(pi)
 desc: ''
-updated: 1616186984370
+updated: 1381302000000
 created: 1381302000000
 sources:
   name: xkcd

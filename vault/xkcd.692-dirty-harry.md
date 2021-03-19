@@ -2,7 +2,7 @@
 id: xkcd.692-dirty-harry
 title: Dirty Harry
 desc: ''
-updated: 1616186984614
+updated: 1264147200000
 created: 1264147200000
 sources:
   name: xkcd

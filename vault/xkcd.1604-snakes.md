@@ -2,7 +2,7 @@
 id: xkcd.1604-snakes
 title: Snakes
 desc: ''
-updated: 1616186984494
+updated: 1447660800000
 created: 1447660800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1858-4th-of-july
 title: 4th of July
 desc: ''
-updated: 1616186984448
+updated: 1499065200000
 created: 1499065200000
 sources:
   name: xkcd

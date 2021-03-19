@@ -2,7 +2,7 @@
 id: xkcd.1769-never-seen-star-wars
 title: Never Seen Star Wars
 desc: ''
-updated: 1616186984524
+updated: 1481097600000
 created: 1481097600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1752-interplanetary-experience
 title: Interplanetary Experience
 desc: ''
-updated: 1616186984521
+updated: 1477638000000
 created: 1477638000000
 sources:
   name: xkcd

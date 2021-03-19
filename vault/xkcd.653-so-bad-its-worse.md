@@ -2,7 +2,7 @@
 id: xkcd.653-so-bad-its-worse
 title: So Bad It's Worse
 desc: ''
-updated: 1616186984608
+updated: 1256281200000
 created: 1256281200000
 sources:
   name: xkcd

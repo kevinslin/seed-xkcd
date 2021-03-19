@@ -2,7 +2,7 @@
 id: xkcd.1539-planning
 title: Planning
 desc: ''
-updated: 1616186984462
+updated: 1434524400000
 created: 1434524400000
 sources:
   name: xkcd

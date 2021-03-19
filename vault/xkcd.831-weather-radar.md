@@ -2,7 +2,7 @@
 id: xkcd.831-weather-radar
 title: Weather Radar
 desc: ''
-updated: 1616186984662
+updated: 1291795200000
 created: 1291795200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.140-delicious
 title: Delicious
 desc: ''
-updated: 1616186984427
+updated: 1155279600000
 created: 1155279600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.976-sail
 title: Sail
 desc: ''
-updated: 1616186984636
+updated: 1320998400000
 created: 1320998400000
 sources:
   name: xkcd

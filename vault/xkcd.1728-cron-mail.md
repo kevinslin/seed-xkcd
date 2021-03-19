@@ -2,7 +2,7 @@
 id: xkcd.1728-cron-mail
 title: Cron Mail
 desc: ''
-updated: 1616186984513
+updated: 1472799600000
 created: 1472799600000
 sources:
   name: xkcd

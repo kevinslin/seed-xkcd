@@ -2,7 +2,7 @@
 id: xkcd.1306-sigil-cycle
 title: Sigil Cycle
 desc: ''
-updated: 1616186984398
+updated: 1387526400000
 created: 1387526400000
 sources:
   name: xkcd

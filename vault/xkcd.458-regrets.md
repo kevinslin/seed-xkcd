@@ -2,7 +2,7 @@
 id: xkcd.458-regrets
 title: Regrets
 desc: ''
-updated: 1616186984579
+updated: 1217833200000
 created: 1217833200000
 sources:
   name: xkcd

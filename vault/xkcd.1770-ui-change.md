@@ -2,7 +2,7 @@
 id: xkcd.1770-ui-change
 title: UI Change
 desc: ''
-updated: 1616186984524
+updated: 1481270400000
 created: 1481270400000
 sources:
   name: xkcd

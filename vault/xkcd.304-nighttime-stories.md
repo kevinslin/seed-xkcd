@@ -2,7 +2,7 @@
 id: xkcd.304-nighttime-stories
 title: Nighttime Stories
 desc: ''
-updated: 1616186984557
+updated: 1187334000000
 created: 1187334000000
 sources:
   name: xkcd

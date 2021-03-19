@@ -2,7 +2,7 @@
 id: xkcd.969-delta-p
 title: Delta-P
 desc: ''
-updated: 1616186984635
+updated: 1319612400000
 created: 1319612400000
 sources:
   name: xkcd

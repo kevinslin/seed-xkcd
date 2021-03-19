@@ -2,7 +2,7 @@
 id: xkcd.1706-genetic-testing
 title: Genetic Testing
 desc: ''
-updated: 1616186984508
+updated: 1468393200000
 created: 1468393200000
 sources:
   name: xkcd

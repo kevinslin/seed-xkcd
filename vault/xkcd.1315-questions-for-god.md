@@ -2,7 +2,7 @@
 id: xkcd.1315-questions-for-god
 title: Questions for God
 desc: ''
-updated: 1616186984400
+updated: 1389340800000
 created: 1389340800000
 sources:
   name: xkcd

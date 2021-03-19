@@ -2,7 +2,7 @@
 id: xkcd.697-tensile-vs-shear-strength
 title: Tensile vs. Shear Strength
 desc: ''
-updated: 1616186984614
+updated: 1265184000000
 created: 1265184000000
 sources:
   name: xkcd

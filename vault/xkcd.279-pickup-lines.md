@@ -2,7 +2,7 @@
 id: xkcd.279-pickup-lines
 title: Pickup Lines
 desc: ''
-updated: 1616186984553
+updated: 1182322800000
 created: 1182322800000
 sources:
   name: xkcd

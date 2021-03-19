@@ -2,7 +2,7 @@
 id: xkcd.552-correlation
 title: Correlation
 desc: ''
-updated: 1616186984594
+updated: 1236326400000
 created: 1236326400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.61-staceys-dad
 title: Stacey's Dad
 desc: ''
-updated: 1616186984388
+updated: 1139385600000
 created: 1139385600000
 sources:
   name: xkcd

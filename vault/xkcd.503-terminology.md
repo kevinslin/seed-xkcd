@@ -2,7 +2,7 @@
 id: xkcd.503-terminology
 title: Terminology
 desc: ''
-updated: 1616186984585
+updated: 1226476800000
 created: 1226476800000
 sources:
   name: xkcd

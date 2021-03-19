@@ -2,7 +2,7 @@
 id: xkcd.1246-pale-blue-dot
 title: Pale Blue Dot
 desc: ''
-updated: 1616186984364
+updated: 1375426800000
 created: 1375426800000
 sources:
   name: xkcd

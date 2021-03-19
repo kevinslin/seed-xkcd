@@ -2,7 +2,7 @@
 id: xkcd.1716-time-travel-thesis
 title: Time Travel Thesis
 desc: ''
-updated: 1616186984510
+updated: 1470380400000
 created: 1470380400000
 sources:
   name: xkcd

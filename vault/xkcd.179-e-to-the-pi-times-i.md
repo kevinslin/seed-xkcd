@@ -2,7 +2,7 @@
 id: xkcd.179-e-to-the-pi-times-i
 title: e to the pi times i
 desc: ''
-updated: 1616186984433
+updated: 1162540800000
 created: 1162540800000
 sources:
   name: xkcd

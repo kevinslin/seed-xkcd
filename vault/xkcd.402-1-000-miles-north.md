@@ -2,7 +2,7 @@
 id: xkcd.402-1-000-miles-north
 title: '1,000 Miles North'
 desc: ''
-updated: 1616186984530
+updated: 1206687600000
 created: 1206687600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1767-us-state-names
 title: US State Names
 desc: ''
-updated: 1616186984524
+updated: 1480665600000
 created: 1480665600000
 sources:
   name: xkcd

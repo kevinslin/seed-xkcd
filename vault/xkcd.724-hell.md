@@ -2,7 +2,7 @@
 id: xkcd.724-hell
 title: Hell
 desc: ''
-updated: 1616186984618
+updated: 1270623600000
 created: 1270623600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.415-restraining-order
 title: Restraining Order
 desc: ''
-updated: 1616186984572
+updated: 1209106800000
 created: 1209106800000
 sources:
   name: xkcd

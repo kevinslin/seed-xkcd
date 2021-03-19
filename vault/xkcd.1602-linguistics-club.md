@@ -2,7 +2,7 @@
 id: xkcd.1602-linguistics-club
 title: Linguistics Club
 desc: ''
-updated: 1616186984494
+updated: 1447228800000
 created: 1447228800000
 sources:
   name: xkcd

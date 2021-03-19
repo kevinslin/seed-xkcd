@@ -2,7 +2,7 @@
 id: xkcd.1671-arcane-bullshit
 title: Arcane Bullshit
 desc: ''
-updated: 1616186984503
+updated: 1461308400000
 created: 1461308400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1290-syllable-planning
 title: Syllable Planning
 desc: ''
-updated: 1616186984373
+updated: 1384329600000
 created: 1384329600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1225-ice-sheets
 title: Ice Sheets
 desc: ''
-updated: 1616186984355
+updated: 1371193200000
 created: 1371193200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1543-team-effort
 title: Team Effort
 desc: ''
-updated: 1616186984462
+updated: 1435302000000
 created: 1435302000000
 sources:
   name: xkcd

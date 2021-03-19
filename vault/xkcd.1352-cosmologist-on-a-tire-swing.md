@@ -2,7 +2,7 @@
 id: xkcd.1352-cosmologist-on-a-tire-swing
 title: Cosmologist on a Tire Swing
 desc: ''
-updated: 1616186984407
+updated: 1396854000000
 created: 1396854000000
 sources:
   name: xkcd

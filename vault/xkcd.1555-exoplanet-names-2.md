@@ -2,7 +2,7 @@
 id: xkcd.1555-exoplanet-names-2
 title: Exoplanet Names 2
 desc: ''
-updated: 1616186984465
+updated: 1437721200000
 created: 1437721200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1237-qr-code
 title: QR Code
 desc: ''
-updated: 1616186984359
+updated: 1373612400000
 created: 1373612400000
 sources:
   name: xkcd

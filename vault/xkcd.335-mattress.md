@@ -2,7 +2,7 @@
 id: xkcd.335-mattress
 title: Mattress
 desc: ''
-updated: 1616186984560
+updated: 1193641200000
 created: 1193641200000
 sources:
   name: xkcd

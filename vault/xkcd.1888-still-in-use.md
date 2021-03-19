@@ -2,7 +2,7 @@
 id: xkcd.1888-still-in-use
 title: Still in Use
 desc: ''
-updated: 1616186984454
+updated: 1505113200000
 created: 1505113200000
 sources:
   name: xkcd

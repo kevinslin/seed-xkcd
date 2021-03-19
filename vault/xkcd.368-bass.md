@@ -2,7 +2,7 @@
 id: xkcd.368-bass
 title: Bass
 desc: ''
-updated: 1616186984565
+updated: 1199865600000
 created: 1199865600000
 sources:
   name: xkcd

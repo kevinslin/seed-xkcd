@@ -2,7 +2,7 @@
 id: xkcd.637-scribblenauts
 title: Scribblenauts
 desc: ''
-updated: 1616186984606
+updated: 1253084400000
 created: 1253084400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.491-twitter
 title: Twitter
 desc: ''
-updated: 1616186984584
+updated: 1224486000000
 created: 1224486000000
 sources:
   name: xkcd

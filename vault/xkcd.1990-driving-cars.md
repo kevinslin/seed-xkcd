@@ -2,7 +2,7 @@
 id: xkcd.1990-driving-cars
 title: Driving Cars
 desc: ''
-updated: 1616186984491
+updated: 1525676400000
 created: 1525676400000
 sources:
   name: xkcd

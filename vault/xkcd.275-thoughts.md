@@ -2,7 +2,7 @@
 id: xkcd.275-thoughts
 title: Thoughts
 desc: ''
-updated: 1616186984553
+updated: 1181545200000
 created: 1181545200000
 sources:
   name: xkcd

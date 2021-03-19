@@ -2,7 +2,7 @@
 id: xkcd.1180-virus-venn-diagram
 title: Virus Venn Diagram
 desc: ''
-updated: 1616186984654
+updated: 1362124800000
 created: 1362124800000
 sources:
   name: xkcd

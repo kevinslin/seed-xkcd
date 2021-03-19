@@ -2,7 +2,7 @@
 id: xkcd.508-drapes
 title: Drapes
 desc: ''
-updated: 1616186984586
+updated: 1227513600000
 created: 1227513600000
 sources:
   name: xkcd

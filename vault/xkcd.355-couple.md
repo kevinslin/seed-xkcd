@@ -2,7 +2,7 @@
 id: xkcd.355-couple
 title: Couple
 desc: ''
-updated: 1616186984563
+updated: 1197273600000
 created: 1197273600000
 sources:
   name: xkcd

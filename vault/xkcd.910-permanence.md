@@ -2,7 +2,7 @@
 id: xkcd.910-permanence
 title: Permanence
 desc: ''
-updated: 1616186984630
+updated: 1307689200000
 created: 1307689200000
 sources:
   name: xkcd

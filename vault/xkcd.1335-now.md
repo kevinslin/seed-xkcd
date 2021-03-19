@@ -2,7 +2,7 @@
 id: xkcd.1335-now
 title: Now
 desc: ''
-updated: 1616186984404
+updated: 1393401600000
 created: 1393401600000
 sources:
   name: xkcd

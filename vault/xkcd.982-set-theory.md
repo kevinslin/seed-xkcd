@@ -2,7 +2,7 @@
 id: xkcd.982-set-theory
 title: Set Theory
 desc: ''
-updated: 1616186984637
+updated: 1322208000000
 created: 1322208000000
 sources:
   name: xkcd

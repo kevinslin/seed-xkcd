@@ -2,7 +2,7 @@
 id: xkcd.531-contingency-plan
 title: Contingency Plan
 desc: ''
-updated: 1616186984591
+updated: 1232092800000
 created: 1232092800000
 sources:
   name: xkcd

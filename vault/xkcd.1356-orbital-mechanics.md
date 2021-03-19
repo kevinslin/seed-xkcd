@@ -2,7 +2,7 @@
 id: xkcd.1356-orbital-mechanics
 title: Orbital Mechanics
 desc: ''
-updated: 1616186984408
+updated: 1397631600000
 created: 1397631600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1063-kill-hitler
 title: Kill Hitler
 desc: ''
-updated: 1616186984690
+updated: 1338534000000
 created: 1338534000000
 sources:
   name: xkcd

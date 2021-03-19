@@ -2,7 +2,7 @@
 id: xkcd.534-genetic-algorithms
 title: Genetic Algorithms
 desc: ''
-updated: 1616186984591
+updated: 1232697600000
 created: 1232697600000
 sources:
   name: xkcd

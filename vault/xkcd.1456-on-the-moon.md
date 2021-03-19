@@ -2,7 +2,7 @@
 id: xkcd.1456-on-the-moon
 title: On the Moon
 desc: ''
-updated: 1616186984538
+updated: 1417766400000
 created: 1417766400000
 sources:
   name: xkcd

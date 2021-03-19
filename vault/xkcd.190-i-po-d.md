@@ -2,7 +2,7 @@
 id: xkcd.190-i-po-d
 title: IPoD
 desc: ''
-updated: 1616186984435
+updated: 1164787200000
 created: 1164787200000
 sources:
   name: xkcd

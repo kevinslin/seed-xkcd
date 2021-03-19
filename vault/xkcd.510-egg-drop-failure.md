@@ -2,7 +2,7 @@
 id: xkcd.510-egg-drop-failure
 title: Egg Drop Failure
 desc: ''
-updated: 1616186984587
+updated: 1227859200000
 created: 1227859200000
 sources:
   name: xkcd

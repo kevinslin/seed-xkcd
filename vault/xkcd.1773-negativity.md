@@ -2,7 +2,7 @@
 id: xkcd.1773-negativity
 title: Negativity
 desc: ''
-updated: 1616186984525
+updated: 1481875200000
 created: 1481875200000
 sources:
   name: xkcd

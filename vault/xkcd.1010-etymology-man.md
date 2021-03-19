@@ -2,7 +2,7 @@
 id: xkcd.1010-etymology-man
 title: Etymology-Man
 desc: ''
-updated: 1616186984673
+updated: 1327910400000
 created: 1327910400000
 sources:
   name: xkcd

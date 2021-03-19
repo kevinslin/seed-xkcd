@@ -2,7 +2,7 @@
 id: xkcd.1251-anti-glass
 title: Anti-Glass
 desc: ''
-updated: 1616186984365
+updated: 1376463600000
 created: 1376463600000
 sources:
   name: xkcd

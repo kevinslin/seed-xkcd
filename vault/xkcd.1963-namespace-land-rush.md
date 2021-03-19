@@ -2,7 +2,7 @@
 id: xkcd.1963-namespace-land-rush
 title: Namespace Land Rush
 desc: ''
-updated: 1616186984486
+updated: 1520236800000
 created: 1520236800000
 sources:
   name: xkcd

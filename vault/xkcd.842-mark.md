@@ -2,7 +2,7 @@
 id: xkcd.842-mark
 title: Mark
 desc: ''
-updated: 1616186984663
+updated: 1294041600000
 created: 1294041600000
 sources:
   name: xkcd

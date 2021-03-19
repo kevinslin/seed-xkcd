@@ -2,7 +2,7 @@
 id: xkcd.233-a-new-captcha-approach
 title: A New CAPTCHA Approach
 desc: ''
-updated: 1616186984546
+updated: 1173427200000
 created: 1173427200000
 sources:
   name: xkcd

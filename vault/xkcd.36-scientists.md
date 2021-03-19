@@ -2,7 +2,7 @@
 id: xkcd.36-scientists
 title: Scientists
 desc: ''
-updated: 1616186984383
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

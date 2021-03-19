@@ -2,7 +2,7 @@
 id: xkcd.818-illness
 title: Illness
 desc: ''
-updated: 1616186984660
+updated: 1289548800000
 created: 1289548800000
 sources:
   name: xkcd

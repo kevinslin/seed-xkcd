@@ -2,7 +2,7 @@
 id: xkcd.173-movie-seating
 title: Movie Seating
 desc: ''
-updated: 1616186984432
+updated: 1161327600000
 created: 1161327600000
 sources:
   name: xkcd

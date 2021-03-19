@@ -2,7 +2,7 @@
 id: xkcd.1350-lorenz
 title: Lorenz
 desc: ''
-updated: 1616186984407
+updated: 1396335600000
 created: 1396335600000
 sources:
   name: xkcd

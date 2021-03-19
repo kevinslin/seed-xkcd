@@ -2,7 +2,7 @@
 id: xkcd.1787-voice-commands
 title: Voice Commands
 desc: ''
-updated: 1616186984528
+updated: 1484726400000
 created: 1484726400000
 sources:
   name: xkcd

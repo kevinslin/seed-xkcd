@@ -2,7 +2,7 @@
 id: xkcd.1374-urn
 title: Urn
 desc: ''
-updated: 1616186984412
+updated: 1401260400000
 created: 1401260400000
 sources:
   name: xkcd

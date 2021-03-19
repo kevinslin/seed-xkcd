@@ -2,7 +2,7 @@
 id: xkcd.1978-congressional-testimony
 title: Congressional Testimony
 desc: ''
-updated: 1616186984489
+updated: 1523257200000
 created: 1523257200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.652-more-accurate
 title: More Accurate
 desc: ''
-updated: 1616186984608
+updated: 1256108400000
 created: 1256108400000
 sources:
   name: xkcd

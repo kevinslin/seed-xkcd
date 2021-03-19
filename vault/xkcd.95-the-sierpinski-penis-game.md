@@ -2,7 +2,7 @@
 id: xkcd.95-the-sierpinski-penis-game
 title: The Sierpinski Penis Game
 desc: ''
-updated: 1616186984395
+updated: 1146207600000
 created: 1146207600000
 sources:
   name: xkcd

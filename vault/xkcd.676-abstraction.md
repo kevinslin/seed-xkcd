@@ -2,7 +2,7 @@
 id: xkcd.676-abstraction
 title: Abstraction
 desc: ''
-updated: 1616186984612
+updated: 1260950400000
 created: 1260950400000
 sources:
   name: xkcd

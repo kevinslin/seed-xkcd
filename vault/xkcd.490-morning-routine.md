@@ -2,7 +2,7 @@
 id: xkcd.490-morning-routine
 title: Morning Routine
 desc: ''
-updated: 1616186984584
+updated: 1224226800000
 created: 1224226800000
 sources:
   name: xkcd

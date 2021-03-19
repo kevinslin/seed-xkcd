@@ -2,7 +2,7 @@
 id: xkcd.1605-dna
 title: DNA
 desc: ''
-updated: 1616186984494
+updated: 1447833600000
 created: 1447833600000
 sources:
   name: xkcd

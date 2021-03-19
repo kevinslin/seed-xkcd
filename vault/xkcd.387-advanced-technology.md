@@ -2,7 +2,7 @@
 id: xkcd.387-advanced-technology
 title: Advanced Technology
 desc: ''
-updated: 1616186984567
+updated: 1203667200000
 created: 1203667200000
 sources:
   name: xkcd

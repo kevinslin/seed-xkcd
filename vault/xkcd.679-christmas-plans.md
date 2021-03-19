@@ -2,7 +2,7 @@
 id: xkcd.679-christmas-plans
 title: Christmas Plans
 desc: ''
-updated: 1616186984612
+updated: 1261555200000
 created: 1261555200000
 sources:
   name: xkcd

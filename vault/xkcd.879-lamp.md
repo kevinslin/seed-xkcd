@@ -2,7 +2,7 @@
 id: xkcd.879-lamp
 title: Lamp
 desc: ''
-updated: 1616186984667
+updated: 1301468400000
 created: 1301468400000
 sources:
   name: xkcd

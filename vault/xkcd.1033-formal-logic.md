@@ -2,7 +2,7 @@
 id: xkcd.1033-formal-logic
 title: Formal Logic
 desc: ''
-updated: 1616186984675
+updated: 1332486000000
 created: 1332486000000
 sources:
   name: xkcd

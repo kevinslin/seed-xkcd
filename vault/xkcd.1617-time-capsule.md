@@ -2,7 +2,7 @@
 id: xkcd.1617-time-capsule
 title: Time Capsule
 desc: ''
-updated: 1616186984495
+updated: 1450252800000
 created: 1450252800000
 sources:
   name: xkcd

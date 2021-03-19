@@ -2,7 +2,7 @@
 id: xkcd.664-academia-vs-business
 title: Academia vs. Business
 desc: ''
-updated: 1616186984609
+updated: 1258531200000
 created: 1258531200000
 sources:
   name: xkcd

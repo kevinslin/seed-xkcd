@@ -2,7 +2,7 @@
 id: xkcd.1912-thermostat
 title: Thermostat
 desc: ''
-updated: 1616186984475
+updated: 1509955200000
 created: 1509955200000
 sources:
   name: xkcd

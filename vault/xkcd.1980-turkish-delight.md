@@ -2,7 +2,7 @@
 id: xkcd.1980-turkish-delight
 title: Turkish Delight
 desc: ''
-updated: 1616186984489
+updated: 1523602800000
 created: 1523602800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1502-wasted-time
 title: Wasted Time
 desc: ''
-updated: 1616186984456
+updated: 1427094000000
 created: 1427094000000
 sources:
   name: xkcd

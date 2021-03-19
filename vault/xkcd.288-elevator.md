@@ -2,7 +2,7 @@
 id: xkcd.288-elevator
 title: Elevator
 desc: ''
-updated: 1616186984555
+updated: 1184137200000
 created: 1184137200000
 sources:
   name: xkcd

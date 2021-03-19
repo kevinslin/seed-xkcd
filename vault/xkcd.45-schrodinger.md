@@ -2,7 +2,7 @@
 id: xkcd.45-schrodinger
 title: Schrodinger
 desc: ''
-updated: 1616186984385
+updated: 1136361600000
 created: 1136361600000
 sources:
   name: xkcd

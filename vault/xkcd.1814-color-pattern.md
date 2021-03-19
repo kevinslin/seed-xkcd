@@ -2,7 +2,7 @@
 id: xkcd.1814-color-pattern
 title: Color Pattern
 desc: ''
-updated: 1616186984439
+updated: 1490166000000
 created: 1490166000000
 sources:
   name: xkcd

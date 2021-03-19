@@ -2,7 +2,7 @@
 id: xkcd.1541-voice
 title: Voice
 desc: ''
-updated: 1616186984462
+updated: 1434956400000
 created: 1434956400000
 sources:
   name: xkcd

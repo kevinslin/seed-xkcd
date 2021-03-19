@@ -2,7 +2,7 @@
 id: xkcd.199-right-hand-rule
 title: Right-Hand Rule
 desc: ''
-updated: 1616186984436
+updated: 1166601600000
 created: 1166601600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.41-old-drawing
 title: Old Drawing
 desc: ''
-updated: 1616186984384
+updated: 1136102400000
 created: 1136102400000
 sources:
   name: xkcd

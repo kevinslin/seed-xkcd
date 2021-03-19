@@ -2,7 +2,7 @@
 id: xkcd.1761-blame
 title: Blame
 desc: ''
-updated: 1616186984522
+updated: 1479456000000
 created: 1479456000000
 sources:
   name: xkcd

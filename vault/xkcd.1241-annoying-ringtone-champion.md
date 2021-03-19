@@ -2,7 +2,7 @@
 id: xkcd.1241-annoying-ringtone-champion
 title: Annoying Ringtone Champion
 desc: ''
-updated: 1616186984360
+updated: 1374476400000
 created: 1374476400000
 sources:
   name: xkcd

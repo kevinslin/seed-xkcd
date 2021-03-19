@@ -2,7 +2,7 @@
 id: xkcd.1893-thread
 title: Thread
 desc: ''
-updated: 1616186984454
+updated: 1506063600000
 created: 1506063600000
 sources:
   name: xkcd

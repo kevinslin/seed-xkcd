@@ -2,7 +2,7 @@
 id: xkcd.1470-kix
 title: Kix
 desc: ''
-updated: 1616186984540
+updated: 1420617600000
 created: 1420617600000
 sources:
   name: xkcd

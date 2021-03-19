@@ -2,7 +2,7 @@
 id: xkcd.1300-galilean-moons
 title: Galilean Moons
 desc: ''
-updated: 1616186984397
+updated: 1386316800000
 created: 1386316800000
 sources:
   name: xkcd

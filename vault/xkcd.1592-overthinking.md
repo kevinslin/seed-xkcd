@@ -2,7 +2,7 @@
 id: xkcd.1592-overthinking
 title: Overthinking
 desc: ''
-updated: 1616186984472
+updated: 1445238000000
 created: 1445238000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.696-strip-games
 title: Strip Games
 desc: ''
-updated: 1616186984614
+updated: 1265011200000
 created: 1265011200000
 sources:
   name: xkcd

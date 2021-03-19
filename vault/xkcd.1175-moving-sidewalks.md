@@ -2,7 +2,7 @@
 id: xkcd.1175-moving-sidewalks
 title: Moving Sidewalks
 desc: ''
-updated: 1616186984654
+updated: 1361174400000
 created: 1361174400000
 sources:
   name: xkcd

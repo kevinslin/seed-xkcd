@@ -2,7 +2,7 @@
 id: xkcd.76-familiar
 title: Familiar
 desc: ''
-updated: 1616186984391
+updated: 1142409600000
 created: 1142409600000
 sources:
   name: xkcd

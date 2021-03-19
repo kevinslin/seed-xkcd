@@ -2,7 +2,7 @@
 id: xkcd.248-hypotheticals
 title: Hypotheticals
 desc: ''
-updated: 1616186984549
+updated: 1176447600000
 created: 1176447600000
 sources:
   name: xkcd

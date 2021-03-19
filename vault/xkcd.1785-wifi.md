@@ -2,7 +2,7 @@
 id: xkcd.1785-wifi
 title: Wifi
 desc: ''
-updated: 1616186984528
+updated: 1484294400000
 created: 1484294400000
 sources:
   name: xkcd

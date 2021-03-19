@@ -2,7 +2,7 @@
 id: xkcd.285-wikipedian-protester
 title: Wikipedian Protester
 desc: ''
-updated: 1616186984554
+updated: 1183532400000
 created: 1183532400000
 sources:
   name: xkcd

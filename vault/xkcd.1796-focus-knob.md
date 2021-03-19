@@ -2,7 +2,7 @@
 id: xkcd.1796-focus-knob
 title: Focus Knob
 desc: ''
-updated: 1616186984529
+updated: 1486540800000
 created: 1486540800000
 sources:
   name: xkcd

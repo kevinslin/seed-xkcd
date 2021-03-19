@@ -2,7 +2,7 @@
 id: xkcd.668-pandora
 title: Pandora
 desc: ''
-updated: 1616186984612
+updated: 1259308800000
 created: 1259308800000
 sources:
   name: xkcd

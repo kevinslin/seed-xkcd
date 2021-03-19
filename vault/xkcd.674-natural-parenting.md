@@ -2,7 +2,7 @@
 id: xkcd.674-natural-parenting
 title: Natural Parenting
 desc: ''
-updated: 1616186984612
+updated: 1260518400000
 created: 1260518400000
 sources:
   name: xkcd

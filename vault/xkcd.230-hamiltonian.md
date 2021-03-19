@@ -2,7 +2,7 @@
 id: xkcd.230-hamiltonian
 title: Hamiltonian
 desc: ''
-updated: 1616186984546
+updated: 1172822400000
 created: 1172822400000
 sources:
   name: xkcd

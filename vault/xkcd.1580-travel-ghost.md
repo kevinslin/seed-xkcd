@@ -2,7 +2,7 @@
 id: xkcd.1580-travel-ghost
 title: Travel Ghost
 desc: ''
-updated: 1616186984470
+updated: 1442818800000
 created: 1442818800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1112-think-logically
 title: Think Logically
 desc: ''
-updated: 1616186984649
+updated: 1348470000000
 created: 1348470000000
 sources:
   name: xkcd

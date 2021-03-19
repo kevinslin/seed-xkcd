@@ -2,7 +2,7 @@
 id: xkcd.1655-doomsday-clock
 title: Doomsday Clock
 desc: ''
-updated: 1616186984501
+updated: 1457938800000
 created: 1457938800000
 sources:
   name: xkcd

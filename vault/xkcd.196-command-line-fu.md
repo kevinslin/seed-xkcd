@@ -2,7 +2,7 @@
 id: xkcd.196-command-line-fu
 title: Command Line Fu
 desc: ''
-updated: 1616186984436
+updated: 1165996800000
 created: 1165996800000
 sources:
   name: xkcd

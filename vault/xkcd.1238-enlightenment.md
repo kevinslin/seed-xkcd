@@ -2,7 +2,7 @@
 id: xkcd.1238-enlightenment
 title: Enlightenment
 desc: ''
-updated: 1616186984359
+updated: 1373871600000
 created: 1373871600000
 sources:
   name: xkcd

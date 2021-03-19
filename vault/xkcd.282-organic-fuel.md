@@ -2,7 +2,7 @@
 id: xkcd.282-organic-fuel
 title: Organic Fuel
 desc: ''
-updated: 1616186984554
+updated: 1182927600000
 created: 1182927600000
 sources:
   name: xkcd

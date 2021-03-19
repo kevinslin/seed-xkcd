@@ -2,7 +2,7 @@
 id: xkcd.1552-rulebook
 title: Rulebook
 desc: ''
-updated: 1616186984464
+updated: 1437116400000
 created: 1437116400000
 sources:
   name: xkcd

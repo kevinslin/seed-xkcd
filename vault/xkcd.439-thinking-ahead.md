@@ -2,7 +2,7 @@
 id: xkcd.439-thinking-ahead
 title: Thinking Ahead
 desc: ''
-updated: 1616186984576
+updated: 1213945200000
 created: 1213945200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.398-tap-that-ass
 title: Tap That Ass
 desc: ''
-updated: 1616186984568
+updated: 1205910000000
 created: 1205910000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.555-two-mirrors
 title: Two Mirrors
 desc: ''
-updated: 1616186984594
+updated: 1236927600000
 created: 1236927600000
 sources:
   name: xkcd

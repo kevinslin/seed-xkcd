@@ -2,7 +2,7 @@
 id: xkcd.1953-the-history-of-unicode
 title: The History of Unicode
 desc: ''
-updated: 1616186984484
+updated: 1518163200000
 created: 1518163200000
 sources:
   name: xkcd

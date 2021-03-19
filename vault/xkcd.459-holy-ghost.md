@@ -2,7 +2,7 @@
 id: xkcd.459-holy-ghost
 title: Holy Ghost
 desc: ''
-updated: 1616186984579
+updated: 1218006000000
 created: 1218006000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.690-semicontrolled-demolition
 title: Semicontrolled Demolition
 desc: ''
-updated: 1616186984613
+updated: 1263801600000
 created: 1263801600000
 sources:
   name: xkcd

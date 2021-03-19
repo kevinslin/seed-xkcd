@@ -2,7 +2,7 @@
 id: xkcd.253-highway-engineer-pranks
 title: Highway Engineer Pranks
 desc: ''
-updated: 1616186984550
+updated: 1177484400000
 created: 1177484400000
 sources:
   name: xkcd

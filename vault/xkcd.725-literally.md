@@ -2,7 +2,7 @@
 id: xkcd.725-literally
 title: Literally
 desc: ''
-updated: 1616186984618
+updated: 1270796400000
 created: 1270796400000
 sources:
   name: xkcd

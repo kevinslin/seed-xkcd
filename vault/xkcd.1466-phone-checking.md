@@ -2,7 +2,7 @@
 id: xkcd.1466-phone-checking
 title: Phone Checking
 desc: ''
-updated: 1616186984539
+updated: 1419840000000
 created: 1419840000000
 sources:
   name: xkcd

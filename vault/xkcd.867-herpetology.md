@@ -2,7 +2,7 @@
 id: xkcd.867-herpetology
 title: Herpetology
 desc: ''
-updated: 1616186984666
+updated: 1299052800000
 created: 1299052800000
 sources:
   name: xkcd

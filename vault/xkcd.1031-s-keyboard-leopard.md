@@ -2,7 +2,7 @@
 id: xkcd.1031-s-keyboard-leopard
 title: s/keyboard/leopard/
 desc: ''
-updated: 1616186984675
+updated: 1332140400000
 created: 1332140400000
 sources:
   name: xkcd

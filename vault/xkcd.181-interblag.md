@@ -2,7 +2,7 @@
 id: xkcd.181-interblag
 title: Interblag
 desc: ''
-updated: 1616186984434
+updated: 1162972800000
 created: 1162972800000
 sources:
   name: xkcd

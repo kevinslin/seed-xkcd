@@ -2,7 +2,7 @@
 id: xkcd.65-banter
 title: Banter
 desc: ''
-updated: 1616186984389
+updated: 1140163200000
 created: 1140163200000
 sources:
   name: xkcd

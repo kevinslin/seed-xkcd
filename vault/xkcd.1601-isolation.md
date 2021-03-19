@@ -2,7 +2,7 @@
 id: xkcd.1601-isolation
 title: Isolation
 desc: ''
-updated: 1616186984494
+updated: 1447056000000
 created: 1447056000000
 sources:
   name: xkcd

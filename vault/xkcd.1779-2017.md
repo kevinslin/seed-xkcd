@@ -2,7 +2,7 @@
 id: xkcd.1779-2017
 title: '2017'
 desc: ''
-updated: 1616186984526
+updated: 1483084800000
 created: 1483084800000
 sources:
   name: xkcd

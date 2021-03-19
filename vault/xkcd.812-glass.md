@@ -2,7 +2,7 @@
 id: xkcd.812-glass
 title: Glass
 desc: ''
-updated: 1616186984658
+updated: 1288335600000
 created: 1288335600000
 sources:
   name: xkcd

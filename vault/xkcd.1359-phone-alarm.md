@@ -2,7 +2,7 @@
 id: xkcd.1359-phone-alarm
 title: Phone Alarm
 desc: ''
-updated: 1616186984409
+updated: 1398236400000
 created: 1398236400000
 sources:
   name: xkcd

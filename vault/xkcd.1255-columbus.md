@@ -2,7 +2,7 @@
 id: xkcd.1255-columbus
 title: Columbus
 desc: ''
-updated: 1616186984366
+updated: 1377241200000
 created: 1377241200000
 sources:
   name: xkcd

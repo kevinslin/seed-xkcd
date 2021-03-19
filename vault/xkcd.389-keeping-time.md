@@ -2,7 +2,7 @@
 id: xkcd.389-keeping-time
 title: Keeping Time
 desc: ''
-updated: 1616186984567
+updated: 1204099200000
 created: 1204099200000
 sources:
   name: xkcd

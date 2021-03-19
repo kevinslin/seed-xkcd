@@ -2,7 +2,7 @@
 id: xkcd.1644-stargazing
 title: Stargazing
 desc: ''
-updated: 1616186984500
+updated: 1455696000000
 created: 1455696000000
 sources:
   name: xkcd

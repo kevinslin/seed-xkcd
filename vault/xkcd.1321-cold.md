@@ -2,7 +2,7 @@
 id: xkcd.1321-cold
 title: Cold
 desc: ''
-updated: 1616186984401
+updated: 1390550400000
 created: 1390550400000
 sources:
   name: xkcd

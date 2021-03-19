@@ -2,7 +2,7 @@
 id: xkcd.1983-clutter
 title: Clutter
 desc: ''
-updated: 1616186984490
+updated: 1524207600000
 created: 1524207600000
 sources:
   name: xkcd

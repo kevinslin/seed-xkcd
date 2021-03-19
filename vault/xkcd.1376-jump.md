@@ -2,7 +2,7 @@
 id: xkcd.1376-jump
 title: Jump
 desc: ''
-updated: 1616186984413
+updated: 1401692400000
 created: 1401692400000
 sources:
   name: xkcd

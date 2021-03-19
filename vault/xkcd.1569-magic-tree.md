@@ -2,7 +2,7 @@
 id: xkcd.1569-magic-tree
 title: Magic Tree
 desc: ''
-updated: 1616186984468
+updated: 1440572400000
 created: 1440572400000
 sources:
   name: xkcd

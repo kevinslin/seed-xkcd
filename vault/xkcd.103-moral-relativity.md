@@ -2,7 +2,7 @@
 id: xkcd.103-moral-relativity
 title: Moral Relativity
 desc: ''
-updated: 1616186984419
+updated: 1147849200000
 created: 1147849200000
 sources:
   name: xkcd

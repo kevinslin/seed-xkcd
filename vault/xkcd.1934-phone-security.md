@@ -2,7 +2,7 @@
 id: xkcd.1934-phone-security
 title: Phone Security
 desc: ''
-updated: 1616186984480
+updated: 1514361600000
 created: 1514361600000
 sources:
   name: xkcd

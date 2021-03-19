@@ -2,7 +2,7 @@
 id: xkcd.47-counter-red-spiders
 title: Counter-Red Spiders
 desc: ''
-updated: 1616186984385
+updated: 1136793600000
 created: 1136793600000
 sources:
   name: xkcd

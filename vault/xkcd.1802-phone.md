@@ -2,7 +2,7 @@
 id: xkcd.1802-phone
 title: Phone
 desc: ''
-updated: 1616186984437
+updated: 1487750400000
 created: 1487750400000
 sources:
   name: xkcd

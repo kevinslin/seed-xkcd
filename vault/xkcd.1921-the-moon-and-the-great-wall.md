@@ -2,7 +2,7 @@
 id: xkcd.1921-the-moon-and-the-great-wall
 title: The Moon and the Great Wall
 desc: ''
-updated: 1616186984477
+updated: 1511769600000
 created: 1511769600000
 sources:
   name: xkcd

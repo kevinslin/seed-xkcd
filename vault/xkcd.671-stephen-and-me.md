@@ -2,7 +2,7 @@
 id: xkcd.671-stephen-and-me
 title: Stephen and Me
 desc: ''
-updated: 1616186984612
+updated: 1259913600000
 created: 1259913600000
 sources:
   name: xkcd

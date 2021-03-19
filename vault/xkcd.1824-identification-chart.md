@@ -2,7 +2,7 @@
 id: xkcd.1824-identification-chart
 title: Identification Chart
 desc: ''
-updated: 1616186984442
+updated: 1492153200000
 created: 1492153200000
 sources:
   name: xkcd

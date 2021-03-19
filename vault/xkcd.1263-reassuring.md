@@ -2,7 +2,7 @@
 id: xkcd.1263-reassuring
 title: Reassuring
 desc: ''
-updated: 1616186984367
+updated: 1378882800000
 created: 1378882800000
 sources:
   name: xkcd

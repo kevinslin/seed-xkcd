@@ -2,7 +2,7 @@
 id: xkcd.1781-artifacts
 title: Artifacts
 desc: ''
-updated: 1616186984526
+updated: 1483516800000
 created: 1483516800000
 sources:
   name: xkcd

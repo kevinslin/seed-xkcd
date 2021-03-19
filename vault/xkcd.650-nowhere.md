@@ -2,7 +2,7 @@
 id: xkcd.650-nowhere
 title: Nowhere
 desc: ''
-updated: 1616186984607
+updated: 1255676400000
 created: 1255676400000
 sources:
   name: xkcd

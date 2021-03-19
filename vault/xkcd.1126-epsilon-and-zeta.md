@@ -2,7 +2,7 @@
 id: xkcd.1126-epsilon-and-zeta
 title: Epsilon and Zeta
 desc: ''
-updated: 1616186984650
+updated: 1351234800000
 created: 1351234800000
 sources:
   name: xkcd

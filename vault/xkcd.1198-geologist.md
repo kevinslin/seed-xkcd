@@ -2,7 +2,7 @@
 id: xkcd.1198-geologist
 title: Geologist
 desc: ''
-updated: 1616186984656
+updated: 1365750000000
 created: 1365750000000
 sources:
   name: xkcd

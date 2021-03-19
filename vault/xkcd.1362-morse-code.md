@@ -2,7 +2,7 @@
 id: xkcd.1362-morse-code
 title: Morse Code
 desc: ''
-updated: 1616186984409
+updated: 1398841200000
 created: 1398841200000
 sources:
   name: xkcd

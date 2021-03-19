@@ -2,7 +2,7 @@
 id: xkcd.1018-good-cop-dadaist-cop
 title: 'Good Cop, Dadaist Cop'
 desc: ''
-updated: 1616186984674
+updated: 1329465600000
 created: 1329465600000
 sources:
   name: xkcd

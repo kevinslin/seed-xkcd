@@ -2,7 +2,7 @@
 id: xkcd.1720-horses
 title: Horses
 desc: ''
-updated: 1616186984511
+updated: 1471244400000
 created: 1471244400000
 sources:
   name: xkcd

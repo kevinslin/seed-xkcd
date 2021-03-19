@@ -2,7 +2,7 @@
 id: xkcd.745-dyslexics
 title: Dyslexics
 desc: ''
-updated: 1616186984620
+updated: 1274857200000
 created: 1274857200000
 sources:
   name: xkcd

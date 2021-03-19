@@ -2,7 +2,7 @@
 id: xkcd.1916-temperature-preferences
 title: Temperature Preferences
 desc: ''
-updated: 1616186984476
+updated: 1510732800000
 created: 1510732800000
 sources:
   name: xkcd

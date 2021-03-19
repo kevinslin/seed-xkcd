@@ -2,7 +2,7 @@
 id: xkcd.1672-women-on-20-s
 title: Women on 20s
 desc: ''
-updated: 1616186984503
+updated: 1461567600000
 created: 1461567600000
 sources:
   name: xkcd

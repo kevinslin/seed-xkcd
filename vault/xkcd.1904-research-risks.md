@@ -2,7 +2,7 @@
 id: xkcd.1904-research-risks
 title: Research Risks
 desc: ''
-updated: 1616186984474
+updated: 1508310000000
 created: 1508310000000
 sources:
   name: xkcd

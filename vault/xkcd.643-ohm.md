@@ -2,7 +2,7 @@
 id: xkcd.643-ohm
 title: Ohm
 desc: ''
-updated: 1616186984607
+updated: 1254294000000
 created: 1254294000000
 sources:
   name: xkcd

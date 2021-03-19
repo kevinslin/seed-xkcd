@@ -2,7 +2,7 @@
 id: xkcd.962-the-corliss-resolution
 title: The Corliss Resolution
 desc: ''
-updated: 1616186984635
+updated: 1318230000000
 created: 1318230000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1215-insight
 title: Insight
 desc: ''
-updated: 1616186984352
+updated: 1369206000000
 created: 1369206000000
 sources:
   name: xkcd

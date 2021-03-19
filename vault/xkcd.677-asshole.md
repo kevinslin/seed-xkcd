@@ -2,7 +2,7 @@
 id: xkcd.677-asshole
 title: Asshole
 desc: ''
-updated: 1616186984612
+updated: 1261123200000
 created: 1261123200000
 sources:
   name: xkcd

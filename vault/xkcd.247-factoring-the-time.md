@@ -2,7 +2,7 @@
 id: xkcd.247-factoring-the-time
 title: Factoring the Time
 desc: ''
-updated: 1616186984548
+updated: 1176274800000
 created: 1176274800000
 sources:
   name: xkcd

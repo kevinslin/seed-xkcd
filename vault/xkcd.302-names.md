@@ -2,7 +2,7 @@
 id: xkcd.302-names
 title: Names
 desc: ''
-updated: 1616186984557
+updated: 1186988400000
 created: 1186988400000
 sources:
   name: xkcd

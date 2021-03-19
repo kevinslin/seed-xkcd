@@ -2,7 +2,7 @@
 id: xkcd.228-resonance
 title: Resonance
 desc: ''
-updated: 1616186984546
+updated: 1172476800000
 created: 1172476800000
 sources:
   name: xkcd

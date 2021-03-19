@@ -2,7 +2,7 @@
 id: xkcd.1277-ayn-random
 title: Ayn Random
 desc: ''
-updated: 1616186984370
+updated: 1381734000000
 created: 1381734000000
 sources:
   name: xkcd

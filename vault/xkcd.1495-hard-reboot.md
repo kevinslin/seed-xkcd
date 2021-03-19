@@ -2,7 +2,7 @@
 id: xkcd.1495-hard-reboot
 title: Hard Reboot
 desc: ''
-updated: 1616186984542
+updated: 1425628800000
 created: 1425628800000
 sources:
   name: xkcd

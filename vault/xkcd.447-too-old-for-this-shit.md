@@ -2,7 +2,7 @@
 id: xkcd.447-too-old-for-this-shit
 title: Too Old For This Shit
 desc: ''
-updated: 1616186984577
+updated: 1215586800000
 created: 1215586800000
 sources:
   name: xkcd

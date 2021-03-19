@@ -2,7 +2,7 @@
 id: xkcd.1265-juicer
 title: Juicer
 desc: ''
-updated: 1616186984368
+updated: 1379314800000
 created: 1379314800000
 sources:
   name: xkcd

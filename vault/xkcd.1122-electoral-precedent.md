@@ -2,7 +2,7 @@
 id: xkcd.1122-electoral-precedent
 title: Electoral Precedent
 desc: ''
-updated: 1616186984650
+updated: 1350457200000
 created: 1350457200000
 sources:
   name: xkcd

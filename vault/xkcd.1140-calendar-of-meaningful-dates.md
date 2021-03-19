@@ -2,7 +2,7 @@
 id: xkcd.1140-calendar-of-meaningful-dates
 title: Calendar of Meaningful Dates
 desc: ''
-updated: 1616186984651
+updated: 1354089600000
 created: 1354089600000
 sources:
   name: xkcd

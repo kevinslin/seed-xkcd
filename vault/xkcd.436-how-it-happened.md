@@ -2,7 +2,7 @@
 id: xkcd.436-how-it-happened
 title: How it Happened
 desc: ''
-updated: 1616186984575
+updated: 1213340400000
 created: 1213340400000
 sources:
   name: xkcd

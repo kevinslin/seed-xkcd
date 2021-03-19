@@ -2,7 +2,7 @@
 id: xkcd.238-pet-peeve-114
 title: 'Pet Peeve #114'
 desc: ''
-updated: 1616186984547
+updated: 1174460400000
 created: 1174460400000
 sources:
   name: xkcd

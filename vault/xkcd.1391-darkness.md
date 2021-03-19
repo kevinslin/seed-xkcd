@@ -2,7 +2,7 @@
 id: xkcd.1391-darkness
 title: Darkness
 desc: ''
-updated: 1616186984417
+updated: 1404716400000
 created: 1404716400000
 sources:
   name: xkcd

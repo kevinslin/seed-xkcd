@@ -2,7 +2,7 @@
 id: xkcd.711-seismograph
 title: Seismograph
 desc: ''
-updated: 1616186984617
+updated: 1268035200000
 created: 1268035200000
 sources:
   name: xkcd

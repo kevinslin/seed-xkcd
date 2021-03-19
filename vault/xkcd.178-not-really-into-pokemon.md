@@ -2,7 +2,7 @@
 id: xkcd.178-not-really-into-pokemon
 title: Not Really Into Pokemon
 desc: ''
-updated: 1616186984433
+updated: 1162368000000
 created: 1162368000000
 sources:
   name: xkcd

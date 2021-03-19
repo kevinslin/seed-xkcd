@@ -2,7 +2,7 @@
 id: xkcd.1382-rocket-packs
 title: Rocket Packs
 desc: ''
-updated: 1616186984414
+updated: 1402902000000
 created: 1402902000000
 sources:
   name: xkcd

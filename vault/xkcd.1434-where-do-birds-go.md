@@ -2,7 +2,7 @@
 id: xkcd.1434-where-do-birds-go
 title: Where Do Birds Go
 desc: ''
-updated: 1616186984536
+updated: 1413356400000
 created: 1413356400000
 sources:
   name: xkcd

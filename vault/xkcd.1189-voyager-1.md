@@ -2,7 +2,7 @@
 id: xkcd.1189-voyager-1
 title: Voyager 1
 desc: ''
-updated: 1616186984655
+updated: 1363935600000
 created: 1363935600000
 sources:
   name: xkcd

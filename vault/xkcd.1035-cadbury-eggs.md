@@ -2,7 +2,7 @@
 id: xkcd.1035-cadbury-eggs
 title: Cadbury Eggs
 desc: ''
-updated: 1616186984676
+updated: 1332918000000
 created: 1332918000000
 sources:
   name: xkcd

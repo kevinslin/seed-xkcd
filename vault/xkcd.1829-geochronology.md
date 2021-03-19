@@ -2,7 +2,7 @@
 id: xkcd.1829-geochronology
 title: Geochronology
 desc: ''
-updated: 1616186984443
+updated: 1493190000000
 created: 1493190000000
 sources:
   name: xkcd

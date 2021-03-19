@@ -2,7 +2,7 @@
 id: xkcd.198-perspective
 title: Perspective
 desc: ''
-updated: 1616186984436
+updated: 1166428800000
 created: 1166428800000
 sources:
   name: xkcd

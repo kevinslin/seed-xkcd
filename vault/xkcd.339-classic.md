@@ -2,7 +2,7 @@
 id: xkcd.339-classic
 title: Classic
 desc: ''
-updated: 1616186984560
+updated: 1194422400000
 created: 1194422400000
 sources:
   name: xkcd

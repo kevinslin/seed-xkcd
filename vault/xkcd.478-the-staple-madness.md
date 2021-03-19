@@ -2,7 +2,7 @@
 id: xkcd.478-the-staple-madness
 title: The Staple Madness
 desc: ''
-updated: 1616186984583
+updated: 1221807600000
 created: 1221807600000
 sources:
   name: xkcd

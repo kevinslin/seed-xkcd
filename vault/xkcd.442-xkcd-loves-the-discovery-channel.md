@@ -2,7 +2,7 @@
 id: xkcd.442-xkcd-loves-the-discovery-channel
 title: xkcd Loves the Discovery Channel
 desc: ''
-updated: 1616186984576
+updated: 1214550000000
 created: 1214550000000
 sources:
   name: xkcd

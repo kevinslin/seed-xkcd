@@ -2,7 +2,7 @@
 id: xkcd.647-scary
 title: Scary
 desc: ''
-updated: 1616186984607
+updated: 1255071600000
 created: 1255071600000
 sources:
   name: xkcd

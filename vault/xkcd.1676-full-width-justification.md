@@ -2,7 +2,7 @@
 id: xkcd.1676-full-width-justification
 title: Full-Width Justification
 desc: ''
-updated: 1616186984504
+updated: 1462345200000
 created: 1462345200000
 sources:
   name: xkcd

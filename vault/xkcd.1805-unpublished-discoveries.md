@@ -2,7 +2,7 @@
 id: xkcd.1805-unpublished-discoveries
 title: Unpublished Discoveries
 desc: ''
-updated: 1616186984438
+updated: 1488355200000
 created: 1488355200000
 sources:
   name: xkcd

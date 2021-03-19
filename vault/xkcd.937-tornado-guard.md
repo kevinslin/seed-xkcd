@@ -2,7 +2,7 @@
 id: xkcd.937-tornado-guard
 title: TornadoGuard
 desc: ''
-updated: 1616186984632
+updated: 1313132400000
 created: 1313132400000
 sources:
   name: xkcd

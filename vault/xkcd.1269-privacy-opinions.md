@@ -2,7 +2,7 @@
 id: xkcd.1269-privacy-opinions
 title: Privacy Opinions
 desc: ''
-updated: 1616186984369
+updated: 1380092400000
 created: 1380092400000
 sources:
   name: xkcd

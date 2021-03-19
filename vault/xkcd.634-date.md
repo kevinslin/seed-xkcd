@@ -2,7 +2,7 @@
 id: xkcd.634-date
 title: Date
 desc: ''
-updated: 1616186984605
+updated: 1252479600000
 created: 1252479600000
 sources:
   name: xkcd

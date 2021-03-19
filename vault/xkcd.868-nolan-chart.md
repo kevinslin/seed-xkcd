@@ -2,7 +2,7 @@
 id: xkcd.868-nolan-chart
 title: Nolan Chart
 desc: ''
-updated: 1616186984666
+updated: 1299225600000
 created: 1299225600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.987-potential
 title: Potential
 desc: ''
-updated: 1616186984637
+updated: 1323244800000
 created: 1323244800000
 sources:
   name: xkcd

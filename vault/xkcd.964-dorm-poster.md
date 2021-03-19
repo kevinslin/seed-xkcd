@@ -2,7 +2,7 @@
 id: xkcd.964-dorm-poster
 title: Dorm Poster
 desc: ''
-updated: 1616186984635
+updated: 1318575600000
 created: 1318575600000
 sources:
   name: xkcd

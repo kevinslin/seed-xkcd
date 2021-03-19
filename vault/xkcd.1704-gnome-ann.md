@@ -2,7 +2,7 @@
 id: xkcd.1704-gnome-ann
 title: Gnome Ann
 desc: ''
-updated: 1616186984508
+updated: 1467961200000
 created: 1467961200000
 sources:
   name: xkcd

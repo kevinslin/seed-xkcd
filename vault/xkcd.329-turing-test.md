@@ -2,7 +2,7 @@
 id: xkcd.329-turing-test
 title: Turing Test
 desc: ''
-updated: 1616186984560
+updated: 1192431600000
 created: 1192431600000
 sources:
   name: xkcd

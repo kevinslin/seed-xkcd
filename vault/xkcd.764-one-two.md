@@ -2,7 +2,7 @@
 id: xkcd.764-one-two
 title: One Two
 desc: ''
-updated: 1616186984621
+updated: 1278658800000
 created: 1278658800000
 sources:
   name: xkcd

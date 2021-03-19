@@ -2,7 +2,7 @@
 id: xkcd.1460-smfw
 title: SMFW
 desc: ''
-updated: 1616186984539
+updated: 1418630400000
 created: 1418630400000
 sources:
   name: xkcd

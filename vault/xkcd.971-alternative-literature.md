@@ -2,7 +2,7 @@
 id: xkcd.971-alternative-literature
 title: Alternative Literature
 desc: ''
-updated: 1616186984636
+updated: 1320044400000
 created: 1320044400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.846-dental-nerve
 title: Dental Nerve
 desc: ''
-updated: 1616186984664
+updated: 1294819200000
 created: 1294819200000
 sources:
   name: xkcd

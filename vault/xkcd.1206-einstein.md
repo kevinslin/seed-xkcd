@@ -2,7 +2,7 @@
 id: xkcd.1206-einstein
 title: Einstein
 desc: ''
-updated: 1616186984349
+updated: 1367391600000
 created: 1367391600000
 sources:
   name: xkcd

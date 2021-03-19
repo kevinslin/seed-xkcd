@@ -2,7 +2,7 @@
 id: xkcd.701-science-valentine
 title: Science Valentine
 desc: ''
-updated: 1616186984615
+updated: 1265961600000
 created: 1265961600000
 sources:
   name: xkcd

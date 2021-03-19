@@ -2,7 +2,7 @@
 id: xkcd.1325-rejection
 title: Rejection
 desc: ''
-updated: 1616186984402
+updated: 1391414400000
 created: 1391414400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.69-pillow-talk
 title: Pillow Talk
 desc: ''
-updated: 1616186984390
+updated: 1141027200000
 created: 1141027200000
 sources:
   name: xkcd

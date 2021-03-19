@@ -2,7 +2,7 @@
 id: xkcd.1811-best-tasting-colors
 title: Best-Tasting Colors
 desc: ''
-updated: 1616186984439
+updated: 1489561200000
 created: 1489561200000
 sources:
   name: xkcd

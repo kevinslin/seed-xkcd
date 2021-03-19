@@ -2,7 +2,7 @@
 id: xkcd.934-mac-pc
 title: Mac/PC
 desc: ''
-updated: 1616186984632
+updated: 1312527600000
 created: 1312527600000
 sources:
   name: xkcd

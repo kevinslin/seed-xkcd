@@ -2,7 +2,7 @@
 id: xkcd.863-major-in-the-universe
 title: Major in the Universe
 desc: ''
-updated: 1616186984666
+updated: 1298275200000
 created: 1298275200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1907-immune-system
 title: Immune System
 desc: ''
-updated: 1616186984474
+updated: 1508914800000
 created: 1508914800000
 sources:
   name: xkcd

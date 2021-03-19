@@ -2,7 +2,7 @@
 id: xkcd.1200-authorization
 title: Authorization
 desc: ''
-updated: 1616186984340
+updated: 1366182000000
 created: 1366182000000
 sources:
   name: xkcd

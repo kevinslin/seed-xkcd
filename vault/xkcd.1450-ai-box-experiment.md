@@ -2,7 +2,7 @@
 id: xkcd.1450-ai-box-experiment
 title: AI-Box Experiment
 desc: ''
-updated: 1616186984537
+updated: 1416556800000
 created: 1416556800000
 sources:
   name: xkcd

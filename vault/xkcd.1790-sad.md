@@ -2,7 +2,7 @@
 id: xkcd.1790-sad
 title: Sad
 desc: ''
-updated: 1616186984528
+updated: 1485331200000
 created: 1485331200000
 sources:
   name: xkcd

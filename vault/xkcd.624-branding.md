@@ -2,7 +2,7 @@
 id: xkcd.624-branding
 title: Branding
 desc: ''
-updated: 1616186984604
+updated: 1250492400000
 created: 1250492400000
 sources:
   name: xkcd

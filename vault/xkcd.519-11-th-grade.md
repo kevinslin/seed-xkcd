@@ -2,7 +2,7 @@
 id: xkcd.519-11-th-grade
 title: 11th Grade
 desc: ''
-updated: 1616186984589
+updated: 1229673600000
 created: 1229673600000
 sources:
   name: xkcd

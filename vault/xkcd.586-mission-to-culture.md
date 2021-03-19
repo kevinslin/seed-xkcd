@@ -2,7 +2,7 @@
 id: xkcd.586-mission-to-culture
 title: Mission to Culture
 desc: ''
-updated: 1616186984598
+updated: 1242802800000
 created: 1242802800000
 sources:
   name: xkcd

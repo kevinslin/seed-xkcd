@@ -2,7 +2,7 @@
 id: xkcd.1244-six-words
 title: Six Words
 desc: ''
-updated: 1616186984361
+updated: 1375081200000
 created: 1375081200000
 sources:
   name: xkcd

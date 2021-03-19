@@ -2,7 +2,7 @@
 id: xkcd.713-geo-ip
 title: GeoIP
 desc: ''
-updated: 1616186984617
+updated: 1268380800000
 created: 1268380800000
 sources:
   name: xkcd

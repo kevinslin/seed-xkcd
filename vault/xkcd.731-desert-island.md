@@ -2,7 +2,7 @@
 id: xkcd.731-desert-island
 title: Desert Island
 desc: ''
-updated: 1616186984619
+updated: 1272006000000
 created: 1272006000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1209-encoding
 title: Encoding
 desc: ''
-updated: 1616186984350
+updated: 1367996400000
 created: 1367996400000
 sources:
   name: xkcd

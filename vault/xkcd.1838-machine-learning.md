@@ -2,7 +2,7 @@
 id: xkcd.1838-machine-learning
 title: Machine Learning
 desc: ''
-updated: 1616186984445
+updated: 1495004400000
 created: 1495004400000
 sources:
   name: xkcd

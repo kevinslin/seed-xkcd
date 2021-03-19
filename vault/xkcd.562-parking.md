@@ -2,7 +2,7 @@
 id: xkcd.562-parking
 title: Parking
 desc: ''
-updated: 1616186984595
+updated: 1238396400000
 created: 1238396400000
 sources:
   name: xkcd

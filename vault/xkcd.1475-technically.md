@@ -2,7 +2,7 @@
 id: xkcd.1475-technically
 title: Technically
 desc: ''
-updated: 1616186984540
+updated: 1421654400000
 created: 1421654400000
 sources:
   name: xkcd

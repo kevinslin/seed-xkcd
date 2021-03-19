@@ -2,7 +2,7 @@
 id: xkcd.857-archimedes
 title: Archimedes
 desc: ''
-updated: 1616186984665
+updated: 1297065600000
 created: 1297065600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1681-laser-products
 title: Laser Products
 desc: ''
-updated: 1616186984505
+updated: 1463382000000
 created: 1463382000000
 sources:
   name: xkcd

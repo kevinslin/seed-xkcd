@@ -2,7 +2,7 @@
 id: xkcd.888-heaven
 title: Heaven
 desc: ''
-updated: 1616186984668
+updated: 1303282800000
 created: 1303282800000
 sources:
   name: xkcd

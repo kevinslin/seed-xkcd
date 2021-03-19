@@ -2,7 +2,7 @@
 id: xkcd.1864-city-nicknames
 title: City Nicknames
 desc: ''
-updated: 1616186984449
+updated: 1500274800000
 created: 1500274800000
 sources:
   name: xkcd

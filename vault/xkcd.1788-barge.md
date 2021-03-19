@@ -2,7 +2,7 @@
 id: xkcd.1788-barge
 title: Barge
 desc: ''
-updated: 1616186984528
+updated: 1484899200000
 created: 1484899200000
 sources:
   name: xkcd

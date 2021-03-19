@@ -2,7 +2,7 @@
 id: xkcd.1610-fire-ants
 title: Fire Ants
 desc: ''
-updated: 1616186984495
+updated: 1448870400000
 created: 1448870400000
 sources:
   name: xkcd

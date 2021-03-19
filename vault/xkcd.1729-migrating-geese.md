@@ -2,7 +2,7 @@
 id: xkcd.1729-migrating-geese
 title: Migrating Geese
 desc: ''
-updated: 1616186984513
+updated: 1473058800000
 created: 1473058800000
 sources:
   name: xkcd

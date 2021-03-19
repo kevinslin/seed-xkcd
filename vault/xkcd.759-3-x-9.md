@@ -2,7 +2,7 @@
 id: xkcd.759-3-x-9
 title: 3x9
 desc: ''
-updated: 1616186984621
+updated: 1277708400000
 created: 1277708400000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1727-number-of-computers
 title: Number of Computers
 desc: ''
-updated: 1616186984513
+updated: 1472626800000
 created: 1472626800000
 sources:
   name: xkcd

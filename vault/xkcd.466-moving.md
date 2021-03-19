@@ -2,7 +2,7 @@
 id: xkcd.466-moving
 title: Moving
 desc: ''
-updated: 1616186984580
+updated: 1219388400000
 created: 1219388400000
 sources:
   name: xkcd

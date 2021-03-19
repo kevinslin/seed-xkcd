@@ -2,7 +2,7 @@
 id: xkcd.1621-fixion
 title: Fixion
 desc: ''
-updated: 1616186984496
+updated: 1451030400000
 created: 1451030400000
 sources:
   name: xkcd

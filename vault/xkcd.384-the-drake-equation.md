@@ -2,7 +2,7 @@
 id: xkcd.384-the-drake-equation
 title: The Drake Equation
 desc: ''
-updated: 1616186984566
+updated: 1203062400000
 created: 1203062400000
 sources:
   name: xkcd

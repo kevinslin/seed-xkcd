@@ -2,7 +2,7 @@
 id: xkcd.1673-timeline-of-bicycle-design
 title: Timeline of Bicycle Design
 desc: ''
-updated: 1616186984503
+updated: 1461740400000
 created: 1461740400000
 sources:
   name: xkcd

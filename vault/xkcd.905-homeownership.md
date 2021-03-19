@@ -2,7 +2,7 @@
 id: xkcd.905-homeownership
 title: Homeownership
 desc: ''
-updated: 1616186984629
+updated: 1306738800000
 created: 1306738800000
 sources:
   name: xkcd

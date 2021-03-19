@@ -2,7 +2,7 @@
 id: xkcd.1163-debugger
 title: Debugger
 desc: ''
-updated: 1616186984653
+updated: 1358755200000
 created: 1358755200000
 sources:
   name: xkcd

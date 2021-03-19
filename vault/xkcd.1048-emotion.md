@@ -2,7 +2,7 @@
 id: xkcd.1048-emotion
 title: Emotion
 desc: ''
-updated: 1616186984687
+updated: 1335510000000
 created: 1335510000000
 sources:
   name: xkcd

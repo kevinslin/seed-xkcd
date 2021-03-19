@@ -2,7 +2,7 @@
 id: xkcd.1657-insanity
 title: Insanity
 desc: ''
-updated: 1616186984501
+updated: 1458284400000
 created: 1458284400000
 sources:
   name: xkcd

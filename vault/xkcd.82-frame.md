@@ -2,7 +2,7 @@
 id: xkcd.82-frame
 title: Frame
 desc: ''
-updated: 1616186984392
+updated: 1143619200000
 created: 1143619200000
 sources:
   name: xkcd

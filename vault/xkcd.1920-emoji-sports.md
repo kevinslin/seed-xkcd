@@ -2,7 +2,7 @@
 id: xkcd.1920-emoji-sports
 title: Emoji Sports
 desc: ''
-updated: 1616186984477
+updated: 1511510400000
 created: 1511510400000
 sources:
   name: xkcd

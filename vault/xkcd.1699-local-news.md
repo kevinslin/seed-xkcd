@@ -2,7 +2,7 @@
 id: xkcd.1699-local-news
 title: Local News
 desc: ''
-updated: 1616186984507
+updated: 1467010800000
 created: 1467010800000
 sources:
   name: xkcd

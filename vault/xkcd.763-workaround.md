@@ -2,7 +2,7 @@
 id: xkcd.763-workaround
 title: Workaround
 desc: ''
-updated: 1616186984621
+updated: 1278486000000
 created: 1278486000000
 sources:
   name: xkcd

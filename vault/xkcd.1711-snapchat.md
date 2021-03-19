@@ -2,7 +2,7 @@
 id: xkcd.1711-snapchat
 title: Snapchat
 desc: ''
-updated: 1616186984509
+updated: 1469430000000
 created: 1469430000000
 sources:
   name: xkcd

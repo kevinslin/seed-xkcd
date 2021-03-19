@@ -2,7 +2,7 @@
 id: xkcd.1019-first-post
 title: First Post
 desc: ''
-updated: 1616186984674
+updated: 1329724800000
 created: 1329724800000
 sources:
   name: xkcd

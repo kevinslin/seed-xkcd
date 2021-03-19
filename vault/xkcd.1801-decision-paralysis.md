@@ -2,7 +2,7 @@
 id: xkcd.1801-decision-paralysis
 title: Decision Paralysis
 desc: ''
-updated: 1616186984437
+updated: 1487577600000
 created: 1487577600000
 sources:
   name: xkcd

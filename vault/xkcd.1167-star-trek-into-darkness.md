@@ -2,7 +2,7 @@
 id: xkcd.1167-star-trek-into-darkness
 title: Star Trek into Darkness
 desc: ''
-updated: 1616186984653
+updated: 1359532800000
 created: 1359532800000
 sources:
   name: xkcd

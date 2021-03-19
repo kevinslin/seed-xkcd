@@ -2,7 +2,7 @@
 id: xkcd.1979-history
 title: History
 desc: ''
-updated: 1616186984489
+updated: 1523430000000
 created: 1523430000000
 sources:
   name: xkcd

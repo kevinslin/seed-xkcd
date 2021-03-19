@@ -2,7 +2,7 @@
 id: xkcd.322-pix-plz
 title: Pix Plz
 desc: ''
-updated: 1616186984559
+updated: 1190962800000
 created: 1190962800000
 sources:
   name: xkcd

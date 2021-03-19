@@ -2,7 +2,7 @@
 id: xkcd.995-coinstar
 title: Coinstar
 desc: ''
-updated: 1616186984639
+updated: 1324886400000
 created: 1324886400000
 sources:
   name: xkcd

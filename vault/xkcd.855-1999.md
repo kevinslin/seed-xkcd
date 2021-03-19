@@ -2,7 +2,7 @@
 id: xkcd.855-1999
 title: '1999'
 desc: ''
-updated: 1616186984665
+updated: 1296633600000
 created: 1296633600000
 sources:
   name: xkcd

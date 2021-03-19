@@ -2,7 +2,7 @@
 id: xkcd.1485-friendship
 title: Friendship
 desc: ''
-updated: 1616186984541
+updated: 1423641600000
 created: 1423641600000
 sources:
   name: xkcd

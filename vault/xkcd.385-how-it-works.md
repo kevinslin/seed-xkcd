@@ -2,7 +2,7 @@
 id: xkcd.385-how-it-works
 title: How it Works
 desc: ''
-updated: 1616186984567
+updated: 1203321600000
 created: 1203321600000
 sources:
   name: xkcd

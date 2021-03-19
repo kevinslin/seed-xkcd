@@ -2,7 +2,7 @@
 id: xkcd.832-tic-tac-toe
 title: Tic-Tac-Toe
 desc: ''
-updated: 1616186984662
+updated: 1291968000000
 created: 1291968000000
 sources:
   name: xkcd

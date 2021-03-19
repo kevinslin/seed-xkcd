@@ -2,7 +2,7 @@
 id: xkcd.1221-nomenclature
 title: Nomenclature
 desc: ''
-updated: 1616186984354
+updated: 1370415600000
 created: 1370415600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1299-i-dont-own-a-tv
 title: I Don't Own a TV
 desc: ''
-updated: 1616186984374
+updated: 1386144000000
 created: 1386144000000
 sources:
   name: xkcd

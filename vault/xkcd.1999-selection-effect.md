@@ -2,7 +2,7 @@
 id: xkcd.1999-selection-effect
 title: Selection Effect
 desc: ''
-updated: 1616186984493
+updated: 1527490800000
 created: 1527490800000
 sources:
   name: xkcd

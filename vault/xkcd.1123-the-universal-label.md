@@ -2,7 +2,7 @@
 id: xkcd.1123-the-universal-label
 title: The Universal Label
 desc: ''
-updated: 1616186984650
+updated: 1350630000000
 created: 1350630000000
 sources:
   name: xkcd

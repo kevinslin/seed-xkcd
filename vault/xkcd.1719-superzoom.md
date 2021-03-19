@@ -2,7 +2,7 @@
 id: xkcd.1719-superzoom
 title: Superzoom
 desc: ''
-updated: 1616186984511
+updated: 1470985200000
 created: 1470985200000
 sources:
   name: xkcd

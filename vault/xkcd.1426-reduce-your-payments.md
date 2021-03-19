@@ -2,7 +2,7 @@
 id: xkcd.1426-reduce-your-payments
 title: Reduce Your Payments
 desc: ''
-updated: 1616186984535
+updated: 1411714800000
 created: 1411714800000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1987-python-environment
 title: Python Environment
 desc: ''
-updated: 1616186984490
+updated: 1525071600000
 created: 1525071600000
 sources:
   name: xkcd

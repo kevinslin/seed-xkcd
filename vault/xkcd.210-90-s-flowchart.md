@@ -2,7 +2,7 @@
 id: xkcd.210-90-s-flowchart
 title: 90's Flowchart
 desc: ''
-updated: 1616186984544
+updated: 1168848000000
 created: 1168848000000
 sources:
   name: xkcd

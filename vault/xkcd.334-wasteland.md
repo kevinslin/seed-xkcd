@@ -2,7 +2,7 @@
 id: xkcd.334-wasteland
 title: Wasteland
 desc: ''
-updated: 1616186984560
+updated: 1193382000000
 created: 1193382000000
 sources:
   name: xkcd

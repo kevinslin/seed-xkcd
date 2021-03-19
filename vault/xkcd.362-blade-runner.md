@@ -2,7 +2,7 @@
 id: xkcd.362-blade-runner
 title: Blade Runner
 desc: ''
-updated: 1616186984564
+updated: 1198656000000
 created: 1198656000000
 sources:
   name: xkcd

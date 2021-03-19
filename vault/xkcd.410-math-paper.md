@@ -2,7 +2,7 @@
 id: xkcd.410-math-paper
 title: Math Paper
 desc: ''
-updated: 1616186984571
+updated: 1208156400000
 created: 1208156400000
 sources:
   name: xkcd

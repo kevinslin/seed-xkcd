@@ -2,7 +2,7 @@
 id: xkcd.421-making-hash-browns
 title: Making Hash Browns
 desc: ''
-updated: 1616186984573
+updated: 1210316400000
 created: 1210316400000
 sources:
   name: xkcd

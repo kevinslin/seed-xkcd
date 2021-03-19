@@ -2,7 +2,7 @@
 id: xkcd.695-spirit
 title: Spirit
 desc: ''
-updated: 1616186984614
+updated: 1264752000000
 created: 1264752000000
 sources:
   name: xkcd

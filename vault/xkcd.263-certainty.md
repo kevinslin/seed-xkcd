@@ -2,7 +2,7 @@
 id: xkcd.263-certainty
 title: Certainty
 desc: ''
-updated: 1616186984551
+updated: 1179471600000
 created: 1179471600000
 sources:
   name: xkcd

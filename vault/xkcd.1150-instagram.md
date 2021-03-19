@@ -2,7 +2,7 @@
 id: xkcd.1150-instagram
 title: Instagram
 desc: ''
-updated: 1616186984652
+updated: 1356076800000
 created: 1356076800000
 sources:
   name: xkcd

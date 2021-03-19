@@ -2,7 +2,7 @@
 id: xkcd.824-guest-week-bill-amend-fox-trot
 title: 'Guest Week: Bill Amend (FoxTrot)'
 desc: ''
-updated: 1616186984660
+updated: 1290585600000
 created: 1290585600000
 sources:
   name: xkcd

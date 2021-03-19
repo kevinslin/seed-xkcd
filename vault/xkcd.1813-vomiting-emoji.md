@@ -2,7 +2,7 @@
 id: xkcd.1813-vomiting-emoji
 title: Vomiting Emoji
 desc: ''
-updated: 1616186984439
+updated: 1489993200000
 created: 1489993200000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1710-walking-into-things
 title: Walking Into Things
 desc: ''
-updated: 1616186984509
+updated: 1469170800000
 created: 1469170800000
 sources:
   name: xkcd

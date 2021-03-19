@@ -2,7 +2,7 @@
 id: xkcd.892-null-hypothesis
 title: Null Hypothesis
 desc: ''
-updated: 1616186984668
+updated: 1304060400000
 created: 1304060400000
 sources:
   name: xkcd

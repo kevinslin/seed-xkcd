@@ -2,7 +2,7 @@
 id: xkcd.1077-home-organization
 title: Home Organization
 desc: ''
-updated: 1616186984692
+updated: 1341385200000
 created: 1341385200000
 sources:
   name: xkcd

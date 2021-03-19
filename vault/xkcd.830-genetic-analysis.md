@@ -2,7 +2,7 @@
 id: xkcd.830-genetic-analysis
 title: Genetic Analysis
 desc: ''
-updated: 1616186984661
+updated: 1291622400000
 created: 1291622400000
 sources:
   name: xkcd

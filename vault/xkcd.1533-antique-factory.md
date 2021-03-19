@@ -2,7 +2,7 @@
 id: xkcd.1533-antique-factory
 title: Antique Factory
 desc: ''
-updated: 1616186984461
+updated: 1433314800000
 created: 1433314800000
 sources:
   name: xkcd

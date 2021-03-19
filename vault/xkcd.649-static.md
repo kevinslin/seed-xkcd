@@ -2,7 +2,7 @@
 id: xkcd.649-static
 title: Static
 desc: ''
-updated: 1616186984607
+updated: 1255503600000
 created: 1255503600000
 sources:
   name: xkcd

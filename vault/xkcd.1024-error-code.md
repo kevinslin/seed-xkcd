@@ -2,7 +2,7 @@
 id: xkcd.1024-error-code
 title: Error Code
 desc: ''
-updated: 1616186984674
+updated: 1330675200000
 created: 1330675200000
 sources:
   name: xkcd

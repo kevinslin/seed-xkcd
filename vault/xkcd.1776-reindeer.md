@@ -2,7 +2,7 @@
 id: xkcd.1776-reindeer
 title: Reindeer
 desc: ''
-updated: 1616186984526
+updated: 1482480000000
 created: 1482480000000
 sources:
   name: xkcd

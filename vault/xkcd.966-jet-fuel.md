@@ -2,7 +2,7 @@
 id: xkcd.966-jet-fuel
 title: Jet Fuel
 desc: ''
-updated: 1616186984635
+updated: 1319007600000
 created: 1319007600000
 sources:
   name: xkcd

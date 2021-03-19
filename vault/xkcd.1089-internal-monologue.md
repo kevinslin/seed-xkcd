@@ -2,7 +2,7 @@
 id: xkcd.1089-internal-monologue
 title: Internal Monologue
 desc: ''
-updated: 1616186984697
+updated: 1343804400000
 created: 1343804400000
 sources:
   name: xkcd

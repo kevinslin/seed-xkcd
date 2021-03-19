@@ -2,7 +2,7 @@
 id: xkcd.1723-meteorite-identification
 title: Meteorite Identification
 desc: ''
-updated: 1616186984511
+updated: 1471849200000
 created: 1471849200000
 sources:
   name: xkcd

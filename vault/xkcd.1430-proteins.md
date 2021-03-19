@@ -2,7 +2,7 @@
 id: xkcd.1430-proteins
 title: Proteins
 desc: ''
-updated: 1616186984536
+updated: 1412578800000
 created: 1412578800000
 sources:
   name: xkcd

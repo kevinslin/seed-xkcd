@@ -2,7 +2,7 @@
 id: xkcd.1759-british-map
 title: British Map
 desc: ''
-updated: 1616186984522
+updated: 1479110400000
 created: 1479110400000
 sources:
   name: xkcd

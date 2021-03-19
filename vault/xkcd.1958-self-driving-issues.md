@@ -2,7 +2,7 @@
 id: xkcd.1958-self-driving-issues
 title: Self-Driving Issues
 desc: ''
-updated: 1616186984485
+updated: 1519200000000
 created: 1519200000000
 sources:
   name: xkcd

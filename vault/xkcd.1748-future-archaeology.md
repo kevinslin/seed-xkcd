@@ -2,7 +2,7 @@
 id: xkcd.1748-future-archaeology
 title: Future Archaeology
 desc: ''
-updated: 1616186984520
+updated: 1476860400000
 created: 1476860400000
 sources:
   name: xkcd

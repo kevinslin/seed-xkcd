@@ -2,7 +2,7 @@
 id: xkcd.589-designated-drivers
 title: Designated Drivers
 desc: ''
-updated: 1616186984599
+updated: 1243407600000
 created: 1243407600000
 sources:
   name: xkcd

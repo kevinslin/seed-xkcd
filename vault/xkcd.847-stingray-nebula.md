@@ -2,7 +2,7 @@
 id: xkcd.847-stingray-nebula
 title: Stingray Nebula
 desc: ''
-updated: 1616186984664
+updated: 1294992000000
 created: 1294992000000
 sources:
   name: xkcd

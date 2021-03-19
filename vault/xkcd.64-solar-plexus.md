@@ -2,7 +2,7 @@
 id: xkcd.64-solar-plexus
 title: Solar Plexus
 desc: ''
-updated: 1616186984389
+updated: 1139990400000
 created: 1139990400000
 sources:
   name: xkcd

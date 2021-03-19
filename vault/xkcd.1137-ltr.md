@@ -2,7 +2,7 @@
 id: xkcd.1137-ltr
 title: ‮LTR
 desc: ''
-updated: 1616186984651
+updated: 1353484800000
 created: 1353484800000
 sources:
   name: xkcd

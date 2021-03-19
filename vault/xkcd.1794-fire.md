@@ -2,7 +2,7 @@
 id: xkcd.1794-fire
 title: Fire
 desc: ''
-updated: 1616186984529
+updated: 1486108800000
 created: 1486108800000
 sources:
   name: xkcd

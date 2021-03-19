@@ -2,7 +2,7 @@
 id: xkcd.1637-salt-mine
 title: Salt Mine
 desc: ''
-updated: 1616186984499
+updated: 1454313600000
 created: 1454313600000
 sources:
   name: xkcd

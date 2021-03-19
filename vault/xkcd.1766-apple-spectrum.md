@@ -2,7 +2,7 @@
 id: xkcd.1766-apple-spectrum
 title: Apple Spectrum
 desc: ''
-updated: 1616186984524
+updated: 1480492800000
 created: 1480492800000
 sources:
   name: xkcd

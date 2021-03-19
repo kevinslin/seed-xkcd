@@ -2,7 +2,7 @@
 id: xkcd.163-donald-knuth
 title: Donald Knuth
 desc: ''
-updated: 1616186984430
+updated: 1159340400000
 created: 1159340400000
 sources:
   name: xkcd

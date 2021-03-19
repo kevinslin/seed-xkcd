@@ -2,7 +2,7 @@
 id: xkcd.1872-backup-batteries
 title: Backup Batteries
 desc: ''
-updated: 1616186984450
+updated: 1501830000000
 created: 1501830000000
 sources:
   name: xkcd

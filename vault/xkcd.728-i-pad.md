@@ -2,7 +2,7 @@
 id: xkcd.728-i-pad
 title: iPad
 desc: ''
-updated: 1616186984619
+updated: 1271401200000
 created: 1271401200000
 sources:
   name: xkcd

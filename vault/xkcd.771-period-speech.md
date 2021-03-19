@@ -2,7 +2,7 @@
 id: xkcd.771-period-speech
 title: Period Speech
 desc: ''
-updated: 1616186984622
+updated: 1280127600000
 created: 1280127600000
 sources:
   name: xkcd

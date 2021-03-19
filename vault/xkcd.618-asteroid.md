@@ -2,7 +2,7 @@
 id: xkcd.618-asteroid
 title: Asteroid
 desc: ''
-updated: 1616186984603
+updated: 1249282800000
 created: 1249282800000
 sources:
   name: xkcd

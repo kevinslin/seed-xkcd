@@ -2,7 +2,7 @@
 id: xkcd.1662-jack-and-jill
 title: Jack and Jill
 desc: ''
-updated: 1616186984502
+updated: 1459321200000
 created: 1459321200000
 sources:
   name: xkcd

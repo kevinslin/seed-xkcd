@@ -2,7 +2,7 @@
 id: xkcd.119-worst-band-name-ever
 title: Worst Band Name Ever
 desc: ''
-updated: 1616186984422
+updated: 1151046000000
 created: 1151046000000
 sources:
   name: xkcd

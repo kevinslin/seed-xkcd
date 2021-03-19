@@ -2,7 +2,7 @@
 id: xkcd.386-duty-calls
 title: Duty Calls
 desc: ''
-updated: 1616186984567
+updated: 1203494400000
 created: 1203494400000
 sources:
   name: xkcd

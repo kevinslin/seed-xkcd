@@ -2,7 +2,7 @@
 id: xkcd.1753-thumb-war
 title: Thumb War
 desc: ''
-updated: 1616186984521
+updated: 1477897200000
 created: 1477897200000
 sources:
   name: xkcd

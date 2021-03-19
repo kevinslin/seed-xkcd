@@ -2,7 +2,7 @@
 id: xkcd.1220-hipsters
 title: Hipsters
 desc: ''
-updated: 1616186984353
+updated: 1370242800000
 created: 1370242800000
 sources:
   name: xkcd

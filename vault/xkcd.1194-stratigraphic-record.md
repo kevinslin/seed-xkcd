@@ -2,7 +2,7 @@
 id: xkcd.1194-stratigraphic-record
 title: Stratigraphic Record
 desc: ''
-updated: 1616186984656
+updated: 1364972400000
 created: 1364972400000
 sources:
   name: xkcd

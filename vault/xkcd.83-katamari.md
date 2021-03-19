@@ -2,7 +2,7 @@
 id: xkcd.83-katamari
 title: Katamari
 desc: ''
-updated: 1616186984392
+updated: 1143792000000
 created: 1143792000000
 sources:
   name: xkcd

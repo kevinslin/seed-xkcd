@@ -2,7 +2,7 @@
 id: xkcd.1975-right-click
 title: Right Click
 desc: ''
-updated: 1616186984489
+updated: 1522566000000
 created: 1522566000000
 sources:
   name: xkcd

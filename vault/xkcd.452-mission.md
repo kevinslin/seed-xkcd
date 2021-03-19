@@ -2,7 +2,7 @@
 id: xkcd.452-mission
 title: Mission
 desc: ''
-updated: 1616186984578
+updated: 1216623600000
 created: 1216623600000
 sources:
   name: xkcd

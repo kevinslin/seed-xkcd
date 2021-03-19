@@ -2,7 +2,7 @@
 id: xkcd.453-upcoming-hurricanes
 title: Upcoming Hurricanes
 desc: ''
-updated: 1616186984579
+updated: 1216796400000
 created: 1216796400000
 sources:
   name: xkcd

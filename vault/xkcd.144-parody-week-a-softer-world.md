@@ -2,7 +2,7 @@
 id: xkcd.144-parody-week-a-softer-world
 title: 'Parody Week: A Softer World'
 desc: ''
-updated: 1616186984427
+updated: 1155798000000
 created: 1155798000000
 sources:
   name: xkcd

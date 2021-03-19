@@ -2,7 +2,7 @@
 id: xkcd.448-good-morning
 title: Good Morning
 desc: ''
-updated: 1616186984577
+updated: 1215759600000
 created: 1215759600000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1452-jurassic-world
 title: Jurassic World
 desc: ''
-updated: 1616186984538
+updated: 1416988800000
 created: 1416988800000
 sources:
   name: xkcd

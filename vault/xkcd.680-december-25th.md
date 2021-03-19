@@ -2,7 +2,7 @@
 id: xkcd.680-december-25th
 title: December 25th
 desc: ''
-updated: 1616186984613
+updated: 1261728000000
 created: 1261728000000
 sources:
   name: xkcd

@@ -2,7 +2,7 @@
 id: xkcd.1964-spatial-orientation
 title: Spatial Orientation
 desc: ''
-updated: 1616186984486
+updated: 1520409600000
 created: 1520409600000
 sources:
   name: xkcd

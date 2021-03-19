@@ -2,7 +2,7 @@
 id: xkcd.876-trapped
 title: Trapped
 desc: ''
-updated: 1616186984667
+updated: 1300863600000
 created: 1300863600000
 sources:
   name: xkcd

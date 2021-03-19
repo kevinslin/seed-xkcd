@@ -2,7 +2,7 @@
 id: xkcd.114-computational-linguists
 title: Computational Linguists
 desc: ''
-updated: 1616186984421
+updated: 1150095600000
 created: 1150095600000
 sources:
   name: xkcd

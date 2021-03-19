@@ -2,7 +2,7 @@
 id: xkcd.1005-sopa
 title: SOPA
 desc: ''
-updated: 1616186984672
+updated: 1326873600000
 created: 1326873600000
 sources:
   name: xkcd

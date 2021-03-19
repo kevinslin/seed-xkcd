@@ -2,7 +2,7 @@
 id: xkcd.72-classhole
 title: Classhole
 desc: ''
-updated: 1616186984390
+updated: 1141632000000
 created: 1141632000000
 sources:
   name: xkcd

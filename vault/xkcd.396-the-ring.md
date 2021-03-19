@@ -2,7 +2,7 @@
 id: xkcd.396-the-ring
 title: The Ring
 desc: ''
-updated: 1616186984568
+updated: 1205478000000
 created: 1205478000000
 sources:
   name: xkcd

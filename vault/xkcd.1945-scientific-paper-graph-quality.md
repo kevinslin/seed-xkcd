@@ -2,7 +2,7 @@
 id: xkcd.1945-scientific-paper-graph-quality
 title: Scientific Paper Graph Quality
 desc: ''
-updated: 1616186984482
+updated: 1516608000000
 created: 1516608000000
 sources:
   name: xkcd

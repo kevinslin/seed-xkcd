@@ -2,7 +2,7 @@
 id: xkcd.591-troll-slayer
 title: Troll Slayer
 desc: ''
-updated: 1616186984599
+updated: 1243839600000
 created: 1243839600000
 sources:
   name: xkcd

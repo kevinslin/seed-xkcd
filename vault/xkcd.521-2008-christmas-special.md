@@ -2,7 +2,7 @@
 id: xkcd.521-2008-christmas-special
 title: 2008 Christmas Special
 desc: ''
-updated: 1616186984589
+updated: 1230105600000
 created: 1230105600000
 sources:
   name: xkcd
