@@ -41,6 +41,10 @@ type XKCDResp = {
 
 }
 
+function cleanLinkString(txt: string) {
+    return txt.replace(/\[/, '\\[').replace(/\]/, '\\]');
+}
+
 function getXkcd(num: number): Promise<XKCDResp> {
     return new Promise((resolve) => {
         xkcd(num, function (data: XKCDResp) {
@@ -51,16 +55,16 @@ function getXkcd(num: number): Promise<XKCDResp> {
 
 function toNote(opts: { meta: XKCDResp }): NotePropsV2 {
     const { meta } = opts;
-    const { title, year, month, day, alt, img, transcript } = meta;
+    const { num, title, year, month, day, alt, img, transcript } = meta;
     var dt = DateTime.local(parseInt(year), parseInt(month), parseInt(day));
     const body = [
-        `![${alt}](${img})`,
-        `> "${title}", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License`,
+        `![${cleanLinkString(alt)}](${img})`,
+        `> "[${title}](https://xkcd.com/${num}/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License`,
         "",
-        "## Transcript",
-        transcript
+        // "## Transcript",
+        // transcript
     ].join("\n");
-    const fname = `xkcd.${_.kebabCase(title)}`;
+    const fname = `xkcd.${num}-${_.kebabCase(title)}`;
     const sources = {
         name: 'xkcd',
         url: 'https://creativecommons.org/licenses/by-nc/2.5/',
@@ -69,8 +73,8 @@ function toNote(opts: { meta: XKCDResp }): NotePropsV2 {
     return NoteUtilsV2.create({
         id: fname,
         title,
-        created: dt.toMillis().toString(),
-        updated: DateTime.local().toMillis().toString(),
+        created: dt.toMillis(),
+        updated: DateTime.local().toMillis(),
         body: body,
         fname,
         vault: { fsPath: "vault" },

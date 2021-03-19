@@ -1,9 +1,11 @@
 ---
-id: 5cc1decb-9839-41ef-885e-cb2e7851f8d3
+id: 3059c722-4541-4ab1-9995-d7846d39ceea
 title: Xkcd
 desc: ''
-updated: 1616124606323
-created: 1616124606323
-stub: false
+updated: 1616186998356
+created: 1616186998356
+stub: true
+nav_order: 0
+permalink: /
 ---
 

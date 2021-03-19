@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  
+  <title>Online Communities 2 - Dendron - XKCD</title>
+  
+
+  <link
+    rel="shortcut icon"
+    href="http://localhost:8080/favicon.ico"
+    type="image/x-icon"
+  />
+  <link
+    rel="stylesheet"
+    href="http://localhost:8080/assets/css/just-the-docs-default.css"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/just-the-docs.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+    crossorigin="anonymous"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/vendor/lunr.min.js"
+  ></script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+  
+<meta name="description" content="Dendron Vault of XKCD Comics">
+<meta name="author" content="kevin">
+
+<link rel="canonical" href="https://xkcd.dendron.so/notes/xkcd.online-communities-2.html">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://xkcd.dendron.so/notes/xkcd.online-communities-2.html">
+<meta property="og:description" content="Dendron Vault of XKCD Comics">
+<meta property="og:image" content="https://xkcd.dendron.soundefined">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@dendronhq">
+<meta name="twitter:url" content="https://xkcd.dendron.so/notes/xkcd.online-communities-2.html">
+<meta name="twitter:description" content="Dendron Vault of XKCD Comics">
+<meta name="twitter:image" content="https://xkcd.dendron.soundefined">
+
+
+  <meta property="og:title" content="Online Communities 2 - Dendron - XKCD" />
+  <meta name="twitter:title" content="Online Communities 2 - Dendron - XKCD" />
+  
+</head>
+
+
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+        </svg>
+      </symbol>
+      <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </symbol>
+      <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+          <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+        </svg>
+      </symbol>
+    </svg>
+
+    <div class="side-bar">
+      <div class="site-header">
+        <a href="http://localhost:8080/" class="site-title lh-tight">
+  Dendron - XKCD
+
+ </a>
+        <a href="#" id="menu-button" class="site-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        </a>
+      </div>
+
+      <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      </nav>
+      <footer class="site-footer">
+        🌱 with 💕 using <a href="https://www.dendron.so/"> Dendron 🌲 </a>
+      </footer>
+    </div>
+    <div class="main" id="top">
+        <div id="main-header" class="main-header">
+          
+            <div class="search">
+              <div class="search-input-wrap">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Dendron - XKCD" aria-label="Search Dendron - XKCD" autocomplete="off">
+                <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+              </div>
+              <div id="search-results" class="search-results"></div>
+            </div>
+          
+          
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="http://localhost:8080/">Xkcd</a></li><li class="breadcrumb-nav-list-item">Online Communities 2</li></ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+
+        
+        
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+        
+        <div class="alert alert-primary" role="alert">
+          This page was generated from content adapted from the following <a href="#" data-html="true" data-toggle="popover" title="Attributions">sources</a>
+          </a>
+        </div>
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({content: `
+              <ul>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              </ul>
+            `})
+          })
+        </script>
+        
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({html: true})
+          })
+        </script>
+
+        
+
+<div id="main" role="main">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Online Communities 2">
+    
+    <meta itemprop="datePublished" content="2010-10-06T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2021-03-18T21:11:14+00:00">
+
+    <div class="page__inner-wrap">
+
+      
+
+      <section class="page__content" itemprop="text">
+
+        
+
+        <p><img src="https://imgs.xkcd.com/comics/online_communities_2.png" alt="Best trivia I learned while working on this: &#x27;Man, Farmville is so huge! Do you realize it&#x27;s the second-biggest browser-based social-networking-centered farming game in the WORLD?&#x27; Then you wait for the listener to do a double-take."></p>
+<blockquote>
+<p>"Online Communities 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License</p>
+</blockquote>
+<h2 id="transcript"><a aria-hidden="true" class="anchor-heading" href="#transcript"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Transcript</h2>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A giant, untranscribable map of the internet. Apologies from the transcriber, who did her best to include as much as she could without going nuts.</a></p>
+<p>((Label in the center of main map.))
+Updated Map of Online Communities
+Size on map represents volume of Daily Social activity (posts, chat, etc). Based on data gathered over the
+Spring and Summer of 2010</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two insets on the upper left-hand corner shows that this map is a tiny portion of the huge continent of Spoken Language, encompassing portions of the Internet, Email, and Cell Phones (SMS).</a></p>
+<p>[[The largest landmass on the map by far, which takes up nearly the entire northern half of the map is "Facebook" -- with large states in the southeast of the country labeled 'Farmville' and 'Happy Farm'. There is a much smaller state to the west of these called 'Farm Town'. To the north of these states is a large swath of unremarkable land entitled 'Northern Wasteland of Unread Updates.' This is directly north of the large Dopamine Sea.</p>
+<p>A peninsula on the southwest, just below the Plains of Awkwardly Public Family Interactions, houses many tiny states, such as MySpace, Orkut, LinkedIn, Bebo, &#x26; Hi5. It is bordered on the south by Buzzword Bay, which contains several islands of varying sizes. Among these are YouTube and Twitter (the largest), which are separated by the Social Media Consultant Channel. To the southeast of Twitter, across the Sea of Protocol Confusion, is another, equally large island. Most of it is Skype, with the north having two largish states called AIM and Windows Live Messenger. On the southwest part of the island are two smaller states called GG and Yahoo Messenger.</p>
+<p>The Island of Skype is extremely close to, but separated by the Great Firewall (a dashed line), the large landmass of QQ. It's north shore is the Gulf of China and Grass Mud Horse Bay. Outside of these bays, over the Great Firewall are two islands called Craigslist and 2Channel.</p>
+<p>In the Dopamine Sea, off the southern shores of Farmvile and Happy Farm, is MMO Isle. Its largest state is WoW, with Runescape, Lineage, Maple Story, Habbo, and the Mountains of Steam among its notable landmarks. To the southeast of the island is the Gulf of Lag, in which sits the CDC Games island, with Eve Online.</p>
+<p>To the east of Twitter is Troll Bay, with such islands as Reddit and Reddit, Digg, Stumbleupon, Delicio.us, and Wikipedia Talk Pages. To their south are the IRC isles, of which one is the tiny island of #xkcd.</p>
+<p>East of these islands, and north of Skype island, is the Sea of Memes. In this sea, to the north of Craigslist and 2Channel, is an archipelago of tiny islands. There is an inset, labeled 'Forums.' (See below.)</p>
+<p>To the southwest if Twitter island, in the Sea of Opinions, are the blog islands. These lie south of the islands in Buzzword Bay, as well. The northernmost islands in this group are centered around the Bay of Drama, on which can be found Diary Blogs, Gossip Blogs, and Livejournal. Gossip Blogs share an island with Political, Music, and Tech Blogs. To the north of this island is a smaller island called Photo Blogs. South of Diary Blogs, and off the southwest coast of Music blogs is a smaller island called Fandom Blogs. South of Tech Blogs, off of which sprouts the small peninsula of Business Blogs, is the Spamblog Straits. On the other side of the straits is a large island made up of Miscellaneous Blogs, with two states demarcated as Religious Blogs and Blog Blogs. Southwest of the Blog Islands is the Sea of Zero (0) Comments.]]</p>
+<p>[[An inset of a group of islands in the sea of memes located on the lower right corner of the map, labeled 'Forums'. The largest by far is 4chan and
+b
+. Also found here are D2JSP, JLA Frums, Fan Forum, Something Awful, and many smaller ones, too numerous to list here.]]</p>
+<p>[[The northeastern third of Gossip
+Political
+Tech Blogs island is another inset labeled 'Blogosphere (Core)'. This can be found on the lower left corner of the map. Two peninsulas in Political Blogs bookend the Bay of Flame -- these are Liberal Blogs and Conservative Blogs. Between them lie several tiny islands such as Politics Daily, CNN Politcal Ticker, and Mediaite. Off the coast of Liberal Blogs lies the island of NYTimes, off the coast of Conservative Blogs is Libertarian Isle. Between the two lies The Talk. The northern peninsula of Tech Blogs contains places such as Gizmodo, Engadget, Joystiq, and Kotaku.]] </p>
+<p>((Text found between the two insets, which are directly below the main map.))
+ABOUT THIS MAP
+Communities rise and fall, and total membership numbers are no longer a good measure of a community's current size and health. This updated map uses size to represent total social activity in a community -- that is, how much talking, playing sharing, or other socializing happens there. This meant some paring of apples and oranges, but I did my best and tried to be consistent.</p>
+<p>Estimates are based on the numbers I could find, but involved a great deal of guesswork, statistical inference, random sampling, nonrandom sampling, a 20,000-cell spreadsheet, emailing, cajoling, tea-leafing reading, goat sacrifices, and gut instinct (i.e. making things up).</p>
+<p>Sources of data include Google and Bing, Wiipedia, Alexa, Big-Boards.com, StumbleUpon, Wordpress, Akismet, every website statistics page I could find, press releases, news articles, and individual site employees. Thanks in particular to folks at Last.fm, LiveJournal, Reddit, and the New York Times, as well as sysadmins at a number of sites who shared statistics on condition of anonymity.</p>
+<p>{{Title text: Best trivia I learned while working on this: 'Man, Farmville is so huge! Do you realize it's the second-biggest browser-based social-networking-centered farming game in the WORLD?' Then you wait for the listener to do a double-take.}}</p><span id="navId" data="xkcd.online-communities-2"></span>
+
+                
+      </section>
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+        
+          <hr>
+          <footer>
+            
+            
+
+            
+              <div class="d-flex mt-2">
+              <p class="text-small text-grey-dk-000 mb-0 mr-2">
+                Page last modified: <span class="d-inline-block">3/18/2021</span>.
+              </p>
+            
+                
+              </div>
+          </footer>
+        
+    </div>
+</div>
+
+
+  
+
+  <div class="search-overlay"></div>
+
+</div>
+</body>
+</html>

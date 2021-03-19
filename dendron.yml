@@ -3,3 +3,23 @@ vaults:
     -
         fsPath: vault
         name: xkcd
+site:
+    siteHierarchies:
+        - xkcd
+    siteRootDir: docs
+    copyAssets: true
+    # logo: vault/assets/images/logo.png
+    siteUrl: 'https://xkcd.dendron.so'
+    siteLastModified: true
+    githubCname: xkcd.dendron.so
+    title: Dendron - XKCD
+    author: kevin
+    twitter: dendronhq
+    description: >-
+        Dendron Vault of XKCD Comics
+usePrettyRefs: true
+useFMTitle: false
+mermaid: false
+useNoteTitleForLink: true
+noLegacyNoteRef: true
+

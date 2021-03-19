@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  
+  <title>Questions - Dendron - XKCD</title>
+  
+
+  <link
+    rel="shortcut icon"
+    href="http://localhost:8080/favicon.ico"
+    type="image/x-icon"
+  />
+  <link
+    rel="stylesheet"
+    href="http://localhost:8080/assets/css/just-the-docs-default.css"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/just-the-docs.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+    crossorigin="anonymous"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/vendor/lunr.min.js"
+  ></script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+  
+<meta name="description" content="Dendron Vault of XKCD Comics">
+<meta name="author" content="kevin">
+
+<link rel="canonical" href="https://xkcd.dendron.so/notes/xkcd.questions.html">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://xkcd.dendron.so/notes/xkcd.questions.html">
+<meta property="og:description" content="Dendron Vault of XKCD Comics">
+<meta property="og:image" content="https://xkcd.dendron.soundefined">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@dendronhq">
+<meta name="twitter:url" content="https://xkcd.dendron.so/notes/xkcd.questions.html">
+<meta name="twitter:description" content="Dendron Vault of XKCD Comics">
+<meta name="twitter:image" content="https://xkcd.dendron.soundefined">
+
+
+  <meta property="og:title" content="Questions - Dendron - XKCD" />
+  <meta name="twitter:title" content="Questions - Dendron - XKCD" />
+  
+</head>
+
+
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+        </svg>
+      </symbol>
+      <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </symbol>
+      <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+          <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+        </svg>
+      </symbol>
+    </svg>
+
+    <div class="side-bar">
+      <div class="site-header">
+        <a href="http://localhost:8080/" class="site-title lh-tight">
+  Dendron - XKCD
+
+ </a>
+        <a href="#" id="menu-button" class="site-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        </a>
+      </div>
+
+      <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      </nav>
+      <footer class="site-footer">
+        🌱 with 💕 using <a href="https://www.dendron.so/"> Dendron 🌲 </a>
+      </footer>
+    </div>
+    <div class="main" id="top">
+        <div id="main-header" class="main-header">
+          
+            <div class="search">
+              <div class="search-input-wrap">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Dendron - XKCD" aria-label="Search Dendron - XKCD" autocomplete="off">
+                <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+              </div>
+              <div id="search-results" class="search-results"></div>
+            </div>
+          
+          
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="http://localhost:8080/">Xkcd</a></li><li class="breadcrumb-nav-list-item">Questions</li></ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+
+        
+        
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+        
+        <div class="alert alert-primary" role="alert">
+          This page was generated from content adapted from the following <a href="#" data-html="true" data-toggle="popover" title="Attributions">sources</a>
+          </a>
+        </div>
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({content: `
+              <ul>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              </ul>
+            `})
+          })
+        </script>
+        
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({html: true})
+          })
+        </script>
+
+        
+
+<div id="main" role="main">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Questions">
+    
+    <meta itemprop="datePublished" content="2013-08-26T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2021-03-18T21:11:13+00:00">
+
+    <div class="page__inner-wrap">
+
+      
+
+      <section class="page__content" itemprop="text">
+
+        
+
+        <p><img src="https://imgs.xkcd.com/comics/questions.png" alt="To whoever typed &#x27;why is arwen dying&#x27;: GOOD. FUCKING. QUESTION."></p>
+<blockquote>
+<p>"Questions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License</p>
+</blockquote>
+<h2 id="transcript"><a aria-hidden="true" class="anchor-heading" href="#transcript"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Transcript</h2>
+<p>((This strip is a rectangular word cloud, titled 'Questions found in Google autocomplete'. Embedded in the cloud are 5 single panels, with illustrated questions. These are described at the end. Questions are given in roughly columnar order. None of the questions have question marks.))
+Questions found in Google Autocomplete
+Why do whales jump
+Why are witches green
+Why are there mirrors above beds
+Why do I say uh
+Why is sea salt better
+Why are there trees in the middle of fields
+Why is there not a Pokemon MMO
+Why is there laughing in TV shows
+Why are there doors on the freeway
+Why are there so many svchost.exe running
+Why aren't there any countries in antarctica
+Why are there scary sounds in Minecraft
+Why is there kicking in my stomach
+Why are there two slashes after HTTP
+Why are there celebrities
+Why do snakes exist
+Why do oysters have pearls
+Why are ducks called ducks
+Why do they call it the clap
+Why are Kyle and Cartman friends
+Why is there an arraow on Aang's head
+Why are text messages blue
+Why are there mustaches on clothes
+Why are there mustaches on cars
+Why are there mustaches everywhere
+Why are there so many birds in Ohio
+Why is there so much rain in Ohio
+Why is Ohio weather so weird
+Why are there male and female bikes
+Why are there bridesmaids
+Why do dying people reach up
+Why aren't there varicose arteries
+Why are old Klingons different
+Why is programming so hard
+Why is there a 0 ohm resistor
+Why do Americans hate soccer
+Why do rhymes sound good
+Why do trees die
+Why is there no sound on CNN
+Why aren't Pokemon real
+Why aren't bullets sharp
+Why do dreams seem so real
+Why aren't there dinosaur ghosts
+Why do iguanas die
+Why do testicles move
+Why are there psychics
+Why are hats so expensive
+Why is there caffeine in my shampoo
+Why do your boobs hurt
+Why aren't economists rich
+Why do Americans call it soccer
+Why are my ears ringing
+Why are there so many Avengers
+Why are the Avengers fighting the X men
+Why is Wolverine not in the Avengers
+Why are there ants in my laptop
+Why is Earth tilted
+Why is space black
+Why is outer space so cold
+Why are there pyramids on the moon
+Why is NASA shutting down
+Why is there Hell if God forgives
+Why are there tiny spiders in my house
+Why do spiders come inside
+Why are there huge spiders in my house
+Why are there lots of spiders in my house
+Why are there spiders in my room
+Why are there so many spiders in my room
+Why do spider bites itch
+Why is dying so scary
+Why is there no GPS in laptops
+Why do knees click
+Why aren't there E grades
+Why is isolation bad
+Why do boys like me
+Why don't boys like me
+Why is there always a Java update
+Why are there red dots on my thighs
+Why is lying good
+Why is GPS free
+Why are trees tall
+Why are there slaves in the Bible
+Why do twins have different fingerprints
+Why are Americans afraid of dragons
+Why is there lava
+Why are there swarms of gnats
+Why is there phlegm
+Why are there so many crows in Rochester, MN
+Why is psychic weak to bug
+Why do children get cancer
+Why is Poseidon angry with Odysseus
+Why is there ice in space
+Why are there female Mr Mimes
+Why is there an owl in my backyard
+Why is there an owl outside my window
+Why is there an owl on the dollar bill
+Why do owls attack people
+Why are AK47s so expensive
+Why are there helicopters circling my house
+Why are there gods
+Why are there two Spocks
+Why is Mt Vesuvius there
+Why do they say T minus
+Why are there obelisks
+Why are wrestlers always wet
+Why are oceans becoming more acidic
+Why is Arwen dying
+Why aren't my quail laying eggs
+Why aren't my quail eggs hatching
+Why aren't there any foreign military bases in America
+Why is life so boring
+Why are my boobs itchy
+Why are cigarettes legal
+Why are there ducks in my pool
+Why is Jesus white
+Why is there liquid in my ear
+Why do Q tips feel good
+Why do good people die
+Why are ultrasounds important
+Why are ultrasound machines expensive
+Why is stealing wrong
+Why is YKK on all zippers
+Why is HTTPS crossed out in red
+Why is there a line through HTTPS
+Why is there a red line through HTTPS on Facebook
+Why is HTTPS important
+Why are there weeks
+Why do I feel dizzy
+Why are dogs afraid of fireworks
+Why is there no king in England</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">We see a figure from the torso up, with arms outstretched.</a>
+Figure: Why aren't my arms growing</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A woman stands with a grey ghost on either side of her.</a>
+Woman: Why are there ghosts</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Beret guy stands, looking at a squirrel.</a>
+Beret guy: Why are there squirrels</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A figure stands.</a>
+Figure: Why is sex so important.]]</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">We see a woman from the torso up.</a>
+Woman: Why aren't there guns in Harry Potter</p>
+<p>{{Title text: To whoever typed 'why is arwen dying': GOOD. FUCKING. QUESTION.}}</p><span id="navId" data="xkcd.questions"></span>
+
+                
+      </section>
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+        
+          <hr>
+          <footer>
+            
+            
+
+            
+              <div class="d-flex mt-2">
+              <p class="text-small text-grey-dk-000 mb-0 mr-2">
+                Page last modified: <span class="d-inline-block">3/18/2021</span>.
+              </p>
+            
+                
+              </div>
+          </footer>
+        
+    </div>
+</div>
+
+
+  
+
+  <div class="search-overlay"></div>
+
+</div>
+</body>
+</html>

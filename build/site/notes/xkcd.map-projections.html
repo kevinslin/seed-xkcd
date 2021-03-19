@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  
+  <title>Map Projections - Dendron - XKCD</title>
+  
+
+  <link
+    rel="shortcut icon"
+    href="http://localhost:8080/favicon.ico"
+    type="image/x-icon"
+  />
+  <link
+    rel="stylesheet"
+    href="http://localhost:8080/assets/css/just-the-docs-default.css"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/just-the-docs.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+    crossorigin="anonymous"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/vendor/lunr.min.js"
+  ></script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+  
+<meta name="description" content="Dendron Vault of XKCD Comics">
+<meta name="author" content="kevin">
+
+<link rel="canonical" href="https://xkcd.dendron.so/notes/xkcd.map-projections.html">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://xkcd.dendron.so/notes/xkcd.map-projections.html">
+<meta property="og:description" content="Dendron Vault of XKCD Comics">
+<meta property="og:image" content="https://xkcd.dendron.soundefined">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@dendronhq">
+<meta name="twitter:url" content="https://xkcd.dendron.so/notes/xkcd.map-projections.html">
+<meta name="twitter:description" content="Dendron Vault of XKCD Comics">
+<meta name="twitter:image" content="https://xkcd.dendron.soundefined">
+
+
+  <meta property="og:title" content="Map Projections - Dendron - XKCD" />
+  <meta name="twitter:title" content="Map Projections - Dendron - XKCD" />
+  
+</head>
+
+
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+        </svg>
+      </symbol>
+      <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </symbol>
+      <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+          <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+        </svg>
+      </symbol>
+    </svg>
+
+    <div class="side-bar">
+      <div class="site-header">
+        <a href="http://localhost:8080/" class="site-title lh-tight">
+  Dendron - XKCD
+
+ </a>
+        <a href="#" id="menu-button" class="site-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        </a>
+      </div>
+
+      <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      </nav>
+      <footer class="site-footer">
+        🌱 with 💕 using <a href="https://www.dendron.so/"> Dendron 🌲 </a>
+      </footer>
+    </div>
+    <div class="main" id="top">
+        <div id="main-header" class="main-header">
+          
+            <div class="search">
+              <div class="search-input-wrap">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Dendron - XKCD" aria-label="Search Dendron - XKCD" autocomplete="off">
+                <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+              </div>
+              <div id="search-results" class="search-results"></div>
+            </div>
+          
+          
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="http://localhost:8080/">Xkcd</a></li><li class="breadcrumb-nav-list-item">Map Projections</li></ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+
+        
+        
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+        
+        <div class="alert alert-primary" role="alert">
+          This page was generated from content adapted from the following <a href="#" data-html="true" data-toggle="popover" title="Attributions">sources</a>
+          </a>
+        </div>
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({content: `
+              <ul>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              </ul>
+            `})
+          })
+        </script>
+        
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({html: true})
+          })
+        </script>
+
+        
+
+<div id="main" role="main">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Map Projections">
+    
+    <meta itemprop="datePublished" content="2011-11-14T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2021-03-18T21:11:14+00:00">
+
+    <div class="page__inner-wrap">
+
+      
+
+      <section class="page__content" itemprop="text">
+
+        
+
+        <p><img src="https://imgs.xkcd.com/comics/map_projections.png" alt="What&#x27;s that? You think I don&#x27;t like the Peters map because I&#x27;m uncomfortable with having my cultural assumptions challenged?  Are you sure you&#x27;re not ... ::puts on sunglasses:: ... projecting?"></p>
+<blockquote>
+<p>"Map Projections", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License</p>
+</blockquote>
+<h2 id="transcript"><a aria-hidden="true" class="anchor-heading" href="#transcript"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Transcript</h2>
+<p>((The comic is one large panel, with different types of map projections listed in two columns. Each listing has an illustration of that projection plus a short paragraph describing the individual who prefers that projection.))</p>
+<p>What your favourite Map Projection says about you.</p>
+<p>Mercator
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A drawing of the Mercator projection is shown. In this the world is distorted to fit into a perfect square, centred on Africa.</a>
+You're not really into maps.</p>
+<p>Robinson
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A drawing of the Robinson projection is shown. Areas near the poles in this projection are fairly distorted, but the distortion is greatly reduced when moving toward the equator.</a>
+You have a comfortable pair of running shoes that you wear everywhere. You like coffee and enjoy the Beatles. You think the Robinson is the best-looking projection, hands down.</p>
+<p>Winkel-Tripel
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The Winkel-Tripel projection is similar to the Robinson projection, with less distortion at the poles. However the distortion at equivalent latitudes differs as the longitude varies.</a>
+National Geographic adopted the Winkel-Tripel in 1998, but you've been a W-T fan since
+long
+before "Nat Geo" showed up. You're worried it's getting played out, and are thinking of switching to the Kavrayskiy. You once left a party in disgust when a guest showed up wearing shoes with toes. Your favourite musical genre is "post-".</p>
+<p>Hobo-Dyer
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The Hobo-Dyer projection is a cylindrical projection resulting in significant latitudinal distortion. The result is a rectangular image with the poles vertically compressed, and land near the equator stretched.</a>
+You want to avoid cultural imperialism but you've heard bad things about Gall-Peters. You're conflict-averse and buy organic.l You use a recently-invented set of gender-neutral pronouns and think that what the world needs is a revolution in consciousness.</p>
+<p>A globe!
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">It's a globe.</a>
+Yes, you're very clever.</p>
+<p>Pierce Quincuncial
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">This is a square projection centred over the north pole. The continents stretch out radially from the centre of the map and bits of Antarctica are visible in each corner of the projection.</a>
+You think that when we look at a map, what we really see is ourselves. After you first saw
+Inception
+, you sat silent in the theater for six hours. It freaks you out to realise that everyone around you has a skeleton inside them. You
+have
+really looked at your hands.</p>
+<p>((The second column of projections starts here.))</p>
+<p>Van Der Grinten
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">This projection displays the continents inside a perfectly circular frame. The continents are displayed with similar distortion to what you would see in the Robinson or Winkel-Tripel projections.</a>
+You're not a complicated person. You love the Mercator projection; you just wish it weren't so square. The earth's not a square, it's a circle. You like circles. Today is gonna be a good day!</p>
+<p>Dymaxion
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The Dymaxion projection attempts to unfold the earth into a polyhedral net, centred on the north pole. The map has no set shape, instead it looks to be made out of a series of triangles.</a>
+You like Isaac Asimov, XML, and shoes with toes. You think the segway got a bad rap. You own 3D goggles, which you use to view rotating models of better 3D goggles. You type in Dvorak.</p>
+<p>Goode Homolosine
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The Goode Homolosine projection attempts to minimise distortion by combining two equal area projections onto a split projection. The map resembles a smooth unfolded net, with landmasses kept whole where possible.</a>
+They say mapping the earth on a 2D surface is like flattening an orange peel, which seems easy enough to you. You like easy solutions. You think we wouldn't have so many problems if we'd just elect
+normal
+people to congress instead of politicians. You think airlines should just buy food from the restaurants near the gates and serve
+that
+on board. You change your car's oil, but secretly wonder if you really
+need
+to.</p>
+<p>Plate Carrée
+(Equirectangular)
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">This projection maps latitude and longitude to a rectangular grid, leading to significant longitudinal distortion near the poles.</a>
+You think this one is fine. You like how
+x
+and
+y
+map to latitude and longitude. The other projections overcomplicate things. You want me to stop asking about maps so you can enjoy dinner.</p>
+<p>Waterman Butterfly
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">This projection unfolds the world into a net, similar to the Dymaxion projection. It is centred on the Atlantic, and resembles a butterfly with the Americas on the western wing, with Europe and Africa on the eastern wing.</a>
+Really? You know the Waterman? Have you seen the 1909 Cahill map it's based-- ...You have a framed reproduction at home?! Whoa. ...Listen, forget these questions. Are you doing anything tonight?</p>
+<p>Gall-Peters
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Another rectangular projection, this map suffers significant distortion near the poles, and significant latitudinal distortion in general.</a>
+I
+hate
+you.</p>
+<p>{{Title text: What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?}}</p><span id="navId" data="xkcd.map-projections"></span>
+
+                
+      </section>
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+        
+          <hr>
+          <footer>
+            
+            
+
+            
+              <div class="d-flex mt-2">
+              <p class="text-small text-grey-dk-000 mb-0 mr-2">
+                Page last modified: <span class="d-inline-block">3/18/2021</span>.
+              </p>
+            
+                
+              </div>
+          </footer>
+        
+    </div>
+</div>
+
+
+  
+
+  <div class="search-overlay"></div>
+
+</div>
+</body>
+</html>

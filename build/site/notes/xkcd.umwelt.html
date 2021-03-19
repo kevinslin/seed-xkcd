@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  
+  <title>Umwelt - Dendron - XKCD</title>
+  
+
+  <link
+    rel="shortcut icon"
+    href="http://localhost:8080/favicon.ico"
+    type="image/x-icon"
+  />
+  <link
+    rel="stylesheet"
+    href="http://localhost:8080/assets/css/just-the-docs-default.css"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/just-the-docs.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+    crossorigin="anonymous"
+  />
+  <script
+    type="text/javascript"
+    src="http://localhost:8080/assets/js/vendor/lunr.min.js"
+  ></script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+  
+<meta name="description" content="Dendron Vault of XKCD Comics">
+<meta name="author" content="kevin">
+
+<link rel="canonical" href="https://xkcd.dendron.so/notes/xkcd.umwelt.html">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://xkcd.dendron.so/notes/xkcd.umwelt.html">
+<meta property="og:description" content="Dendron Vault of XKCD Comics">
+<meta property="og:image" content="https://xkcd.dendron.soundefined">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@dendronhq">
+<meta name="twitter:url" content="https://xkcd.dendron.so/notes/xkcd.umwelt.html">
+<meta name="twitter:description" content="Dendron Vault of XKCD Comics">
+<meta name="twitter:image" content="https://xkcd.dendron.soundefined">
+
+
+  <meta property="og:title" content="Umwelt - Dendron - XKCD" />
+  <meta name="twitter:title" content="Umwelt - Dendron - XKCD" />
+  
+</head>
+
+
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+        </svg>
+      </symbol>
+      <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </symbol>
+      <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+          <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+        </svg>
+      </symbol>
+    </svg>
+
+    <div class="side-bar">
+      <div class="site-header">
+        <a href="http://localhost:8080/" class="site-title lh-tight">
+  Dendron - XKCD
+
+ </a>
+        <a href="#" id="menu-button" class="site-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        </a>
+      </div>
+
+      <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      </nav>
+      <footer class="site-footer">
+        🌱 with 💕 using <a href="https://www.dendron.so/"> Dendron 🌲 </a>
+      </footer>
+    </div>
+    <div class="main" id="top">
+        <div id="main-header" class="main-header">
+          
+            <div class="search">
+              <div class="search-input-wrap">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Dendron - XKCD" aria-label="Search Dendron - XKCD" autocomplete="off">
+                <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+              </div>
+              <div id="search-results" class="search-results"></div>
+            </div>
+          
+          
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="http://localhost:8080/">Xkcd</a></li><li class="breadcrumb-nav-list-item">Umwelt</li></ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+
+        
+        
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+        
+        <div class="alert alert-primary" role="alert">
+          This page was generated from content adapted from the following <a href="#" data-html="true" data-toggle="popover" title="Attributions">sources</a>
+          </a>
+        </div>
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({content: `
+              <ul>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              <li> <a href="" target="_blank">   </li>
+              
+              </ul>
+            `})
+          })
+        </script>
+        
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({html: true})
+          })
+        </script>
+
+        
+
+<div id="main" role="main">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Umwelt">
+    
+    <meta itemprop="datePublished" content="2012-04-01T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2021-03-18T21:11:13+00:00">
+
+    <div class="page__inner-wrap">
+
+      
+
+      <section class="page__content" itemprop="text">
+
+        
+
+        <p><img src="https://imgs.xkcd.com/comics/reviews.png" alt="Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser."></p>
+<blockquote>
+<p>"Umwelt", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License</p>
+</blockquote>
+<h2 id="transcript"><a aria-hidden="true" class="anchor-heading" href="#transcript"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Transcript</h2>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people...</a></p>
+<p>((..wait.. <scrolls through="" a="" listing="" of="" everything=""> oh goddammit Randall. Thanks a bunch, dude. I better get a raise for typing out all this))</scrolls></p>
+<p>[[Two people standing next to each other.  One is holding the head end of a snake.  Depending on the width of your browser, the snake is:
+three frames, the third of which  has a little bit of a bump;
+the first frame has a human-size bump, the second has a third person looking at the snake, and the third has the snake going though two Portals;
+a squirrel and the human-size bump in the first frame, a ring next to the third person in the second frame, and Beret Guy riding the snake in front of the portal;
+or
+The squirrel, a fourth person within the snake being coiled, and the human bump in the first frame, the ring, a fifth person in love, and the third person in the second frame, Beret Guy and the portal in the third frame, and the same two people in the fourth frame.]]
+Person holding snake head: I found a snake, but then I forgot to stop.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people sitting at a desk.  One is Black Hat Guy.  The other is an analyst.  Black Hat Guy has a number of terminals attached to his head</a>
+Analyst: You come across a tortoise in the desert. You flip it over. It struggles to right itself. You watch. You're not helping.  Why is that?</p>
+<p>Black Hat Guy: It <em>knows</em> what it did.</p>
+<p>[[View of the entire scene, with said turtle off in the distance on its back and trying to right itself.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A group of four scale down a wall into a field in the middle of the night.  They walk off single-file</a>
+Person 1: It's quiet.</p>
+<p>Person 3: Yeah - <em>Too</em> quiet.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A Velociraptor is off in the distance, following the group</a>
+Person 4: Yeah - too <em>too</em> quiet.</p>
+<p>Person 2: Yeah - 2quiet2furious.
+Person 1: Fuck off, Steve.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A landscape showing a pond, some reeds, and a set of mountains off in the distance</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A trio of galaxies</a>
+Galaxy 1: He's not looking!
+Galaxy 3: Let's get him!
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Lines draw in illustrating the eye-line of one of a pair of people</a>
+Person 1: So he said he didn't get the text, but c'mon, he <em>never</em> misses texts. Right? ..hello?
+Peson 2: I'm just staring at your head freaked out by th efact that there are millions of galaxies <em>directly behind it</em>.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person holding bat</a>
+Person: Sorry, but this comic</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person starts to wind up</a>
+<em>requires</em></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person prepares to strike with bat</a>
+XKCD</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person swings at a beehive</a>
+<em>GOLD</em></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Penis Bees fly out of the beehive</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person yells at another person</a>
+Person 1;Oh yeah? Well you mama's so <em>cynical</em>, her only dog ballast is a <em>leash</em>!
+(This comic takes place in a dystopian future where the government is afraid dogs can hover, so it requires them to wear weights at all times, and some people privately doubt the government, but not enough to stop buying dog weights)</p>
+<p>Five seconds ago:
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">You sitting in front of a desk, reading a reddit thread</a>
+You: Oh, hey, reddit has a link to some XKCD april fools comic.</p>
+<p>Now:
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">An image of this very page</a></p>
+<p>Five seconds from now:
+You: ..hey</p>
+<p>30 seconds from now:
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">DANCE PARTY!</a></p>
+<p>Person: What I wanna know is why do hot dogs come in packages of six while buns come in these huge sacks of ash and blood from which "Ave Maria" is faintly audible?
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Chanting sacks of gore in the background</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">There's no comic here because instead of drawing one, I spent the last hour reading every news story cited in the Wikipedia article on "The Mile High Club"</a></p>
+<p>[[A twitter account page with the following:
+Many tweets, fewer following, even fewer followers,
+A bunch of assholes in the suggested follow box,
+trending topics partitioned into: Word Games, Misogyny, and Bieber,
+stuff your eyes automatically ignore,
+A really pleasant blue.
+and the timeline:
+Something about a podcast,
+Someone confused because the description doesn't match the link,
+The link you clicked on to get to this comic,
+Rob Delaney,
+Passive Aggression,
+and horse_ebooks.]]</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">An epic void with a bright light shining right on you</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A Chrome plugin error page with the characteristic jigsaw piece</a>
+Chrome: Chrome is looking for this piece. Have you seen it? Chrome thinks it links up with a corner.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A Chrome plugin error page</a>
+Chrome: This plugin requires Sergey Brin's permission to run.  Please wait while he is woken.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people; one is sitting at a desk in front of a laptop.</a>
+Person 1: Man, chrome's hardware acceleration really sucks.
+Person 2: Oh - Theres' a great add-on that fixes it.
+Person 1: Oh? What's it called?
+Person 2: "Firefox".</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A chrome plugin error page</a>
+Chrome: There does not exist --nor could there <em>ever</em> exist-- a plugin capable of displaying this content.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">IE error page</a>
+IE: Error: Internet Explorer has given up.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Firefox error page</a>
+Firefox: Well, this is embarassing.  You know how I'm not supposed to peek at your browsing in private mode? Firefox.. is sorry.  Firefox will not blame you if you
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">button with text</a> click here to report this incident.</p>
+<p>Person: Maxthon? Hey, 2005 called. Didn't say anything. All I could hear was sobbing.  This is getting harder.  Anyway, yeah, Maxthon's still cool! Didn't know it was still around!</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person with tentacle arms</a>
+Person: Netscape Navigator? Hey, the nineties called - drunk as usual.  I hung up without saying anything.  This is getting harder. Anyway - it's cool that you'e got netscape running.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">normal person</a>
+Person: Netscape Navigator? Hey, the nineties called - drunk as usual.  I hung up without saying anything.  This is getting harder. Anyway - it's cool that you'e got netscape running.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person running to laptop</a>
+I ran to Rockmest to hide my face</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person sitting at laptop</a>
+But Rockmelt cried out - </p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Laptop shouting</a>
+NO HIDING PLACE</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">zoom out</a>
+NO HIDING PLACE DOWN HERE</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Error page</a>
+Error: You have exceeded your AT&#x26;T monthly bandwidth cap.  Mobile web browsing has been disabled.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person looking at two browser windows</a>
+I know y'all know what you're doing.  But if you're on a military machine and youre supposed to be watching for missiles or something, I hope you're keeping an eye on that in the background while you're reading comics.
+Also: Thanks.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Error page</a>
+Data Error: T-Mobile was unable to establish a connection</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Error page</a>
+Error; You have exceeded your Verizon monthly bandwidth cap.  Mobile web browsing has been disabled.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Chrome error page</a>
+Chrome: This plugin requires clearance from the corporate press office in order to run.  Remember, Amazon is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Firefox error page</a>
+Firefox: This plugin requires clearance from the corporate press office in order to run.  Remember, Amazon is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Chrome error page</a>
+Chrome: This plugin requires clearance from the corporate press office in order to run.  Remember, Google is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Chrome error page</a>
+Chrome: This plugin requires clearance from the corporate press office in order to run.  Remember, Microsoft is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Firefox error page</a>
+Firefox: This plugin requires clearance from the corporate press office in order to run.  Remember, Microsoft is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Error page</a>
+Error: This plugin requires clearance from the corporate press office in order to run.  Remember, Microsoft is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Chrome error page</a>
+Chrome: This plugin requires clearance from the corporate press office in order to run.  Remember, The Times is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Error page</a>
+Error: This plugin requires clearance from the corporate press office in order to run.  Remember, The Times is a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Error page</a>
+Error: This plugin requires clearance from the corporate press office in order to run.  Remember, We work as a team; individual employees should <em>never</em> speak for the company without authorization.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A snowy Alaskan field</a>
+Person: Some people hunt wolves from helicopters.  I hunt helicopters from a wolf.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">TV Field Reporter in front of a cordoned-off lake</a>
+Police divers searching the bay say they have recovered thebody of another victim of the "Lake Diver Killer"  During the search, three more divers were reported missing.</p>
+<p>Robot Paul Revere: Remember: Zero if by land, One if by sea.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person unsuspectingly strolls under a giant box trap controled by a Trible.</a>
+I worry that CNU only invited me back as a ruse because they realized I never turned in my final paper and want my diploma back.  But if it turns out it's for real, I'll see you wednesday at the Ferguson!</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people; one of which is browsing using a laptop</a>
+Person 1: Hey, you're French, right?  Ever see what happens when you type "French Military Victories" into Google?
+French person: Does it take you to an article on Napoleon?</p>
+<p>French person: ..no? Strange, given how he kicked everyone's asses up and down europe for over a decade.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">beat</a></p>
+<p>Person 1: Touche.
+French person: You know, that'd sound smarter if you didn't pronounce it like it rhymes with "douche".</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">A person dropping food from an unorthodox high perch</a>
+June 1948: In response to the Soviet blockade of East Germany, the western allies construct the Berlin Chairlift.
+Person on chairlift: Food!</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The Lincoln Monument</a>
+In this Marble Prison
+As in the nightmares of the nation they tried to devour
+The nanobots that constituted Abraham Lincoln
+Are entombed forever.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person on phone</a>
+((Translation from Hebrew))
+Person: Mom, I met a great guy! But he's not Jewish.  ... Wait, what do you mean "neither are we"? I'm completely confused.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person on a motorcycle with a heat-entropy graph on the side</a>
+Person 1: Check out my new Carnot Cycle!
+Person 2: Neat -- how fast does it go?
+Person 1: Depends how cold it is outside.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Illustration of the atlantic ocean</a>
+American person: Sorry I don't have a comic poking fun at the UK here.  I only had time to get to the most <em>important</em> US states.
+British person: Hey -- At least we have free health care and real ale.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people in front of a group of students</a>
+Person 1: I've hired a team of MIT students to count cards for us.
+Person 2: We'll be rich!</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person 2 deals some cards while the students watch</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The gears turn..</a></p>
+<p>Student: Five. There are five cards.
+Person 1: I see their admission standards have been slipping.
+Person 2: Yeah - there are actually four.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people in front of a group of students</a>
+Person 1: I've hired a team of MIT students to count cards for us.
+Person 2: We'll be rich!</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person 2 deals some cards while the students watch</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The gears turn..</a></p>
+<p>Student: Five. There are five cards.
+Person 1: I <em>knew</em> we shouldn't have picked course 15s.
+Person 2: Yeah - there are actually four.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people in front of a group of students</a>
+Person 1: I've hired a team of Smith students to count cards for us.
+Person 2: We'll be rich!</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person 2 deals some cards while the students watch</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The gears turn..</a></p>
+<p>Student: Five. There are five cards.
+Person 1: We should've gone with Wellesley
+Person 2: Yeah - there are actually four.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people in front of a group of students</a>
+Person 1: I've hired a team of Wellesley students to count cards for us.
+Person 2: We'll be rich!</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person 2 deals some cards while the students watch</a></p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">The gears turn..</a></p>
+<p>Student: Five. There are five cards.
+Person 1: We should've gone with Smith.
+Person 2: Yeah - there are actually four.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Newspaper headline</a>
+RIT students create life in lab
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">caption under picture of students</a>
+"The trick was fuckin'"</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Newspaper headline</a>
+Scientists create life in lab
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">caption under picture of scientists</a>
+"The trick was fuckin'"</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Newspaper headline</a>
+UMass Amherst students create life in lab
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">caption under picture of students</a>
+"The trick was fuckin'"</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person heading out past another person comfortably sitting in front of a desk</a>
+Person 1: Apparently there's a solar storm causing northern lights over Canada.  CNN say they might even be visible {{Options: "As Far South As Us", "Here in Boston", "Maine", "Ohio", "Oregon", "New York"}}! Wanna drive out to see?
+Person 2: It's cold out.
+Person 1: Ok. Later.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">An expansive, marvelous image of emerald green northern lights, floating down through the sky</a></p>
+<p>Person 2: See anything?
+Person 1: No, just clouds.
+Person 2: Not surprised.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Person heading out past another person comfortably sitting in front of a desk</a>
+Person 1:Apparently there's a solar flare that's causing some Great Aurorae.  CBC says they may even be visible here! Wanna drive out to see?
+Person 2: Hockey's on.
+Person 1: Ok. Later.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">An expansive, marvelous image of emerald green northern lights, floating down through the sky</a></p>
+<p>Person 2: See anything?
+Person 1: No, just clouds.
+Person 2: Not surprised.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people sitting at a desk, facing each other. The desk rattles.</a>
+Person 1: Stop jiggling your leg.
+Person 2: I'm not ji-.. oh!
+Person 1: What!
+Person 2: You'll get it..</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">EVERYTHING RUMBLES</a>
+Person 1: ..HOLY CRAP IT'S AN EARTHQUAKE!
+Person 2: Just a little one. Happens all the time back in San Francisco.</p>
+<p>Person 1: But this is {{Options: "Alabama", "Boston", "Chicago", "Dallas", "Georgia", "Halifax", "Illinois", "Michigan", "Minnesota", "Missouri", "the Northeast", "Ohio", "Oklahoma", "Ottawa", 'Pennsylvania", "Philadelphia", "Texas", "Toronto", "Tennessee", "New York", "Wisconsin"}}! That was huge!
+Person 2: Seriously? That's the worst this place can do? Wow. I guess we grow up tougher in California.
+Person 1: Oh <em>really</em>...</p>
+<p>Six Months Later..
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Both people are trudging through a massive blizzard</a>
+Person 2: In pictures, snow always looked so nice and sof -- AAAA! MY NECK! How do people live here?!
+Person 1: Come on - it's only three more miles.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Two people sitting at a desk, facing each other. The desk rattles.</a>
+Person 1: Stop jiggling your leg.
+Person 2: I'm not ji-.. oh!
+Person 1: What!
+Person 2: You'll get it..</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">EVERYTHING RUMBLES</a>
+Person 1: ..HOLY CRAP IT'S AN EARTHQUAKE!
+Person 2: Just a little one. Happens all the time back in San Francisco.</p>
+<p>Person 1: But this is {{Options: "Alabama", "Dallas", "Illinois", "The Midwest", "Missouri", "Ohio", "Oklahoma", "Ottawa", "Tennessee", "Texas"}}! That was huge!
+Person 2: Seriously? That's the worst this place can do? Wow. I guess we grow up tougher in California.
+Person 1: Oh <em>really</em>...</p>
+<p>Six Months Later..
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Both people are in a shelter in a prairie with a rapidly-approaching tornado</a>
+Person 2: AAAA CLOSE THE SHELTER DOOR!
+Person 1: Say the magic words...
+Person 2: THIS PLACE IS THE WORST!
+Person 1: Thank you.</p>
+<p><a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">EVERYTHING RUMBLES</a>
+Person 1: ..HOLY CRAP IT'S AN EARTHQUAKE!
+Person 2: Just a little one. Happens all the time back in San Francisco.</p>
+<p>Person 1: But this is {{Options: "D.C", "Florida", "Houston", "Miami", "New Jersey", "North Carolina", "South Carolina", "Virgina"}}! That was huge!
+Person 2: Seriously? That's the worst this place can do? Wow. I guess we grow up tougher in California.
+Person 1: Oh <em>really</em>...</p>
+<p>Six Months Later..
+<a data-toggle="popover" title="This page has not yet sprouted" style="cursor: pointer" data-content="<a href=&#x22;https://dendron.so/&#x22;>Dendron</a> (the tool used to generate this site) lets authors selective publish content. You will see this page whenever you click on a link to an unpublished page
+
+<img src=&#x27;https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/not-sprouted.png&#x27;></img>">Both are in the middle of a hurricane. Person 2 is grabbing onto a signpost to avoid being swept away</a>
+Person 2: AAAAA WHAT THE SHIIIIT!
+Person 1: Calm down - this is barely a category 2.</p>
+<p>{{Title text: Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser.}}</p><span id="navId" data="xkcd.umwelt"></span>
+
+                
+      </section>
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+        
+          <hr>
+          <footer>
+            
+            
+
+            
+              <div class="d-flex mt-2">
+              <p class="text-small text-grey-dk-000 mb-0 mr-2">
+                Page last modified: <span class="d-inline-block">3/18/2021</span>.
+              </p>
+            
+                
+              </div>
+          </footer>
+        
+    </div>
+</div>
+
+
+  
+
+  <div class="search-overlay"></div>
+
+</div>
+</body>
+</html>
