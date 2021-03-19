@@ -1,0 +1,26 @@
+---
+id: xkcd.bookshelf
+title: Bookshelf
+desc: ''
+updated: '1616125521375'
+created: '1335769200000'
+sources:
+  name: xkcd
+  url: 'https://creativecommons.org/licenses/by-nc/2.5/'
+  license: Creative Commons 2.5
+---
+![I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'](https://imgs.xkcd.com/comics/bookshelf.png)
+
+## Transcript
+[[Person stands in front of a bookshelf]]
+Person: Ooo, Atlas Shrugged
+[[Person yanks out book only for a click to be heard]]
+
+[[The entire setup begins to rumble, while the bookcase and a surrounding platform takes both it and the person behind the wall]]
+
+[[The tiny, dark room behind the wall has one thing painted on it]]
+Wall: You have terrible taste.
+
+[[The whole piece of kit moves back to its original position.  The person stands there mildly stunned.]]
+
+{{Title text: I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'}}
