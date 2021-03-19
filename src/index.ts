@@ -97,7 +97,7 @@ async function createNotes() {
 }
 
 async function getNotes() {
-    const comics = _.range(2000, 3000);
+    const comics = _.range(2000, 2440);
     const out: XKCDResp[] = [];
     try {
         await _.reduce(
@@ -134,8 +134,8 @@ async function getNotes() {
 
 async function main() {
     console.log("start");
-    // await getNotes();
-    await createNotes();
+    await getNotes();
+    // await createNotes();
 }
 
 main();

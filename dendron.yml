@@ -5,7 +5,7 @@ vaults:
         name: xkcd
 site:
     siteHierarchies:
-        - xkcd
+        - root
     siteRootDir: docs
     copyAssets: true
     # logo: vault/assets/images/logo.png
