@@ -2,7 +2,7 @@
 id: xkcd.new-study
 title: New Study
 desc: ''
-updated: '1616125521404'
+updated: '1616126764452'
 created: '1385366400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When the results are published, no one will be sure whether to report on them again.](https://imgs.xkcd.com/comics/new_study.png)
+> "New Study", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A news anchor with a perfect news-anchor-hair-helmet]]

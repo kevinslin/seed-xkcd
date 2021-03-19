@@ -2,7 +2,7 @@
 id: xkcd.elefino
 title: Elefino
 desc: ''
-updated: '1616125521346'
+updated: '1616126764367'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hell if I know](https://imgs.xkcd.com/comics/elefino.jpg)
+> "Elefino", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Q: What do you get when you cross an Elephant with a Rhino?

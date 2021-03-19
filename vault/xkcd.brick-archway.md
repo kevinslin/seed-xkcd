@@ -2,7 +2,7 @@
 id: xkcd.brick-archway
 title: Brick Archway
 desc: ''
-updated: '1616125521575'
+updated: '1616126764663'
 created: '1195632000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The TI-86 was bad enough.  I don't know how I'd have gotten through high school if I'd had a laptop+wifi.](https://imgs.xkcd.com/comics/brick_archway.png)
+> "Brick Archway", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Inset: A man prepares to throw a tennis ball upward.]]

@@ -2,7 +2,7 @@
 id: xkcd.the-three-laws-of-robotics
 title: The Three Laws of Robotics
 desc: ''
-updated: '1616125521407'
+updated: '1616126764558'
 created: '1449475200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In ordering #5, self-driving cars will happily drive you around, but if you tell them to drive to a car dealership, they just lock the doors and politely ask how long humans take to starve to death.](https://imgs.xkcd.com/comics/the_three_laws_of_robotics.png)
+> "The Three Laws of Robotics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Young person 1 and person 2 are in front of person 1's science project]]

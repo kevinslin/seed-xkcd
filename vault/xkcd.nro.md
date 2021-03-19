@@ -2,7 +2,7 @@
 id: xkcd.nro
 title: NRO
 desc: ''
-updated: '1616125521504'
+updated: '1616126764493'
 created: '1398063600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['DISPATCHING DRONE TO TARGET COORDINATES.' 'Wait, crap, wrong button. Oh jeez.'](https://imgs.xkcd.com/comics/nro.png)
+> "NRO", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are in a field. One is kneeling on the grass, looking at a laptop on the ground. Another is facing the other direction, holding a book open to the sky.]]

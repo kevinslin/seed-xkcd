@@ -2,7 +2,7 @@
 id: xkcd.i-dont-own-a-tv
 title: I Don't Own a TV
 desc: ''
-updated: '1616125521404'
+updated: '1616126764453'
 created: '1386144000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Theory: Smugness is proportional to the negative second derivative of TV ownership rate with respect to time.](https://imgs.xkcd.com/comics/i_dont_own_a_tv.png)
+> "I Don't Own a TV", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 How people feel when they say "I don't own a TV" by year.

@@ -2,7 +2,7 @@
 id: xkcd.movie-narrative-charts
 title: Movie Narrative Charts
 desc: ''
-updated: '1616125521623'
+updated: '1616126764743'
 created: '1257148800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In the LotR map, up and down correspond LOOSELY to northwest and southeast respectively.](https://imgs.xkcd.com/comics/movie_narrative_charts.png)
+> "Movie Narrative Charts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 These charts show movie character interactions. The horizontal axis is time. The vertical grouping of the lines indicates which characters are together at a given time.

@@ -2,7 +2,7 @@
 id: xkcd.margin
 title: Margin
 desc: ''
-updated: '1616125521506'
+updated: '1616126764497'
 created: '1402642800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.](https://imgs.xkcd.com/comics/margin.png)
+> "Margin", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The panel shows a mostly-illegible page of a book.  In the margin is a note.  Unusually for xkcd, this note is written in lower-case.]]

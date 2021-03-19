@@ -2,7 +2,7 @@
 id: xkcd.nachos
 title: Nachos
 desc: ''
-updated: '1616125521623'
+updated: '1616126764743'
 created: '1256540400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Cheater!' 'Hey, gaming on wifi? You have only yourself to blame.'](https://imgs.xkcd.com/comics/nachos.png)
+> "Nachos", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is on the phone with a woman, who's on her computer in the other half of a split panel.]]

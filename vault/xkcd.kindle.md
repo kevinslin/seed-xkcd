@@ -2,7 +2,7 @@
 id: xkcd.kindle
 title: Kindle
 desc: ''
-updated: '1616125521610'
+updated: '1616126764712'
 created: '1235548800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.](https://imgs.xkcd.com/comics/kindle.png)
+> "Kindle", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy is looking at a kindle]]

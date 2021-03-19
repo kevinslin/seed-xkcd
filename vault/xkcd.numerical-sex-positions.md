@@ -2,7 +2,7 @@
 id: xkcd.numerical-sex-positions
 title: Numerical Sex Positions
 desc: ''
-updated: '1616125521599'
+updated: '1616126764688'
 created: '1223622000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We didn't even get to the continued fractions!](https://imgs.xkcd.com/comics/numerical_sex_positions.png)
+> "Numerical Sex Positions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Title text: XKCD presents a guide to numerical sex positions:

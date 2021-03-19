@@ -2,7 +2,7 @@
 id: xkcd.guest-week-bill-amend-fox-trot
 title: 'Guest Week: Bill Amend (FoxTrot)'
 desc: ''
-updated: '1616125521657'
+updated: '1616126764769'
 created: '1290585600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.](https://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png)
+> "Guest Week: Bill Amend (FoxTrot)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Jason from FoxTrot is sitting at an artist's desk with a pencil, holding a phone.]]

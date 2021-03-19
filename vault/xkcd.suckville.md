@@ -2,7 +2,7 @@
 id: xkcd.suckville
 title: Suckville
 desc: ''
-updated: '1616125521365'
+updated: '1616126764614'
 created: '1327478400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.](https://imgs.xkcd.com/comics/suckville.png)
+> "Suckville", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl is kneeling on the floor, playing a card game.]]

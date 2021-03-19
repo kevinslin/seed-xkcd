@@ -2,7 +2,7 @@
 id: xkcd.pod-bay-doors
 title: Pod Bay Doors
 desc: ''
-updated: '1616125521581'
+updated: '1616126764668'
 created: '1201248000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.](https://imgs.xkcd.com/comics/pod_bay_doors.png)
+> "Pod Bay Doors", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Dave: Open the pod bay doors, HAL.

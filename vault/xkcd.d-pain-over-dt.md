@@ -2,7 +2,7 @@
 id: xkcd.d-pain-over-dt
 title: dPain over dt
 desc: ''
-updated: '1616125521319'
+updated: '1616126764459'
 created: '1152860400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You laugh to keep from crying, you do math to keep from crying . . .](https://imgs.xkcd.com/comics/dPain_over_dt.png)
+> "dPain over dt", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Will it ever stop hurting?

@@ -2,7 +2,7 @@
 id: xkcd.security
 title: Security
 desc: ''
-updated: '1616125521609'
+updated: '1616126764711'
 created: '1233561600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)](https://imgs.xkcd.com/comics/security.png)
+> "Security", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A Crypto nerd's imagination:

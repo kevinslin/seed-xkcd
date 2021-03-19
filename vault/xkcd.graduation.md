@@ -2,7 +2,7 @@
 id: xkcd.graduation
 title: Graduation
 desc: ''
-updated: '1616125521353'
+updated: '1616126764379'
 created: '1138953600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Opening dialogue by Scott](https://imgs.xkcd.com/comics/graduation.jpg)
+> "Graduation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[two girls are talking]]

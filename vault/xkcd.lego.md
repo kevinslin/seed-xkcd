@@ -2,7 +2,7 @@
 id: xkcd.lego
 title: Lego
 desc: ''
-updated: '1616125521623'
+updated: '1616126764743'
 created: '1257494400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Dad, where is Grandpa right now?](https://imgs.xkcd.com/comics/lego.png)
+> "Lego", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl and her father are putting away Lego bricks.]]

@@ -2,7 +2,7 @@
 id: xkcd.nexus
 title: NEXUS
 desc: ''
-updated: '1616125521511'
+updated: '1616126764598'
 created: '1511164800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You also refuse to buy Cisco products because you hate the Thong Song, O. Henry, Deep Space Nine, freshwater whitefish, teenaged Incan emperors, Brak's brother, and vegetable-based shortening.](https://imgs.xkcd.com/comics/nexus.png)
+> "NEXUS", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

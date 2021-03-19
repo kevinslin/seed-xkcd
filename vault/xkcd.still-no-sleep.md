@@ -2,7 +2,7 @@
 id: xkcd.still-no-sleep
 title: Still No Sleep
 desc: ''
-updated: '1616125521650'
+updated: '1616126764703'
 created: '1281078000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm not listening to you.  I mean, what does a SQUIRREL know about mental health?](https://imgs.xkcd.com/comics/still_no_sleep.png)
+> "Still No Sleep", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Woozy person walks and speaks.]]

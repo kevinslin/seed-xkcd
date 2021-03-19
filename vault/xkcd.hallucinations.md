@@ -2,7 +2,7 @@
 id: xkcd.hallucinations
 title: Hallucinations
 desc: ''
-updated: '1616125521526'
+updated: '1616126764632'
 created: '1167379200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And the possibility of lucid dreaming just makes it that much more fascinating.](https://imgs.xkcd.com/comics/hallucinations.png)
+> "Hallucinations", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Heading: Sometimes is seems bizarre to me that we take dreaming in stride.

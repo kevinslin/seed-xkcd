@@ -2,7 +2,7 @@
 id: xkcd.frankenstein
 title: Frankenstein
 desc: ''
-updated: '1616125521468'
+updated: '1616126764522'
 created: '1444633200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."](https://imgs.xkcd.com/comics/frankenstein.png)
+> "Frankenstein", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Like many people, I'm tired of nitpicking about Frankenstein's Monster's name.

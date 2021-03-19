@@ -2,7 +2,7 @@
 id: xkcd.names
 title: Names
 desc: ''
-updated: '1616125521559'
+updated: '1616126764650'
 created: '1186988400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.](https://imgs.xkcd.com/comics/names.png)
+> "Names", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title: Names}}

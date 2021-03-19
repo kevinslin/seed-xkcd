@@ -2,7 +2,7 @@
 id: xkcd.people-are-stupid
 title: People are Stupid
 desc: ''
-updated: '1616125521506'
+updated: '1616126764498'
 created: '1403679600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To everyone who responds to everything by saying they've 'lost their faith in humanity': Thanks--I'll let humanity know. I'm sure they'll be crushed.](https://imgs.xkcd.com/comics/people_are_stupid.png)
+> "People are Stupid", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[White Hat Man talks to Stick Figure Guy.]]

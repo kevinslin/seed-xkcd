@@ -2,7 +2,7 @@
 id: xkcd.s-keyboard-leopard
 title: s/keyboard/leopard/
 desc: ''
-updated: '1616125521371'
+updated: '1616126764618'
 created: '1332140400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Problem Exists Between Leopard And Chair](https://imgs.xkcd.com/comics/s_keyboard_leopard.png)
+> "s/keyboard/leopard/", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two browser windows:  

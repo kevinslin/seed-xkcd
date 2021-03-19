@@ -2,7 +2,7 @@
 id: xkcd.poisson
 title: Poisson
 desc: ''
-updated: '1616125521341'
+updated: '1616126764360'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Poisson distributions have no value over negative numbers](https://imgs.xkcd.com/comics/poisson.jpg)
+> "Poisson", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick figure says to another black-hat-wearing figure.]]

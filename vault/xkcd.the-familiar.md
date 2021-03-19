@@ -2,7 +2,7 @@
 id: xkcd.the-familiar
 title: The Familiar
 desc: ''
-updated: '1616125521335'
+updated: '1616126764473'
 created: '1164182400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When I say we should do something sometime, I'm secretly hoping you'll say 'Why not now?'](https://imgs.xkcd.com/comics/the_familiar.png)
+> "The Familiar", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One person sits at a computer, another is standing behind him]]

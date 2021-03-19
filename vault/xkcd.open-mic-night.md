@@ -2,7 +2,7 @@
 id: xkcd.open-mic-night
 title: Open Mic Night
 desc: ''
-updated: '1616125521652'
+updated: '1616126764704'
 created: '1282892400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?](https://imgs.xkcd.com/comics/open_mic_night.png)
+> "Open Mic Night", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Woman on stage, holding microphone, hip-hop stance.]]

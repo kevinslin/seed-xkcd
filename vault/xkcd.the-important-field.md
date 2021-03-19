@@ -2,7 +2,7 @@
 id: xkcd.the-important-field
 title: The Important Field
 desc: ''
-updated: '1616125521710'
+updated: '1616126764798'
 created: '1319785200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.](https://imgs.xkcd.com/comics/the_important_field.png)
+> "The Important Field", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A soldier wearing a olive drab green hat sits in front of a computer]]

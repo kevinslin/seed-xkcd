@@ -2,7 +2,7 @@
 id: xkcd.letting-go
 title: Letting Go
 desc: ''
-updated: '1616125521528'
+updated: '1616126764635'
 created: '1169798400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At least I never gave her the root password.](https://imgs.xkcd.com/comics/letting_go.png)
+> "Letting Go", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A picture of a man and a woman in a heart is being held by someone, it has been ripped down the middle, separating the two people]]

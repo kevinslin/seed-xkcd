@@ -2,7 +2,7 @@
 id: xkcd.cryptography
 title: Cryptography
 desc: ''
-updated: '1616125521327'
+updated: '1616126764465'
 created: '1157526000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you got a big keyspace, let me search it.](https://imgs.xkcd.com/comics/cryptography.png)
+> "Cryptography", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Speaker at a podium]]

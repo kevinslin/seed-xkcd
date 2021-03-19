@@ -2,7 +2,7 @@
 id: xkcd.united-shapes
 title: United Shapes
 desc: ''
-updated: '1616125521384'
+updated: '1616126764626'
 created: '1341817200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That eggplant is in something of a flaccid state.](https://imgs.xkcd.com/comics/united_shapes.png)
+> "United Shapes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The United Shapes: A map of things states are shaped like

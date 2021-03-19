@@ -2,7 +2,7 @@
 id: xkcd.syllable-planning
 title: Syllable Planning
 desc: ''
-updated: '1616125521403'
+updated: '1616126764451'
 created: '1384329600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You absolute-fucking-... shit.](https://imgs.xkcd.com/comics/syllable_planning.png)
+> "Syllable Planning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures stand talking.]]

@@ -2,7 +2,7 @@
 id: xkcd.turn-on
 title: Turn-On
 desc: ''
-updated: '1616125521597'
+updated: '1616126764686'
 created: '1221030000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Supercollider?  I 'ardly know 'er!](https://imgs.xkcd.com/comics/turn-on.png)
+> "Turn-On", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A bar]]

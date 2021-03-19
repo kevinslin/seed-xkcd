@@ -2,7 +2,7 @@
 id: xkcd.advertising
 title: Advertising
 desc: ''
-updated: '1616125521688'
+updated: '1616126764775'
 created: '1299657600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I remember the exact moment in my childhood when I realized, while reading a flyer, that nobody would ever spend money solely to tell me they wanted to give me something for nothing. It's a much more vivid memory than the (related) parental Santa talk.](https://imgs.xkcd.com/comics/mathematically_annoying.png)
+> "Advertising", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Mathematically Annoying Advertising:

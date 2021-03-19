@@ -2,7 +2,7 @@
 id: xkcd.constraints
 title: Constraints
 desc: ''
-updated: '1616125521374'
+updated: '1616126764621'
 created: '1334905200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[title-text similarly alphabetized]](https://imgs.xkcd.com/comics/constraints.png)
+> "Constraints", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at his computer desk, motioning toward the screen as a woman stands behind him.]]

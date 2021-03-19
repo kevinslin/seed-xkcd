@@ -2,7 +2,7 @@
 id: xkcd.science-valentine
 title: Science Valentine
 desc: ''
-updated: '1616125521629'
+updated: '1616126764749'
 created: '1265961600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You don't use science to show that you're right, you use science to become right.](https://imgs.xkcd.com/comics/science_valentine.png)
+> "Science Valentine", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 I wanted to make you a science valentine

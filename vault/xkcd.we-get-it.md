@@ -2,7 +2,7 @@
 id: xkcd.we-get-it
 title: We Get It
 desc: ''
-updated: '1616125521627'
+updated: '1616126764746'
 created: '1262592000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The most brutal way I've ever seen someone handle this was 'Oh, you have a girlfriend. Are you going to get married?'  'I, uh, don't know--' 'Well, do you love her?' '...' 'Anyway, what were you saying about the movie?'](https://imgs.xkcd.com/comics/we_get_it.png)
+> "We Get It", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are talking.]]

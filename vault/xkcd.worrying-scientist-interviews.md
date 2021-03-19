@@ -2,7 +2,7 @@
 id: xkcd.worrying-scientist-interviews
 title: Worrying Scientist Interviews
 desc: ''
-updated: '1616125521497'
+updated: '1616126764592'
 created: '1506495600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They always try to explain that they're called 'solar physicists', but the reporters interrupt with "NEVER MIND THAT, TELL US WHAT'S WRONG WITH THE SUN!"](https://imgs.xkcd.com/comics/worrying_scientist_interviews.png)
+> "Worrying Scientist Interviews", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

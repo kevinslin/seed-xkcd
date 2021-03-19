@@ -2,7 +2,7 @@
 id: xkcd.alternate-universe
 title: Alternate Universe
 desc: ''
-updated: '1616125521399'
+updated: '1616126764438'
 created: '1379919600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason.](https://imgs.xkcd.com/comics/alternate_universe.png)
+> "Alternate Universe", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Imagine you were transported to an alternate universe just like your own, except people occasionally ate spiders. 

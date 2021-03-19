@@ -2,7 +2,7 @@
 id: xkcd.flashlights
 title: Flashlights
 desc: ''
-updated: '1616125521406'
+updated: '1616126764557'
 created: '1447401600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it.](https://imgs.xkcd.com/comics/flashlights.png)
+> "Flashlights", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person approaches another person sitting in a chair]]

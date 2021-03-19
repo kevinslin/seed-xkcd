@@ -2,7 +2,7 @@
 id: xkcd.light
 title: Light
 desc: ''
-updated: '1616125521349'
+updated: '1616126764374'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Like a beacon](https://imgs.xkcd.com/comics/light.jpg)
+> "Light", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A crowd of figures stand around in the dark. One figure is illuminated by a beam of light.]]

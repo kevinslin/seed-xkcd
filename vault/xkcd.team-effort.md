@@ -2,7 +2,7 @@
 id: xkcd.team-effort
 title: Team Effort
 desc: ''
-updated: '1616125521459'
+updated: '1616126764511'
 created: '1435302000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Given the role they play in every process in my body, really, they deserve this award more than me. Just gotta figure out how to give it to them. Maybe I can cut it into pieces to make it easier to swallow ...](https://imgs.xkcd.com/comics/team_effort.png)
+> "Team Effort", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person stands on a stage, holding an award. Another person with a ponytail stands behind a podium next to them.]]

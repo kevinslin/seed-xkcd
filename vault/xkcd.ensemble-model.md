@@ -2,7 +2,7 @@
 id: xkcd.ensemble-model
 title: Ensemble Model
 desc: ''
-updated: '1616125521496'
+updated: '1616126764590'
 created: '1504508400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm in talks with Netflix to produce an alternate-universe crime drama about the world where sliced bread was never re-legalized, but it's going slowly because they keep changing their phone numbers and the door lock codes at their headquarters.](https://imgs.xkcd.com/comics/ensemble_model.png)
+> "Ensemble Model", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

@@ -2,7 +2,7 @@
 id: xkcd.security-question
 title: Security Question
 desc: ''
-updated: '1616125521612'
+updated: '1616126764715'
 created: '1239001200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Let's invite him to a party and play 'I never'.  Okay, I never hid any bodies SOUTH of Main Street. ... he's taking a drink!](https://imgs.xkcd.com/comics/security_question.png)
+> "Security Question", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A male stick figure sits at a computer.]]

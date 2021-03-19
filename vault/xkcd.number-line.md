@@ -2,7 +2,7 @@
 id: xkcd.number-line
 title: Number Line
 desc: ''
-updated: '1616125521695'
+updated: '1616126764779'
 created: '1305529200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Wikipedia page "List of Numbers" opens with "This list is incomplete; you can help by expanding it."](https://imgs.xkcd.com/comics/number_line.png)
+> "Number Line", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: The Wikipedia page "List of Numbers" opens with "This list is incomplete; you can help by expanding it."}}

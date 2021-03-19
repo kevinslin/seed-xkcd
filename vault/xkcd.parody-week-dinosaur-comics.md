@@ -2,7 +2,7 @@
 id: xkcd.parody-week-dinosaur-comics
 title: 'Parody Week: Dinosaur Comics'
 desc: ''
-updated: '1616125521325'
+updated: '1616126764463'
 created: '1155884400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Guys: while I was writing this, I accidentally swallowed a table-sized slab of drywall.  I know!  Wacky.](https://imgs.xkcd.com/comics/dinosaur_comics.png)
+> "Parody Week: Dinosaur Comics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 T-Rex: THINGS I AM UPPITY ABOUT: "They" as a third-person singular gender-free pronoun.

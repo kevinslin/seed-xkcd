@@ -2,7 +2,7 @@
 id: xkcd.hotels
 title: Hotels
 desc: ''
-updated: '1616125521704'
+updated: '1616126764796'
 created: '1317366000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'](https://imgs.xkcd.com/comics/hotels.png)
+> "Hotels", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person 1 is sitting at a desk with a laptop, looking at a review website]]

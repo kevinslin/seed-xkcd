@@ -2,7 +2,7 @@
 id: xkcd.insurance
 title: Insurance
 desc: ''
-updated: '1616125521452'
+updated: '1616126764538'
 created: '1425456000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![LIFEHACKS: You can just take all the luggage off the airport conveyer belt and leave with it. They don't check that it's yours at the door!](https://imgs.xkcd.com/comics/insurance.png)
+> "Insurance", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A figure seated at a desk is handing a document to a standing figure))

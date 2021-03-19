@@ -2,7 +2,7 @@
 id: xkcd.impostor
 title: Impostor
 desc: ''
-updated: '1616125521591'
+updated: '1616126764683'
 created: '1216364400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.](https://imgs.xkcd.com/comics/impostor.png)
+> "Impostor", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Hobby: Sitting down with grad students and timing how long it takes them to figure out that I'm not actually an expert in their field.

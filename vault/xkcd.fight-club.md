@@ -2,7 +2,7 @@
 id: xkcd.fight-club
 title: Fight Club
 desc: ''
-updated: '1616125521701'
+updated: '1616126764785'
 created: '1310108400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.](https://imgs.xkcd.com/comics/fight_club.png)
+> "Fight Club", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Friend: But Fight Club isn't really about fighting. It's about the way society--

@@ -2,7 +2,7 @@
 id: xkcd.stargazing
 title: Stargazing
 desc: ''
-updated: '1616125521411'
+updated: '1616126764562'
 created: '1455696000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Some of you may be thinking, 'But wait, isn't the brightest star in our sky the Sun?' I think that's a great question and you should totally ask it. On the infinite tree of possible conversations spread out before us, I think that's definitely the most promising branch.](https://imgs.xkcd.com/comics/stargazing.png)
+> "Stargazing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three figures are gathered around a large computer console. Seated at the console is a figure with long hair tied in a ponytail, standing behind them are a figure with medium length dark hair and one with no distinguishing features.]]

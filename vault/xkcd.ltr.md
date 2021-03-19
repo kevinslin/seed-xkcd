@@ -2,7 +2,7 @@
 id: xkcd.ltr
 title: ‮LTR
 desc: ''
-updated: '1616125521425'
+updated: '1616126764405'
 created: '1353484800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.](https://imgs.xkcd.com/comics/rtl.png)
+> "‮LTR", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A chap is standing next to the black hat guy, who's sitting on a chair working on a laptop.]]

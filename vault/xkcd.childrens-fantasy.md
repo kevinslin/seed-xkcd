@@ -2,7 +2,7 @@
 id: xkcd.childrens-fantasy
 title: Children's Fantasy
 desc: ''
-updated: '1616125521628'
+updated: '1616126764747'
 created: '1264406400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.](https://imgs.xkcd.com/comics/childrens_fantasy.png)
+> "Children's Fantasy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Kid is sitting on the ground with his chin in his hand.]]

@@ -2,7 +2,7 @@
 id: xkcd.height
 title: Height
 desc: ''
-updated: '1616125521598'
+updated: '1616126764687'
 created: '1222671600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides really would be straight lines.](https://imgs.xkcd.com/comics/height.png)
+> "Height", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Map of the universe from observable universe to Earth. Each area of item is labled]]

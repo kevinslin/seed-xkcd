@@ -2,7 +2,7 @@
 id: xkcd.the-race-part-4
 title: 'The Race: Part 4'
 desc: ''
-updated: '1616125521614'
+updated: '1616126764719'
 created: '1241679600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.](https://imgs.xkcd.com/comics/the_race_part_4.png)
+> "The Race: Part 4", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Randall

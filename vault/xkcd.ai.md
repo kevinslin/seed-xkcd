@@ -2,7 +2,7 @@
 id: xkcd.ai
 title: AI
 desc: ''
-updated: '1616125521703'
+updated: '1616126764792'
 created: '1315378800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And they both react poorly to showers.](https://imgs.xkcd.com/comics/ai.png)
+> "AI", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person with shoulder length hair sits on a wheeled computer chair at a desk. A laptop computer is on the desk playing some sort of media with audio. The person is facing away from the computer addressing someone off panel.]]

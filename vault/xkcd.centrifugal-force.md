@@ -2,7 +2,7 @@
 id: xkcd.centrifugal-force
 title: Centrifugal Force
 desc: ''
-updated: '1616125521317'
+updated: '1616126764458'
 created: '1151910000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You spin me right round, baby, right round, in a manner depriving me of an inertial reference frame.  Baby.](https://imgs.xkcd.com/comics/centrifugal_force.png)
+> "Centrifugal Force", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Bond is tied to a giant centrifuge ]]

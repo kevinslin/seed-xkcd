@@ -2,7 +2,7 @@
 id: xkcd.choices-part-3
 title: 'Choices: Part 3'
 desc: ''
-updated: '1616125521550'
+updated: '1616126764643'
 created: '1179903600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wait, this is space -- how are you talking to me?  And, as an afterthought, what's up with the hole in reality?](https://imgs.xkcd.com/comics/choices_part_3.jpg)
+> "Choices: Part 3", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl floats in a bubble against a space backdrop]]

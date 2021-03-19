@@ -2,7 +2,7 @@
 id: xkcd.porn-folder
 title: Porn Folder
 desc: ''
-updated: '1616125521711'
+updated: '1616126764799'
 created: '1322035200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Eww, gross, you modified link()? How could you enjoy abusing a filesystem like that?](https://imgs.xkcd.com/comics/porn_folder.png)
+> "Porn Folder", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person sits at a desk, looking at a laptop screen with one hand on his chin.]]

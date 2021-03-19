@@ -2,7 +2,7 @@
 id: xkcd.money
 title: Money
 desc: ''
-updated: '1616125521711'
+updated: '1616126764799'
 created: '1321862400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There, I showed you it.](https://imgs.xkcd.com/comics/money.png)
+> "Money", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Money

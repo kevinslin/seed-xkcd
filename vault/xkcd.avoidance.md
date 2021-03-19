@@ -2,7 +2,7 @@
 id: xkcd.avoidance
 title: Avoidance
 desc: ''
-updated: '1616125521618'
+updated: '1616126764733'
 created: '1248678000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.](https://imgs.xkcd.com/comics/avoidance.png)
+> "Avoidance", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is standing talking to a man in a chair, who is holding a phone.]]

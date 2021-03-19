@@ -2,7 +2,7 @@
 id: xkcd.devotion-to-duty
 title: Devotion to Duty
 desc: ''
-updated: '1616125521644'
+updated: '1616126764691'
 created: '1266825600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The weird sense of duty really good sysadmins have can border on the sociopathic, but it's nice to know that it stands between the forces of darkness and your cat blog's servers.](https://imgs.xkcd.com/comics/devotion_to_duty.png)
+> "Devotion to Duty", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A terrorist is holding a gun and talking on a cell phone to the boss.]]

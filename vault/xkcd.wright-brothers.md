@@ -2,7 +2,7 @@
 id: xkcd.wright-brothers
 title: Wright Brothers
 desc: ''
-updated: '1616125521310'
+updated: '1616126764455'
 created: '1148454000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm not sure if this is actually true](https://imgs.xkcd.com/comics/wright_brothers.png)
+> "Wright Brothers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman are talking to each other]]

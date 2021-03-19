@@ -2,7 +2,7 @@
 id: xkcd.fantasy
 title: Fantasy
 desc: ''
-updated: '1616125521589'
+updated: '1616126764676'
 created: '1211958000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I guess if she accepted irrational realities, she'd hardly be my fantasy.](https://imgs.xkcd.com/comics/fantasy.png)
+> "Fantasy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits hugging his knees.]]

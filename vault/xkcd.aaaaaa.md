@@ -2,7 +2,7 @@
 id: xkcd.aaaaaa
 title: AAAAAA
 desc: ''
-updated: '1616125521363'
+updated: '1616126764613'
 created: '1326096000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'](https://imgs.xkcd.com/comics/aaaaaa.png)
+> "AAAAAA", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person 1 clinging onto something while being dragged away by some unknown force]]

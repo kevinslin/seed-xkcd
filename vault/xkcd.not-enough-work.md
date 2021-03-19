@@ -2,7 +2,7 @@
 id: xkcd.not-enough-work
 title: Not Enough Work
 desc: ''
-updated: '1616125521611'
+updated: '1616126764713'
 created: '1236754800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's even harder if you're an asshole who pronounces <> brackets.](https://imgs.xkcd.com/comics/not_enough_work.png)
+> "Not Enough Work", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narration: Signs your coders don't have enough work to do:

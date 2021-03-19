@@ -2,7 +2,7 @@
 id: xkcd.first-date
 title: First Date
 desc: ''
-updated: '1616125521502'
+updated: '1616126764488'
 created: '1392969600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I sympathize with the TPP protagonist because I, too, have progressed through a surprising number of stages of life despite spending entire days stuck against simple obstacles.](https://imgs.xkcd.com/comics/first_date.png)
+> "First Date", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman sit at an intimate dinner table. They have plates and glasses of wine in front of them.]]

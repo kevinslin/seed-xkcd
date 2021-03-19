@@ -2,7 +2,7 @@
 id: xkcd.math
 title: Math
 desc: ''
-updated: '1616125521425'
+updated: '1616126764403'
 created: '1352275200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.](https://imgs.xkcd.com/comics/math.png)
+> "Math", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stacked bar chart representing the distribution of electoral votes for a US presidential election.  The unusually darker-skinned, blessed, beautiful, twisted, Democratic candidate has 313 votes, while the much more pallid, glove-named Republican candidate has 225.  The forecast of this result is noted, with the actual results being in the center of the predicted zone.]]

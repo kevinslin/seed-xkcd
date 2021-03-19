@@ -2,7 +2,7 @@
 id: xkcd.marshmallow-gun
 title: Marshmallow Gun
 desc: ''
-updated: '1616125521606'
+updated: '1616126764709'
 created: '1229328000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Except in reality crossing a stream of marshmallows would create a giant Bill Murray.](https://imgs.xkcd.com/comics/marshmallow_gun.png)
+> "Marshmallow Gun", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: I got this gun that shoots marshmallows.

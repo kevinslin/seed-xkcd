@@ -2,7 +2,7 @@
 id: xkcd.the-drake-equation
 title: The Drake Equation
 desc: ''
-updated: '1616125521582'
+updated: '1616126764669'
 created: '1203062400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But seriously, there's loads of intelligent life.  It's just not screaming constantly in all directions on the handful of frequencies we search.](https://imgs.xkcd.com/comics/the_drake_equation.png)
+> "The Drake Equation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Drake Equation:

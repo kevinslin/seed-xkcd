@@ -2,7 +2,7 @@
 id: xkcd.license-plate
 title: License Plate
 desc: ''
-updated: '1616125521421'
+updated: '1616126764391'
 created: '1347001200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The next day: 'What? Six bank robberies!? But I just vandalized the library!' 'Nice try. They saw your plate with all the 1's and I's.' 'That's impossible! I've been with my car the whole ti-- ... wait. Ok, wow, that was clever of her.'](https://imgs.xkcd.com/comics/license_plate.png)
+> "License Plate", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy walking toward the left, holding a car license plate in front of him.]]

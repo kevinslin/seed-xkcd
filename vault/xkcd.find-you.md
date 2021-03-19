@@ -2,7 +2,7 @@
 id: xkcd.find-you
 title: Find You
 desc: ''
-updated: '1616125521309'
+updated: '1616126764454'
 created: '1148022000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm like the Terminator, except with love!](https://imgs.xkcd.com/comics/find_you.jpg)
+> "Find You", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The panel is black with rough-edged white passages running down through it. A stick figure is holding onto a rope, dangling down one of these passages. White text is in the black sections.]]

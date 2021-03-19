@@ -2,7 +2,7 @@
 id: xkcd.excessive-quotation
 title: Excessive Quotation
 desc: ''
-updated: '1616125521562'
+updated: '1616126764650'
 created: '1187938800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.](https://imgs.xkcd.com/comics/excessive_quotation.png)
+> "Excessive Quotation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Outside, under a crescent moon.]]

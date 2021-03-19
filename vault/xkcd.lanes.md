@@ -2,7 +2,7 @@
 id: xkcd.lanes
 title: Lanes
 desc: ''
-updated: '1616125521701'
+updated: '1616126764787'
 created: '1311922800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Each quarter of the lanes from left to right correspond loosely to breast cancer stages one through four (at diagnosis).](https://imgs.xkcd.com/comics/lanes.png)
+> "Lanes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The panels are arranged top to bottom.  The first is set above a larger image.))

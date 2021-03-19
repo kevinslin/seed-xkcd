@@ -2,7 +2,7 @@
 id: xkcd.null-hypothesis
 title: Null Hypothesis
 desc: ''
-updated: '1616125521694'
+updated: '1616126764778'
 created: '1304060400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.](https://imgs.xkcd.com/comics/null_hypothesis.png)
+> "Null Hypothesis", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A student works at a desk.]]

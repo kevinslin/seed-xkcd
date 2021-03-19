@@ -2,7 +2,7 @@
 id: xkcd.questions
 title: Questions
 desc: ''
-updated: '1616125521398'
+updated: '1616126764435'
 created: '1377500400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To whoever typed 'why is arwen dying': GOOD. FUCKING. QUESTION.](https://imgs.xkcd.com/comics/questions.png)
+> "Questions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This strip is a rectangular word cloud, titled 'Questions found in Google autocomplete'. Embedded in the cloud are 5 single panels, with illustrated questions. These are described at the end. Questions are given in roughly columnar order. None of the questions have question marks.))

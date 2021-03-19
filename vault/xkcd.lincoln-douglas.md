@@ -2,7 +2,7 @@
 id: xkcd.lincoln-douglas
 title: Lincoln-Douglas
 desc: ''
-updated: '1616125521621'
+updated: '1616126764737'
 created: '1253516400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.](https://imgs.xkcd.com/comics/lincoln_douglas.png)
+> "Lincoln-Douglas", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Lincoln stands before an audience.]]

@@ -2,7 +2,7 @@
 id: xkcd.wings
 title: Wings
 desc: ''
-updated: '1616125521619'
+updated: '1616126764734'
 created: '1249628400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Please do not try any of this and die or get arrested.](https://imgs.xkcd.com/comics/wings.png)
+> "Wings", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man: Titan's gravity is 14% of Earth's, and its atmosphere 50% denser.

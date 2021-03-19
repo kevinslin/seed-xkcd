@@ -2,7 +2,7 @@
 id: xkcd.voynich-manuscript
 title: Voynich Manuscript
 desc: ''
-updated: '1616125521616'
+updated: '1616126764725'
 created: '1244185200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wait, is that the ORIGINAL voynich manuscript?  Where did you GET that?  Wanna try playing a round of Druids and Dicotyledons?](https://imgs.xkcd.com/comics/voynich_manuscript.png)
+> "Voynich Manuscript", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Weird root vegetables surround a strange script.]]

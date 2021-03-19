@@ -2,7 +2,7 @@
 id: xkcd.literally
 title: Literally
 desc: ''
-updated: '1616125521646'
+updated: '1616126764695'
 created: '1270796400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.](https://imgs.xkcd.com/comics/literally.png)
+> "Literally", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is talking to a friend.]]

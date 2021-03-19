@@ -2,7 +2,7 @@
 id: xkcd.tree
 title: Tree
 desc: ''
-updated: '1616125521663'
+updated: '1616126764770'
 created: '1292572800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not only is that terrible in general, but you just KNOW Billy's going to open the root present first, and then everyone will have to wait while the heap is rebuilt.](https://imgs.xkcd.com/comics/tree.png)
+> "Tree", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a binary Christmas tree, with each node a ball, and lights strung between parent and child nodes.  Beneath it is a heap of presents - sorted with the largest on top, smaller presents connected to it with string.  Next to the tree are a kid and his or her parents.]]

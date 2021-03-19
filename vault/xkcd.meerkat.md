@@ -2,7 +2,7 @@
 id: xkcd.meerkat
 title: Meerkat
 desc: ''
-updated: '1616125521315'
+updated: '1616126764457'
 created: '1150268400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Gorilla, yes.  Adorable golden retriever, yes.  But it says nothing about meerkats.](https://imgs.xkcd.com/comics/meerkat.jpg)
+> "Meerkat", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A meerkat wearing a hat and shirt, and two guys in the background supposedly on a rugby field]]

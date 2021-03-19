@@ -2,7 +2,7 @@
 id: xkcd.percentage-points
 title: Percentage Points
 desc: ''
-updated: '1616125521712'
+updated: '1616126764800'
 created: '1322812800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.](https://imgs.xkcd.com/comics/percentage_points.png)
+> "Percentage Points", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An average news anchor reading news copy of below average intelligence appears on a TV, with one person watching it in utter disgust]]

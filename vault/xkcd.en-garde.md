@@ -2,7 +2,7 @@
 id: xkcd.en-garde
 title: En Garde
 desc: ''
-updated: '1616125521440'
+updated: '1616126764529'
 created: '1411369200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Touch!' 'Nope, I sighed and stared at you with resignation, so I regained emotional right-of-way.'](https://imgs.xkcd.com/comics/en_garde.png)
+> "En Garde", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two fencers stand facing each other. The left one has his sword up; the right one keeps his lowered.]]

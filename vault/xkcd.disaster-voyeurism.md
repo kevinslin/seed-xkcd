@@ -2,7 +2,7 @@
 id: xkcd.disaster-voyeurism
 title: Disaster Voyeurism
 desc: ''
-updated: '1616125521618'
+updated: '1616126764732'
 created: '1247814000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hurricane forums are full of excited comments about central pressure and wind speed and comparisons to Camille and 1931 and 1938, with hastily-tacked-on notes about how it will be tragic if anyone dies and they hope it's a dud.](https://imgs.xkcd.com/comics/disaster_voyeurism.png)
+> "Disaster Voyeurism", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman is watching TV.  The Black Hat Guy is leaning on the back of her chair.]]

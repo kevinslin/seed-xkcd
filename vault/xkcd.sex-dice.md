@@ -2,7 +2,7 @@
 id: xkcd.sex-dice
 title: Sex Dice
 desc: ''
-updated: '1616125521644'
+updated: '1616126764691'
 created: '1267430400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You roll for initiative, and ... [roll] ... wow, do you ever take it.](https://imgs.xkcd.com/comics/sex_dice.png)
+> "Sex Dice", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman kneel on a bed, the man is shaking a cup of dice.]]

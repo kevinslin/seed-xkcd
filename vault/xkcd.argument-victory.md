@@ -2,7 +2,7 @@
 id: xkcd.argument-victory
 title: Argument Victory
 desc: ''
-updated: '1616125521384'
+updated: '1616126764626'
 created: '1342162800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.](https://imgs.xkcd.com/comics/argument_victory.png)
+> "Argument Victory", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1, chatting on a cellphone: I can't believe you're so wrong. I'm backed by Snopes, Wikipedia, and a half-dozen journals.  You're citing .Net ppages with black backgrounds and like 20 fonts each.

@@ -2,7 +2,7 @@
 id: xkcd.sagan-man
 title: Sagan-Man
 desc: ''
-updated: '1616125521624'
+updated: '1616126764744'
 created: '1258358400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.](https://imgs.xkcd.com/comics/sagan-man.png)
+> "Sagan-Man", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Bitten by a radioactive Carl Sagan in 1995, Sagan-Man possesses the powers and abilities of Carl Sagan.

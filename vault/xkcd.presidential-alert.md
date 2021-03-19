@@ -2,7 +2,7 @@
 id: xkcd.presidential-alert
 title: Presidential Alert
 desc: ''
-updated: '1616125521442'
+updated: '1616126764531'
 created: '1413529200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When putting his kids to bed, after saying 'Goodnight', Obama has to stop himself from saying 'God bless you, and God bless the United States of America.'](https://imgs.xkcd.com/comics/presidential_alert.png)
+> "Presidential Alert", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: When putting his kids to bed, after saying 'Goodnight', Obama has to stop himself from saying 'God bless you, and God bless the United States of America.'}}

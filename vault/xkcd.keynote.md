@@ -2,7 +2,7 @@
 id: xkcd.keynote
 title: Keynote
 desc: ''
-updated: '1616125521608'
+updated: '1616126764710'
 created: '1231315200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.](https://imgs.xkcd.com/comics/keynote.png)
+> "Keynote", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man with top hat talking to Man sitting at computer]]

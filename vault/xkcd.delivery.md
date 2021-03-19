@@ -2,7 +2,7 @@
 id: xkcd.delivery
 title: Delivery
 desc: ''
-updated: '1616125521589'
+updated: '1616126764677'
 created: '1212390000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!](https://imgs.xkcd.com/comics/delivery.png)
+> "Delivery", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[In a delivery room]]

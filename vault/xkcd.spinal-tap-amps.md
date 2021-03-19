@@ -2,7 +2,7 @@
 id: xkcd.spinal-tap-amps
 title: Spinal Tap Amps
 desc: ''
-updated: '1616125521625'
+updated: '1616126764745'
 created: '1259740800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wow, that's less than $200 per ... uh ... that's a good deal!](https://imgs.xkcd.com/comics/spinal_tap_amps.png)
+> "Spinal Tap Amps", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Nigel Tufnel of Spinal Tap is showing off his amplifier to a person, who varies.]]

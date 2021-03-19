@@ -2,7 +2,7 @@
 id: xkcd.all-the-girls
 title: All the Girls
 desc: ''
-updated: '1616125521649'
+updated: '1616126764702'
 created: '1279868400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You know that I'll never leave you. Not as long as she's with someone.](https://imgs.xkcd.com/comics/all_the_girls.png)
+> "All the Girls", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy and girl are standing together.]]

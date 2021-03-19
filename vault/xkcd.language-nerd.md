@@ -2,7 +2,7 @@
 id: xkcd.language-nerd
 title: Language Nerd
 desc: ''
-updated: '1616125521443'
+updated: '1616126764532'
 created: '1415174400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not to go all sentence fragment on you.](https://imgs.xkcd.com/comics/language_nerd.png)
+> "Language Nerd", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Not to go all sentence fragment on you.}}

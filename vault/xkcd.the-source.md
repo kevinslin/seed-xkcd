@@ -2,7 +2,7 @@
 id: xkcd.the-source
 title: The Source
 desc: ''
-updated: '1616125521468'
+updated: '1616126764522'
 created: '1444806000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Why did we even have that thing?](https://imgs.xkcd.com/comics/the_source.png)
+> "The Source", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 <<a hum so faint it is completely unindicated in the comic wafts through the air>>

@@ -2,7 +2,7 @@
 id: xkcd.pong
 title: Pong
 desc: ''
-updated: '1616125521315'
+updated: '1616126764457'
 created: '1150700400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Following this, the pong paddle went on a mission to destroy Atari headquarters and, due to a mixup, found himself inside the game The Matrix Reloaded.  Boy, was THAT ever hard to explain to him.](https://imgs.xkcd.com/comics/pong.png)
+> "Pong", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick figure asks another]] So what do we do if video game AI opponents become smart enough to question the "Matrix" into which we've put them?

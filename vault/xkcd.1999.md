@@ -2,7 +2,7 @@
 id: xkcd.1999
 title: '1999'
 desc: ''
-updated: '1616125521669'
+updated: '1616126764772'
 created: '1296633600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Whoa, twenty-two in two hours!' 'Your site got twenty-two hundred hits in two hours?' 'No. Twenty-two. But still, that's like half the people on the internet!'](https://imgs.xkcd.com/comics/1999.png)
+> "1999", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Inverted intro panel]] 

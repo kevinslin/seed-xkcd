@@ -2,7 +2,7 @@
 id: xkcd.stephen-and-me
 title: Stephen and Me
 desc: ''
-updated: '1616125521625'
+updated: '1616126764745'
 created: '1259913600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, let go! We were all thinking it! Someone had to speak truth to power!](https://imgs.xkcd.com/comics/stephen_and_me.png)
+> "Stephen and Me", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Beret Guy is speaking into a mic in front of a sign that says Volvo Cars. A woman is filming him, and another is walking by with a briefcase.]]

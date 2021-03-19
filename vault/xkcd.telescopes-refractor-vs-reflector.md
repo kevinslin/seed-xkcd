@@ -2,7 +2,7 @@
 id: xkcd.telescopes-refractor-vs-reflector
 title: 'Telescopes: Refractor vs Reflector'
 desc: ''
-updated: '1616125521483'
+updated: '1616126764553'
 created: '1485504000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![On the other hand, the refractor's limited light-gathering means it's unable to make out shadow people or the dark god Chernabog.](https://imgs.xkcd.com/comics/telescopes_refractor_vs_reflector.png)
+> "Telescopes: Refractor vs Reflector", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

@@ -2,7 +2,7 @@
 id: xkcd.hoverboard
 title: Hoverboard
 desc: ''
-updated: '1616125521406'
+updated: '1616126764558'
 created: '1448352000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Return to the play area](https://imgs.xkcd.com/comics/)
+> "Hoverboard", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My new book, Thing Explainer, comes out today! To celebrate, here's a small game.

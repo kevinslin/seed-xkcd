@@ -2,7 +2,7 @@
 id: xkcd.core
 title: Core
 desc: ''
-updated: '1616125521699'
+updated: '1616126764783'
 created: '1308294000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you're a geologist or geophysicist and you don't introduce yourself by saying your name, then gesturing downward and saying "... and I study that", I don't know what you're doing with your life.](https://imgs.xkcd.com/comics/core.png)
+> "Core", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A cutaway diagram of the Earth, with colored layers including a labeled outer core and inner core.]]

@@ -2,7 +2,7 @@
 id: xkcd.city-nicknames
 title: City Nicknames
 desc: ''
-updated: '1616125521494'
+updated: '1616126764583'
 created: '1500274800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This place has so many demonyms. Northlanders. Fair Folk. Honey Barons. Lake Dwellers. Treasurers. Swamp Watchers. Dream Farmers. Wellfolk. Rockeaters. Forgotten Royals. Remote Clients. Barrow-Clerks. The People of Land and Sky.](https://imgs.xkcd.com/comics/city_nicknames.png)
+> "City Nicknames", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

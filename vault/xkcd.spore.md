@@ -2,7 +2,7 @@
 id: xkcd.spore
 title: Spore
 desc: ''
-updated: '1616125521598'
+updated: '1616126764687'
 created: '1222239600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Way to not support the GMA 950 under OS X, Spore.  :(](https://imgs.xkcd.com/comics/spore.png)
+> "Spore", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[User sitting at computer desk, surrounded by game boxes]]

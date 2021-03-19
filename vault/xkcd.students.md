@@ -2,7 +2,7 @@
 id: xkcd.students
 title: Students
 desc: ''
-updated: '1616125521611'
+updated: '1616126764713'
 created: '1237359600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The same goes for the one where you're wrestling the Green Ranger in the swimming pool full of Crisco.  You guys all have that dream, right?  It's not just me.  Right?](https://imgs.xkcd.com/comics/students.png)
+> "Students", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A teacher speaks in a crowded classroom, one of the students seems confused.]]

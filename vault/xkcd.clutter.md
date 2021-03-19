@@ -2,7 +2,7 @@
 id: xkcd.clutter
 title: Clutter
 desc: ''
-updated: '1616125521522'
+updated: '1616126764611'
 created: '1524207600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I found a copy of The Life-Changing Magic of Tidying Up, but the idea of reading it didn't spark joy, so I gave it away.](https://imgs.xkcd.com/comics/clutter.png)
+> "Clutter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

@@ -2,7 +2,7 @@
 id: xkcd.designated-drivers
 title: Designated Drivers
 desc: ''
-updated: '1616125521615'
+updated: '1616126764724'
 created: '1243407600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Calling a cab means cutting into beer money.](https://imgs.xkcd.com/comics/designated_drivers.png)
+> "Designated Drivers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Four people are outside a bar.]]

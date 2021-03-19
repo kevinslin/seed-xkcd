@@ -2,7 +2,7 @@
 id: xkcd.theft-of-the-magi
 title: Theft of the Magi
 desc: ''
-updated: '1616125521601'
+updated: '1616126764708'
 created: '1227081600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Every Roomba needs a dueling harness.](https://imgs.xkcd.com/comics/theft_of_the_magi.png)
+> "Theft of the Magi", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black Hat Guy is holding up a video game.  Woman is holding up a harness.]]

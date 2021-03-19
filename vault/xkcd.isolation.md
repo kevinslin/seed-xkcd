@@ -2,7 +2,7 @@
 id: xkcd.isolation
 title: Isolation
 desc: ''
-updated: '1616125521405'
+updated: '1616126764555'
 created: '1447056000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![2060: The gregarious superintelligent AI, happily talking its way out of a box, is fast becoming a relic of the past. Today's quantum hyper-beings are too busy with their internal multiverse sims to even notice that they're in boxes at all!](https://imgs.xkcd.com/comics/isolation.png)
+> "Isolation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 1840:

@@ -2,7 +2,7 @@
 id: xkcd.synonym-movies-2
 title: Synonym Movies 2
 desc: ''
-updated: '1616125521466'
+updated: '1616126764517'
 created: '1440399600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's also the TV show based on the hit Hot and Cold Music books: Fun With Chairs, Royal Rumble, Knife Blizzard, Breakfast for Birds, and Samba Serpents.](https://imgs.xkcd.com/comics/synonym_movies_2.png)
+> "Synonym Movies 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Movies stacked up on a shelf. Their titles on the spine are as followed]]

@@ -2,7 +2,7 @@
 id: xkcd.highlighting
 title: Highlighting
 desc: ''
-updated: '1616125521400'
+updated: '1616126764439'
 created: '1380524400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And if clicking on any word pops up a site-search for articles about that word, I will close all windows in a panic and never come back.](https://imgs.xkcd.com/comics/hilighting.png)
+> "Highlighting", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Today's strip is a single panel with several paragraphs of text, each highlighted in a different way. Whether these are pleasing or not is illustrated with a red cross or green tick.))

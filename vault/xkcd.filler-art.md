@@ -2,7 +2,7 @@
 id: xkcd.filler-art
 title: Filler Art
 desc: ''
-updated: '1616125521328'
+updated: '1616126764466'
 created: '1158303600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Maybe I should let up on Megatokyo a little?](https://imgs.xkcd.com/comics/filler_art.png)
+> "Filler Art", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Text above plain stick figure]]

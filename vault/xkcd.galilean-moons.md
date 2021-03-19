@@ -2,7 +2,7 @@
 id: xkcd.galilean-moons
 title: Galilean Moons
 desc: ''
-updated: '1616125521498'
+updated: '1616126764477'
 created: '1386316800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm SO glad I escaped. They almost had me caught in their weird ... thing.](https://imgs.xkcd.com/comics/galilean_moons.png)
+> "Galilean Moons", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman walks on-panel, up to a figure standing still. She has 4 small moons orbiting her.]]

@@ -2,7 +2,7 @@
 id: xkcd.timeline-of-bicycle-design
 title: Timeline of Bicycle Design
 desc: ''
-updated: '1616125521415'
+updated: '1616126764568'
 created: '1461740400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'll be honest--the 1950s were a rough time for cycling.](https://imgs.xkcd.com/comics/timeline_of_bicycle_design.png)
+> "Timeline of Bicycle Design", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black hat guy stands halfway up a stepladder, holding a heavy-looking ball attached to the ceiling with a rope. Another figure stands below in its path.]]

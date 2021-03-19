@@ -2,7 +2,7 @@
 id: xkcd.location-reviews
 title: Location Reviews
 desc: ''
-updated: '1616125521487'
+updated: '1616126764577'
 created: '1487923200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.](https://imgs.xkcd.com/comics/location_reviews.png)
+> "Location Reviews", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

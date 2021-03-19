@@ -2,7 +2,7 @@
 id: xkcd.location-sharing
 title: Location Sharing
 desc: ''
-updated: '1616125521448'
+updated: '1616126764535'
 created: '1421222400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Our phones must have great angular momentum sensors because the compasses really suck.](https://imgs.xkcd.com/comics/location_sharing.png)
+> "Location Sharing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character is staring at the screen of their smartphone.]]

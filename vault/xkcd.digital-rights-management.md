@@ -2,7 +2,7 @@
 id: xkcd.digital-rights-management
 title: Digital Rights Management
 desc: ''
-updated: '1616125521358'
+updated: '1616126764385'
 created: '1144393200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good](https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg)
+> "Digital Rights Management", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat Guy is standing on an advancing glacier]]

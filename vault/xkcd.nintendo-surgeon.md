@@ -2,7 +2,7 @@
 id: xkcd.nintendo-surgeon
 title: Nintendo Surgeon
 desc: ''
-updated: '1616125521528'
+updated: '1616126764635'
 created: '1170403200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Scary thought #138: Raptors coming down the waterslide behind me.](https://imgs.xkcd.com/comics/nintendo_surgeon.png)
+> "Nintendo Surgeon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Headline: Scary Thought #137: The NES came out over two decades ago. Those kids are all grown-ups now.}}

@@ -2,7 +2,7 @@
 id: xkcd.humming
 title: Humming
 desc: ''
-updated: '1616125521435'
+updated: '1616126764418'
 created: '1364540400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.](https://imgs.xkcd.com/comics/humming.png)
+> "Humming", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters stand close together in conversation. One of them is humming.]]

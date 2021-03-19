@@ -2,7 +2,7 @@
 id: xkcd.smartwatches
 title: Smartwatches
 desc: ''
-updated: '1616125521505'
+updated: '1616126764495'
 created: '1400828400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.](https://imgs.xkcd.com/comics/smartwatches.png)
+> "Smartwatches", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A use for smartwatches:

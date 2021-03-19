@@ -2,7 +2,7 @@
 id: xkcd.fight
 title: Fight
 desc: ''
-updated: '1616125521573'
+updated: '1616126764661'
 created: '1194595200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And she put sweet nothings in all my .conf files.  It'll take me forever to get X working again.](https://imgs.xkcd.com/comics/fight.png)
+> "Fight", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Text: We had a fight last night.]]

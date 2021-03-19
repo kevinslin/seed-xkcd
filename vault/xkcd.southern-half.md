@@ -2,7 +2,7 @@
 id: xkcd.southern-half
 title: Southern Half
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1276498800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also, if you read his speech at Rice, all his arguments for going to the moon work equally well as arguments for blowing up the moon, sending cloned dinosaurs into space, or constructing a towering penis-shaped obelisk on Mars.](https://imgs.xkcd.com/comics/southern_half.png)
+> "Southern Half", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The great battlefield for the defense and expansion of freedom today is the whole southern half of the globe -- Asia, Latin America, Africa, and the Middle East.

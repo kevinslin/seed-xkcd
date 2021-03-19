@@ -2,7 +2,7 @@
 id: xkcd.pix-plz
 title: Pix Plz
 desc: ''
-updated: '1616125521568'
+updated: '1616126764656'
 created: '1190962800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But one of the regulars in the channel is a girl!](https://imgs.xkcd.com/comics/pix_plz.png)
+> "Pix Plz", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands in the entrance to a room.  The door has been broken down.  A surprised nerd has turned away from his computer to face the remains of the door.]]

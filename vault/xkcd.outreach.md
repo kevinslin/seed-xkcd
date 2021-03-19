@@ -2,7 +2,7 @@
 id: xkcd.outreach
 title: Outreach
 desc: ''
-updated: '1616125521614'
+updated: '1616126764721'
 created: '1242630000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Completely implausible? Yes. Nevertheless, worth keeping a can of shark repellent next to the bed.](https://imgs.xkcd.com/comics/outreach.png)
+> "Outreach", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A group of scientists with goggles and labcoats stand around a pair of beakers.]]

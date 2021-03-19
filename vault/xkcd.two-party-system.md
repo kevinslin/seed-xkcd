@@ -2,7 +2,7 @@
 id: xkcd.two-party-system
 title: Two-Party System
 desc: ''
-updated: '1616125521624'
+updated: '1616126764744'
 created: '1257926400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I favor approval voting or IRV chiefly because they mean we might get to bring back The Bull Moose party.](https://imgs.xkcd.com/comics/two_party_system.png)
+> "Two-Party System", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl stands at a podium, giving a speech.]]

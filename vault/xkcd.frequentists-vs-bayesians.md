@@ -2,7 +2,7 @@
 id: xkcd.frequentists-vs-bayesians
 title: Frequentists vs. Bayesians
 desc: ''
-updated: '1616125521425'
+updated: '1616126764403'
 created: '1352448000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Detector! What would the Bayesian statistician say if I asked him whether the--' [roll] 'I AM A NEUTRINO DETECTOR, NOT A LABYRINTH GUARD. SERIOUSLY, DID YOUR BRAIN FALL OUT?' [roll] '... yes.'](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png)
+> "Frequentists vs. Bayesians", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Did the sun just explode? (It's night, so we're not sure)

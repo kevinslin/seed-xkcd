@@ -2,7 +2,7 @@
 id: xkcd.goldbach-conjectures
 title: Goldbach Conjectures
 desc: ''
-updated: '1616125521499'
+updated: '1616126764479'
 created: '1388390400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.](https://imgs.xkcd.com/comics/goldbach_conjectures.png)
+> "Goldbach Conjectures", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[In the center of the panel are the large words 'GOLDBACH CONJECTURES'. Around it are six boxes: two above it, and two on each side, one below the other. They read:

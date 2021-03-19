@@ -2,7 +2,7 @@
 id: xkcd.cheap-gps
 title: Cheap GPS
 desc: ''
-updated: '1616125521586'
+updated: '1616126764674'
 created: '1207551600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.](https://imgs.xkcd.com/comics/cheap_gps.png)
+> "Cheap GPS", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy driving down the road, with a GPS reading "COLD"]] 

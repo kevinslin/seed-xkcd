@@ -2,7 +2,7 @@
 id: xkcd.two-mirrors
 title: Two Mirrors
 desc: ''
-updated: '1616125521611'
+updated: '1616126764713'
 created: '1236927600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you actually do this, what really happens is Douglas Hofstadter appears and talks to you for eight hours about strange loops.](https://imgs.xkcd.com/comics/two_mirrors.png)
+> "Two Mirrors", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl sets up a full mirror adjacent to a bathroom-counter mirror]]

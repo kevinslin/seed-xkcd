@@ -2,7 +2,7 @@
 id: xkcd.mac-pc
 title: Mac/PC
 desc: ''
-updated: '1616125521702'
+updated: '1616126764787'
 created: '1312527600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.](https://imgs.xkcd.com/comics/mac_pc.png)
+> "Mac/PC", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two adult humans stand facing out of the screen.]]

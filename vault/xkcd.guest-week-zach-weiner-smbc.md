@@ -2,7 +2,7 @@
 id: xkcd.guest-week-zach-weiner-smbc
 title: 'Guest Week: Zach Weiner (SMBC)'
 desc: ''
-updated: '1616125521657'
+updated: '1616126764769'
 created: '1290758400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Guest comic by Zach Weiner of Saturday Morning Breakfast Cereal. When I was stressed out, Zach gave me a talk that was really encouraging and somehow involved nanobots.](https://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png)
+> "Guest Week: Zach Weiner (SMBC)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This comic was drawn by Zach Weiner of Saturday Morning Breakfast Cereal.  It's a floor plan of a museum with five main halls. Each hall contains several exhibits. If you click on an exhibit's spot on the map, a comic pops up showing a view of the exhibit.  The museum map is full of tiny stick figures, many of them characters from xkcd.))

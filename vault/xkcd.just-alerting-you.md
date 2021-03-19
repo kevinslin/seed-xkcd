@@ -2,7 +2,7 @@
 id: xkcd.just-alerting-you
 title: Just Alerting You
 desc: ''
-updated: '1616125521343'
+updated: '1616126764361'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Just thought you should know](https://imgs.xkcd.com/comics/just_alerting_you.jpg)
+> "Just Alerting You", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a man standing on top of a dinosaur (Brontosaurus?) and holding reins to the dinosaurs head.]]

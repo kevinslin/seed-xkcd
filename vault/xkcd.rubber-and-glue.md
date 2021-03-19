@@ -2,7 +2,7 @@
 id: xkcd.rubber-and-glue
 title: Rubber and Glue
 desc: ''
-updated: '1616125521426'
+updated: '1616126764406'
 created: '1353916800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm rubber. You're rubber. We contemplate the reality of our existence in mute, vulcanized horror.](https://imgs.xkcd.com/comics/rubber_and_glue.png)
+> "Rubber and Glue", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A playground.  The black hat is large on one child, who is sitting and reading.  Other children surround him.]]

@@ -2,7 +2,7 @@
 id: xkcd.teenage-mutant-ninja-turtles
 title: Teenage Mutant Ninja Turtles
 desc: ''
-updated: '1616125521439'
+updated: '1616126764528'
 created: '1408950000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My upcoming album, 'Linked List', has covers of 'The Purple People Eater', the Ninja Turtles theme, 'Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini', and the Power Rangers theme, with every song played to the tune of the next.](https://imgs.xkcd.com/comics/teenage_mutant_ninja_turtles.png)
+> "Teenage Mutant Ninja Turtles", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: My upcoming alubm, 'Linked List', has covers of 'The Purple People Eater', the Ninja Turtles theme, 'Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini', and the Power Rangers theme, with every song played to the tune of the next.}}

@@ -2,7 +2,7 @@
 id: xkcd.time-robot
 title: Time Robot
 desc: ''
-updated: '1616125521433'
+updated: '1616126764414'
 created: '1361520000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![NO FATE BUT THE NARRATIVES WE IMPOSE ON LIFE'S RANDOM CHAOS TO DISTRACT OURSELVES FROM OUR EXISTENTIAL PLIGHT](https://imgs.xkcd.com/comics/time_robot.png)
+> "Time Robot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure with a shotgun runs into the scene and addresses a standing woman.]]

@@ -2,7 +2,7 @@
 id: xkcd.it-might-be-cool
 title: It Might Be Cool
 desc: ''
-updated: '1616125521609'
+updated: '1616126764711'
 created: '1232956800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['And ovaries.  Man, ovaries, huh?'  [awkward pause]  '... faithfully.'](https://imgs.xkcd.com/comics/it_might_be_cool.png)
+> "It Might Be Cool", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man #1 is administering the presidential oath to Man #2]]

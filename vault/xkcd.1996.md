@@ -2,7 +2,7 @@
 id: xkcd.1996
 title: '1996'
 desc: ''
-updated: '1616125521649'
+updated: '1616126764702'
 created: '1279522800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![College Board issues aside, I have fond memories of TI-BASIC, writing in it a 3D graphing engine and a stock market analyzer. With enough patience, I could make anything ... but friends. (Although with my chatterbot experiments, I certainly tried.)](https://imgs.xkcd.com/comics/1996.png)
+> "1996", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is going through a cardboard box marked "MISC", and finds a catalog. A woman looks on.]]

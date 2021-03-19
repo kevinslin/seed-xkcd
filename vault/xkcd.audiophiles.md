@@ -2,7 +2,7 @@
 id: xkcd.audiophiles
 title: Audiophiles
 desc: ''
-updated: '1616125521667'
+updated: '1616126764770'
 created: '1293782400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.](https://imgs.xkcd.com/comics/audiophiles.png)
+> "Audiophiles", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are talking by telephone.  The first two panels are split diagonally.  The first person is at a store, and the second is consulting with them.]]

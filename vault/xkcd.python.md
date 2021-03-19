@@ -2,7 +2,7 @@
 id: xkcd.python
 title: Python
 desc: ''
-updated: '1616125521576'
+updated: '1616126764665'
 created: '1196841600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you.](https://imgs.xkcd.com/comics/python.png)
+> "Python", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Guy 1 is talking to Guy 2, who is floating in the sky ]]

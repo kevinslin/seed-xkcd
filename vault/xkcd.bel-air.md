@@ -2,7 +2,7 @@
 id: xkcd.bel-air
 title: Bel-Air
 desc: ''
-updated: '1616125521377'
+updated: '1616126764623'
 created: '1337756400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Aaron Sorkin has been tapped to write the TV movie about the aging prince's eventual election to Pat Toomey's Senate seat, currently titled either 'FRESHman Senator' or 'Mr. Smith Goes to Washington'.](https://imgs.xkcd.com/comics/bel_air.png)
+> "Bel-Air", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits on an easy chair in front of a TV.]]

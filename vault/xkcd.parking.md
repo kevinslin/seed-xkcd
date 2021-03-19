@@ -2,7 +2,7 @@
 id: xkcd.parking
 title: Parking
 desc: ''
-updated: '1616125521611'
+updated: '1616126764714'
 created: '1238396400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it.](https://imgs.xkcd.com/comics/parking.png)
+> "Parking", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat guy is in a car driving around a parking lot]]

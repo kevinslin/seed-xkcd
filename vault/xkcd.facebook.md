@@ -2,7 +2,7 @@
 id: xkcd.facebook
 title: Facebook
 desc: ''
-updated: '1616125521558'
+updated: '1616126764649'
 created: '1186556400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Here, I'll put my number in your cell pho -- wait, why is it already here?'](https://imgs.xkcd.com/comics/facebook.png)
+> "Facebook", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title: Mildly sleazy uses of Facebook, part 14:}}

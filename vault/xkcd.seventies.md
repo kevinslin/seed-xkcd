@@ -2,7 +2,7 @@
 id: xkcd.seventies
 title: Seventies
 desc: ''
-updated: '1616125521381'
+updated: '1616126764625'
 created: '1340348400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"](https://imgs.xkcd.com/comics/seventies.png)
+> "Seventies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: Nice jacket. Hey -- the Seventies called.

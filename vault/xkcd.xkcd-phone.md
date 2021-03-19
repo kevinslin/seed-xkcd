@@ -2,7 +2,7 @@
 id: xkcd.xkcd-phone
 title: xkcd Phone
 desc: ''
-updated: '1616125521505'
+updated: '1616126764494'
 created: '1399014000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Presented in partnership with Qualcomm, Craigslist, Whirlpool, Hostess, LifeStyles, and the US Chamber of Commerce. Manufactured on equipment which also processes peanuts. Price includes 2-year Knicks contract. Phone may extinguish nearby birthday candles. If phone ships with Siri, return immediately; do not speak to her and ignore any instructions she gives. Do not remove lead casing. Phone may attract/trap insects; this is normal. Volume adjustable (requires root). If you experience sudden tingling, nausea, or vomiting, perform a factory reset immediately. Do not submerge in water; phone will drown. Exterior may be frictionless. Prolonged use can cause mood swings, short-term memory loss, and seizures. Avert eyes while replacing battery. Under certain circumstances, wireless transmitter may control God.](https://imgs.xkcd.com/comics/xkcd_phone.png)
+> "xkcd Phone", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Ad for a phone, with several factoids positioned around a picture of the device]]

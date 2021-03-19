@@ -2,7 +2,7 @@
 id: xkcd.learning-to-cook
 title: Learning to Cook
 desc: ''
-updated: '1616125521669'
+updated: '1616126764772'
 created: '1296460800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And yet I never stop thinking, 'sure, these ingredients cost more than a restaurant meal, but think how many meals I'll get out of them! Especially since each one will have leftovers!'](https://imgs.xkcd.com/comics/learning_to_cook.png)
+> "Learning to Cook", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{A flowchart.}}

@@ -2,7 +2,7 @@
 id: xkcd.christmas-settings
 title: Christmas Settings
 desc: ''
-updated: '1616125521408'
+updated: '1616126764559'
 created: '1450857600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]](https://imgs.xkcd.com/comics/christmas_settings.png)
+> "Christmas Settings", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure stands by a shelf of cold & flu medication.]]

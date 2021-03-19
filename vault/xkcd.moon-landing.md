@@ -2,7 +2,7 @@
 id: xkcd.moon-landing
 title: Moon Landing
 desc: ''
-updated: '1616125521382'
+updated: '1616126764625'
 created: '1340780400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ok, so Spirit and Opportunity are pretty awesome. And Kepler. And New Horizons, Cassini, Curiosity, TiME, and Project M. But c'mon, if the Earth were a basketball, in 40 years no human's been more than half an inch from the surface.](https://imgs.xkcd.com/comics/moon_landing.png)
+> "Moon Landing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting at a table with a laptop open. His hands are on the keys.]]

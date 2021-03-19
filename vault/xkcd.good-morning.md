@@ -2,7 +2,7 @@
 id: xkcd.good-morning
 title: Good Morning
 desc: ''
-updated: '1616125521591'
+updated: '1616126764683'
 created: '1215759600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![As my standard, I use going to sleep at midnight and waking up at 8 AM.](https://imgs.xkcd.com/comics/good_morning.png)
+> "Good Morning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A drowsy man walks over to another man on a computer]]

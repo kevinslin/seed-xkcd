@@ -2,7 +2,7 @@
 id: xkcd.juno
 title: Juno
 desc: ''
-updated: '1616125521470'
+updated: '1616126764539'
 created: '1467788400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 !["The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."](https://imgs.xkcd.com/comics/juno.png)
+> "Juno", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

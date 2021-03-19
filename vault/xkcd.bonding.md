@@ -2,7 +2,7 @@
 id: xkcd.bonding
 title: Bonding
 desc: ''
-updated: '1616125521434'
+updated: '1616126764417'
 created: '1363762800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm trying to build character but Eclipse is really confusing.](https://imgs.xkcd.com/comics/bonding.png)
+> "Bonding", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 class Ball extends Throwable {} 

@@ -2,7 +2,7 @@
 id: xkcd.dating-pools
 title: Dating Pools
 desc: ''
-updated: '1616125521566'
+updated: '1616126764655'
 created: '1189407600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.](https://imgs.xkcd.com/comics/dating_pools.png)
+> "Dating Pools", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Woman is sitting on the ground with her elbows on her knees and her hands on her chin.  She is talking to a man.]]

@@ -2,7 +2,7 @@
 id: xkcd.set-theory
 title: Set Theory
 desc: ''
-updated: '1616125521712'
+updated: '1616126764799'
 created: '1322208000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.](https://imgs.xkcd.com/comics/set_theory.png)
+> "Set Theory", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman with a ponytail stands at a blackboard, facing away from it. She has a pointer in her hand, and written on the blackboard is some set theory math.]]

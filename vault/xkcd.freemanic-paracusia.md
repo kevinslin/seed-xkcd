@@ -2,7 +2,7 @@
 id: xkcd.freemanic-paracusia
 title: Freemanic Paracusia
 desc: ''
-updated: '1616125521592'
+updated: '1616126764684'
 created: '1218610800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's amazing what it does for YouTube comments.](https://imgs.xkcd.com/comics/freemanic_paracusia.png)
+> "Freemanic Paracusia", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is shown sitting behind a desk with a Computer]]

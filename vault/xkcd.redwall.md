@@ -2,7 +2,7 @@
 id: xkcd.redwall
 title: Redwall
 desc: ''
-updated: '1616125521580'
+updated: '1616126764667'
 created: '1200297600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My Redwall/Jurassic Park crossover fanfic is almost complete!](https://imgs.xkcd.com/comics/redwall.png)
+> "Redwall", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Notes from reading redwall books for the first time since childhood.

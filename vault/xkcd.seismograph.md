@@ -2,7 +2,7 @@
 id: xkcd.seismograph
 title: Seismograph
 desc: ''
-updated: '1616125521644'
+updated: '1616126764691'
 created: '1268035200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The reverse only works if the subject has a nervous twitch.](https://imgs.xkcd.com/comics/seismograph.png)
+> "Seismograph", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is standing over another man, who is strapped into a chair with wires attached to his head and arms. The wires lead to a large lie detector on a stand next to him, which has jagged lines drawn across it.]]

@@ -2,7 +2,7 @@
 id: xkcd.cosmologist-on-a-tire-swing
 title: Cosmologist on a Tire Swing
 desc: ''
-updated: '1616125521504'
+updated: '1616126764492'
 created: '1396854000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No matter how fast I swing, I can never travel outside this loop! Maybe space outside it doesn't exist! But I bet it does. This tire came from somewhere.](https://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png)
+> "Cosmologist on a Tire Swing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A child and an adult are walking across a grassy park with puddles strewn across it and trees nearby.]]

@@ -2,7 +2,7 @@
 id: xkcd.wake-up-sheeple
 title: Wake Up Sheeple
 desc: ''
-updated: '1616125521366'
+updated: '1616126764615'
 created: '1328515200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.](https://imgs.xkcd.com/comics/wake_up_sheeple.png)
+> "Wake Up Sheeple", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man yells into a megaphone.]]

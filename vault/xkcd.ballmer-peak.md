@@ -2,7 +2,7 @@
 id: xkcd.ballmer-peak
 title: Ballmer Peak
 desc: ''
-updated: '1616125521568'
+updated: '1616126764657'
 created: '1191222000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Apple uses automated schnapps IVs.](https://imgs.xkcd.com/comics/ballmer_peak.png)
+> "Ballmer Peak", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A graph with "programming skill" on the X-axis and "blood alcohol concentration" on the Y one]]

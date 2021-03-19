@@ -2,7 +2,7 @@
 id: xkcd.functional
 title: Functional
 desc: ''
-updated: '1616125521400'
+updated: '1616126764439'
 created: '1380265200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Functional programming combines the flexibility and power of abstract mathematics with the intuitive clarity of abstract mathematics.](https://imgs.xkcd.com/comics/functional.png)
+> "Functional", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure in a hat stands behind someone sitting at a desk, who is working on his laptop.]]

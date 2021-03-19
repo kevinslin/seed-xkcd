@@ -2,7 +2,7 @@
 id: xkcd.honest
 title: Honest
 desc: ''
-updated: '1616125521427'
+updated: '1616126764408'
 created: '1355299200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I didn't understand what you meant. I still don't. But I'll figure it out soon!](https://imgs.xkcd.com/comics/honest.png)
+> "Honest", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two guys are walking along together.]]

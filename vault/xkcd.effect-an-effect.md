@@ -2,7 +2,7 @@
 id: xkcd.effect-an-effect
 title: Effect an Effect
 desc: ''
-updated: '1616125521569'
+updated: '1616126764658'
 created: '1191826800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Time to paint another grammarian silhouette on the side of the desktop.](https://imgs.xkcd.com/comics/effect_an_effect.png)
+> "Effect an Effect", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: MY HOBBY:

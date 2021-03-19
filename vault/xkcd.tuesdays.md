@@ -2,7 +2,7 @@
 id: xkcd.tuesdays
 title: Tuesdays
 desc: ''
-updated: '1616125521389'
+updated: '1616126764628'
 created: '1345791600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Try our bottomless drinks and fall forever!](https://imgs.xkcd.com/comics/tuesdays.png)
+> "Tuesdays", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An unbuxom waitress begins to serve some customers at a table]]

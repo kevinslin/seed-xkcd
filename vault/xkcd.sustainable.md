@@ -2,7 +2,7 @@
 id: xkcd.sustainable
 title: Sustainable
 desc: ''
-updated: '1616125521365'
+updated: '1616126764614'
 created: '1327305600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Though 100 years is longer than a lot of our resources.](https://imgs.xkcd.com/comics/sustainable.png)
+> "Sustainable", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Frequency of use of the word "sustainable" in US English text, as a percentage of all words, by year. Source: Google NGrams.

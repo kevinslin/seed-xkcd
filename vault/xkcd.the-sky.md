@@ -2,7 +2,7 @@
 id: xkcd.the-sky
 title: The Sky
 desc: ''
-updated: '1616125521461'
+updated: '1616126764515'
 created: '1437980400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The other half has some cool shipwrecks, rocks, and snakes, but if you move those out of the way, it also has more sky.](https://imgs.xkcd.com/comics/the_sky.png)
+> "The Sky", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures stand in front of a glorious skyscape]]

@@ -2,7 +2,7 @@
 id: xkcd.ai-box-experiment
 title: AI-Box Experiment
 desc: ''
-updated: '1616125521444'
+updated: '1616126764532'
 created: '1416556800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm working to bring about a superintelligent AI that will eternally torment everyone who failed to make fun of the Roko's Basilisk people.](https://imgs.xkcd.com/comics/ai_box_experiment.png)
+> "AI-Box Experiment", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black Hat Guy walks up to Stick Guy, who has a laptop and a cardboard box on the floor.]]

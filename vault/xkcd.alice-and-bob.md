@@ -2,7 +2,7 @@
 id: xkcd.alice-and-bob
 title: Alice and Bob
 desc: ''
-updated: '1616125521332'
+updated: '1616126764471'
 created: '1162195200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Yet one more reason I'm barred from speaking at crypto conferences.](https://imgs.xkcd.com/comics/alice_and_bob.png)
+> "Alice and Bob", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl with black hair stands in the frame, talking to the reader]]

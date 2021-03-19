@@ -2,7 +2,7 @@
 id: xkcd.cloud
 title: Cloud
 desc: ''
-updated: '1616125521443'
+updated: '1616126764532'
 created: '1415347200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Cloud computing has a ways to go.](https://imgs.xkcd.com/comics/cloud.png)
+> "Cloud", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Cloud computing has a ways to go.}}

@@ -2,7 +2,7 @@
 id: xkcd.orb-hammer
 title: Orb Hammer
 desc: ''
-updated: '1616125521442'
+updated: '1616126764531'
 created: '1413788400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ok, but make sure to get lots of pieces of rock, because later we'll decide to stay in a room on our regular orb and watch hammers hold themselves and hit rocks for us, and they won't bring us very many rocks.](https://imgs.xkcd.com/comics/orb_hammer.png)
+> "Orb Hammer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Ok, but make sure to get lots of pieces of rock, because later we'll decide to stay in a room on our regular orb and watch hammers hold themselves and hit rocks for us, and they won't bring us very many rocks.}}

@@ -2,7 +2,7 @@
 id: xkcd.ted-talk
 title: TED Talk
 desc: ''
-updated: '1616125521609'
+updated: '1616126764711'
 created: '1234166400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.](https://imgs.xkcd.com/comics/ted_talk.png)
+> "TED Talk", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Randall Monroe on stage]]

@@ -2,7 +2,7 @@
 id: xkcd.ld-50
 title: LD50
 desc: ''
-updated: '1616125521398'
+updated: '1616126764435'
 created: '1378278000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The dose is much lower when administered orally. We're still trying to get the paper into the needles for subcutaneous injection.](https://imgs.xkcd.com/comics/ld50.png)
+> "LD50", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure in a white coat lies on the floor, crushed beneath a giant pile of binders & paper. Two other figures in white coats stand next to him, looking on. One is holding a clipboard.]]

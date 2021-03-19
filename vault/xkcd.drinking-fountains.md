@@ -2,7 +2,7 @@
 id: xkcd.drinking-fountains
 title: Drinking Fountains
 desc: ''
-updated: '1616125521712'
+updated: '1616126764800'
 created: '1323072000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've always wondered whether you could drink slowly enough, and eliminate fast enough, that you just sort of peed continuously. But I'm afraid to try because I worry someone might call while I'm doing it and ask what I'm up to, and I won't be able to think of a lie.](https://imgs.xkcd.com/comics/drinking_fountains.png)
+> "Drinking Fountains", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person leaving the bathroom, headed towards a nearby water fountain.  Person having a drink at said water fountain.  Person grumblingly reentering the bathroom. Same person leaving the bathroom.  Cycle repeats endlessly in a horrific sisyphean loop.]]

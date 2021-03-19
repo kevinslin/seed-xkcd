@@ -2,7 +2,7 @@
 id: xkcd.recipes
 title: Recipes
 desc: ''
-updated: '1616125521645'
+updated: '1616126764693'
 created: '1269846000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.](https://imgs.xkcd.com/comics/recipes.png)
+> "Recipes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three people, one woman and two men, sit along a table with dishes and drinks in front of them. A fourth man is walking in, a plate with food on it in one hand, a laptop in the other.]]

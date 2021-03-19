@@ -2,7 +2,7 @@
 id: xkcd.enlightenment
 title: Enlightenment
 desc: ''
-updated: '1616125521395'
+updated: '1616126764431'
 created: '1373871600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But the rules of writing are like magic spells. If you never acquire them, then not using them says nothing.](https://imgs.xkcd.com/comics/enlightenment.png)
+> "Enlightenment", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: But the rules of writing are like magic spells. If you never acquire them, then not using them says nothing.}}

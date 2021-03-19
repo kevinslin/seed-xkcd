@@ -2,7 +2,7 @@
 id: xkcd.power-cord
 title: Power Cord
 desc: ''
-updated: '1616125521507'
+updated: '1616126764500'
 created: '1405494000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.](https://imgs.xkcd.com/comics/power_cord.png)
+> "Power Cord", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick figure is sitting on a chair typing on a laptop whose cord is lying on the floor, unplugged. White Beret man approaches.]]

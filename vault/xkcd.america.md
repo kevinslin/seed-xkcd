@@ -2,7 +2,7 @@
 id: xkcd.america
 title: America
 desc: ''
-updated: '1616125521526'
+updated: '1616126764632'
 created: '1167638400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The younger folk in the audience think this is a joke.](https://imgs.xkcd.com/comics/america.png)
+> "America", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Timeline]]

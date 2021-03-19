@@ -2,7 +2,7 @@
 id: xkcd.legal-hacks
 title: Legal Hacks
 desc: ''
-updated: '1616125521601'
+updated: '1616126764690'
 created: '1226649600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.](https://imgs.xkcd.com/comics/legal_hacks.png)
+> "Legal Hacks", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sits at her computer, a man standing behind her. The woman speaks first.]]

@@ -2,7 +2,7 @@
 id: xkcd.sigh
 title: Sigh
 desc: ''
-updated: '1616125521365'
+updated: '1616126764614'
 created: '1327651200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you're annoying enough, you can get them to respond with an involuntary second sigh and get a rhythm going.](https://imgs.xkcd.com/comics/sigh.png)
+> "Sigh", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy is standing behind girl, who's sitting and watching TV.]]

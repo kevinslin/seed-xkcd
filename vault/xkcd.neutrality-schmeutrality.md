@@ -2,7 +2,7 @@
 id: xkcd.neutrality-schmeutrality
 title: Neutrality Schmeutrality
 desc: ''
-updated: '1616125521610'
+updated: '1616126764712'
 created: '1234944000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'](https://imgs.xkcd.com/comics/neutrality_shmeutrality.png)
+> "Neutrality Schmeutrality", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Trivia: It's possible to create events which Wikipedia cannot cover neutrally

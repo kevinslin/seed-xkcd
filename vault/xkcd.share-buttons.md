@@ -2,7 +2,7 @@
 id: xkcd.share-buttons
 title: Share Buttons
 desc: ''
-updated: '1616125521371'
+updated: '1616126764619'
 created: '1332745200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The only post to achieve perfect balance between the four was a hilarious joke about Mark Zuckerberg getting caught using a pseudonym to sneak past the TSA.](https://imgs.xkcd.com/comics/share_buttons.png)
+> "Share Buttons", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A series of article titles with four share buttons underneath each: Facebook, Twitter, Reddit, and Google+]]

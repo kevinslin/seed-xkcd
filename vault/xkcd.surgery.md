@@ -2,7 +2,7 @@
 id: xkcd.surgery
 title: Surgery
 desc: ''
-updated: '1616125521621'
+updated: '1616126764737'
 created: '1254466800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.](https://imgs.xkcd.com/comics/surgery.png)
+> "Surgery", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A surgeon is standing over a patient on a gurney.]]

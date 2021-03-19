@@ -2,7 +2,7 @@
 id: xkcd.science-fair
 title: Science Fair
 desc: ''
-updated: '1616125521322'
+updated: '1616126764461'
 created: '1154502000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.](https://imgs.xkcd.com/comics/science_fair.png)
+> "Science Fair", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Although it caught me by surprise at the time,

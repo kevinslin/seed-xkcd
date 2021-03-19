@@ -2,7 +2,7 @@
 id: xkcd.darmok-and-jalad
 title: Darmok and Jalad
 desc: ''
-updated: '1616125521698'
+updated: '1616126764781'
 created: '1306134000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wonder how often Patrick Stewart has Darmok flashbacks when talking to Star Trek fans.](https://imgs.xkcd.com/comics/darmok_and_jalad.png)
+> "Darmok and Jalad", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Captain Dathon is seen on a communications screen]]

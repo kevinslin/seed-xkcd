@@ -2,7 +2,7 @@
 id: xkcd.screenshots
 title: Screenshots
 desc: ''
-updated: '1616125521494'
+updated: '1616126764583'
 created: '1500015600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For the final exam, you take a screenshot showing off all the work you've done in the class, and it has to survive being uploaded, thumbnailed, and re-screenshotted through a chain of social media sites.](https://imgs.xkcd.com/comics/screenshots.png)
+> "Screenshots", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

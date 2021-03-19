@@ -2,7 +2,7 @@
 id: xkcd.expedition
 title: Expedition
 desc: ''
-updated: '1616125521430'
+updated: '1616126764412'
 created: '1359964800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm pretty sure I've logged more hours in Google Maps over the past decade than in any game.](https://imgs.xkcd.com/comics/expedition.png)
+> "Expedition", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at a desk, typing a diary entry.]]

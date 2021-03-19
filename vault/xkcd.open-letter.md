@@ -2,7 +2,7 @@
 id: xkcd.open-letter
 title: Open Letter
 desc: ''
-updated: '1616125521400'
+updated: '1616126764442'
 created: '1381129200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Are you ok?  Do you need help?](https://imgs.xkcd.com/comics/open_letter.png)
+> "Open Letter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Today's strip is in the form of a letter.))

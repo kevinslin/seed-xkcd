@@ -2,7 +2,7 @@
 id: xkcd.buzzfeed-christmas
 title: Buzzfeed Christmas
 desc: ''
-updated: '1616125521499'
+updated: '1616126764478'
 created: '1387785600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The 6 Weirdest Objects The Buzzfeed Writers Are Throwing Out Their Windows At Us](https://imgs.xkcd.com/comics/buzzfeed_christmas.png)
+> "Buzzfeed Christmas", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[4 carollers stand in a line, singing songs.]]

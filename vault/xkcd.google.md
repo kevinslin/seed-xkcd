@@ -2,7 +2,7 @@
 id: xkcd.google
 title: Google+
 desc: ''
-updated: '1616125521700'
+updated: '1616126764784'
 created: '1309330800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![On one hand, you'll never be able to convince your parents to switch. On the other hand, you'll never be able to convince your parents to switch!](https://imgs.xkcd.com/comics/googleplus.png)
+> "Google+", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Girl: You should join Google!+

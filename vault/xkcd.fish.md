@@ -2,7 +2,7 @@
 id: xkcd.fish
 title: Fish
 desc: ''
-updated: '1616125521506'
+updated: '1616126764496'
 created: '1401865200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[Astronomer peers into telescope] [Jaws theme begins playing]](https://imgs.xkcd.com/comics/fish.png)
+> "Fish", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters are talking.]]

@@ -2,7 +2,7 @@
 id: xkcd.october-30th
 title: October 30th
 desc: ''
-updated: '1616125521623'
+updated: '1616126764743'
 created: '1256886000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not enough houses on your block?  Just hit them at 30-year intervals from here to 2300 and get 10x the candy.](https://imgs.xkcd.com/comics/october_30th.png)
+> "October 30th", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A kid dressed up in a lab coat and goggles is standing on a neighbor's doorstep.]]

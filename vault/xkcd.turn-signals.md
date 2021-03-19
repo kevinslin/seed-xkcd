@@ -2,7 +2,7 @@
 id: xkcd.turn-signals
 title: Turn Signals
 desc: ''
-updated: '1616125521330'
+updated: '1616126764468'
 created: '1159772400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm not very good at meeting people.](https://imgs.xkcd.com/comics/turn_signals.png)
+> "Turn Signals", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two cars are seen sitting at a red light. One person is seen walking from his car up to the driver of the car in front of him. The turn signals of both cars seem to be blinking at the same time.]]

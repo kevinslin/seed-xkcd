@@ -2,7 +2,7 @@
 id: xkcd.banter
 title: Banter
 desc: ''
-updated: '1616125521354'
+updated: '1616126764380'
 created: '1140163200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.](https://imgs.xkcd.com/comics/banter.jpg)
+> "Banter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two guys stand together]]

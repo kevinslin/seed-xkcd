@@ -2,7 +2,7 @@
 id: xkcd.sharing
 title: Sharing
 desc: ''
-updated: '1616125521704'
+updated: '1616126764796'
 created: '1317020400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In the new edition of The Giving Tree, the tree uses social tools to share with its friend all the best places to buy things.](https://imgs.xkcd.com/comics/sharing.png)
+> "Sharing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people hang out in front of a tree]]

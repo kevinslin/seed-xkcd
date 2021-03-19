@@ -2,7 +2,7 @@
 id: xkcd.sunrise
 title: Sunrise
 desc: ''
-updated: '1616125521360'
+updated: '1616126764387'
 created: '1145602800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.](https://imgs.xkcd.com/comics/sunrise.jpg)
+> "Sunrise", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy is on the street. Behind him is a house with a lawn.]]

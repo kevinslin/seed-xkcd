@@ -2,7 +2,7 @@
 id: xkcd.my-business-idea
 title: My Business Idea
 desc: ''
-updated: '1616125521657'
+updated: '1616126764769'
 created: '1291017600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know.](https://imgs.xkcd.com/comics/my_business_idea.png)
+> "My Business Idea", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting at his desk, pointing at his laptop.]]

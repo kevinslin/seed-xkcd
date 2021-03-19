@@ -2,7 +2,7 @@
 id: xkcd.pgp
 title: PGP
 desc: ''
-updated: '1616125521433'
+updated: '1616126764415'
 created: '1362384000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.](https://imgs.xkcd.com/comics/pgp.png)
+> "PGP", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 How to use PGP to verify that an email is authentic:

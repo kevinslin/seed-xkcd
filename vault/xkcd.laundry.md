@@ -2,7 +2,7 @@
 id: xkcd.laundry
 title: Laundry
 desc: ''
-updated: '1616125521379'
+updated: '1616126764624'
 created: '1339138800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![During the second semester, the path is briefly routed through the dishwasher.](https://imgs.xkcd.com/comics/laundry.png)
+> "Laundry", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Heading reads "College Laundry Habits".]]

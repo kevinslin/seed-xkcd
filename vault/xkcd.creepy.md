@@ -2,7 +2,7 @@
 id: xkcd.creepy
 title: Creepy
 desc: ''
-updated: '1616125521621'
+updated: '1616126764737'
 created: '1254121200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And I even got out my adorable new netbook!](https://imgs.xkcd.com/comics/creepy.png)
+> "Creepy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are sitting on chairs.]]

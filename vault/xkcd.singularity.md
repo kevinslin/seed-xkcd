@@ -2,7 +2,7 @@
 id: xkcd.singularity
 title: Singularity
 desc: ''
-updated: '1616125521414'
+updated: '1616126764566'
 created: '1460703600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I figured that now that society has collapsed, I wouldn't need to wear clothes anymore, but apparently that violates some weird rule of quantum gravity.](https://imgs.xkcd.com/comics/singularity.png)
+> "Singularity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This strip is laid out like a Wikipedia contents table.))

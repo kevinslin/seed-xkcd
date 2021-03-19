@@ -2,7 +2,7 @@
 id: xkcd.thesis-defense
 title: Thesis Defense
 desc: ''
-updated: '1616125521438'
+updated: '1616126764526'
 created: '1407135600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART](https://imgs.xkcd.com/comics/thesis_defense.png)
+> "Thesis Defense", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman runs towards a desk with two microphones on it, waving a broadsword high in the air. Two figures sitting behind the desk are taken aback, while a woman standing off to the side holds an arm in front of her face protectively. A slide is projected on a screen behind the sword-reading woman, reading "The evolution of threat defence in mammals".]]

@@ -2,7 +2,7 @@
 id: xkcd.attention-shopper
 title: 'Attention, shopper'
 desc: ''
-updated: '1616125521357'
+updated: '1616126764384'
 created: '1143446400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's a red convertible outside my building with the license plate 'DADS MNY'.](https://imgs.xkcd.com/comics/attention_shopper.jpg)
+> "Attention, shopper", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat guy is holding a golf club and speaking into a P.A. system]]

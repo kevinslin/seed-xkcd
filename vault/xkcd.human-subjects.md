@@ -2,7 +2,7 @@
 id: xkcd.human-subjects
 title: Human Subjects
 desc: ''
-updated: '1616125521469'
+updated: '1616126764523'
 created: '1445583600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines.](https://imgs.xkcd.com/comics/human_subjects.png)
+> "Human Subjects", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are sitting at a desk reviewing things.]]

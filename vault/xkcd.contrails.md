@@ -2,7 +2,7 @@
 id: xkcd.contrails
 title: Contrails
 desc: ''
-updated: '1616125521416'
+updated: '1616126764569'
 created: '1462518000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Astronomy (or "astrology" in British English) is the study of ...](https://imgs.xkcd.com/comics/contrails.png)
+> "Contrails", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure is pushing a shopping cart, with a thought balloon from their head.]]

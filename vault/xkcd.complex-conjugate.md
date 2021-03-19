@@ -2,7 +2,7 @@
 id: xkcd.complex-conjugate
 title: Complex Conjugate
 desc: ''
-updated: '1616125521668'
+updated: '1616126764771'
 created: '1295424000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Fun fact: if you say this every time a professor does something to a complex-number equation that drops the imaginary part, they'll eventually move the class to another room and tell everyone else except you.](https://imgs.xkcd.com/comics/complex_conjugate.png)
+> "Complex Conjugate", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A teacher is standing at a whiteboard covered in equations.]]

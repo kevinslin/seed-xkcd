@@ -2,7 +2,7 @@
 id: xkcd.latitude
 title: Latitude
 desc: ''
-updated: '1616125521616'
+updated: '1616126764727'
 created: '1244790000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The G1, especially with the new Android upgrade, is way better than I originally thought.](https://imgs.xkcd.com/comics/latitude.png)
+> "Latitude", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The Black Hat Guy is holding a phone up to someone.]]

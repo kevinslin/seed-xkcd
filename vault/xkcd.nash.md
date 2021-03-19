@@ -2,7 +2,7 @@
 id: xkcd.nash
 title: Nash
 desc: ''
-updated: '1616125521333'
+updated: '1616126764471'
 created: '1163145600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Maybe someday science will get over its giant collective crush on Richard Feynman.  But I doubt it!](https://imgs.xkcd.com/comics/nash.png)
+> "Nash", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men stand talking two each other.  The first man is pointing off the panel]]

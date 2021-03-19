@@ -2,7 +2,7 @@
 id: xkcd.food-combinations
 title: Food Combinations
 desc: ''
-updated: '1616125521406'
+updated: '1616126764558'
 created: '1448611200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."](https://imgs.xkcd.com/comics/food_combinations.png)
+> "Food Combinations", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

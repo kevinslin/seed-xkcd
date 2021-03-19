@@ -2,7 +2,7 @@
 id: xkcd.secretary-part-1
 title: 'Secretary: Part 1'
 desc: ''
-updated: '1616125521599'
+updated: '1616126764689'
 created: '1225090800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The blueprints for the Department of the Internet offices call for Ceiling Cat-themed sprinkler heads.](https://imgs.xkcd.com/comics/secretary_part_1.png)
+> "Secretary: Part 1", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Spring 2009- The new president faces a crisis...

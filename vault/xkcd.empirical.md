@@ -2,7 +2,7 @@
 id: xkcd.empirical
 title: Empirical
 desc: ''
-updated: '1616125521703'
+updated: '1616126764791'
 created: '1314342000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm as surprised as you!](https://imgs.xkcd.com/comics/empirical.png)
+> "Empirical", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are standing together, one with long hair (presumably female) and one without visible hair (presumably male).]]

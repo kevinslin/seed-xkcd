@@ -2,7 +2,7 @@
 id: xkcd.vacuum
 title: Vacuum
 desc: ''
-updated: '1616125521450'
+updated: '1616126764537'
 created: '1423814400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Do you think you could actually clean the living room at some point, though?](https://imgs.xkcd.com/comics/vacuum.png)
+> "Vacuum", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Beret Guy is heaving a vacuum cleaner overhead]]

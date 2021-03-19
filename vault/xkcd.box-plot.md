@@ -2,7 +2,7 @@
 id: xkcd.box-plot
 title: Box Plot
 desc: ''
-updated: '1616125521484'
+updated: '1616126764554'
 created: '1486972800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You have to be careful doing this. Sometimes, when you push the whisker down, dynamite explodes.](https://imgs.xkcd.com/comics/box_plot.png)
+> "Box Plot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

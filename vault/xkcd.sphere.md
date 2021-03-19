@@ -2,7 +2,7 @@
 id: xkcd.sphere
 title: Sphere
 desc: ''
-updated: '1616125521397'
+updated: '1616126764433'
 created: '1375858800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This message brought to you by the Society of Astronomers Trapped on the Surface of a Sphere.](https://imgs.xkcd.com/comics/sphere.png)
+> "Sphere", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: How are you?

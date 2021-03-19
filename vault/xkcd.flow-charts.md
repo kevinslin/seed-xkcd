@@ -2,7 +2,7 @@
 id: xkcd.flow-charts
 title: Flow Charts
 desc: ''
-updated: '1616125521606'
+updated: '1616126764709'
 created: '1229500800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!](https://imgs.xkcd.com/comics/flow_charts.png)
+> "Flow Charts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A guide to [[line break, bigger text]] understanding flow charts [[line break, normal text]] presented in flow chart form.

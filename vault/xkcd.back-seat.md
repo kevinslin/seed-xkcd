@@ -2,7 +2,7 @@
 id: xkcd.back-seat
 title: Back Seat
 desc: ''
-updated: '1616125521465'
+updated: '1616126764517'
 created: '1439794800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hang on, let me scare the live raccoon over to the same side as the dead one.](https://imgs.xkcd.com/comics/back_seat.png)
+> "Back Seat", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Title: PROTIP

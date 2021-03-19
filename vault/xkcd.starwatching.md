@@ -2,7 +2,7 @@
 id: xkcd.starwatching
 title: Starwatching
 desc: ''
-updated: '1616125521589'
+updated: '1616126764676'
 created: '1211785200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I always figured the word 'blog' would sound *less* silly as the years went by.](https://imgs.xkcd.com/comics/starwatching.png)
+> "Starwatching", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man: Just look at those stars.

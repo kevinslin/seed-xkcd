@@ -2,7 +2,7 @@
 id: xkcd.douglas-engelbart-1925-2013
 title: Douglas Engelbart (1925-2013)
 desc: ''
-updated: '1616125521395'
+updated: '1616126764430'
 created: '1373007600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Actual quote from The Demo: '... an advantage of being online is that it keeps track of who you are and what you’re doing all the time ...'](https://imgs.xkcd.com/comics/douglas_engelbart_1925_2013.png)
+> "Douglas Engelbart (1925-2013)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 San Francisco, December 9th, 1968: 

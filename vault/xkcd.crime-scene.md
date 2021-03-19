@@ -2,7 +2,7 @@
 id: xkcd.crime-scene
 title: Crime Scene
 desc: ''
-updated: '1616125521615'
+updated: '1616126764721'
 created: '1242975600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I think I see a Mandelbrot set! No, that's just blood splatters. Golly.](https://imgs.xkcd.com/comics/crime_scene.png)
+> "Crime Scene", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A crime scene is surrounded in tape.  A large black pool is on the ground, with splashes around it, and some sort of tool.  Two people are standing outside the tape.]]

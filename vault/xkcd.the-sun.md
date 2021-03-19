@@ -2,7 +2,7 @@
 id: xkcd.the-sun
 title: The Sun
 desc: ''
-updated: '1616125521625'
+updated: '1616126764745'
 created: '1260345600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Obligatory bad guy: This operation is sheer foolishness, and it's not happening on my watch!  Mainly because I can't figure out how to adjust the time.](https://imgs.xkcd.com/comics/the_sun.png)
+> "The Sun", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Coming this March from the makers of The Core ...

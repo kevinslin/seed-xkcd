@@ -2,7 +2,7 @@
 id: xkcd.m-c-hammer-slide
 title: M.C. Hammer Slide
 desc: ''
-updated: '1616125521311'
+updated: '1616126764455'
 created: '1148886000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.](https://imgs.xkcd.com/comics/mc_hammer_slide.png)
+> "M.C. Hammer Slide", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two guys stand next to each other talking]]

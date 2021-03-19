@@ -2,7 +2,7 @@
 id: xkcd.dating-service
 title: Dating Service
 desc: ''
-updated: '1616125521316'
+updated: '1616126764458'
 created: '1151305200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I don't understand why people are so disingenuous!  I just want someone to walk with!](https://imgs.xkcd.com/comics/dating_service.png)
+> "Dating Service", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A computer monitor displays the profile of a man named Randall on an online dating site. His profile contains a picture of a spiky-haired man and some text, which is rendered as dialogue in the panels.]]

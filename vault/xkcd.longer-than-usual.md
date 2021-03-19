@@ -2,7 +2,7 @@
 id: xkcd.longer-than-usual
 title: Longer Than Usual
 desc: ''
-updated: '1616125521410'
+updated: '1616126764561'
 created: '1453104000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['--> [ Well, this is embarrassing. ] <--'](https://imgs.xkcd.com/comics/longer_than_usual.png)
+> "Longer Than Usual", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures are talking.]]

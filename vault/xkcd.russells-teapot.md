@@ -2,7 +2,7 @@
 id: xkcd.russells-teapot
 title: Russell's Teapot
 desc: ''
-updated: '1616125521495'
+updated: '1616126764583'
 created: '1500620400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Unfortunately, NASA regulations state that Bertrand Russell-related payloads can only be launched within launch vehicles which do not launch themselves.](https://imgs.xkcd.com/comics/russells_teapot.png)
+> "Russell's Teapot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

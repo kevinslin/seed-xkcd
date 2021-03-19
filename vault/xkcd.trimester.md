@@ -2,7 +2,7 @@
 id: xkcd.trimester
 title: Trimester
 desc: ''
-updated: '1616125521629'
+updated: '1616126764748'
 created: '1265616000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also, it's not like anyone actually calls up the Nobel committee to double-check things.](https://imgs.xkcd.com/comics/trimester.png)
+> "Trimester", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man in a lab coat is talking to a woman who's sitting on an examining table.]]

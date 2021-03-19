@@ -2,7 +2,7 @@
 id: xkcd.household-tips
 title: Household Tips
 desc: ''
-updated: '1616125521472'
+updated: '1616126764540'
 created: '1470207600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To make your shoes feel more comfortable, smell better, and last longer, try taking them off before you shower.](https://imgs.xkcd.com/comics/household_tips.png)
+> "Household Tips", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

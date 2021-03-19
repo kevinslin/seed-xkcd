@@ -2,7 +2,7 @@
 id: xkcd.glass-trolling
 title: Glass Trolling
 desc: ''
-updated: '1616125521499'
+updated: '1616126764478'
 created: '1387180800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.](https://imgs.xkcd.com/comics/glass_trolling.png)
+> "Glass Trolling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure wearing glasses is looking at his phone.]]

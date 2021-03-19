@@ -2,7 +2,7 @@
 id: xkcd.cold
 title: Cold
 desc: ''
-updated: '1616125521501'
+updated: '1616126764483'
 created: '1390550400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'](https://imgs.xkcd.com/comics/cold.png)
+> "Cold", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures in winter hats, one hat white and the other hat black, are walking.]]

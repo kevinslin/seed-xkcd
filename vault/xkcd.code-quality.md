@@ -2,7 +2,7 @@
 id: xkcd.code-quality
 title: Code Quality
 desc: ''
-updated: '1616125521455'
+updated: '1616126764504'
 created: '1429254000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones.](https://imgs.xkcd.com/comics/code_quality.png)
+> "Code Quality", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An AMATEUR CODER excitedly gestures a PRO CODER towards a laptop computer on a desk.]]

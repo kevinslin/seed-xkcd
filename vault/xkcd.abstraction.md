@@ -2,7 +2,7 @@
 id: xkcd.abstraction
 title: Abstraction
 desc: ''
-updated: '1616125521626'
+updated: '1616126764745'
 created: '1260950400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If I'm such a god, why isn't Maru *my* cat?](https://imgs.xkcd.com/comics/abstraction.png)
+> "Abstraction", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is sitting at a computer.]]

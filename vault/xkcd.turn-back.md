@@ -2,7 +2,7 @@
 id: xkcd.turn-back
 title: Turn Back
 desc: ''
-updated: '1616125521331'
+updated: '1616126764469'
 created: '1160722800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hear that these days Bill Watterson is happy just painting in the Ohio woods with his father and doesn't get any mail or talk to anyone.](https://imgs.xkcd.com/comics/turn_back.png)
+> "Turn Back", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: Should we keep going?

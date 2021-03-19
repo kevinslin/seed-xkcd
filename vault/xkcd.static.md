@@ -2,7 +2,7 @@
 id: xkcd.static
 title: Static
 desc: ''
-updated: '1616125521622'
+updated: '1616126764738'
 created: '1255503600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.](https://imgs.xkcd.com/comics/static.png)
+> "Static", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[It's dark. There are only the voices of a man and his lover.]]

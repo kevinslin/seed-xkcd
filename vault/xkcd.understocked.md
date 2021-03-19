@@ -2,7 +2,7 @@
 id: xkcd.understocked
 title: Understocked
 desc: ''
-updated: '1616125521618'
+updated: '1616126764733'
 created: '1249023600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.](https://imgs.xkcd.com/comics/understocked.png)
+> "Understocked", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A bearded man with glasses and a police man are swearing at each other on a stoop.]]

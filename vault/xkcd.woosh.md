@@ -2,7 +2,7 @@
 id: xkcd.woosh
 title: Woosh
 desc: ''
-updated: '1616125521409'
+updated: '1616126764560'
 created: '1452240000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.](https://imgs.xkcd.com/comics/woosh.png)
+> "Woosh", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 More substitutions that make reading the news more fun 

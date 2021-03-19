@@ -2,7 +2,7 @@
 id: xkcd.more-accurate
 title: More Accurate
 desc: ''
-updated: '1616125521622'
+updated: '1616126764743'
 created: '1256108400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.](https://imgs.xkcd.com/comics/more_accurate.png)
+> "More Accurate", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man with a shotgun approaches a woman.]]

@@ -2,7 +2,7 @@
 id: xkcd.california
 title: California
 desc: ''
-updated: '1616125521439'
+updated: '1616126764527'
 created: '1408518000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![58% of the state has gone into plaid.](https://imgs.xkcd.com/comics/california.png)
+> "California", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: 58% of the state has gone into plaid.}}

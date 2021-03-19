@@ -2,7 +2,7 @@
 id: xkcd.juggling
 title: Juggling
 desc: ''
-updated: '1616125521703'
+updated: '1616126764789'
 created: '1314169200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Later: 'Why is there a book hovering over the trash can?'](https://imgs.xkcd.com/comics/juggling.png)
+> "Juggling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The panel shows a close up of a person reading a book. The book is called "How To Juggle" and has a picture of a person juggling on the cover.]]

@@ -2,7 +2,7 @@
 id: xkcd.sail
 title: Sail
 desc: ''
-updated: '1616125521711'
+updated: '1616126764798'
 created: '1320998400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It only works a few times before you have to capsize the boat in a soap lagoon again.](https://imgs.xkcd.com/comics/sail.png)
+> "Sail", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is sailing a cat-rigged sailboat. He detaches the mainsheet from the stern.]]

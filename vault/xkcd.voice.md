@@ -2,7 +2,7 @@
 id: xkcd.voice
 title: Voice
 desc: ''
-updated: '1616125521459'
+updated: '1616126764511'
 created: '1434956400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Anyway, we should totally go watch a video story or put some food in our normal mouths!](https://imgs.xkcd.com/comics/voice.png)
+> "Voice", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people, one with dark hair and one with light hair, walking along.]]

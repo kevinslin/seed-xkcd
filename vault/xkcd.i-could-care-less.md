@@ -2,7 +2,7 @@
 id: xkcd.i-could-care-less
 title: I Could Care Less
 desc: ''
-updated: '1616125521467'
+updated: '1616126764519'
 created: '1441954800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I literally could care less.](https://imgs.xkcd.com/comics/i_could_care_less.png)
+> "I Could Care Less", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two Friends walking and talking.]]

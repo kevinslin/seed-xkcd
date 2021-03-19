@@ -2,7 +2,7 @@
 id: xkcd.virus-venn-diagram
 title: Virus Venn Diagram
 desc: ''
-updated: '1616125521433'
+updated: '1616126764415'
 created: '1362124800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Within five minutes of the Singularity appearing, somebody will suggest defragging it.](https://imgs.xkcd.com/comics/virus_venn_diagram.png)
+> "Virus Venn Diagram", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There are two circles, a green one, and a blue one. They form a Venn diagram composed of two disjoint sets.]]

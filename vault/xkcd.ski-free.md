@@ -2,7 +2,7 @@
 id: xkcd.ski-free
 title: SkiFree
 desc: ''
-updated: '1616125521625'
+updated: '1616126764744'
 created: '1259136000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And from that day on, I wore this little 'F' key pendant everywhere I went.](https://imgs.xkcd.com/comics/skifree.png)
+> "SkiFree", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[We see a screenshot of SkiFree, with the abominable snowman running towards the player]]

@@ -2,7 +2,7 @@
 id: xkcd.klout
 title: Klout
 desc: ''
-updated: '1616125521377'
+updated: '1616126764623'
 created: '1337324400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Though please do confirm that it's actually *me* on Klout first, and not one of my friends trying to get me punched. The great thing about this douchebag deadman switch is that I will never dare trigger it.](https://imgs.xkcd.com/comics/klout.png)
+> "Klout", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person: I'd like to ask a favor.  If someday, in the future, we meet in person, 

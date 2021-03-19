@@ -2,7 +2,7 @@
 id: xkcd.insanity
 title: Insanity
 desc: ''
-updated: '1616125521413'
+updated: '1616126764564'
 created: '1458284400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I looked up "insanity" in like 10 different dictionaries and none of them said anything like that. Neither did the DSM-4. But I'll keep looking. Maybe it's in the DSM-5!](https://imgs.xkcd.com/comics/insanity.png)
+> "Insanity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There's a clock, set to 3 minutes to midnight. It has a caption:]]

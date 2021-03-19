@@ -2,7 +2,7 @@
 id: xkcd.abusive-astronomy
 title: Abusive Astronomy
 desc: ''
-updated: '1616125521354'
+updated: '1616126764381'
 created: '1140422400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Medium: Pencil on paper](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)
+> "Abusive Astronomy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Identifying star clusters:

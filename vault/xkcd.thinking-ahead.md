@@ -2,7 +2,7 @@
 id: xkcd.thinking-ahead
 title: Thinking Ahead
 desc: ''
-updated: '1616125521590'
+updated: '1616126764678'
 created: '1213945200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Did he just go crazy and jump out the window?](https://imgs.xkcd.com/comics/thinking_ahead.png)
+> "Thinking Ahead", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[My Problem: Thinking Ahead]]

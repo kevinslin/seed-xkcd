@@ -2,7 +2,7 @@
 id: xkcd.a-way-so-familiar
 title: A Way So Familiar
 desc: ''
-updated: '1616125521326'
+updated: '1616126764463'
 created: '1156316400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Two Hedwig references, an obscure Joey Comeau reference, and a girl with a mohawk.  Yes.](https://imgs.xkcd.com/comics/a_way_so_familiar.png)
+> "A Way So Familiar", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: I saw a cute girl outside the bank today. She looked nice.

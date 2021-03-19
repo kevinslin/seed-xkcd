@@ -2,7 +2,7 @@
 id: xkcd.cd-tray-fight
 title: CD Tray Fight
 desc: ''
-updated: '1616125521546'
+updated: '1616126764641'
 created: '1177052400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This is silly, of course.  The enemy will be born in the network.](https://imgs.xkcd.com/comics/cd_tray_fight.png)
+> "CD Tray Fight", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick figure is standing, holding a CD tray which is half-in his computer. There are other CDs on the floor.]]

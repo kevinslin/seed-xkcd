@@ -2,7 +2,7 @@
 id: xkcd.secretary-part-5
 title: 'Secretary: Part 5'
 desc: ''
-updated: '1616125521600'
+updated: '1616126764689'
 created: '1225436400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And they choose Al Gore as Internet Secretary.](https://imgs.xkcd.com/comics/secretary_part_5.png)
+> "Secretary: Part 5", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{The Senate. Hat Guy sits before the committee at his hearing to become Internet Secretary.}}

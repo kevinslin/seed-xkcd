@@ -2,7 +2,7 @@
 id: xkcd.holy-ghost
 title: Holy Ghost
 desc: ''
-updated: '1616125521592'
+updated: '1616126764684'
 created: '1218006000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Okay, everyone, cross yourselves, then cross the streams.](https://imgs.xkcd.com/comics/holy_ghost.png)
+> "Holy Ghost", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Pope: this is a disaster.

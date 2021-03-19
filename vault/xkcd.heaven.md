@@ -2,7 +2,7 @@
 id: xkcd.heaven
 title: Heaven
 desc: ''
-updated: '1616125521693'
+updated: '1616126764778'
 created: '1303282800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.](https://imgs.xkcd.com/comics/heaven.png)
+> "Heaven", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The display is a tetris game.  A large oddly shaped piece is falling towards the board.  The piece fits into the gaps exactly to complete multiple rows at once.  The next piece is simply a very long brick.]]

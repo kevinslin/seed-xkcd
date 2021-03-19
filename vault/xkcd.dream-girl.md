@@ -2,7 +2,7 @@
 id: xkcd.dream-girl
 title: Dream Girl
 desc: ''
-updated: '1616125521544'
+updated: '1616126764639'
 created: '1174892400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No matter how elaborately you fool yourself.](https://imgs.xkcd.com/comics/dream_girl.png)
+> "Dream Girl", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man 1: I had a dream that I met a girl in a dying world.

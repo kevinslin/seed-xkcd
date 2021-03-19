@@ -2,7 +2,7 @@
 id: xkcd.baking-soda-and-vinegar
 title: Baking Soda and Vinegar
 desc: ''
-updated: '1616125521407'
+updated: '1616126764558'
 created: '1449043200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sure, it may not meet science fair standards, but I want credit for getting my baking soda and vinegar mountain added to the Decade Volcanoes list.](https://imgs.xkcd.com/comics/baking_soda_and_vinegar.png)
+> "Baking Soda and Vinegar", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Figure: You know what's actually really good? FOOD and FOOD.

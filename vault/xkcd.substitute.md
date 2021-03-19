@@ -2,7 +2,7 @@
 id: xkcd.substitute
 title: Substitute
 desc: ''
-updated: '1616125521322'
+updated: '1616126764461'
 created: '1154329200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![YOU THINK THIS IS FUNNY?](https://imgs.xkcd.com/comics/substitute.png)
+> "Substitute", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[In a class room, the board says "Math" on the top-left corner, and "Mr. Munroe" in the middle. A stick figure is standing in front of it, speaking to the class.]]

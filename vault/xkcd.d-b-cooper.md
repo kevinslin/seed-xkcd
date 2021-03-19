@@ -2,7 +2,7 @@
 id: xkcd.d-b-cooper
 title: D.B. Cooper
 desc: ''
-updated: '1616125521437'
+updated: '1616126764525'
 created: '1406530800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Why on Earth would someone commit air piracy just to finance a terrible movie decades later?' 'People are very strange these days.'](https://imgs.xkcd.com/comics/d_b_cooper.png)
+> "D.B. Cooper", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick person stands in front of a board with a bulleted list, using a pointer to indicate. The board reads:]]

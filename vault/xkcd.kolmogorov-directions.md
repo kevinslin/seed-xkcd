@@ -2,7 +2,7 @@
 id: xkcd.kolmogorov-directions
 title: Kolmogorov Directions
 desc: ''
-updated: '1616125521428'
+updated: '1616126764409'
 created: '1357113600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![People get really grumpy when they realize you're giving them directions for how to go to the store and buy a GPS.](https://imgs.xkcd.com/comics/kolmogorov_directions.png)
+> "Kolmogorov Directions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands talking on his cellphone.]]

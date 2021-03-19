@@ -2,7 +2,7 @@
 id: xkcd.valentine-karnaugh
 title: Valentine - Karnaugh
 desc: ''
-updated: '1616125521354'
+updated: '1616126764379'
 created: '1139558400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Love and circuit analysis, hand in hand at last.](https://imgs.xkcd.com/comics/karnaugh.jpg)
+> "Valentine - Karnaugh", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[squiggly heart design]]

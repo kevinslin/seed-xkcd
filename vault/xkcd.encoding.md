@@ -2,7 +2,7 @@
 id: xkcd.encoding
 title: Encoding
 desc: ''
-updated: '1616125521391'
+updated: '1616126764423'
 created: '1367996400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I don't see how; the C0 block is right there at the beginning.](https://imgs.xkcd.com/comics/encoding.png)
+> "Encoding", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[He and she are holding radios and looking up.]]

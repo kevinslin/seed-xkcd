@@ -2,7 +2,7 @@
 id: xkcd.charity
 title: Charity
 desc: ''
-updated: '1616125521689'
+updated: '1616126764776'
 created: '1299830400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I usually respond to someone else doing something good by figuring out a reason that they're not really as good as they seem. But I've been realizing lately that there's an easier way to handle these situations, and it involves zero internet arguments.](https://imgs.xkcd.com/comics/charity.png)
+> "Charity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Gamer: I'm going to buy this $10 game I want, and I'm donating $10 for malaria eradication.

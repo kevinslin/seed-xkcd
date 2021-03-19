@@ -2,7 +2,7 @@
 id: xkcd.the-pace-of-modern-life
 title: The Pace of Modern Life
 desc: ''
-updated: '1616125521393'
+updated: '1616126764428'
 created: '1371625200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Unfortunately, the notion of marriage which prevails ... at the present time ... regards the institution as simply a convenient arrangement or formal contract ... This disregard of the sanctity of marriage and contempt for its restrictions is one of the most alarming tendencies of the present age.' --John Harvey Kellogg, Ladies' guide in health and disease (1883)](https://imgs.xkcd.com/comics/the_pace_of_modern_life.png)
+> "The Pace of Modern Life", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This strip is in the form of a long series of quotes. Here, each quote is given as a separate panel. Attribution is delimited with a --. Some text is bolded; it is enclosed in asterisks.))

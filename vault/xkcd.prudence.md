@@ -2,7 +2,7 @@
 id: xkcd.prudence
 title: Prudence
 desc: ''
-updated: '1616125521625'
+updated: '1616126764744'
 created: '1258704000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Moments later, the White Witch rolls up and, confused, tries to tempt the probe with a firmware upgrade.](https://imgs.xkcd.com/comics/prudence.png)
+> "Prudence", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl is running towards a closed wardrobe.]]

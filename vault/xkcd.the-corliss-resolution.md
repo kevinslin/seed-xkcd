@@ -2,7 +2,7 @@
 id: xkcd.the-corliss-resolution
 title: The Corliss Resolution
 desc: ''
-updated: '1616125521705'
+updated: '1616126764797'
 created: '1318230000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And no avian society ever develops space travel because it's impossible to focus on calculus when you could be outside flying.](https://imgs.xkcd.com/comics/the_corliss_resolution.png)
+> "The Corliss Resolution", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Fermi Paradox: Planets are so common that life should be too. So where is it?

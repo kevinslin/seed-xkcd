@@ -2,7 +2,7 @@
 id: xkcd.lithium-batteries
 title: Lithium Batteries
 desc: ''
-updated: '1616125521611'
+updated: '1616126764714'
 created: '1237964400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.](https://imgs.xkcd.com/comics/lithium_batteries.png)
+> "Lithium Batteries", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Timeline of Commercial Uses of Lithium Batteries:

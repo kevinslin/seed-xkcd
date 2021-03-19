@@ -2,7 +2,7 @@
 id: xkcd.good-cop-dadaist-cop
 title: 'Good Cop, Dadaist Cop'
 desc: ''
-updated: '1616125521367'
+updated: '1616126764616'
 created: '1329465600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.](https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png)
+> "Good Cop, Dadaist Cop", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two cops look through a window into an interrogation chamber holding a handcuffed suspect ]]

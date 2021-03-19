@@ -2,7 +2,7 @@
 id: xkcd.tamagotchi-hive
 title: Tamagotchi Hive
 desc: ''
-updated: '1616125521459'
+updated: '1616126764512'
 created: '1435906800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Singularity happened, but not to us.](https://imgs.xkcd.com/comics/tamagotchi_hive.png)
+> "Tamagotchi Hive", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 TITLE: My hobby.

@@ -2,7 +2,7 @@
 id: xkcd.sleet
 title: Sleet
 desc: ''
-updated: '1616125521603'
+updated: '1616126764708'
 created: '1228118400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I mean, I can barely hear myself complaining about Battlestar Galactica.](https://imgs.xkcd.com/comics/sleet.png)
+> "Sleet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Rainy, cold, windy street; girl is walking along street; narration is from girl's point-of-view]]

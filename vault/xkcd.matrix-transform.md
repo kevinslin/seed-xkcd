@@ -2,7 +2,7 @@
 id: xkcd.matrix-transform
 title: Matrix Transform
 desc: ''
-updated: '1616125521334'
+updated: '1616126764472'
 created: '1163577600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In fact, draw all your rotational matrices sideways.  Your professors will love it!  And then they'll go home and shrink.](https://imgs.xkcd.com/comics/matrix_transform.png)
+> "Matrix Transform", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ( ( cos 90º  sin 90º) ( -sin 90º cos 90º ) )  ( a1 a2 )t = [[The same (a1 a2)t matrix turned 90º to the right]]

@@ -2,7 +2,7 @@
 id: xkcd.uv
 title: UV
 desc: ''
-updated: '1616125521447'
+updated: '1616126764534'
 created: '1420444800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, why stop at our house? We could burn down ALL these houses for the insurance money.](https://imgs.xkcd.com/comics/uv.png)
+> "UV", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character with hair, carrying a flashlight, approaches a sitting bald character, engrossed in a laptop computer.]]

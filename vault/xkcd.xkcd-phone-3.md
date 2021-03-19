@@ -2,7 +2,7 @@
 id: xkcd.xkcd-phone-3
 title: xkcd Phone 3
 desc: ''
-updated: '1616125521460'
+updated: '1616126764513'
 created: '1436511600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you're not completely satisfied with the phone after 30 days, we will return you to your home at no cost.](https://imgs.xkcd.com/comics/xkcd_phone_3.png)
+> "xkcd Phone 3", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A drawing of a phone is shown here. Numerous features are pointed out. It is called THE XKCD PHONE 3, We Made Another One®]]

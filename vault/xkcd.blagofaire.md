@@ -2,7 +2,7 @@
 id: xkcd.blagofaire
 title: Blagofaire
 desc: ''
-updated: '1616125521541'
+updated: '1616126764639'
 created: '1174633200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Things were better before the Structuring and the Levels.](https://imgs.xkcd.com/comics/blagofaire.png)
+> "Blagofaire", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man in Red Cape and Goggles: Hey, it worked!

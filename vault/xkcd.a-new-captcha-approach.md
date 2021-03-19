@@ -2,7 +2,7 @@
 id: xkcd.a-new-captcha-approach
 title: A New CAPTCHA Approach
 desc: ''
-updated: '1616125521530'
+updated: '1616126764638'
 created: '1173427200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They'd use that Futurama episode with Fry's dog, but even spambots cry at that.](https://imgs.xkcd.com/comics/a_new_captcha_approach.png)
+> "A New CAPTCHA Approach", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 To complete your web registration, please prove that you're human:

@@ -2,7 +2,7 @@
 id: xkcd.arcane-bullshit
 title: Arcane Bullshit
 desc: ''
-updated: '1616125521415'
+updated: '1616126764566'
 created: '1461308400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Learning arcane bullshit from the 80s can break your computer, but if you're willing to wade through arcane bullshit from programmers in the 90s and 2000s, you can break everyone else's computers, too.](https://imgs.xkcd.com/comics/arcane_bullshit.png)
+> "Arcane Bullshit", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a desk, using a laptop. A voice offscreen addresses him.]]

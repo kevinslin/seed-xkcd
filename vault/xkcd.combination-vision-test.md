@@ -2,7 +2,7 @@
 id: xkcd.combination-vision-test
 title: Combination Vision Test
 desc: ''
-updated: '1616125521392'
+updated: '1616126764424'
 created: '1368774000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you see two numbers but they're both the same and you have to squint to read them, you have synesthesia, colorblindness, diplopia, and myopia.](https://imgs.xkcd.com/comics/combination_vision_test.png)
+> "Combination Vision Test", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 COMBINATION VISION TEST

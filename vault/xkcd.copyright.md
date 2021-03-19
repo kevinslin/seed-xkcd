@@ -2,7 +2,7 @@
 id: xkcd.copyright
 title: Copyright
 desc: ''
-updated: '1616125521343'
+updated: '1616126764361'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![After reading Slashdot and BoingBoing, sometimes I have to go outside.](https://imgs.xkcd.com/comics/copyright.jpg)
+> "Copyright", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Colored drawing of a hilly grassy landscape, stick figure leaning against a tree.]]

@@ -2,7 +2,7 @@
 id: xkcd.myspace
 title: Myspace
 desc: ''
-updated: '1616125521322'
+updated: '1616126764460'
 created: '1154070000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'](https://imgs.xkcd.com/comics/myspace.png)
+> "Myspace", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Computer screen showing a myspace page]]

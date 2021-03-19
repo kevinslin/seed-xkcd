@@ -2,7 +2,7 @@
 id: xkcd.rtfm
 title: RTFM
 desc: ''
-updated: '1616125521557'
+updated: '1616126764648'
 created: '1185174000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Life is too short for man pages, but occasionally much too short without them.](https://imgs.xkcd.com/comics/rtfm.png)
+> "RTFM", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ A man with a knife sticking out of his heavily bleeding face stands in front of a toaster, which has an arm extending from the top of it. He is holding a telephone to his ear. ]]

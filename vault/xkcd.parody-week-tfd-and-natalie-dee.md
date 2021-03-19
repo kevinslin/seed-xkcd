@@ -2,7 +2,7 @@
 id: xkcd.parody-week-tfd-and-natalie-dee
 title: 'Parody Week: TFD and Natalie Dee'
 desc: ''
-updated: '1616125521325'
+updated: '1616126764462'
 created: '1155711600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Although bees with tires would be kinda funny.](https://imgs.xkcd.com/comics/tfd_nataliedee.png)
+> "Parody Week: TFD and Natalie Dee", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 SO GUYS WHAT IS FUNNY THIS WEEK?

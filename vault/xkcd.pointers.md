@@ -2,7 +2,7 @@
 id: xkcd.pointers
 title: Pointers
 desc: ''
-updated: '1616125521323'
+updated: '1616126764461'
 created: '1154934000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Every computer, at the unreachable memory address 0x-1, stores a secret.  I found it, and it is that all humans ar-- SEGMENTATION FAULT.](https://imgs.xkcd.com/comics/pointers.png)
+> "Pointers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is playing a video game, with Hat Guy standing behind him.]]

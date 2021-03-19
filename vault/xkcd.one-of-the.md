@@ -2,7 +2,7 @@
 id: xkcd.one-of-the
 title: One Of The
 desc: ''
-updated: '1616125521505'
+updated: '1616126764494'
 created: '1400050800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['The world's greatest [whatever]' is subjective, but 'One of the world's greatest [whatever]s' is clearly objective. Anyway, that's why I got you this 'one of the world's greatest moms' mug!](https://imgs.xkcd.com/comics/one_of_the.png)
+> "One Of The", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A TV presenter is at a desk in front of a picture of an arch.]]

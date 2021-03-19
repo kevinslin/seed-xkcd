@@ -2,7 +2,7 @@
 id: xkcd.tech-support
 title: Tech Support
 desc: ''
-updated: '1616125521655'
+updated: '1616126764766'
 created: '1287126000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I recently had someone ask me to go get a computer and turn it on so I could restart it. He refused to move further in the script until I said I had done that.](https://imgs.xkcd.com/comics/tech_support.png)
+> "Tech Support", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person is on the phone, and holding up some networking hardware.]]

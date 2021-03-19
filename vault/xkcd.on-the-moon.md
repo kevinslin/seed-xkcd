@@ -2,7 +2,7 @@
 id: xkcd.on-the-moon
 title: On the Moon
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1417766400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on Venus and returning him safely to--" [an aide frantically whispers in the president's ear for a moment] "... of landing a man on Venus."](https://imgs.xkcd.com/comics/on_the_moon.png)
+> "On the Moon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are walking along together.]]

@@ -2,7 +2,7 @@
 id: xkcd.spice-girls
 title: Spice Girls
 desc: ''
-updated: '1616125521460'
+updated: '1616126764515'
 created: '1437548400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Earth's five major mass extinctions were the Posh Extinction, the Sporty Extinction, the Scary Extinction, the Ginger Extinction, and the Baby Extinction.](https://imgs.xkcd.com/comics/spice_girls.png)
+> "Spice Girls", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters in dialogue]]

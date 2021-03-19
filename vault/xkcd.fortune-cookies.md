@@ -2,7 +2,7 @@
 id: xkcd.fortune-cookies
 title: Fortune Cookies
 desc: ''
-updated: '1616125521588'
+updated: '1616126764676'
 created: '1211180400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['You will have hot, steamy, sweaty sex ... IN BED!'](https://imgs.xkcd.com/comics/fortune_cookies.png)
+> "Fortune Cookies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: "The ones you love will never let you down"

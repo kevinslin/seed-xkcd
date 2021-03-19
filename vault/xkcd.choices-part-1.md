@@ -2,7 +2,7 @@
 id: xkcd.choices-part-1
 title: 'Choices: Part 1'
 desc: ''
-updated: '1616125521550'
+updated: '1616126764643'
 created: '1179730800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wait, damn, I think I spotted a new email on the last refresh.](https://imgs.xkcd.com/comics/choices_part_1.jpg)
+> "Choices: Part 1", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl sits at desk, using computer. Refreshes page]]

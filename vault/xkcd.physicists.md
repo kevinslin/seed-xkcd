@@ -2,7 +2,7 @@
 id: xkcd.physicists
 title: Physicists
 desc: ''
-updated: '1616125521652'
+updated: '1616126764706'
 created: '1284534000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don't need to read your thesis, I can imagine roughly what it says.](https://imgs.xkcd.com/comics/physicists.png)
+> "Physicists", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A man stands at a blackboard covered in equations and diagrams, an open laptop and scattered paper at his feet. His fists are balled in anger and there is a little angry squiggle over his head. A second man stands behind him, arms out in a shrug.

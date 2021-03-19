@@ -2,7 +2,7 @@
 id: xkcd.code-talkers
 title: Code Talkers
 desc: ''
-updated: '1616125521548'
+updated: '1616126764642'
 created: '1178262000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![As far as I can tell, Navajo doesn't have a common word for 'zero'.  do-neh-lini means 'neutral'.](https://imgs.xkcd.com/comics/code_talkers.png)
+> "Code Talkers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is looking at a computer monitor and speaking into a microphone]]

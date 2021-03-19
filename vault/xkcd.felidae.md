@@ -2,7 +2,7 @@
 id: xkcd.felidae
 title: Felidae
 desc: ''
-updated: '1616125521376'
+updated: '1616126764623'
 created: '1337151600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Smilodon fatalis' narrowly edged out 'Tyrannosaurus rex' to win this year's Most Badass Latin Names competition, after edging out 'Dracorex hogwartsia' and 'Stygimoloch spinifer' (meaning 'horned dragon from the river of death') in the semifinals.](https://imgs.xkcd.com/comics/felidae.png)
+> "Felidae", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Well-known felines:

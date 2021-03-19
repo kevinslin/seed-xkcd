@@ -2,7 +2,7 @@
 id: xkcd.one-liners
 title: One-Liners
 desc: ''
-updated: '1616125521656'
+updated: '1616126764768'
 created: '1288594800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Upgrade to the latest version of Adobe Flash player to view THIS content, bitch.' ::triggers detonator::](https://imgs.xkcd.com/comics/one_liners.png)
+> "One-Liners", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Probability of phrases becoming action movie one liners:

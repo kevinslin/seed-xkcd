@@ -2,7 +2,7 @@
 id: xkcd.compare-and-contrast
 title: Compare and Contrast
 desc: ''
-updated: '1616125521369'
+updated: '1616126764617'
 created: '1331107200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Frankly, I see no difference between thee and a summer's day. Only Ron Paul offers a TRUE alternative!](https://imgs.xkcd.com/comics/compare_and_contrast.png)
+> "Compare and Contrast", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A checklist comparing thee to a summer's day:

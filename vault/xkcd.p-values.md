@@ -2,7 +2,7 @@
 id: xkcd.p-values
 title: P-Values
 desc: ''
-updated: '1616125521448'
+updated: '1616126764536'
 created: '1422259200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If all else fails, use "significant at a p>0.05 level" and hope no one notices.](https://imgs.xkcd.com/comics/p_values.png)
+> "P-Values", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A chart with two columns: P-value, which are numbers; and Interpretation, which are text labels. There are multiple numbers per label.))

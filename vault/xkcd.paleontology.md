@@ -2,7 +2,7 @@
 id: xkcd.paleontology
 title: Paleontology
 desc: ''
-updated: '1616125521592'
+updated: '1616126764684'
 created: '1218178800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.](https://imgs.xkcd.com/comics/paleontology.png)
+> "Paleontology", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman in a museum, near a reconstructed dinosaur fossil.]]

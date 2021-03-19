@@ -2,7 +2,7 @@
 id: xkcd.analogies
 title: Analogies
 desc: ''
-updated: '1616125521648'
+updated: '1616126764701'
 created: '1278313200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I just call all of them 'synecdoche'.](https://imgs.xkcd.com/comics/analogies.png)
+> "Analogies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men sit in front of the TV, one on the couch, the other on the floor. A woman stands by the TV set.]]

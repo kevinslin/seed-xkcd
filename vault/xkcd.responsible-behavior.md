@@ -2,7 +2,7 @@
 id: xkcd.responsible-behavior
 title: Responsible Behavior
 desc: ''
-updated: '1616125521578'
+updated: '1616126764666'
 created: '1199088000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Never bring tequila to a key-signing party.](https://imgs.xkcd.com/comics/responsible_behavior.png)
+> "Responsible Behavior", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Figure on phone]]

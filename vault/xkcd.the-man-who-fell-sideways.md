@@ -2,7 +2,7 @@
 id: xkcd.the-man-who-fell-sideways
 title: The Man Who Fell Sideways
 desc: ''
-updated: '1616125521587'
+updated: '1616126764675'
 created: '1209538800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Strip originally conceived in conversation with Jeph Jacques.  Soon to be a major motion picture.](https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png)
+> "The Man Who Fell Sideways", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man standing, with a dotted line perpendicular to him and a 30 degree angle going downwards]]

@@ -2,7 +2,7 @@
 id: xkcd.increased-risk
 title: Increased Risk
 desc: ''
-updated: '1616125521397'
+updated: '1616126764434'
 created: '1376636400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!](https://imgs.xkcd.com/comics/increased_risk.png)
+> "Increased Risk", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three figures are standing around. Two have beach towels. A woman is looking at her cell phone. One of them is beret guy.]]

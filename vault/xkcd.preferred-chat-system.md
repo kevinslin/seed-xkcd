@@ -2,7 +2,7 @@
 id: xkcd.preferred-chat-system
 title: Preferred Chat System
 desc: ''
-updated: '1616125521397'
+updated: '1616126764434'
 created: '1377068400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you call my regular number, it just goes to my pager.](https://imgs.xkcd.com/comics/preferred_chat_system.png)
+> "Preferred Chat System", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure stands, talking on his cell phone.]]

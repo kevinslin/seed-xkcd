@@ -2,7 +2,7 @@
 id: xkcd.missed-connections
 title: Missed Connections
 desc: ''
-updated: '1616125521702'
+updated: '1616126764787'
 created: '1312786800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Street View van isn't going to find out anything Google won't already know from reading my email.](https://imgs.xkcd.com/comics/missed_connections.png)
+> "Missed Connections", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The page is set up like the missed connections area of Craigslist, with a list of messages from an individual to a person they weren't able to communicate with at the time.))

@@ -2,7 +2,7 @@
 id: xkcd.voting-machines
 title: Voting Machines
 desc: ''
-updated: '1616125521592'
+updated: '1616126764684'
 created: '1218783600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!](https://imgs.xkcd.com/comics/voting_machines.png)
+> "Voting Machines", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[First Man sitting at computer reading an article]]

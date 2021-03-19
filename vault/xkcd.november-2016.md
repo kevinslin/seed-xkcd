@@ -2,7 +2,7 @@
 id: xkcd.november-2016
 title: November 2016
 desc: ''
-updated: '1616125521479'
+updated: '1616126764548'
 created: '1478678400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Once you've done this, make a note of how old they were. Then, when their age reaches double that, show them this chart again.](https://imgs.xkcd.com/comics/november_2016.png)
+> "November 2016", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

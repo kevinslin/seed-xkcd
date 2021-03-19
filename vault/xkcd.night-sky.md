@@ -2,7 +2,7 @@
 id: xkcd.night-sky
 title: Night Sky
 desc: ''
-updated: '1616125521516'
+updated: '1616126764605'
 created: '1516953600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's a mountain lion nearby, but it didn't notice you because it's reading Facebook.](https://imgs.xkcd.com/comics/night_sky.png)
+> "Night Sky", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

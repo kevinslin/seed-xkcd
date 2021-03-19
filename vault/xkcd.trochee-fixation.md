@@ -2,7 +2,7 @@
 id: xkcd.trochee-fixation
 title: Trochee Fixation
 desc: ''
-updated: '1616125521674'
+updated: '1616126764772'
 created: '1296806400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.](https://imgs.xkcd.com/comics/trochee_fixation.png)
+> "Trochee Fixation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Girl: Robot ninja! Pirate doctor laser monkey! Narwhal zombie badger hobo bacon kitty captain penguin raptor jesus!

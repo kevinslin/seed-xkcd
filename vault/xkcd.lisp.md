@@ -2,7 +2,7 @@
 id: xkcd.lisp
 title: Lisp
 desc: ''
-updated: '1616125521529'
+updated: '1616126764636'
 created: '1171612800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.](https://imgs.xkcd.com/comics/lisp.jpg)
+> "Lisp", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Floating in space]]

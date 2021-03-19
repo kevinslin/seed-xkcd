@@ -2,7 +2,7 @@
 id: xkcd.furtive
 title: Furtive
 desc: ''
-updated: '1616125521645'
+updated: '1616126764693'
 created: '1269241200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![... go go gadget video camera.  Go go gadget cup.](https://imgs.xkcd.com/comics/furtive.png)
+> "Furtive", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man in a trench coat and hat stands mid-frame.]]

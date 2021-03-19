@@ -2,7 +2,7 @@
 id: xkcd.1-to-10
 title: 1 to 10
 desc: ''
-updated: '1616125521704'
+updated: '1616126764793'
 created: '1316415600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you get an 11/100 on a CS test, but you claim it should be counted as a 'C', they'll probably decide you deserve the upgrade.](https://imgs.xkcd.com/comics/1_to_10.png)
+> "1 to 10", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are talking.]]

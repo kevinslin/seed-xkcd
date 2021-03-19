@@ -2,7 +2,7 @@
 id: xkcd.geohashing
 title: Geohashing
 desc: ''
-updated: '1616125521588'
+updated: '1616126764676'
 created: '1211353200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Saturday is game night.](https://imgs.xkcd.com/comics/geohashing.png)
+> "Geohashing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Date (example): 2005-05-26

@@ -2,7 +2,7 @@
 id: xkcd.monty-python-enough
 title: Monty Python -- Enough
 desc: ''
-updated: '1616125521343'
+updated: '1616126764361'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I went to a dinner where there was a full 10 minutes of Holy Grail quotes exchanged, with no context, in lieu of conversation.  It depressed me badly.](https://imgs.xkcd.com/comics/monty_python.jpg)
+> "Monty Python -- Enough", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Character #1 [[Raising his hands]]: We are the knights who say... Ni!!

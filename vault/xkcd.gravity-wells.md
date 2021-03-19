@@ -2,7 +2,7 @@
 id: xkcd.gravity-wells
 title: Gravity Wells
 desc: ''
-updated: '1616125521627'
+updated: '1616126764746'
 created: '1261987200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This doesn't take into account the energy imparted by orbital motion (or gravity assists or the Oberth effect), all of which can make it easier to reach outer planets.](https://imgs.xkcd.com/comics/gravity_wells.png)
+> "Gravity Wells", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A schematic of the depths of the gravity wells of each planet in the solar system and several moons. At extreme left, an arrow pointing down and to the left, labeled "To Sun, very very far down". From left to right the gravity wells depicted are: Mercury; Venus; Earth, 5,478 km; Moon, 288 km; Mars, 1,286 km; Ganymede; Io; Jupiter; Europa; Titan, with two small bumps captioned "WEEOOOEEOOOEEEOOO"; Saturn, with its rings depicted as various-colored horizontal bands; Uranus; and Neptune, with a figure exclaiming, "An even more glorious dawn awaits!"

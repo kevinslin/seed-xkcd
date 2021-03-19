@@ -2,7 +2,7 @@
 id: xkcd.episode-vii
 title: Episode VII
 desc: ''
-updated: '1616125521460'
+updated: '1616126764513'
 created: '1436770800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Lord of the Rings sequel, set years after the Ring hubbub has died down, is just Samwise discreetly creeping back to Bag End to finish dropping the eaves.](https://imgs.xkcd.com/comics/episode_vii.png)
+> "Episode VII", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Movie title: STAR WARS, THE FORCE AWAKENS]]

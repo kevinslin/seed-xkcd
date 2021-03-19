@@ -2,7 +2,7 @@
 id: xkcd.silent-hammer
 title: Silent Hammer
 desc: ''
-updated: '1616125521625'
+updated: '1616126764744'
 created: '1258963200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I bet he'll keep quiet for a couple weeks and then-- wait, did you nail a piece of scrap wood to my antique table a moment ago?](https://imgs.xkcd.com/comics/silent_hammer.png)
+> "Silent Hammer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat guy is hammering something on a table.]]

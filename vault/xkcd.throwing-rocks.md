@@ -2,7 +2,7 @@
 id: xkcd.throwing-rocks
 title: Throwing Rocks
 desc: ''
-updated: '1616125521506'
+updated: '1616126764498'
 created: '1403506800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![::PLOOOOSH:: Looks like you won't be making it to Vinland today, Leaf Erikson.](https://imgs.xkcd.com/comics/throwing_rocks.png)
+> "Throwing Rocks", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Dark Hair person and White Beret person stand at the edge of a body of water. White Beret person throws a stone into the water.]]

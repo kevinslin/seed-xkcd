@@ -2,7 +2,7 @@
 id: xkcd.before-sunrise
 title: Before Sunrise
 desc: ''
-updated: '1616125521332'
+updated: '1616126764470'
 created: '1161932400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's an amazing time of day; the light is great for photography.](https://imgs.xkcd.com/comics/before_sunrise.png)
+> "Before Sunrise", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man stands in frame, talking]]

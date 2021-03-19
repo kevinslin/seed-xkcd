@@ -2,7 +2,7 @@
 id: xkcd.alphabet
 title: Alphabet
 desc: ''
-updated: '1616125521380'
+updated: '1616126764625'
 created: '1339743600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Do I get to remove letters entirely? Or just rearrange them? Because the 'k/c' situation is ridiculous. Look, we can make out whenever. This is *immortality*!](https://imgs.xkcd.com/comics/alphabet.png)
+> "Alphabet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy walks up to a girl sitting at a bar]]

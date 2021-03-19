@@ -2,7 +2,7 @@
 id: xkcd.headlines
 title: Headlines
 desc: ''
-updated: '1616125521402'
+updated: '1616126764449'
 created: '1382943600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]](https://imgs.xkcd.com/comics/headlines.png)
+> "Headlines", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 20th Century headlines rewritten to get more clicks

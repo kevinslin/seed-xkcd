@@ -2,7 +2,7 @@
 id: xkcd.geeks-and-nerds
 title: Geeks and Nerds
 desc: ''
-updated: '1616125521647'
+updated: '1616126764699'
 created: '1275289200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.](https://imgs.xkcd.com/comics/geeks_and_nerds.png)
+> "Geeks and Nerds", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a two-circle Venn diagram; the left circle is labeled "Geeks," the right "Nerds." The intersection is labeled "People with strong opinions on the distinction between geeks and nerds."]]

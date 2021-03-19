@@ -2,7 +2,7 @@
 id: xkcd.sickness
 title: Sickness
 desc: ''
-updated: '1616125521663'
+updated: '1616126764770'
 created: '1292832000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At least, with p<0.05 confidence.](https://imgs.xkcd.com/comics/sickness.png)
+> "Sickness", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The three panels are arranged diagonally, upper left to bottom right.))

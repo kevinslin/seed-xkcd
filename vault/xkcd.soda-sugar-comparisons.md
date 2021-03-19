@@ -2,7 +2,7 @@
 id: xkcd.soda-sugar-comparisons
 title: Soda Sugar Comparisons
 desc: ''
-updated: '1616125521484'
+updated: '1616126764553'
 created: '1485936000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The key is portion control, which is why I've switched to eating smaller cans of frosting instead of full bottles.](https://imgs.xkcd.com/comics/soda_sugar_comparisons.png)
+> "Soda Sugar Comparisons", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

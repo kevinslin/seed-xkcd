@@ -2,7 +2,7 @@
 id: xkcd.location
 title: Location
 desc: ''
-updated: '1616125521426'
+updated: '1616126764407'
 created: '1354694400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ingress: Foursquare With Space Noises.](https://imgs.xkcd.com/comics/location.png)
+> "Location", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting at a desk typing at his computer while a man and a woman look over his shoulder.]]

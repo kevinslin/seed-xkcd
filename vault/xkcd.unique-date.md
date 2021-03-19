@@ -2,7 +2,7 @@
 id: xkcd.unique-date
 title: Unique Date
 desc: ''
-updated: '1616125521502'
+updated: '1616126764489'
 created: '1394434800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If our current civilization lasts another 8,000 years, it's probably fair to assume the Long Now Foundation got things right, and at some point we started listening to them and switched to five-digit years.](https://imgs.xkcd.com/comics/unique_date.png)
+> "Unique Date", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One figure is excitedly speaking to two others.]]

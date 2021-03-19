@@ -2,7 +2,7 @@
 id: xkcd.the-sierpinski-penis-game
 title: The Sierpinski Penis Game
 desc: ''
-updated: '1616125521360'
+updated: '1616126764387'
 created: '1146207600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Inappropriate places for the Penis Game include baby showers and terrorist attacks](https://imgs.xkcd.com/comics/the_sierpinski_penis_game.jpg)
+> "The Sierpinski Penis Game", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The Sierpinski Penis Game]]

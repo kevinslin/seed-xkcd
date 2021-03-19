@@ -2,7 +2,7 @@
 id: xkcd.string-theory
 title: String Theory
 desc: ''
-updated: '1616125521331'
+updated: '1616126764469'
 created: '1160982000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This works on pretty much every level.](https://imgs.xkcd.com/comics/string_theory.png)
+> "String Theory", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 String Theory summarized:

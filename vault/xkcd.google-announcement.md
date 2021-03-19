@@ -2,7 +2,7 @@
 id: xkcd.google-announcement
 title: Google Announcement
 desc: ''
-updated: '1616125521504'
+updated: '1616126764493'
 created: '1398668400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The less popular 8.8.4.4 is slated for discontinuation.](https://imgs.xkcd.com/comics/google_announcement.png)
+> "Google Announcement", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [Person stands behind a podium labeled Google.]

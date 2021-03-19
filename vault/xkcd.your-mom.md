@@ -2,7 +2,7 @@
 id: xkcd.your-mom
 title: Your Mom
 desc: ''
-updated: '1616125521579'
+updated: '1616126764667'
 created: '1199433600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['It's either 'your mom' jokes or me' 'Then I, like so many men before me, must reluctantly choose your mom.'](https://imgs.xkcd.com/comics/your_mom.png)
+> "Your Mom", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy and a girl stand]]

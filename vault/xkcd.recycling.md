@@ -2,7 +2,7 @@
 id: xkcd.recycling
 title: Recycling
 desc: ''
-updated: '1616125521693'
+updated: '1616126764777'
 created: '1302678000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And given how much of my stuff they go through, they definitely know where I live.](https://imgs.xkcd.com/comics/recycling.png)
+> "Recycling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is picking through various items of trash or recycling on a conveyor belt.  A juice bottle, emty cardboard box, opened tin can, bottlecap, crumpled and flat sheets of paper, a soda or pop can, and miscellaneous junk are visible.]]

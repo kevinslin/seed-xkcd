@@ -2,7 +2,7 @@
 id: xkcd.reduce-your-payments
 title: Reduce Your Payments
 desc: ''
-updated: '1616125521441'
+updated: '1616126764530'
 created: '1411714800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.](https://imgs.xkcd.com/comics/reduce_your_payments.png)
+> "Reduce Your Payments", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a couch. Black hat guy walks up from behind, holding some paper.]]

@@ -2,7 +2,7 @@
 id: xkcd.the-past
 title: The Past
 desc: ''
-updated: '1616125521435'
+updated: '1616126764418'
 created: '1364367600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If history has taught us anything, we can use that information to destroy it.](https://imgs.xkcd.com/comics/the_past.png)
+> "The Past", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures stand talking to each other.]]

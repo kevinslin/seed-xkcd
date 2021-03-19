@@ -2,7 +2,7 @@
 id: xkcd.mark
 title: Mark
 desc: ''
-updated: '1616125521667'
+updated: '1616126764770'
 created: '1294041600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm a solipsistic conspiracy theorist. I'm sure I must be up to something, and I will not stop until I find out what.](https://imgs.xkcd.com/comics/mark.png)
+> "Mark", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An adult and a child are talking.]]

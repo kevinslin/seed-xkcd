@@ -2,7 +2,7 @@
 id: xkcd.santa-facts
 title: Santa Facts
 desc: ''
-updated: '1616125521514'
+updated: '1616126764601'
 created: '1514188800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We've gotten him up to 20% milk and cookies through an aggressive public campaign, but that seems to be his dietary limit. Anything above that and he starts developing nutritional deficiencies.](https://imgs.xkcd.com/comics/santa_facts.png)
+> "Santa Facts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

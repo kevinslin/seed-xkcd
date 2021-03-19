@@ -2,7 +2,7 @@
 id: xkcd.gut-fauna
 title: Gut Fauna
 desc: ''
-updated: '1616125521447'
+updated: '1616126764535'
 created: '1420790400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I know it seems unpleasant, but of the two ways we typically transfer them, I promise this is the one you want.](https://imgs.xkcd.com/comics/gut_fauna.png)
+> "Gut Fauna", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A doctor reading a clipboard consults a patient sitting on an examination table.]]

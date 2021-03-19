@@ -2,7 +2,7 @@
 id: xkcd.dfs
 title: DFS
 desc: ''
-updated: '1616125521648'
+updated: '1616126764701'
 created: '1278054000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A breadth-first search makes a lot of sense for dating in general, actually; it suggests dating a bunch of people casually before getting serious, rather than having a series of five-year relationships one after the other.](https://imgs.xkcd.com/comics/dfs.png)
+> "DFS", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man with wet hair and a towel around his waist thinks with his hand to his chin.]]

@@ -2,7 +2,7 @@
 id: xkcd.cutting-edge
 title: Cutting Edge
 desc: ''
-updated: '1616125521617'
+updated: '1616126764732'
 created: '1246863600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town. ](https://imgs.xkcd.com/comics/cutting_edge.png)
+> "Cutting Edge", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A woman is standing.  A man sits at a computer.]]

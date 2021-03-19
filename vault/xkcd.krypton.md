@@ -2,7 +2,7 @@
 id: xkcd.krypton
 title: Krypton
 desc: ''
-updated: '1616125521506'
+updated: '1616126764498'
 created: '1403247600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Their Sun and gravity will make you, uh, something, I guess. Out of earshot from Earth, mostly.](https://imgs.xkcd.com/comics/krypton.png)
+> "Krypton", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Stick Man looks into a telescope. Dark Hair stands beside them and looks in the opposite direction.]]

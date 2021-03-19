@@ -2,7 +2,7 @@
 id: xkcd.meat-cereals
 title: Meat Cereals
 desc: ''
-updated: '1616125521345'
+updated: '1616126764366'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Disgusting](https://imgs.xkcd.com/comics/meat_cereals.jpg)
+> "Meat Cereals", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A collection of fictional meat based cereals]]

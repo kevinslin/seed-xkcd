@@ -2,7 +2,7 @@
 id: xkcd.jump
 title: Jump
 desc: ''
-updated: '1616125521506'
+updated: '1616126764496'
 created: '1401692400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Or that I'm at least following the curve of the Earth around to land ...](https://imgs.xkcd.com/comics/jump.png)
+> "Jump", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character is posed in a series of positions across a landscape.  The implication is that the character is progressing forward in time towards the right side of the panel.]]

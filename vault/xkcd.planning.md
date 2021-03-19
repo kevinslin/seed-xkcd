@@ -2,7 +2,7 @@
 id: xkcd.planning
 title: Planning
 desc: ''
-updated: '1616125521459'
+updated: '1616126764511'
 created: '1434524400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?](https://imgs.xkcd.com/comics/planning.png)
+> "Planning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people walk along, one with light hair and a ponytail, another with shortish dark hair.]]

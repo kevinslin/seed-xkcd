@@ -2,7 +2,7 @@
 id: xkcd.driving
 title: Driving
 desc: ''
-updated: '1616125521461'
+updated: '1616126764516'
 created: '1438585200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sadly, it probably won't even have enough gas to make it to the first border crossing.](https://imgs.xkcd.com/comics/driving.png)
+> "Driving", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[black hat guy walks up to a figure carrying a large, heavy rock]]

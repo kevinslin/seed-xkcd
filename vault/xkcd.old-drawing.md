@@ -2,7 +2,7 @@
 id: xkcd.old-drawing
 title: Old Drawing
 desc: ''
-updated: '1616125521349'
+updated: '1616126764374'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I don't want to talk about it](https://imgs.xkcd.com/comics/unspeakable_pun.jpg)
+> "Old Drawing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A tree holding a chainsaw over a recently cut-down tree.]]

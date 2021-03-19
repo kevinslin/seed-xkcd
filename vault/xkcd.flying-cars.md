@@ -2,7 +2,7 @@
 id: xkcd.flying-cars
 title: Flying Cars
 desc: ''
-updated: '1616125521683'
+updated: '1616126764774'
 created: '1298448000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.](https://imgs.xkcd.com/comics/flying_cars.png)
+> "Flying Cars", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person (on phone): It's 2011. I want my flying car.

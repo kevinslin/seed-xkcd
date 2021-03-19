@@ -2,7 +2,7 @@
 id: xkcd.social-media
 title: Social Media
 desc: ''
-updated: '1616125521396'
+updated: '1616126764431'
 created: '1374044400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The social media reaction to this asteroid announcement has been sharply negative. Care to respond?](https://imgs.xkcd.com/comics/social_media.png)
+> "Social Media", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A NASA spokesperson heads a press conference]]

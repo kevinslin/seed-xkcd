@@ -2,7 +2,7 @@
 id: xkcd.travel-ghost
 title: Travel Ghost
 desc: ''
-updated: '1616125521467'
+updated: '1616126764521'
 created: '1442818800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And a different ghost has replaced me in the bedroom.](https://imgs.xkcd.com/comics/travel_ghosts.png)
+> "Travel Ghost", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 transcribe

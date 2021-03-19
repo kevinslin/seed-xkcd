@@ -2,7 +2,7 @@
 id: xkcd.gravitational-waves
 title: Gravitational Waves
 desc: ''
-updated: '1616125521411'
+updated: '1616126764562'
 created: '1455177600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond." "Nah."](https://imgs.xkcd.com/comics/gravitational_waves.png)
+> "Gravitational Waves", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two friends stroll along chatting]]

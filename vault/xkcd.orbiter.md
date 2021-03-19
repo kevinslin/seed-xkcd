@@ -2,7 +2,7 @@
 id: xkcd.orbiter
 title: Orbiter
 desc: ''
-updated: '1616125521652'
+updated: '1616126764705'
 created: '1283324400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.](https://imgs.xkcd.com/comics/orbiter.png)
+> "Orbiter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at a control screen, wearing a headset.]]

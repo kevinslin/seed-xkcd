@@ -2,7 +2,7 @@
 id: xkcd.small-talk
 title: Small Talk
 desc: ''
-updated: '1616125521529'
+updated: '1616126764636'
 created: '1171267200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But surely I owe you an accurate answer!](https://imgs.xkcd.com/comics/small_talk.png)
+> "Small Talk", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Sometimes I forget how to do small talk.

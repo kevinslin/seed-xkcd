@@ -2,7 +2,7 @@
 id: xkcd.wood-chips
 title: Wood Chips
 desc: ''
-updated: '1616125521606'
+updated: '1616126764709'
 created: '1229068800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You didn't run a chemical analysis against the Shroud of Turin?  Man, all that work for NOTHING.](https://imgs.xkcd.com/comics/wood_chips.png)
+> "Wood Chips", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man leans on desk; Woman sits behind desk.]]

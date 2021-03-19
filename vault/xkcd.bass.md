@@ -2,7 +2,7 @@
 id: xkcd.bass
 title: Bass
 desc: ''
-updated: '1616125521579'
+updated: '1616126764667'
 created: '1199865600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And sometimes I use it to retaliate against the guy upstairs with the loud girlfriend and the elliptical dish.](https://imgs.xkcd.com/comics/bass.png)
+> "Bass", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The Hat Guy and another guy are standing in a room with one window. Hat Guy is pushing a box with an elliptical dish on top towards the window.]]

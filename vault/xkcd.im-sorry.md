@@ -2,7 +2,7 @@
 id: xkcd.im-sorry
 title: I'm Sorry
 desc: ''
-updated: '1616125521703'
+updated: '1616126764792'
 created: '1314774000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You know I've always hated her.](https://imgs.xkcd.com/comics/im_sorry.png)
+> "I'm Sorry", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are standing next to each other having a conversation.]]

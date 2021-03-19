@@ -2,7 +2,7 @@
 id: xkcd.astronomy
 title: Astronomy
 desc: ''
-updated: '1616125521456'
+updated: '1616126764506'
 created: '1431068400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Astrobiology is held back by the fact that we're all too nervous to try to balance on the ladder while holding an expensive microscope.](https://imgs.xkcd.com/comics/astronomy.png)
+> "Astronomy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure is staring through a large telescope pointed towards the heavens. A canvas of thousands of stars fills the sky.]]

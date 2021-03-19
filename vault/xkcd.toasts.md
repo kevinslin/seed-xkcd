@@ -2,7 +2,7 @@
 id: xkcd.toasts
 title: Toasts
 desc: ''
-updated: '1616125521411'
+updated: '1616126764562'
 created: '1455868800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Platonic solids for my real friends and real solids for my platonic friends!](https://imgs.xkcd.com/comics/toasts.png)
+> "Toasts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person looks at their phone. Someone speaks to them from out of panel.]]

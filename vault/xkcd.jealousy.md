@@ -2,7 +2,7 @@
 id: xkcd.jealousy
 title: Jealousy
 desc: ''
-updated: '1616125521588'
+updated: '1616126764675'
 created: '1210143600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, huh, so you didn't know that story?](https://imgs.xkcd.com/comics/jealousy.png)
+> "Jealousy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Dark scene shown, with man and girl sitting in the moonlight let in by the only window.]]

@@ -2,7 +2,7 @@
 id: xkcd.ozymandias
 title: Ozymandias
 desc: ''
-updated: '1616125521461'
+updated: '1616126764515'
 created: '1438153200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...](https://imgs.xkcd.com/comics/ozymandias.png)
+> "Ozymandias", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures talking]]

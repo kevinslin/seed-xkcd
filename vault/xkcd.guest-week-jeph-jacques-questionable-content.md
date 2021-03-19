@@ -2,7 +2,7 @@
 id: xkcd.guest-week-jeph-jacques-questionable-content
 title: 'Guest Week: Jeph Jacques (Questionable Content)'
 desc: ''
-updated: '1616125521657'
+updated: '1616126764768'
 created: '1290412800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Guest comic by Jeph Jacques of Questionable Content, whose internal monologue hasn't been speaking to him for the past three years.](https://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png)
+> "Guest Week: Jeph Jacques (Questionable Content)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This comic was written by Jeph Jacques, and follows the vertical panel style typical of Questionable Content.  The art is more in the xkcd style, with stick figures.))

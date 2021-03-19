@@ -2,7 +2,7 @@
 id: xkcd.electric-skateboard-double-comic
 title: Electric Skateboard (Double Comic)
 desc: ''
-updated: '1616125521586'
+updated: '1616126764674'
 created: '1207897200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Unsafe vehicles, hills, and philosophy go hand in hand.](https://imgs.xkcd.com/comics/electric_skateboard_double_comic.png)
+> "Electric Skateboard (Double Comic)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy showing off electric skateboard to girl reading something]]

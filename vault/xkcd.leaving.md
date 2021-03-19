@@ -2,7 +2,7 @@
 id: xkcd.leaving
 title: Leaving
 desc: ''
-updated: '1616125521652'
+updated: '1616126764706'
 created: '1284102000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![What'll I say -- "I was staring at some cat vomit when I got the news?"](https://imgs.xkcd.com/comics/leaving.png)
+> "Leaving", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man looks down at a puddle on the floor and speaks to someone out-of-panel.]]

@@ -2,7 +2,7 @@
 id: xkcd.mycology
 title: Mycology
 desc: ''
-updated: '1616125521414'
+updated: '1616126764565'
 created: '1459926000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Conspiracy theory: There's no such thing as corn. Those fields you see are just the stalks of a fungus that's controlling our brains to make us want to spread it.](https://imgs.xkcd.com/comics/mycology.png)
+> "Mycology", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two children, a girl and a boy, are talking to an adult woman as they walk away from her. The boy has a bucket.]]

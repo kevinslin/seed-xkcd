@@ -2,7 +2,7 @@
 id: xkcd.proteins
 title: Proteins
 desc: ''
-updated: '1616125521441'
+updated: '1616126764530'
 created: '1412578800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!](https://imgs.xkcd.com/comics/proteins.png)
+> "Proteins", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!}}

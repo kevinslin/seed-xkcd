@@ -2,7 +2,7 @@
 id: xkcd.anti-glass
 title: Anti-Glass
 desc: ''
-updated: '1616125521397'
+updated: '1616126764434'
 created: '1376463600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Why don't you just point it at their eye directly?' 'What is this, 2007?'](https://imgs.xkcd.com/comics/anti_glass.png)
+> "Anti-Glass", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two police officers stand at an apartment door. The female officer is holding a pair of glasses with something attached to it. We will see later that Black Hat Guy is in the apartment]]

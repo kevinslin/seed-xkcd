@@ -2,7 +2,7 @@
 id: xkcd.networking
 title: Networking
 desc: ''
-updated: '1616125521371'
+updated: '1616126764618'
 created: '1332313200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Our company is agile and lean with a focus on the long tail. Ok, our company is actually a polecat I found in my backyard.](https://imgs.xkcd.com/comics/networking.png)
+> "Networking", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man approaches white beret man at a party and they extend arms to shake hands. WBM is holding a metal briefcase. There is a waitress in the background, carrying a tray with a wine glass on it.]]

@@ -2,7 +2,7 @@
 id: xkcd.orion-nebula
 title: Orion Nebula
 desc: ''
-updated: '1616125521368'
+updated: '1616126764616'
 created: '1329897600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also on the agenda: what's with his hips?](https://imgs.xkcd.com/comics/orion_nebula.png)
+> "Orion Nebula", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Opening speaker stands behind a lectern decorated with the indicators of the International Astronomical Union]]

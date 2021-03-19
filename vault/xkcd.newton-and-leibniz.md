@@ -2,7 +2,7 @@
 id: xkcd.newton-and-leibniz
 title: Newton and Leibniz
 desc: ''
-updated: '1616125521619'
+updated: '1616126764735'
 created: '1250838000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![YEEEEEEAAAAAAHHHHHH!](https://imgs.xkcd.com/comics/newton_and_leibniz.png)
+> "Newton and Leibniz", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Newton, 1666

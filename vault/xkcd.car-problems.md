@@ -2,7 +2,7 @@
 id: xkcd.car-problems
 title: Car Problems
 desc: ''
-updated: '1616125521366'
+updated: '1616126764615'
 created: '1328688000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Or if you replace your car, we'll be happy to set it on fire again so you can take another crack at getting that shot.](https://imgs.xkcd.com/comics/car_problems.png)
+> "Car Problems", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person 1 stands in front of a projection of a car, with an audience of 3 people.  One of the people is the Black Hat Man.]]

@@ -2,7 +2,7 @@
 id: xkcd.cells
 title: Cells
 desc: ''
-updated: '1616125521392'
+updated: '1616126764425'
 created: '1369638000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.](https://imgs.xkcd.com/comics/cells.png)
+> "Cells", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When you see a claim that a common drug or vitamin "kills cancer cells in a petri dish," keep in mind:

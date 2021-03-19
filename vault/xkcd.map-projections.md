@@ -2,7 +2,7 @@
 id: xkcd.map-projections
 title: Map Projections
 desc: ''
-updated: '1616125521711'
+updated: '1616126764798'
 created: '1321257600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?](https://imgs.xkcd.com/comics/map_projections.png)
+> "Map Projections", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The comic is one large panel, with different types of map projections listed in two columns. Each listing has an illustration of that projection plus a short paragraph describing the individual who prefers that projection.))

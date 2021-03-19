@@ -2,7 +2,7 @@
 id: xkcd.kerning
 title: Kerning
 desc: ''
-updated: '1616125521366'
+updated: '1616126764615'
 created: '1328860800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I have never been as self-conscious about my handwriting as when I was inking in the caption for this comic.](https://imgs.xkcd.com/comics/kerning.png)
+> "Kerning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Some IDIOT used a font with TERRIBLE kerning on the side of a building for a sign labeled "CITY OFFICES".  Only.. you aren't even frickin' sure because of this terrible kerning, as the "C" and the "I" in "CITY" have waaay too strong kerning. And so do the "C" and the "E" in "OFFICES", to the point that it actually looks like TWO words.  And the I and the C are so close together, they almost look like a freakish K!  Two people stand in front of this sign. One notices all these obvious flaws, while the other exists in peaceful ignorance.]]

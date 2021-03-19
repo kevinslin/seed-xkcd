@@ -2,7 +2,7 @@
 id: xkcd.ontological-argument
 title: Ontological Argument
 desc: ''
-updated: '1616125521455'
+updated: '1616126764503'
 created: '1427698800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A God who holds the world record for eating the most skateboards is greater than a God who does not hold that record.](https://imgs.xkcd.com/comics/ontological_argument.png)
+> "Ontological Argument", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Two characters walk along, deep in thought. The world around them is devoid of form))

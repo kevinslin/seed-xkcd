@@ -2,7 +2,7 @@
 id: xkcd.improved-keyboard
 title: Improved Keyboard
 desc: ''
-updated: '1616125521403'
+updated: '1616126764450'
 created: '1383116400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.](https://imgs.xkcd.com/comics/improved_keyboard.png)
+> "Improved Keyboard", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure walks on screen, holding a phone, and starts talking to black hat guy.]]

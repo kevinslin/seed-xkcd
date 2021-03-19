@@ -2,7 +2,7 @@
 id: xkcd.air-aware
 title: AirAware
 desc: ''
-updated: '1616125521391'
+updated: '1616126764423'
 created: '1367564400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It ships with a version of Google Now that alerts you when it's too late to leave for your appointments.](https://imgs.xkcd.com/comics/airaware.png)
+> "AirAware", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat Guy is holding the remote for a drone which hovers nearby.]]

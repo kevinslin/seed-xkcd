@@ -2,7 +2,7 @@
 id: xkcd.pressures
 title: Pressures
 desc: ''
-updated: '1616125521379'
+updated: '1616126764624'
 created: '1339398000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.](https://imgs.xkcd.com/comics/pressures.png)
+> "Pressures", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person walks up to a patent clerk examining documents]]

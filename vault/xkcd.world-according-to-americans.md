@@ -2,7 +2,7 @@
 id: xkcd.world-according-to-americans
 title: World According to Americans
 desc: ''
-updated: '1616125521668'
+updated: '1616126764771'
 created: '1295596800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's not our fault we caught a group on their way home from a geography bee. And they taught us that Uzbekistan is one of the world's two doubly-landlocked countries!](https://imgs.xkcd.com/comics/world_according_to_americans.png)
+> "World According to Americans", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The World

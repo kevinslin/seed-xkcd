@@ -2,7 +2,7 @@
 id: xkcd.restraining-order
 title: Restraining Order
 desc: ''
-updated: '1616125521587'
+updated: '1616126764675'
 created: '1209106800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![On Mondays I go running, so you'll have to get up early and follow along on a parallel street.  What fun!](https://imgs.xkcd.com/comics/restraining_order.png)
+> "Restraining Order", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man and woman stand facing one another. Both hold sheets of paper.]]

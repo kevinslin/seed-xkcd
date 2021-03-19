@@ -2,7 +2,7 @@
 id: xkcd.ferret
 title: Ferret
 desc: ''
-updated: '1616125521344'
+updated: '1616126764363'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My brother had a ferret he loved which died since I drew this strip.  RIP.](https://imgs.xkcd.com/comics/ferret.jpg)
+> "Ferret", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A ferret with airplane wings on it]]

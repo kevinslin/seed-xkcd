@@ -2,7 +2,7 @@
 id: xkcd.supported-features
 title: Supported Features
 desc: ''
-updated: '1616125521618'
+updated: '1616126764734'
 created: '1249455600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hear many of you finally have smooth Flash support, but me and my Intel card are still waiting on a kernel patch somewhere in the pipeline before we can watch Jon Stewart smoothly.](https://imgs.xkcd.com/comics/supported_features.png)
+> "Supported Features", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man #1: It took a lot of work, but this latest Linux patch enables support for machines with 4,096 CPUs, up from the old limit of 1,024.

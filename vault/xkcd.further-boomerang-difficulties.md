@@ -2,7 +2,7 @@
 id: xkcd.further-boomerang-difficulties
 title: Further Boomerang Difficulties
 desc: ''
-updated: '1616125521598'
+updated: '1616126764686'
 created: '1221202800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.](https://imgs.xkcd.com/comics/further_boomerang_difficulties.png)
+> "Further Boomerang Difficulties", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is throwing boomerang 

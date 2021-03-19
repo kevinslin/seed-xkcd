@@ -2,7 +2,7 @@
 id: xkcd.days-of-the-week
 title: Days of the Week
 desc: ''
-updated: '1616125521701'
+updated: '1616126764786'
 created: '1311750000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.](https://imgs.xkcd.com/comics/days_of_the_week.png)
+> "Days of the Week", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The whole comic is a single panel, with a circular diagram of the days of the week.))

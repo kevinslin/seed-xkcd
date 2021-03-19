@@ -2,7 +2,7 @@
 id: xkcd.columbus
 title: Columbus
 desc: ''
-updated: '1616125521397'
+updated: '1616126764434'
 created: '1377241200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And thus was smallpox introduced into the previously Undying Lands.](https://imgs.xkcd.com/comics/columbus.png)
+> "Columbus", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure in a hat is talking to two small children who are sitting cross-legged on the floor. A woman is off-panel.]]

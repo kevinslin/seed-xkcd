@@ -2,7 +2,7 @@
 id: xkcd.7-eleven
 title: 7 Eleven
 desc: ''
-updated: '1616125521490'
+updated: '1616126764579'
 created: '1492412400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Really, the only honest 24-hour stores are the ones in places like Arizona and Hawaii, and many of them are still wrong in certain years.](https://imgs.xkcd.com/comics/7_eleven.png)
+> "7 Eleven", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

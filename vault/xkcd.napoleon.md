@@ -2,7 +2,7 @@
 id: xkcd.napoleon
 title: Napoleon
 desc: ''
-updated: '1616125521455'
+updated: '1616126764504'
 created: '1428649200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["Mr. President, what if the unthinkable happens? What if the launch goes wrong, and Napoleon is not stranded on the Moon?" "Have Safire write up a speech."](https://imgs.xkcd.com/comics/napoleon.png)
+> "Napoleon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two musketeers present a handcuffed Napoleon to a magistrate.]]

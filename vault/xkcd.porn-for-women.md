@@ -2,7 +2,7 @@
 id: xkcd.porn-for-women
 title: Porn For Women
 desc: ''
-updated: '1616125521645'
+updated: '1616126764692'
 created: '1268636400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!](https://imgs.xkcd.com/comics/porn_for_women.png)
+> "Porn For Women", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sits at a desk, typing on a computer with a fairly large flat-panel display.]]

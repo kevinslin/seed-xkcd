@@ -2,7 +2,7 @@
 id: xkcd.advanced-technology
 title: Advanced Technology
 desc: ''
-updated: '1616125521582'
+updated: '1616126764670'
 created: '1203667200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We are sexy, sexy Von Neumann machines.](https://imgs.xkcd.com/comics/advanced_technology.png)
+> "Advanced Technology", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A kneeling man is inspecting a woman's crotch]]

@@ -2,7 +2,7 @@
 id: xkcd.online-communities-2
 title: Online Communities 2
 desc: ''
-updated: '1616125521654'
+updated: '1616126764766'
 created: '1286348400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Best trivia I learned while working on this: 'Man, Farmville is so huge! Do you realize it's the second-biggest browser-based social-networking-centered farming game in the WORLD?' Then you wait for the listener to do a double-take.](https://imgs.xkcd.com/comics/online_communities_2.png)
+> "Online Communities 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A giant, untranscribable map of the internet. Apologies from the transcriber, who did her best to include as much as she could without going nuts.]]

@@ -2,7 +2,7 @@
 id: xkcd.romney-quiz
 title: Romney Quiz
 desc: ''
-updated: '1616125521373'
+updated: '1616126764621'
 created: '1334732400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.](https://imgs.xkcd.com/comics/romney_quiz.png)
+> "Romney Quiz", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One long panel, with a large headline at the top, flanked by two small pictures on each side: a portrait of Mitt Romney on the left, and a blonde child running with a golden ticket in his hand on the left. Below is a list numbered 1 - 12 down the left. The answers on the bottom are written upside down.]]

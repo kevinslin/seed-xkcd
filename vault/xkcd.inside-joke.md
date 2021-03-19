@@ -2,7 +2,7 @@
 id: xkcd.inside-joke
 title: Inside Joke
 desc: ''
-updated: '1616125521652'
+updated: '1616126764706'
 created: '1284706800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.](https://imgs.xkcd.com/comics/inside_joke.png)
+> "Inside Joke", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men with beards stand at a crude wooden counter, one is wearing a turban. Behind the man without a turban is a woman kneeling on the ground and putting something into a box.]]

@@ -2,7 +2,7 @@
 id: xkcd.self-description
 title: Self-Description
 desc: ''
-updated: '1616125521628'
+updated: '1616126764747'
 created: '1263369600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.](https://imgs.xkcd.com/comics/self_description.png)
+> "Self-Description", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a pie chart, mostly white with a black slice. The white is labeled "Fraction of this image which is white." The black is labeled "Fraction of this image which is black."]]

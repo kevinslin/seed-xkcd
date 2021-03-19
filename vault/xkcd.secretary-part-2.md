@@ -2,7 +2,7 @@
 id: xkcd.secretary-part-2
 title: 'Secretary: Part 2'
 desc: ''
-updated: '1616125521600'
+updated: '1616126764689'
 created: '1225177200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That helmet won't save him.](https://imgs.xkcd.com/comics/secretary_part_2.png)
+> "Secretary: Part 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 News Anchor: Breaking news--the President has made a nomination to the new post of Internet Secretary. We know little about the man, shown here.

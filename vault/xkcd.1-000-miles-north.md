@@ -2,7 +2,7 @@
 id: xkcd.1-000-miles-north
 title: '1,000 Miles North'
 desc: ''
-updated: '1616125521525'
+updated: '1616126764629'
 created: '1206687600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Twister would've been a much better movie if they'd cut out the bad-guy storm chaser and all the emotional romance crap.  All you need for a good movie are tornados and scientists.  Actually, that's all you need for anything.](https://imgs.xkcd.com/comics/1000_miles_north.png)
+> "1,000 Miles North", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Van and truck travel toward mountains]]

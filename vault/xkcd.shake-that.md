@@ -2,7 +2,7 @@
 id: xkcd.shake-that
 title: Shake That
 desc: ''
-updated: '1616125521398'
+updated: '1616126764436'
 created: '1378450800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![How do I work it? IT'S ALREADY WORKING!](https://imgs.xkcd.com/comics/shake_that.png)
+> "Shake That", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman stands in a disco, surrounded by dancing figures. She looks confused.]]

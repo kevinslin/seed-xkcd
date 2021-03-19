@@ -2,7 +2,7 @@
 id: xkcd.it-begins
 title: It Begins
 desc: ''
-updated: '1616125521413'
+updated: '1616126764564'
 created: '1458111600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can also try 'Yikes.'](https://imgs.xkcd.com/comics/it_begins.png)
+> "It Begins", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 install.sh

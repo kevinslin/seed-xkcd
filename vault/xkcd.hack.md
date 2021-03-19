@@ -2,7 +2,7 @@
 id: xkcd.hack
 title: Hack
 desc: ''
-updated: '1616125521502'
+updated: '1616126764489'
 created: '1393833600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![HACK THE STARS](https://imgs.xkcd.com/comics/hack.png)
+> "Hack", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A white-on-black drawing of the ISEE-3

@@ -2,7 +2,7 @@
 id: xkcd.moments-of-inspiration
 title: Moments of Inspiration
 desc: ''
-updated: '1616125521467'
+updated: '1616126764521'
 created: '1443596400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!](https://imgs.xkcd.com/comics/moments_of_inspiration.png)
+> "Moments of Inspiration", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Isaac Newton

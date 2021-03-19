@@ -2,7 +2,7 @@
 id: xkcd.unscientific
 title: Unscientific
 desc: ''
-updated: '1616125521584'
+updated: '1616126764672'
 created: '1205737200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.](https://imgs.xkcd.com/comics/unscientific.png)
+> "Unscientific", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 TV: Can a ninja catch an arrow? On this episode, we'll find out!

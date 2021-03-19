@@ -2,7 +2,7 @@
 id: xkcd.laser-products
 title: Laser Products
 desc: ''
-updated: '1616125521416'
+updated: '1616126764571'
 created: '1463382000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.](https://imgs.xkcd.com/comics/laser_products.png)
+> "Laser Products", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

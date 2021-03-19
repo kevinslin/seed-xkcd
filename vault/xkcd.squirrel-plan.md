@@ -2,7 +2,7 @@
 id: xkcd.squirrel-plan
 title: Squirrel Plan
 desc: ''
-updated: '1616125521454'
+updated: '1616126764502'
 created: '1427266800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[Halfway to the Sun ...] Heyyyy ... what if this BALLOON is full of acorns?!](https://imgs.xkcd.com/comics/squirrel_plan.png)
+> "Squirrel Plan", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A squirrel ASTRONAUT is suspended in some kind of harness beneath a child's helium balloon. Two other squirrels serve as its GROUND TEAM.))

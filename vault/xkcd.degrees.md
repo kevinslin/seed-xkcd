@@ -2,7 +2,7 @@
 id: xkcd.degrees
 title: Degrees
 desc: ''
-updated: '1616125521411'
+updated: '1616126764562'
 created: '1455523200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["Radians Fahrenheit or radians Celsius?" "Uh, sorry, gotta go!"](https://imgs.xkcd.com/comics/degrees.png)
+> "Degrees", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A single figure stands holding a package of hot dogs in one hand and a bag of buns in the other.]]

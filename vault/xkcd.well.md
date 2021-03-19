@@ -2,7 +2,7 @@
 id: xkcd.well
 title: Well
 desc: ''
-updated: '1616125521611'
+updated: '1616126764714'
 created: '1238137200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'll concede ergonomics anecdotally, but none of the studies of Dvorak were at all rigorous (the most-cited Navy study was overseen by Dvorak himself).  And the 'slow typists down' thing is a myth.  Also EMACS RULES VI DROOLS WOOOOOOO!](https://imgs.xkcd.com/comics/well.png)
+> "Well", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A sign sits by a well]] Sign: The Uncomfortable Truths Well

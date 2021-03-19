@@ -2,7 +2,7 @@
 id: xkcd.tesla-coil
 title: Tesla Coil
 desc: ''
-updated: '1616125521558'
+updated: '1616126764649'
 created: '1186124400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For scientists, this can be the hardest thing about dreams.](https://imgs.xkcd.com/comics/tesla_coil.png)
+> "Tesla Coil", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures, one wearing a hat stand near a tesla coil mounted on a table.]]

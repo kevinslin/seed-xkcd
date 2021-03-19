@@ -2,7 +2,7 @@
 id: xkcd.investing
 title: Investing
 desc: ''
-updated: '1616125521703'
+updated: '1616126764792'
 created: '1315206000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.](https://imgs.xkcd.com/comics/investing.png)
+> "Investing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: Sure, 2% interest may not *seem* like a lot. But it's *compound*!

@@ -2,7 +2,7 @@
 id: xkcd.manual-override
 title: Manual Override
 desc: ''
-updated: '1616125521699'
+updated: '1616126764783'
 created: '1308121200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I think you mean 'GNU Info Override'.](https://imgs.xkcd.com/comics/manual_override.png)
+> "Manual Override", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A plane is in a nosedive with smoke pouring from one wing. Text comes from someone reading in the cockpit.]]

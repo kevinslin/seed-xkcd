@@ -2,7 +2,7 @@
 id: xkcd.action-movies
 title: Action Movies
 desc: ''
-updated: '1616125521564'
+updated: '1616126764651'
 created: '1188802800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![By my count, only 48 of the 158 minutes in Live Free or Die Hard have action.  That's pathetic, guys.  Crank is better, but needs a bigger budget and more Summer Glau.](https://imgs.xkcd.com/comics/action_movies.png)
+> "Action Movies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman are talking together as they walk away from a cinema]]

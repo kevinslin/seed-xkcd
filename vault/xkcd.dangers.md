@@ -2,7 +2,7 @@
 id: xkcd.dangers
 title: Dangers
 desc: ''
-updated: '1616125521579'
+updated: '1616126764667'
 created: '1200038400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)](https://imgs.xkcd.com/comics/dangers.png)
+> "Dangers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Dangers

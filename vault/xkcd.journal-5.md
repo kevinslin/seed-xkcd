@@ -2,7 +2,7 @@
 id: xkcd.journal-5
 title: Journal 5
 desc: ''
-updated: '1616125521589'
+updated: '1616126764677'
 created: '1212735600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Pick you up at eight?' 'Nine.  I've got to re-mine the driveway.'](https://imgs.xkcd.com/comics/journal_5.png)
+> "Journal 5", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Guy with hat: <<park>>

@@ -2,7 +2,7 @@
 id: xkcd.tradition
 title: Tradition
 desc: ''
-updated: '1616125521712'
+updated: '1616126764800'
 created: '1323417600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![An 'American tradition' is anything that happened to a baby boomer twice.](https://imgs.xkcd.com/comics/tradition.png)
+> "Tradition", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The 20 most-played Christmas songs (2000-2009 radio airplay) by decade of popular release

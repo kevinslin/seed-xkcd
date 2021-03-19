@@ -2,7 +2,7 @@
 id: xkcd.thread
 title: Thread
 desc: ''
-updated: '1616125521497'
+updated: '1616126764591'
 created: '1506063600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Since the current Twitter threadfall kicked off in early 2016, we can expect it to continue until the mid 2060s when the next Interval begins.](https://imgs.xkcd.com/comics/thread.png)
+> "Thread", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

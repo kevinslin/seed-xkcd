@@ -2,7 +2,7 @@
 id: xkcd.citogenesis
 title: Citogenesis
 desc: ''
-updated: '1616125521711'
+updated: '1616126764799'
 created: '1321430400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.](https://imgs.xkcd.com/comics/citogenesis.png)
+> "Citogenesis", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Where Citations Come From:

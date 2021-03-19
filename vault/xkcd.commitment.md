@@ -2,7 +2,7 @@
 id: xkcd.commitment
 title: Commitment
 desc: ''
-updated: '1616125521563'
+updated: '1616126764651'
 created: '1188543600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.](https://imgs.xkcd.com/comics/commitment.png)
+> "Commitment", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy proposing to girl on his knee]]

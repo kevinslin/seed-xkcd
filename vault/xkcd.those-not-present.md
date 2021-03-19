@@ -2,7 +2,7 @@
 id: xkcd.those-not-present
 title: Those Not Present
 desc: ''
-updated: '1616125521431'
+updated: '1616126764414'
 created: '1361347200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Yeah, that squid's a total asshole.' [scoot scoot]](https://imgs.xkcd.com/comics/those_not_present.png)
+> "Those Not Present", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Every time someone says something negative about a person who's not in the room, I scoot my chair back a few inches. 

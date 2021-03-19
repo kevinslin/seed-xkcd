@@ -2,7 +2,7 @@
 id: xkcd.matrix-revisited
 title: Matrix Revisited
 desc: ''
-updated: '1616125521612'
+updated: '1616126764715'
 created: '1239174000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.](https://imgs.xkcd.com/comics/matrix_revisited.png)
+> "Matrix Revisited", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: Today was the ten-year anniversary of the release of 'The Matrix'.  I sat down to watch it again.

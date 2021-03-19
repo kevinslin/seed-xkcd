@@ -2,7 +2,7 @@
 id: xkcd.i-dont-want-directions
 title: I Don't Want Directions
 desc: ''
-updated: '1616125521651'
+updated: '1616126764704'
 created: '1282546800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Yes, I understand that the turn is half a mile past the big field, but my GPS knows that, too.  This would be easier if you weren't about to ask me to repeat it all back to you.](https://imgs.xkcd.com/comics/i_dont_want_directions.png)
+> "I Don't Want Directions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Full body shot of man on phone.]]

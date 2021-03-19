@@ -2,7 +2,7 @@
 id: xkcd.significant
 title: Significant
 desc: ''
-updated: '1616125521690'
+updated: '1616126764777'
 created: '1302073200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['So, uh, we did the green study again and got no link. It was probably a--' 'RESEARCH CONFLICTED ON GREEN JELLY BEAN/ACNE LINK; MORE STUDY RECOMMENDED!'](https://imgs.xkcd.com/comics/significant.png)
+> "Significant", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person with a pony tail runs up to another person, who subsequently points off-panel where there are presumably scientists.]]

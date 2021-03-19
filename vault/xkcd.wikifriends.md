@@ -2,7 +2,7 @@
 id: xkcd.wikifriends
 title: Wikifriends
 desc: ''
-updated: '1616125521334'
+updated: '1616126764472'
 created: '1163750400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.](https://imgs.xkcd.com/comics/wikifriends.png)
+> "Wikifriends", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 WikiFriends:

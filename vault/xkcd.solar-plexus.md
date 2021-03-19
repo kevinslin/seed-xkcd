@@ -2,7 +2,7 @@
 id: xkcd.solar-plexus
 title: Solar Plexus
 desc: ''
-updated: '1616125521354'
+updated: '1616126764380'
 created: '1139990400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It hurts to be hit there, you know](https://imgs.xkcd.com/comics/solar_plexus.jpg)
+> "Solar Plexus", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat guy and man standing there talking]]

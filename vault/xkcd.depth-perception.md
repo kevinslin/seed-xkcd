@@ -2,7 +2,7 @@
 id: xkcd.depth-perception
 title: Depth Perception
 desc: ''
-updated: '1616125521703'
+updated: '1616126764789'
 created: '1313996400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've looked at clouds from both sides now.](https://imgs.xkcd.com/comics/depth_perception.png)
+> "Depth Perception", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The comic is narrated by an unspecified person. All dialog is shown in boxes overlaid on the comic panels.))

@@ -2,7 +2,7 @@
 id: xkcd.tab-explosion
 title: Tab Explosion
 desc: ''
-updated: '1616125521617'
+updated: '1616126764732'
 created: '1247468400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Cracked.com is another inexplicable browser narcotic.  They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd read through to the end, then click on all the links at the end.](https://imgs.xkcd.com/comics/tab_explosion.png)
+> "Tab Explosion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting at a computer.]]

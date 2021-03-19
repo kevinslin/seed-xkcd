@@ -2,7 +2,7 @@
 id: xkcd.glass
 title: Glass
 desc: ''
-updated: '1616125521656'
+updated: '1616126764767'
 created: '1288335600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I read in this one article that the breaking of electroweak symmetry is the reason we have SOULS. This guy with a degree said so!](https://imgs.xkcd.com/comics/glass.png)
+> "Glass", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Woman is singing, man is staring at a flass of water on a table.]]

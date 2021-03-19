@@ -2,7 +2,7 @@
 id: xkcd.startled
 title: Startled
 desc: ''
-updated: '1616125521586'
+updated: '1616126764674'
 created: '1208502000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![...](https://imgs.xkcd.com/comics/startled.png)
+> "Startled", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man and woman standing to one side, looking and pointing at guy in black hat who is facing away.]]

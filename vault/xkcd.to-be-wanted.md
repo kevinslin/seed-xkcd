@@ -2,7 +2,7 @@
 id: xkcd.to-be-wanted
 title: To Be Wanted
 desc: ''
-updated: '1616125521580'
+updated: '1616126764667'
 created: '1200643200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Or so I hope?](https://imgs.xkcd.com/comics/to_be_wanted.png)
+> "To Be Wanted", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Woman stands looking out on the bow of a ship]]

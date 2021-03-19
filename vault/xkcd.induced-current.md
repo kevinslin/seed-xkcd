@@ -2,7 +2,7 @@
 id: xkcd.induced-current
 title: Induced Current
 desc: ''
-updated: '1616125521602'
+updated: '1616126764708'
 created: '1227686400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.](https://imgs.xkcd.com/comics/induced_current.png)
+> "Induced Current", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man wearing a beret, extension cord in hand, approaches Randall as he works at his computer.]]

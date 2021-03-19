@@ -2,7 +2,7 @@
 id: xkcd.cant-sleep
 title: Can't Sleep
 desc: ''
-updated: '1616125521613'
+updated: '1616126764716'
 created: '1240210800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.](https://imgs.xkcd.com/comics/cant_sleep.png)
+> "Can't Sleep", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Someone is in bed, presumably trying to sleep. The top of each panel is a thought bubble showing sheep leaping over a fence.]]

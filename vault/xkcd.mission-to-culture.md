@@ -2,7 +2,7 @@
 id: xkcd.mission-to-culture
 title: Mission to Culture
 desc: ''
-updated: '1616125521615'
+updated: '1616126764721'
 created: '1242802800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It can't be very MUCH money ... they apparently can't even afford a sampler.  I mean, with a little remixing, some of this could be kinda good!](https://imgs.xkcd.com/comics/mission_to_culture.png)
+> "Mission to Culture", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is pulling a woman by the legs.  She is holding onto the ground.]]

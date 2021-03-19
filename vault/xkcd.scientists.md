@@ -2,7 +2,7 @@
 id: xkcd.scientists
 title: Scientists
 desc: ''
-updated: '1616125521348'
+updated: '1616126764370'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A leading expert characterized the situation as 'retarded'](https://imgs.xkcd.com/comics/scientists.jpg)
+> "Scientists", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 In what scientists are calling "pretty gay," I can't find my shoes.

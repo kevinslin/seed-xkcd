@@ -2,7 +2,7 @@
 id: xkcd.friends
 title: Friends
 desc: ''
-updated: '1616125521603'
+updated: '1616126764708'
 created: '1228464000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Friends with detriments.](https://imgs.xkcd.com/comics/friends.png)
+> "Friends", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A boy is talking to a girl.]]

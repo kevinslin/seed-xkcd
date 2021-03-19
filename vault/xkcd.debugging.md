@@ -2,7 +2,7 @@
 id: xkcd.debugging
 title: Debugging
 desc: ''
-updated: '1616125521472'
+updated: '1616126764541'
 created: '1471590000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.](https://imgs.xkcd.com/comics/debugging.png)
+> "Debugging", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

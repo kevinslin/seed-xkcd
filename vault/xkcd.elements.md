@@ -2,7 +2,7 @@
 id: xkcd.elements
 title: Elements
 desc: ''
-updated: '1616125521705'
+updated: '1616126764797'
 created: '1318834800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda.](https://imgs.xkcd.com/comics/elements.png)
+> "Elements", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Aang the Avatar and Dmitri Mendeleev stand in opposition to each other.  Aang wields all 4 classical elements: Water, Fire, Earth, and Air.]]

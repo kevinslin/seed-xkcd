@@ -2,7 +2,7 @@
 id: xkcd.rule-34
 title: Rule 34
 desc: ''
-updated: '1616125521560'
+updated: '1616126764650'
 created: '1187593200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Okay, Lance.  For entry into the college bowl, spell 'Throbbing'](https://imgs.xkcd.com/comics/rule_34.png)
+> "Rule 34", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy sits in front of his desktop computer. A girl lies belly-down on the floor in front of her laptop.]]

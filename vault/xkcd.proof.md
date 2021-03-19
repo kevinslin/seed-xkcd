@@ -2,7 +2,7 @@
 id: xkcd.proof
 title: Proof
 desc: ''
-updated: '1616125521428'
+updated: '1616126764409'
 created: '1356681600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The prosecution calls Gottfried Leibniz.](https://imgs.xkcd.com/comics/proof.png)
+> "Proof", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A courtroom. A judge sits on a stage at the right. Another man sits, downcast, behind a desk at the left. A man, Zeno, stands centre left holding an arrow.]]

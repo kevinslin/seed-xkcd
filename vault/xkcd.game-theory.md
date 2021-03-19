@@ -2,7 +2,7 @@
 id: xkcd.game-theory
 title: Game Theory
 desc: ''
-updated: '1616125521616'
+updated: '1616126764728'
 created: '1245826800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wait, no, that one also loses. How about a nice game of chess?](https://imgs.xkcd.com/comics/game_theory.png)
+> "Game Theory", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting at a computer.  The text appearing is implied to be what he sees on the screen.]]

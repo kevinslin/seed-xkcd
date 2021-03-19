@@ -2,7 +2,7 @@
 id: xkcd.salt-mine
 title: Salt Mine
 desc: ''
-updated: '1616125521410'
+updated: '1616126764561'
 created: '1454313600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This one is a little bland. Pass the saltshaker?](https://imgs.xkcd.com/comics/salt_mine.png)
+> "Salt Mine", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure walks around outside, while a bird singing is flying.]]

@@ -2,7 +2,7 @@
 id: xkcd.amazon
 title: Amazon
 desc: ''
-updated: '1616125521430'
+updated: '1616126764411'
 created: '1359100800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.](https://imgs.xkcd.com/comics/amazon.png)
+> "Amazon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Round 14: Estimated outflow volume in cubic meters per second

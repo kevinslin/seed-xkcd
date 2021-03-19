@@ -2,7 +2,7 @@
 id: xkcd.homeownership
 title: Homeownership
 desc: ''
-updated: '1616125521698'
+updated: '1616126764781'
 created: '1306738800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![New research shows over 60% of the financial collapse's toxic assets were created by power drills.](https://imgs.xkcd.com/comics/homeownership.png)
+> "Homeownership", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person is in an empty room, on the phone with a friend.]]

@@ -2,7 +2,7 @@
 id: xkcd.map-of-the-internet
 title: Map of the Internet
 desc: ''
-updated: '1616125521336'
+updated: '1616126764475'
 created: '1165824000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For the IPv6 map just imagine the XP default desktop picture.](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)
+> "Map of the Internet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Map of the Internet

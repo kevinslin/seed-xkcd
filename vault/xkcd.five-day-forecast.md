@@ -2,7 +2,7 @@
 id: xkcd.five-day-forecast
 title: Five-Day Forecast
 desc: ''
-updated: '1616125521406'
+updated: '1616126764557'
 created: '1448006400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.](https://imgs.xkcd.com/comics/five_day_forecast.png)
+> "Five-Day Forecast", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Comic consists of 6 rows of forecasts, each with a description of that time period's weather. ))

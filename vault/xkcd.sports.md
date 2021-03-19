@@ -2,7 +2,7 @@
 id: xkcd.sports
 title: Sports
 desc: ''
-updated: '1616125521698'
+updated: '1616126764781'
 created: '1306479600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also, all financial analysis. And, more directly, D&D.](https://imgs.xkcd.com/comics/sports.png)
+> "Sports", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two commentators sit behind a desk.]]

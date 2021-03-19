@@ -2,7 +2,7 @@
 id: xkcd.keyboard-mash
 title: Keyboard Mash
 desc: ''
-updated: '1616125521458'
+updated: '1616126764507'
 created: '1432710000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.](https://imgs.xkcd.com/comics/keyboard_mash.png)
+> "Keyboard Mash", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person walks toward their computer desk as the screen indicates "new chat message."]]

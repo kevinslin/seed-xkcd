@@ -2,7 +2,7 @@
 id: xkcd.upside-down-map
 title: Upside-Down Map
 desc: ''
-updated: '1616125521454'
+updated: '1616126764501'
 created: '1426662000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Due to their proximity across the channel, there's long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.](https://imgs.xkcd.com/comics/upside_down_map.png)
+> "Upside-Down Map", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A mercator projection of the world map is shown. All the continents have been rotated one hundred eighty degrees.))

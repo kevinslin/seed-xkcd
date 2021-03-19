@@ -2,7 +2,7 @@
 id: xkcd.suggestions
 title: Suggestions
 desc: ''
-updated: '1616125521625'
+updated: '1616126764745'
 created: '1260172800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![An hour later: SUGGESTION: LICK HER NIPPLE MORE.](https://imgs.xkcd.com/comics/suggestions.png)
+> "Suggestions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting at his computer. Facebook sidebar messages appear on the top of each panel, with a user photo and a few lines of text.]]

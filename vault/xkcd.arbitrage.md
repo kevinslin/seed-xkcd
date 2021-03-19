@@ -2,7 +2,7 @@
 id: xkcd.arbitrage
 title: Arbitrage
 desc: ''
-updated: '1616125521453'
+updated: '1616126764538'
 created: '1426489200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The invisible hand of the market never texts me back.](https://imgs.xkcd.com/comics/arbitrage.png)
+> "Arbitrage", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures sit at a table. One of them is aghast while the other cheerfully shuttles chips from a bowl on the table to a giant sack of CHIPS.]]

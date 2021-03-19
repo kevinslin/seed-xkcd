@@ -2,7 +2,7 @@
 id: xkcd.nerd-sniping
 title: Nerd Sniping
 desc: ''
-updated: '1616125521577'
+updated: '1616126764665'
 created: '1197446400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.](https://imgs.xkcd.com/comics/nerd_sniping.png)
+> "Nerd Sniping", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat Guy is sitting on a chair, the Normal Guy is standing next to him. Across the street another man is coming from a building.]]

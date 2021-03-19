@@ -2,7 +2,7 @@
 id: xkcd.velociraptors
 title: Velociraptors
 desc: ''
-updated: '1616125521359'
+updated: '1616126764386'
 created: '1144652400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You're probably thinking, 'has it been a decade?'  It's been over thirteen years, buddy.](https://imgs.xkcd.com/comics/velociraptors.jpg)
+> "Velociraptors", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Picture of a suburban house, with lines pointing to various aspects]]

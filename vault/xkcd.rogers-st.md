@@ -2,7 +2,7 @@
 id: xkcd.rogers-st
 title: Rogers St.
 desc: ''
-updated: '1616125521693'
+updated: '1616126764777'
 created: '1302505200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['We can also use middle names in place of first pet's names, but yours is something incomprehensible about dropping tables.'](https://imgs.xkcd.com/comics/rogers_st.png)
+> "Rogers St.", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Someone with curly hair is standing in front of a sign labeled 'Auditions'.  A judge of some sort speaks from off-panel.]]

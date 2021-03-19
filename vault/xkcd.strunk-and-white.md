@@ -2,7 +2,7 @@
 id: xkcd.strunk-and-white
 title: Strunk and White
 desc: ''
-updated: '1616125521701'
+updated: '1616126764786'
 created: '1310367600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.](https://imgs.xkcd.com/comics/strunk_and_white.png)
+> "Strunk and White", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: The best thing about Strunk

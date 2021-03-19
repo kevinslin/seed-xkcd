@@ -2,7 +2,7 @@
 id: xkcd.trolley-problem
 title: Trolley Problem
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1417593600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For $5 I promise not to orchestrate this situation, and for $25 I promise not to take further advantage of this ability to create incentives.](https://imgs.xkcd.com/comics/trolley_problem.png)
+> "Trolley Problem", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Stick Guy, holding a newspaper, walks up to Black Hat, who is sitting at a desk and facing the other way.]]

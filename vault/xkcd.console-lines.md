@@ -2,7 +2,7 @@
 id: xkcd.console-lines
 title: Console Lines
 desc: ''
-updated: '1616125521334'
+updated: '1616126764472'
 created: '1164009600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If I get a Wii, it will be the first game console I've owned.](https://imgs.xkcd.com/comics/console_lines.png)
+> "Console Lines", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title: Fans turning away latecomers to all-night game console campouts:}}

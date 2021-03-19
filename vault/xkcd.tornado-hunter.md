@@ -2,7 +2,7 @@
 id: xkcd.tornado-hunter
 title: Tornado Hunter
 desc: ''
-updated: '1616125521621'
+updated: '1616126764737'
 created: '1253689200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Fujita Scale was replaced by the Enhanced Fujita Scale in 2007, but I think 'EF-5' sounds stupid, so I vote we just use the new measurements for assigning numbers but still call them 'F-whatever'.](https://imgs.xkcd.com/comics/tornado_hunter.png)
+> "Tornado Hunter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are in a car, which is driving past a cactus.  The passenger has a pith helmet and a mustache.]]

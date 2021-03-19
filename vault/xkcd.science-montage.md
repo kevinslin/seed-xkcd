@@ -2,7 +2,7 @@
 id: xkcd.science-montage
 title: Science Montage
 desc: ''
-updated: '1616125521627'
+updated: '1616126764746'
 created: '1262332800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The rat's perturbed; it must sense nanobots! Code grey!  We have a Helvetica scenario!](https://imgs.xkcd.com/comics/science_montage.png)
+> "Science Montage", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Movie Science Montage

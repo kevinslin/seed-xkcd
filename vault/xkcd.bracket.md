@@ -2,7 +2,7 @@
 id: xkcd.bracket
 title: Bracket
 desc: ''
-updated: '1616125521458'
+updated: '1616126764507'
 created: '1432537200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm staring at the "doctor" section, and I can't help but feel like I've forgotten someone.](https://imgs.xkcd.com/comics/bracket.png)
+> "Bracket", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[What follows is a bunch of names, all in an ULTIMATE SINGLE ELIMINATION BRACKET, like one might see for SPORTS like BATTLEBOTS or MARCH MADNESS.]]

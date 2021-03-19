@@ -2,7 +2,7 @@
 id: xkcd.estimating-time
 title: Estimating Time
 desc: ''
-updated: '1616125521413'
+updated: '1616126764564'
 created: '1458543600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Corollary to Hofstadter's Law: Every minute you spend thinking about Hofstadter's Law is a minute you're NOT WORKING AND WILL NEVER FINISH! PAAAAAANIIIIIIC!](https://imgs.xkcd.com/comics/estimating_time.png)
+> "Estimating Time", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[We see a social media post from a woman posting a link to the local news.]]

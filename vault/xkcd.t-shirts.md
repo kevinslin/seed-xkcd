@@ -2,7 +2,7 @@
 id: xkcd.t-shirts
 title: T-shirts
 desc: ''
-updated: '1616125521345'
+updated: '1616126764364'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's depressing how many of these are real shirts](https://imgs.xkcd.com/comics/t-shirts.jpg)
+> "T-shirts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A collection of phrases on T-shirts]]

@@ -2,7 +2,7 @@
 id: xkcd.aversion-fads
 title: Aversion Fads
 desc: ''
-updated: '1616125521597'
+updated: '1616126764685'
 created: '1220425200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, are you friends with any hamsters?  This kite needs a passenger.](https://imgs.xkcd.com/comics/aversion_fads.png)
+> "Aversion Fads", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two guys stand together as a young guy dressed up with small ears and a tail approaches.]]

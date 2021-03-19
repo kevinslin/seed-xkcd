@@ -2,7 +2,7 @@
 id: xkcd.in-popular-culture
 title: In Popular Culture
 desc: ''
-updated: '1616125521591'
+updated: '1616126764682'
 created: '1215414000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Someday the 'in popular culture' section will have its own article with an 'in popular culture' section.  It will reference this title-text referencing it, and the blogosphere will implode.](https://imgs.xkcd.com/comics/in_popular_culture.png)
+> "In Popular Culture", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A fictional screen capture of the Wikipedia article for "wood" is shown]]

@@ -2,7 +2,7 @@
 id: xkcd.before-the-internet
 title: Before the Internet
 desc: ''
-updated: '1616125521503'
+updated: '1616126764491'
 created: '1395990000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We watched DAYTIME TV. Do you realize how soul-crushing it was? I'd rather eat an iPad than go back to watching daytime TV.](https://imgs.xkcd.com/comics/before_the_internet.png)
+> "Before the Internet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An adult and a child are standing around, looking at cellphones.]]

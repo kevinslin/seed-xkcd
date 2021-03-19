@@ -2,7 +2,7 @@
 id: xkcd.stephen-hawking
 title: Stephen Hawking
 desc: ''
-updated: '1616125521653'
+updated: '1616126764707'
 created: '1285743600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Guys?  The Town is supposed to be good, and I thou--' 'PHYSICIST STEPHEN HAWKING DECLARES NEW FILM BEST IN ALL SPACE AND TIME' 'No, I just heard that--' 'SHOULD SCIENCE PLAY A ROLE IN JUDGING BEN AFFLECK?' 'I don't think--' 'WHAT ABOUT MATT DAMON?'](https://imgs.xkcd.com/comics/stephen_hawking.png)
+> "Stephen Hawking", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Stephen Hawking is facing a pair of people.  His voice appears in a square machine readable font.]]

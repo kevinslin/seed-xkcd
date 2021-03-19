@@ -2,7 +2,7 @@
 id: xkcd.trapped
 title: Trapped
 desc: ''
-updated: '1616125521689'
+updated: '1616126764776'
 created: '1300863600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.](https://imgs.xkcd.com/comics/trapped.png)
+> "Trapped", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person is on the phone.]]

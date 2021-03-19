@@ -2,7 +2,7 @@
 id: xkcd.1000-times
 title: 1000 Times
 desc: ''
-updated: '1616125521611'
+updated: '1616126764713'
 created: '1237532400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And 0.002 dollars will NEVER equal 0.002 cents.](https://imgs.xkcd.com/comics/1000_times.png)
+> "1000 Times", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Dishonest:

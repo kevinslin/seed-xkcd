@@ -2,7 +2,7 @@
 id: xkcd.fairy-tales
 title: Fairy Tales
 desc: ''
-updated: '1616125521689'
+updated: '1616126764776'
 created: '1300086000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.](https://imgs.xkcd.com/comics/fairy_tales.png)
+> "Fairy Tales", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Woman is sitting in an armchair, reading a book.]]

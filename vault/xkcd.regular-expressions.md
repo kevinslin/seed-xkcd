@@ -2,7 +2,7 @@
 id: xkcd.regular-expressions
 title: Regular Expressions
 desc: ''
-updated: '1616125521527'
+updated: '1616126764633'
 created: '1168416000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wait, forgot to escape a space.  Wheeeeee[taptaptap]eeeeee.](https://imgs.xkcd.com/comics/regular_expressions.png)
+> "Regular Expressions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: Whenever I learn a new skill I concoct elaborate fantasy scenarios where it lets me save the day.

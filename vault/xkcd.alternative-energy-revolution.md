@@ -2,7 +2,7 @@
 id: xkcd.alternative-energy-revolution
 title: Alternative Energy Revolution
 desc: ''
-updated: '1616125521611'
+updated: '1616126764713'
 created: '1237186800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)
+> "Alternative Energy Revolution", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A field of windmills is silhouetted against dusk sky.]]

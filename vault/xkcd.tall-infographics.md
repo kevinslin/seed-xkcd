@@ -2,7 +2,7 @@
 id: xkcd.tall-infographics
 title: Tall Infographics
 desc: ''
-updated: '1616125521400'
+updated: '1616126764442'
 created: '1380870000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Big Data' doesn't just mean increasing the font size.](https://imgs.xkcd.com/comics/tall_infographics.png)
+> "Tall Infographics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 By the year

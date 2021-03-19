@@ -2,7 +2,7 @@
 id: xkcd.realistic-criteria
 title: Realistic Criteria
 desc: ''
-updated: '1616125521394'
+updated: '1616126764429'
 created: '1372662000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm leaning toward fifteen. There are a lot of them.](https://imgs.xkcd.com/comics/realistic_criteria.png)
+> "Realistic Criteria", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures stand talking.]]

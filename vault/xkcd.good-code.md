@@ -2,7 +2,7 @@
 id: xkcd.good-code
 title: Good Code
 desc: ''
-updated: '1616125521667'
+updated: '1616126764771'
 created: '1294387200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can either hang out in the Android Loop or the HURD loop.](https://imgs.xkcd.com/comics/good_code.png)
+> "Good Code", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The comic is a flowchart.  In order to explain this in text, follow the line numbers.  Options follow on new lines without numbers.))

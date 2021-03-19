@@ -2,7 +2,7 @@
 id: xkcd.xkcd-phone-6
 title: xkcd Phone 6
 desc: ''
-updated: '1616125521497'
+updated: '1616126764591'
 created: '1505286000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.](https://imgs.xkcd.com/comics/xkcd_phone_6.png)
+> "xkcd Phone 6", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

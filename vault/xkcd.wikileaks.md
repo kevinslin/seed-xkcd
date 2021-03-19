@@ -2,7 +2,7 @@
 id: xkcd.wikileaks
 title: Wikileaks
 desc: ''
-updated: '1616125521660'
+updated: '1616126764770'
 created: '1292400000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.](https://imgs.xkcd.com/comics/wikileaks.png)
+> "Wikileaks", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A black formal suit with no head is talking.]]

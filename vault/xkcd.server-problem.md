@@ -2,7 +2,7 @@
 id: xkcd.server-problem
 title: Server Problem
 desc: ''
-updated: '1616125521385'
+updated: '1616126764626'
 created: '1342767600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Protip: Annoy Ray Kurzweil by always referring to it as the 'Cybersingularity'.](https://imgs.xkcd.com/comics/server_problem.png)
+> "Server Problem", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1, sitting at laptop: I, um, messed up my server again.

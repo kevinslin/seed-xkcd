@@ -2,7 +2,7 @@
 id: xkcd.the-race-part-2
 title: 'The Race: Part 2'
 desc: ''
-updated: '1616125521614'
+updated: '1616126764719'
 created: '1241506800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Hammer + Captain Tightpants == Captain Hammerpants?](https://imgs.xkcd.com/comics/the_race_part_2.png)
+> "The Race: Part 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man with skateboard and gear and woman are talking]]

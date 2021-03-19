@@ -2,7 +2,7 @@
 id: xkcd.future-timeline
 title: Future Timeline
 desc: ''
-updated: '1616125521693'
+updated: '1616126764777'
 created: '1303110000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not shown: the approximately 30,000 identical, vaguely hysterical articles titled "WHITE PEOPLE IN [THE US/BRITAIN] TO BECOME MINORITY BY [YEAR]!", which came up for basically any year I put in.](https://imgs.xkcd.com/comics/future_timeline.png)
+> "Future Timeline", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Future

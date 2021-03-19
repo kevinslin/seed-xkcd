@@ -2,7 +2,7 @@
 id: xkcd.api
 title: API
 desc: ''
-updated: '1616125521449'
+updated: '1616126764536'
 created: '1422864000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![ACCESS LIMITS: Clients may maintain connections to the server for no more than 86,400 seconds per day. If you need additional time, you may contact IERS to file a request for up to one additional second.](https://imgs.xkcd.com/comics/api.png)
+> "API", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This is a faux-screenshot of a technical document))

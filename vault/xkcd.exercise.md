@@ -2,7 +2,7 @@
 id: xkcd.exercise
 title: Exercise
 desc: ''
-updated: '1616125521335'
+updated: '1616126764473'
 created: '1164614400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I haven't had the patience for RPGs in a long time.](https://imgs.xkcd.com/comics/exercise.png)
+> "Exercise", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Like many geeks, I got a lot more interested in exercise once I made the connection to leveling up.

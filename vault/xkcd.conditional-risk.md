@@ -2,7 +2,7 @@
 id: xkcd.conditional-risk
 title: Conditional Risk
 desc: ''
-updated: '1616125521653'
+updated: '1616126764706'
 created: '1284966000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Dude, wait -- I'm not American! So my risk is basically zero!'](https://imgs.xkcd.com/comics/conditional_risk.png)
+> "Conditional Risk", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Lightning strikes the ground, illuminating trees with a bright white light.  Two people are standing near it.  One has a walking stick.]]

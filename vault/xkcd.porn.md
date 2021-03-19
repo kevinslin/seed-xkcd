@@ -2,7 +2,7 @@
 id: xkcd.porn
 title: Porn
 desc: ''
-updated: '1616125521616'
+updated: '1616126764728'
 created: '1245222000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I have a thing for corrupt women.](https://imgs.xkcd.com/comics/porn.png)
+> "Porn", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is hunched up at a computer.  A circle surrounds him; the rest of the panel is black.]]

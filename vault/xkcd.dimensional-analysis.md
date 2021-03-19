@@ -2,7 +2,7 @@
 id: xkcd.dimensional-analysis
 title: Dimensional Analysis
 desc: ''
-updated: '1616125521627'
+updated: '1616126764747'
 created: '1263196800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Or the pressure at the Earth's core will rise slightly.](https://imgs.xkcd.com/comics/dimensional_analysis.png)
+> "Dimensional Analysis", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[On a blackboard.]]

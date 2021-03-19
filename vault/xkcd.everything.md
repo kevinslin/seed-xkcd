@@ -2,7 +2,7 @@
 id: xkcd.everything
 title: Everything
 desc: ''
-updated: '1616125521705'
+updated: '1616126764797'
 created: '1319439600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wanna hold your hand so I don't fall out of your gyrocopter.](https://imgs.xkcd.com/comics/everything.png)
+> "Everything", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person 1 drags a small wagon and a bag full of various items]]

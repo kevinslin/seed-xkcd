@@ -2,7 +2,7 @@
 id: xkcd.subways
 title: Subways
 desc: ''
-updated: '1616125521436'
+updated: '1616126764419'
 created: '1365404400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![About one in three North American subway stops are in NYC.](https://imgs.xkcd.com/comics/subways.png)
+> "Subways", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Subways of North America

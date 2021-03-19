@@ -2,7 +2,7 @@
 id: xkcd.kitchen-tips
 title: Kitchen Tips
 desc: ''
-updated: '1616125521466'
+updated: '1616126764517'
 created: '1440140400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it's much easier on your plumbing.](https://imgs.xkcd.com/comics/kitchen_tips.png)
+> "Kitchen Tips", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A enthused CHEF speaks to us from behind a counter loaded with spices & kitchen things.]]

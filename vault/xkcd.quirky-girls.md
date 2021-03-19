@@ -2,7 +2,7 @@
 id: xkcd.quirky-girls
 title: Quirky Girls
 desc: ''
-updated: '1616125521317'
+updated: '1616126764458'
 created: '1151650800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Romantic comedy heroines, I'm talking to you.](https://imgs.xkcd.com/comics/quirky_girls.png)
+> "Quirky Girls", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Man and woman talking, looking at a group of 2 men and a woman standing further away.  The woman is on a table and the 2 men are looking at her ]]

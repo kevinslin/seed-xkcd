@@ -2,7 +2,7 @@
 id: xkcd.tire-swing
 title: Tire Swing
 desc: ''
-updated: '1616125521413'
+updated: '1616126764564'
 created: '1458716400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If we find one of those tire dumps, the next time he tries to get his truck back we can just retreat and let him have it.](https://imgs.xkcd.com/comics/tire_swing.png)
+> "Tire Swing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters are walking.]]

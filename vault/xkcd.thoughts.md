@@ -2,7 +2,7 @@
 id: xkcd.thoughts
 title: Thoughts
 desc: ''
-updated: '1616125521553'
+updated: '1616126764644'
 created: '1181545200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And now I might never get to again.](https://imgs.xkcd.com/comics/thoughts.png)
+> "Thoughts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When meeting a girlfriend's family, I have to suppress the weirdest thoughts.

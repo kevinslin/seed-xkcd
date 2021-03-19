@@ -2,7 +2,7 @@
 id: xkcd.date
 title: Date
 desc: ''
-updated: '1616125521620'
+updated: '1616126764736'
 created: '1252479600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Well, the kid's definitely getting the biology geek phenotype.](https://imgs.xkcd.com/comics/date.png)
+> "Date", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are sitting at a table, with a candle-lit dinner.  The man is holding up a sheet of paper, and the woman is scribbling.]]

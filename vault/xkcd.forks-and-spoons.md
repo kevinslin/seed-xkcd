@@ -2,7 +2,7 @@
 id: xkcd.forks-and-spoons
 title: Forks and Spoons
 desc: ''
-updated: '1616125521587'
+updated: '1616126764675'
 created: '1209970800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project.  That's when Spielberg caught wind of it.](https://imgs.xkcd.com/comics/forks_and_spoons.png)
+> "Forks and Spoons", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Presenter with pointer stick]] Presenter: A spoon crossed with a fork is a spork.

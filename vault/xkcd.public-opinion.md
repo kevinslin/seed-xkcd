@@ -2,7 +2,7 @@
 id: xkcd.public-opinion
 title: Public Opinion
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1277103600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![News networks giving a greater voice to viewers because the social web is so popular are like a chef on the Titanic who, seeing the looming iceberg and fleeing customers, figures ice is the future and starts making snow cones.](https://imgs.xkcd.com/comics/public_opinion.png)
+> "Public Opinion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A news anchor reads from a paper. There is a picture on the left side of screen of a man speaking at a podium. In the bottom right-hand corner, a logo reads 'News24'.]]

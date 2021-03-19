@@ -2,7 +2,7 @@
 id: xkcd.pet-peeve-114
 title: 'Pet Peeve #114'
 desc: ''
-updated: '1616125521532'
+updated: '1616126764639'
 created: '1174460400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm reading a goddamn book, thank you very much.](https://imgs.xkcd.com/comics/pet_peeve_114.png)
+> "Pet Peeve #114", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Figure reading a book in a chair]]

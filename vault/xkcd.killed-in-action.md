@@ -2,7 +2,7 @@
 id: xkcd.killed-in-action
 title: Killed In Action
 desc: ''
-updated: '1616125521422'
+updated: '1616126764395'
 created: '1348642800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We can't let this happen again. We need to build a secure TWO-day-before-retirement safe room.](https://imgs.xkcd.com/comics/killed_in_action.png)
+> "Killed In Action", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Five people are at a funeral, the casket is on a stand in the center. There are three people in the background, on the left side. On the right, in the foreground, are two police officers. One is male, the other female.]]

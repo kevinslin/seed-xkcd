@@ -2,7 +2,7 @@
 id: xkcd.cautionary
 title: Cautionary
 desc: ''
-updated: '1616125521592'
+updated: '1616126764683'
 created: '1217401200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This really is a true story, and she doesn't know I put it in my comic because her wifi hasn't worked for weeks.](https://imgs.xkcd.com/comics/cautionary.png)
+> "Cautionary", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Linux: A True Story:

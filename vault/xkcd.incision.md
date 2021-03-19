@@ -2,7 +2,7 @@
 id: xkcd.incision
 title: Incision
 desc: ''
-updated: '1616125521647'
+updated: '1616126764698'
 created: '1273474800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At one point, by force of childhood habit, the doctor accidentally removed three or four organs.](https://imgs.xkcd.com/comics/incision.png)
+> "Incision", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two doctors wearing surgical masks are standing over a prone patient.  One of them is poking the patient's chest.]]

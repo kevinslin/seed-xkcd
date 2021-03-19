@@ -2,7 +2,7 @@
 id: xkcd.extended-mind
 title: Extended Mind
 desc: ''
-updated: '1616125521698'
+updated: '1616126764781'
 created: '1306306800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wikipedia trivia: if you take any article, click on the first link in the article text not in parentheses or italics, and then repeat, you will eventually end up at "Philosophy".](https://imgs.xkcd.com/comics/extended_mind.png)
+> "Extended Mind", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An IM window is open over a Chrome window with tabs for Spark Plug, Feeler Gauge, and Wikipedia.]]

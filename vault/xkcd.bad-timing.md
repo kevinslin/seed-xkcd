@@ -2,7 +2,7 @@
 id: xkcd.bad-timing
 title: Bad Timing
 desc: ''
-updated: '1616125521589'
+updated: '1616126764676'
 created: '1211526000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.](https://imgs.xkcd.com/comics/bad_timing.png)
+> "Bad Timing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A couple, flying in a hot air balloon]] Man: I like you.  

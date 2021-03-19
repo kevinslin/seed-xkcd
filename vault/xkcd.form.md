@@ -2,7 +2,7 @@
 id: xkcd.form
 title: Form
 desc: ''
-updated: '1616125521617'
+updated: '1616126764732'
 created: '1247209200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.](https://imgs.xkcd.com/comics/form.png)
+> "Form", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a sheet of paper, with a series of check boxes.  A white rectangle is the focus.]]

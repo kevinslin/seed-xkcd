@@ -2,7 +2,7 @@
 id: xkcd.donald-knuth
 title: Donald Knuth
 desc: ''
-updated: '1616125521329'
+updated: '1616126764467'
 created: '1159340400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![His books were kinda intimidating; rappelling down through his skylight seemed like the best option.](https://imgs.xkcd.com/comics/donald_knuth.png)
+> "Donald Knuth", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two programmers, one with a black hat and one without a hat, are sitting back to back at two separate desks, typing.]]

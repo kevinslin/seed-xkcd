@@ -2,7 +2,7 @@
 id: xkcd.batman
 title: Batman
 desc: ''
-updated: '1616125521364'
+updated: '1616126764614'
 created: '1326700800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)](https://imgs.xkcd.com/comics/batman.png)
+> "Batman", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((One panel, depicting three wavy circles. The one in the center is slightly larger, and the ones on either side are higher up. Their edges are touching.))

@@ -2,7 +2,7 @@
 id: xkcd.microsoft
 title: Microsoft
 desc: ''
-updated: '1616125521423'
+updated: '1616126764396'
 created: '1349679600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.](https://imgs.xkcd.com/comics/microsoft.png)
+> "Microsoft", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters with long hair are talking.]]

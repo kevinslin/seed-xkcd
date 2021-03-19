@@ -2,7 +2,7 @@
 id: xkcd.sky
 title: Sky
 desc: ''
-updated: '1616125521422'
+updated: '1616126764395'
 created: '1349074800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I dropped a bird and I didn't hear it hit bottom.](https://imgs.xkcd.com/comics/sky.png)
+> "Sky", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman approaches a guy in a white beret, who appears to be doing a handstand on the lawn.]]

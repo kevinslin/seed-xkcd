@@ -2,7 +2,7 @@
 id: xkcd.ineffective-sorts
 title: Ineffective Sorts
 desc: ''
-updated: '1616125521434'
+updated: '1616126764416'
 created: '1363158000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.](https://imgs.xkcd.com/comics/ineffective_sorts.png)
+> "Ineffective Sorts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 define HalfheartedMergeSort(list):

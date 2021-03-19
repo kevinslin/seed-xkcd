@@ -2,7 +2,7 @@
 id: xkcd.keeping-time
 title: Keeping Time
 desc: ''
-updated: '1616125521583'
+updated: '1616126764670'
 created: '1204099200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can identify them ahead-of-time -- they lead with their left foot when the music starts.](https://imgs.xkcd.com/comics/keeping_time.png)
+> "Keeping Time", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Hobby:

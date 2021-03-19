@@ -2,7 +2,7 @@
 id: xkcd.no-pun-intended
 title: No Pun Intended
 desc: ''
-updated: '1616125521611'
+updated: '1616126764713'
 created: '1237791600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.](https://imgs.xkcd.com/comics/no_pun_intended.png)
+> "No Pun Intended", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Hobby: Appending "no pun intended" to lines with no pun in them.

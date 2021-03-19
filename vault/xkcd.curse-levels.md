@@ -2,7 +2,7 @@
 id: xkcd.curse-levels
 title: Curse Levels
 desc: ''
-updated: '1616125521356'
+updated: '1616126764383'
 created: '1142236800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I find so much fun in language.](https://imgs.xkcd.com/comics/curse_levels.jpg)
+> "Curse Levels", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [["My Hobby: mixing curse levels" is at the top of the panel.]]

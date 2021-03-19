@@ -2,7 +2,7 @@
 id: xkcd.kite
 title: Kite
 desc: ''
-updated: '1616125521530'
+updated: '1616126764638'
 created: '1173855600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's easy to regret your awkward conversations but hard to regret the ones you didn't have.](https://imgs.xkcd.com/comics/kite.jpg)
+> "Kite", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man readies a kite]]

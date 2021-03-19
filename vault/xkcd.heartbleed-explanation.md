@@ -2,7 +2,7 @@
 id: xkcd.heartbleed-explanation
 title: Heartbleed Explanation
 desc: ''
-updated: '1616125521504'
+updated: '1616126764492'
 created: '1397199600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Are you still there, server? It's me, Margaret.](https://imgs.xkcd.com/comics/heartbleed_explanation.png)
+> "Heartbleed Explanation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 How the Heartbleed Bug Works:

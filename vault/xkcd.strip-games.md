@@ -2,7 +2,7 @@
 id: xkcd.strip-games
 title: Strip Games
 desc: ''
-updated: '1616125521628'
+updated: '1616126764748'
 created: '1265011200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![HOW ABOUT A NICE GAME OF STRIP GLOBAL THERMONUCLEAR WAR?](https://imgs.xkcd.com/comics/strip_games.png)
+> "Strip Games", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Frequency of Strip Versions of Various Games

@@ -2,7 +2,7 @@
 id: xkcd.traffic-lights
 title: Traffic Lights
 desc: ''
-updated: '1616125521423'
+updated: '1616126764396'
 created: '1349247600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.](https://imgs.xkcd.com/comics/traffic_lights.gif)
+> "Traffic Lights", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Six traffic lights are hanging from a wire.  A bird is on the wire.  This is animated.]]

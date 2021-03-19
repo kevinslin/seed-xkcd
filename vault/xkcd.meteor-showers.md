@@ -2,7 +2,7 @@
 id: xkcd.meteor-showers
 title: Meteor Showers
 desc: ''
-updated: '1616125521397'
+updated: '1616126764433'
 created: '1376031600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Remember, meteors always hit the tallest object around.](https://imgs.xkcd.com/comics/meteor_showers.png)
+> "Meteor Showers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The xkcd guide to meteor showers

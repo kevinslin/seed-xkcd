@@ -2,7 +2,7 @@
 id: xkcd.march-of-the-penguins
 title: March of the Penguins
 desc: ''
-updated: '1616125521438'
+updated: '1616126764527'
 created: '1408086000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You ARE getting older, though.](https://imgs.xkcd.com/comics/march_of_the_penguins.png)
+> "March of the Penguins", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black hat guy walks up to a woman seated at a desk with a laptop.]]

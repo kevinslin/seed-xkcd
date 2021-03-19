@@ -2,7 +2,7 @@
 id: xkcd.parody-week-achewood
 title: 'Parody Week: Achewood'
 desc: ''
-updated: '1616125521324'
+updated: '1616126764462'
 created: '1155538800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I always wanted to impress them with how well I could hear, didn't you?  Also, this sets the record for number of awkward-pause panels in one strip (previously held by Achewood)](https://imgs.xkcd.com/comics/achewood.png)
+> "Parody Week: Achewood", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Philippe is dreaming of having his ears checked. There's an eye chart on the wall behind him.]]

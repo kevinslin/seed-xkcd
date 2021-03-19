@@ -2,7 +2,7 @@
 id: xkcd.i-know-youre-listening
 title: I Know You're Listening
 desc: ''
-updated: '1616125521607'
+updated: '1616126764709'
 created: '1230883200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's basically Pascal's Wager for the paranoid prankster.](https://imgs.xkcd.com/comics/i_know_youre_listening.png)
+> "I Know You're Listening", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Now and then, I announce "I know you're listening" to empty rooms.

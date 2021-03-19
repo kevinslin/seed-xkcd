@@ -2,7 +2,7 @@
 id: xkcd.geo-ip
 title: GeoIP
 desc: ''
-updated: '1616125521644'
+updated: '1616126764692'
 created: '1268380800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP.](https://imgs.xkcd.com/comics/geoip.png)
+> "GeoIP", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[External view of a satellite orbiting Earth. Dialog comes from within.]]

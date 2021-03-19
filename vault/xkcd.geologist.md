@@ -2,7 +2,7 @@
 id: xkcd.geologist
 title: Geologist
 desc: ''
-updated: '1616125521436'
+updated: '1616126764419'
 created: '1365750000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['It seems like it's still alive, Professor.' 'Yeah, a big one like this can keep running around for a few billion years after you remove the head."](https://imgs.xkcd.com/comics/geologist.png)
+> "Geologist", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure wearing goggles and ear defenders walks into a patch of rocks. He's carrying a hammer and a pistol. There is a van in the background labelled 'Dept. of Geology'.]]

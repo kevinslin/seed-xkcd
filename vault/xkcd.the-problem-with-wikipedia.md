@@ -2,7 +2,7 @@
 id: xkcd.the-problem-with-wikipedia
 title: The Problem with Wikipedia
 desc: ''
-updated: '1616125521528'
+updated: '1616126764635'
 created: '1169625600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Taft in a wet t-shirt contest' is the key image here.](https://imgs.xkcd.com/comics/the_problem_with_wikipedia.png)
+> "The Problem with Wikipedia", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Problem With Wikipedia:

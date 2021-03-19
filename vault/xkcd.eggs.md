@@ -2,7 +2,7 @@
 id: xkcd.eggs
 title: Eggs
 desc: ''
-updated: '1616125521569'
+updated: '1616126764658'
 created: '1192172400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, yeah, we get tons of them at these casual sex bars.](https://imgs.xkcd.com/comics/eggs.png)
+> "Eggs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sits at a bar, a man approaches.]]

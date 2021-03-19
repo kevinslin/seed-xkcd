@@ -2,7 +2,7 @@
 id: xkcd.substitutions-3
 title: Substitutions 3
 desc: ''
-updated: '1616125521416'
+updated: '1616126764569'
 created: '1462950000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![BREAKING: Channing Tatum and his friends explore haunted city](https://imgs.xkcd.com/comics/substitutions_3.png)
+> "Substitutions 3", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

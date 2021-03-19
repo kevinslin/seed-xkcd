@@ -2,7 +2,7 @@
 id: xkcd.chess-photo
 title: Chess Photo
 desc: ''
-updated: '1616125521546'
+updated: '1616126764641'
 created: '1176706800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We once tried playing blindfold chess on the Aerosmith ride at Disney World.](https://imgs.xkcd.com/comics/chess_photo.png)
+> "Chess Photo", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Friend 2 sits at a desk with glue, chess pieces, and a chessboard while Friend 1 looks over his shoulder.]]

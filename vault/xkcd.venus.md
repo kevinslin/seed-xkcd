@@ -2,7 +2,7 @@
 id: xkcd.venus
 title: Venus
 desc: ''
-updated: '1616125521456'
+updated: '1616126764505'
 created: '1430463600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."](https://imgs.xkcd.com/comics/venus.png)
+> "Venus", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A teacher holding a pointer stands in front of a backdrop of a lush, coastal field filled with flower and greenhouses.]]

@@ -2,7 +2,7 @@
 id: xkcd.toot
 title: Toot
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1277276400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This is also one of only five identified situations in which a vuvuzela is actually appropriate.](https://imgs.xkcd.com/comics/toot.png)
+> "Toot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is talking to Hatman.]]

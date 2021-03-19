@@ -2,7 +2,7 @@
 id: xkcd.types
 title: Types
 desc: ''
-updated: '1616125521459'
+updated: '1616126764510'
 created: '1434092400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"](https://imgs.xkcd.com/comics/types.png)
+> "Types", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My new language is great, but it has a few quirks regarding type:

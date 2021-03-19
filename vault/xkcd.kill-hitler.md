@@ -2,7 +2,7 @@
 id: xkcd.kill-hitler
 title: Kill Hitler
 desc: ''
-updated: '1616125521379'
+updated: '1616126764624'
 created: '1338534000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Revised directive: It is forbidden for you to interfere with human history until you've at least taken a class on it.](https://imgs.xkcd.com/comics/kill_hitler.png)
+> "Kill Hitler", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black Hat Man and another man stand in front of a double door, which bears the label 'TIME door'. BHM has his hands on his hips.]]

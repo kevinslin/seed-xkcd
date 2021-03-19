@@ -2,7 +2,7 @@
 id: xkcd.paperwork
 title: Paperwork
 desc: ''
-updated: '1616125521520'
+updated: '1616126764610'
 created: '1522998000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.](https://imgs.xkcd.com/comics/paperwork.png)
+> "Paperwork", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

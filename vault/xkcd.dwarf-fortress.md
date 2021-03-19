@@ -2,7 +2,7 @@
 id: xkcd.dwarf-fortress
 title: Dwarf Fortress
 desc: ''
-updated: '1616125521393'
+updated: '1616126764427'
 created: '1370847600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.](https://imgs.xkcd.com/comics/dwarf_fortress.png)
+> "Dwarf Fortress", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a desk with a computer, hands on the keyboard, talking to an unseen observer.]]

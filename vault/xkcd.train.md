@@ -2,7 +2,7 @@
 id: xkcd.train
 title: Train
 desc: ''
-updated: '1616125521505'
+updated: '1616126764494'
 created: '1399618800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Trains rotate the Earth around various axes while elevators shift its position in space.](https://imgs.xkcd.com/comics/train.png)
+> "Train", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The world is shown, with a train on top.  There's an arrow indicating the direction the world is rotating.]]

@@ -2,7 +2,7 @@
 id: xkcd.interview
 title: Interview
 desc: ''
-updated: '1616125521388'
+updated: '1616126764628'
 created: '1344841200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, before you go, can you explain to me what job I now have?](https://imgs.xkcd.com/comics/interview.png)
+> "Interview", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black Hat Man is interviewed for a job at an interviewer's desk]]

@@ -2,7 +2,7 @@
 id: xkcd.drama
 title: Drama
 desc: ''
-updated: '1616125521616'
+updated: '1616126764725'
 created: '1244012400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.](https://imgs.xkcd.com/comics/drama.png)
+> "Drama", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three people are sitting together.]]

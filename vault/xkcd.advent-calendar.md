@@ -2,7 +2,7 @@
 id: xkcd.advent-calendar
 title: Advent Calendar
 desc: ''
-updated: '1616125521713'
+updated: '1616126764801'
 created: '1324627200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I think you could get up to about 11:59:57 before you'd have trouble swallowing the chocolates fast enough. At that point, you'd need some kind of a liquify-and-chug apparatus to get up over the 11:59:59 barrier. Anyway, Merry Christmas!](https://imgs.xkcd.com/comics/advent_calendar.png)
+> "Advent Calendar", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((There's a single large panel.  It shows a portion of an advent calendar.))

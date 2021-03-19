@@ -2,7 +2,7 @@
 id: xkcd.keyboard-problems
 title: Keyboard Problems
 desc: ''
-updated: '1616125521468'
+updated: '1616126764522'
 created: '1444028400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In the future, a group of resistance fighters send me back in time with instructions to find the Skynet prototype and try to upgrade it.](https://imgs.xkcd.com/comics/keyboard_problems.png)
+> "Keyboard Problems", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person 1 sits on the floor facing a laptop with another laptop behind them. The second laptop has an external keyboard attached. Person 2 stands looking at Person 1.]]

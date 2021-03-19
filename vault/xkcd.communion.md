@@ -2,7 +2,7 @@
 id: xkcd.communion
 title: Communion
 desc: ''
-updated: '1616125521428'
+updated: '1616126764409'
 created: '1356508800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The local police, growing increasingly concerned about this church, ask parishioners to take a sip of wine and then spit it back out for DNA testing. It's blood, and it matches a 1970s murder victim.](https://imgs.xkcd.com/comics/communion.png)
+> "Communion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman are walking along together.]]

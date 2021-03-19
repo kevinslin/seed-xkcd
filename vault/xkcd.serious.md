@@ -2,7 +2,7 @@
 id: xkcd.serious
 title: Serious
 desc: ''
-updated: '1616125521667'
+updated: '1616126764770'
 created: '1293609600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not to be confused with Serious PuTTY, the Windows terminal client where everything is in Impact.](https://imgs.xkcd.com/comics/serious.png)
+> "Serious", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Someone is standing next to a table.  There is a can on the table.]]

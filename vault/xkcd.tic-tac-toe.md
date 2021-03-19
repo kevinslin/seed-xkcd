@@ -2,7 +2,7 @@
 id: xkcd.tic-tac-toe
 title: Tic-Tac-Toe
 desc: ''
-updated: '1616125521660'
+updated: '1616126764770'
 created: '1291968000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The only winning move is to play, perfectly, waiting for your opponent to make a mistake.](https://imgs.xkcd.com/comics/tic_tac_toe.png)
+> "Tic-Tac-Toe", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The comic comprises two large square maps, each divided into nine sections, some of which are further subdivided in the same way.  The subdivisions continue down for up to five levels, and the lower map has more tiny diagrams than the upper. The smallest divisions at every scale are completed tic-tac-toe games.))

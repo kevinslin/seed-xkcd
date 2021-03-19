@@ -2,7 +2,7 @@
 id: xkcd.my-sky
 title: My Sky
 desc: ''
-updated: '1616125521423'
+updated: '1616126764396'
 created: '1349420400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![According to my mom, my first word was (looking up at the sky) 'Wow!'](https://imgs.xkcd.com/comics/my_sky.png)
+> "My Sky", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The first panel's scenery is upside down.  An artist is hanging from the ground, looking down at the sky, where there is a cloud.]]

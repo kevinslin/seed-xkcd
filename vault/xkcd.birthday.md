@@ -2,7 +2,7 @@
 id: xkcd.birthday
 title: Birthday
 desc: ''
-updated: '1616125521467'
+updated: '1616126764521'
 created: '1442991600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.](https://imgs.xkcd.com/comics/birthday.png)
+> "Birthday", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 XKCd turns 10 years old this month. In light of last nights court ruling in Rupamarya v. Warner

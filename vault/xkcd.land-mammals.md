@@ -2,7 +2,7 @@
 id: xkcd.land-mammals
 title: Land Mammals
 desc: ''
-updated: '1616125521502'
+updated: '1616126764489'
 created: '1394006400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Bacteria still outweigh us thousands to one--and that's not even counting the several pounds of them in your body.](https://imgs.xkcd.com/comics/land_mammals.png)
+> "Land Mammals", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Earth's LAND MAMMALS By Weight

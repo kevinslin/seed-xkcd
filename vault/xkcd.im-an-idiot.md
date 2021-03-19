@@ -2,7 +2,7 @@
 id: xkcd.im-an-idiot
 title: I'm An Idiot
 desc: ''
-updated: '1616125521608'
+updated: '1616126764710'
 created: '1231920000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sadly, this is a true story.  At least I learned about the OS X 'say' command.](https://imgs.xkcd.com/comics/im_an_idiot.png)
+> "I'm An Idiot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Ponytailed stick figure approaches stick figure, who is sitting on porch steps, laptop in lap and backpack open]]

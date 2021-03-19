@@ -2,7 +2,7 @@
 id: xkcd.blade-runner
 title: Blade Runner
 desc: ''
-updated: '1616125521578'
+updated: '1616126764666'
 created: '1198656000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Blade Runner: Classic, but incredibly slow.](https://imgs.xkcd.com/comics/blade_runner.png)
+> "Blade Runner", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy 1 is talking to Guy 2, who is on the sofa watching TV]]

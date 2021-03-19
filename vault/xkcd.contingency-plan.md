@@ -2,7 +2,7 @@
 id: xkcd.contingency-plan
 title: Contingency Plan
 desc: ''
-updated: '1616125521608'
+updated: '1616126764710'
 created: '1232092800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Kids are genetic experiments.  We're just experimenting responsibly!](https://imgs.xkcd.com/comics/contingency_plan.png)
+> "Contingency Plan", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman and a man holding a green bottle are standing beside a crib. Another green bottle is lying on the floor.]]

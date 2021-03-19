@@ -2,7 +2,7 @@
 id: xkcd.walmart
 title: Walmart
 desc: ''
-updated: '1616125521501'
+updated: '1616126764483'
 created: '1390377600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.](https://imgs.xkcd.com/comics/walmart.png)
+> "Walmart", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When a network tries to be everyone's one-stop hub, the Walmart of social interaction...

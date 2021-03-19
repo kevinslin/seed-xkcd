@@ -2,7 +2,7 @@
 id: xkcd.emojic-8-ball
 title: Emojic 8 Ball
 desc: ''
-updated: '1616125521457'
+updated: '1616126764506'
 created: '1431673200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![](https://imgs.xkcd.com/comics/emojic_8_ball.png)
+> "Emojic 8 Ball", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 EMOJIC 8 BALL

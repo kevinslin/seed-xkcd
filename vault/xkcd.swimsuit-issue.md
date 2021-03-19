@@ -2,7 +2,7 @@
 id: xkcd.swimsuit-issue
 title: Swimsuit Issue
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1276066800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Parents: talk to your kids about popup blockers. Also, at some point, sex. But crucial fundamentals first!](https://imgs.xkcd.com/comics/swimsuit_issue.png)
+> "Swimsuit Issue", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A young boy holds a magazine. His father comes running into the room.]]

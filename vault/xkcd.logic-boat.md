@@ -2,7 +2,7 @@
 id: xkcd.logic-boat
 title: Logic Boat
 desc: ''
-updated: '1616125521425'
+updated: '1616126764403'
 created: '1352880000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Or a cabbage, for that matter. The goat makes sense. Goats are fine.](https://imgs.xkcd.com/comics/logic_boat.png)
+> "Logic Boat", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person shows up at a boat docked at the edge of a river.  The person has brought along a head of cabbage, a goat, and a wolf.]]

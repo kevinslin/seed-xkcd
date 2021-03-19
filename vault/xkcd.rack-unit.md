@@ -2,7 +2,7 @@
 id: xkcd.rack-unit
 title: Rack Unit
 desc: ''
-updated: '1616125521443'
+updated: '1616126764531'
 created: '1414393200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's also nothing in the TOSes that says you can't let a dog play baseball in the server room!](https://imgs.xkcd.com/comics/rack_unit.png)
+> "Rack Unit", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black hat guy walks up to a woman sitting at a computer desk.]]

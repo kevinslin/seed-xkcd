@@ -2,7 +2,7 @@
 id: xkcd.etch-a-sketch
 title: Etch-a-Sketch
 desc: ''
-updated: '1616125521610'
+updated: '1616126764712'
 created: '1236153600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Surrounded by boring mysteries.](https://imgs.xkcd.com/comics/etch-a-sketch.png)
+> "Etch-a-Sketch", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A male xkcd figure is playing with an etch-a-sketch]]

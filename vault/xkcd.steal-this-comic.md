@@ -2,7 +2,7 @@
 id: xkcd.steal-this-comic
 title: Steal This Comic
 desc: ''
-updated: '1616125521599'
+updated: '1616126764688'
 created: '1223881200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I spent more time trying to get an audible.com audio book playing than it took to listen to the book.  I have lost every other piece of DRM-locked music I have paid for.](https://imgs.xkcd.com/comics/steal_this_comic.png)
+> "Steal This Comic", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Thinking of buying from audible.com or iTunes?

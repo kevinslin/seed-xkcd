@@ -2,7 +2,7 @@
 id: xkcd.the-cure
 title: The Cure
 desc: ''
-updated: '1616125521352'
+updated: '1616126764378'
 created: '1138608000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My first try at drawing a real face in years](https://imgs.xkcd.com/comics/the_cure.jpg)
+> "The Cure", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An unusually realistic (for xkcd) pencil drawing of Robert Smith's head and face, with a caption underneath.]]

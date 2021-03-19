@@ -2,7 +2,7 @@
 id: xkcd.computer-problems
 title: Computer Problems
 desc: ''
-updated: '1616125521645'
+updated: '1616126764693'
 created: '1270191600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This is how I explain computer problems to my cat. My cat usually seems happier than me.](https://imgs.xkcd.com/comics/computer_problems.png)
+> "Computer Problems", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman are looking at his computer, on the desk.]]

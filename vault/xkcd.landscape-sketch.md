@@ -2,7 +2,7 @@
 id: xkcd.landscape-sketch
 title: Landscape (sketch)
 desc: ''
-updated: '1616125521338'
+updated: '1616126764354'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's a river flowing through the ocean](https://imgs.xkcd.com/comics/landscape_cropped_(1).jpg)
+> "Landscape (sketch)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A sketch of a landscape with sun on the horizon]]

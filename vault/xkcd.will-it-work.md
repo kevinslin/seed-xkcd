@@ -2,7 +2,7 @@
 id: xkcd.will-it-work
 title: Will It Work
 desc: ''
-updated: '1616125521476'
+updated: '1616126764546'
 created: '1475650800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.](https://imgs.xkcd.com/comics/will_it_work.png)
+> "Will It Work", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

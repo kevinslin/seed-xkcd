@@ -2,7 +2,7 @@
 id: xkcd.planespotting
 title: Planespotting
 desc: ''
-updated: '1616125521414'
+updated: '1616126764566'
 created: '1460962800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No, a hydroplane doesn't land on water--that's an aquaplane. A hydroplane is a plane that gets electric power from an onboard water reservoir with a tiny dam and turbines.](https://imgs.xkcd.com/comics/planespotting.png)
+> "Planespotting", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits on a medical examination table. He's wearing a headset with lot of wires attached to it, which lead to a complicated-looking device. A woman's operating the device.]]

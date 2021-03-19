@@ -2,7 +2,7 @@
 id: xkcd.twitter
 title: Twitter
 desc: ''
-updated: '1616125521599'
+updated: '1616126764688'
 created: '1224486000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave](https://imgs.xkcd.com/comics/twitter.png)
+> "Twitter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person with a handheld device sits on an office chair]]

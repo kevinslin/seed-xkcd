@@ -2,7 +2,7 @@
 id: xkcd.sopa
 title: SOPA
 desc: ''
-updated: '1616125521364'
+updated: '1616126764614'
 created: '1326873600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In protest of SOPA, I'm currently getting totally blacked out.](https://imgs.xkcd.com/comics/sopa.png)
+> "SOPA", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [don't censor the web]

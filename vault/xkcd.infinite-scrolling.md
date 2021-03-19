@@ -2,7 +2,7 @@
 id: xkcd.infinite-scrolling
 title: Infinite Scrolling
 desc: ''
-updated: '1616125521499'
+updated: '1616126764479'
 created: '1388131200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.](https://imgs.xkcd.com/comics/infinite_scrolling.png)
+> "Infinite Scrolling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman stands at a desk, reading a book, touching it very gingerly. Another figure is standing behind her.]]

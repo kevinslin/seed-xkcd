@@ -2,7 +2,7 @@
 id: xkcd.bill-nye
 title: Bill Nye
 desc: ''
-updated: '1616125521337'
+updated: '1616126764476'
 created: '1166774400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You could at least not wear the lab coat everywhere, dude.](https://imgs.xkcd.com/comics/bill_nye.png)
+> "Bill Nye", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A restaurant. A mother and two children sit at one table; a man in a white lab coat sits in another.]]

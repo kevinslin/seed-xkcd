@@ -2,7 +2,7 @@
 id: xkcd.self-reference
 title: Self-reference
 desc: ''
-updated: '1616125521347'
+updated: '1616126764369'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I think about self-reference a lot.  Example: this comment.](https://imgs.xkcd.com/comics/self-reference.jpg)
+> "Self-reference", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy standing alone]] Guy: I promise never to never again squeeze humor out of self-reference.

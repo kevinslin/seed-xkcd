@@ -2,7 +2,7 @@
 id: xkcd.quantum-mechanics
 title: Quantum Mechanics
 desc: ''
-updated: '1616125521396'
+updated: '1616126764431'
 created: '1374217200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can also just ignore any science assertion where 'quantum mechanics' is the most complicated phrase in it.](https://imgs.xkcd.com/comics/quantum_mechanics.png)
+> "Quantum Mechanics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman stand facing each other, talking. The man has a dog on a leash.]]

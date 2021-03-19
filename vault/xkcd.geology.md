@@ -2,7 +2,7 @@
 id: xkcd.geology
 title: Geology
 desc: ''
-updated: '1616125521384'
+updated: '1616126764626'
 created: '1342422000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That's a gneiss butte.](https://imgs.xkcd.com/comics/geology.png)
+> "Geology", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are doing a geological survey]]

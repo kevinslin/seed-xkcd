@@ -2,7 +2,7 @@
 id: xkcd.spirit
 title: Spirit
 desc: ''
-updated: '1616125521628'
+updated: '1616126764748'
 created: '1264752000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![On January 26th, 2274 Mars days into the mission, NASA declared Spirit a 'stationary research station', expected to stay operational for several more months until the dust buildup on its solar panels forces a final shutdown.](https://imgs.xkcd.com/comics/spirit.png)
+> "Spirit", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Day 1 of 90

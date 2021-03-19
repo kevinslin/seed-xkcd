@@ -2,7 +2,7 @@
 id: xkcd.asteroid
 title: Asteroid
 desc: ''
-updated: '1616125521618'
+updated: '1616126764733'
 created: '1249282800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My Deep Impact/Little Prince crossover fanfic has been poorly received by the community.](https://imgs.xkcd.com/comics/asteroid.png)
+> "Asteroid", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The panel appears like a news report.]]

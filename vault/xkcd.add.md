@@ -2,7 +2,7 @@
 id: xkcd.add
 title: ADD
 desc: ''
-updated: '1616125521421'
+updated: '1616126764391'
 created: '1347260400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'](https://imgs.xkcd.com/comics/add.png)
+> "ADD", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person holding onto a balloon labeled "math problem" goes to grab another labeled "call mom"]]

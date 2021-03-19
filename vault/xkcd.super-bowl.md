@@ -2,7 +2,7 @@
 id: xkcd.super-bowl
 title: Super Bowl
 desc: ''
-updated: '1616125521449'
+updated: '1616126764536'
 created: '1422604800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My hobby: Pretending to miss the sarcasm when people show off their lack of interest in football by talking about 'sportsball' and acting excited to find someone else who's interested, then acting confused when they try to clarify.](https://imgs.xkcd.com/comics/super_bowl.png)
+> "Super Bowl", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A single character delivers a monologue.]]

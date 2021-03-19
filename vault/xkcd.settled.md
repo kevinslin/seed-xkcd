@@ -2,7 +2,7 @@
 id: xkcd.settled
 title: Settled
 desc: ''
-updated: '1616125521395'
+updated: '1616126764430'
 created: '1373266800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Well, we've really only settled the question of ghosts that emit or reflect visible light. Or move objects around. Or make any kind of sound. But that covers all the ones that appear in Ghostbusters, so I think we're good.](https://imgs.xkcd.com/comics/settled.png)
+> "Settled", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Percentage of the US population carrying cameras everywhere they go, every waking moment of their lives: 

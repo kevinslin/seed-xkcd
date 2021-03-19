@@ -2,7 +2,7 @@
 id: xkcd.tornado-guard
 title: TornadoGuard
 desc: ''
-updated: '1616125521702'
+updated: '1616126764788'
 created: '1313132400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The bug report was marked 'could not reproduce'.](https://imgs.xkcd.com/comics/tornadoguard.png)
+> "TornadoGuard", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The comic is a single panel which resembles a reviews page for a mobile phone application))

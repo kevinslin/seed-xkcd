@@ -2,7 +2,7 @@
 id: xkcd.christmas-back-home
 title: Christmas Back Home
 desc: ''
-updated: '1616125521577'
+updated: '1616126764666'
 created: '1198483200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Family going to bed at 10 PM is so much worse than jet lag.](https://imgs.xkcd.com/comics/christmas_back_home.png)
+> "Christmas Back Home", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: 'Twas the night before Christmas at my family's house.

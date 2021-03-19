@@ -2,7 +2,7 @@
 id: xkcd.psychic
 title: Psychic
 desc: ''
-updated: '1616125521620'
+updated: '1616126764735'
 created: '1251270000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can do a lot better than 1% if you start keeping track of the patterns in what numbers people pick.](https://imgs.xkcd.com/comics/psychic.png)
+> "Psychic", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man: I'm psychic, you know.

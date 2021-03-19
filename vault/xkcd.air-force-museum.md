@@ -2,7 +2,7 @@
 id: xkcd.air-force-museum
 title: Air Force Museum
 desc: ''
-updated: '1616125521492'
+updated: '1616126764581'
 created: '1497423600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I had fun visiting the museum at Dover Air Force Base, unless they don't have a museum, in which case I've never been to Delaware in my life.](https://imgs.xkcd.com/comics/air_force_museum.png)
+> "Air Force Museum", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

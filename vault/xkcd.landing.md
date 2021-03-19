@@ -2,7 +2,7 @@
 id: xkcd.landing
 title: Landing
 desc: ''
-updated: '1616125521444'
+updated: '1616126764532'
 created: '1415779200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[LIVE]](https://imgs.xkcd.com/comics/%3F%3F%3F.png)
+> "Landing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The current status of Philae, the lander that accompanied the Rosetta spacecraft in order to land on comet 67P

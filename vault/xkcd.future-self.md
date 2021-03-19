@@ -2,7 +2,7 @@
 id: xkcd.future-self
 title: Future Self
 desc: ''
-updated: '1616125521440'
+updated: '1616126764529'
 created: '1410764400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Maybe I haven't been to Iceland because I'm busy dealing with YOUR crummy code.](https://imgs.xkcd.com/comics/future_self.png)
+> "Future Self", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Maybe I haven't been to Iceland because I'm busy dealing with YOUR crummy code.}}

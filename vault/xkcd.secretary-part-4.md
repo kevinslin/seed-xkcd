@@ -2,7 +2,7 @@
 id: xkcd.secretary-part-4
 title: 'Secretary: Part 4'
 desc: ''
-updated: '1616125521600'
+updated: '1616126764689'
 created: '1225350000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's time to draw the line.](https://imgs.xkcd.com/comics/secretary_part_4.png)
+> "Secretary: Part 4", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The Ron Paul Revolution blimp floats]]

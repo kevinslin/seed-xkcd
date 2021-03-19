@@ -2,7 +2,7 @@
 id: xkcd.timeghost
 title: Timeghost
 desc: ''
-updated: '1616125521507'
+updated: '1616126764499'
 created: '1405062000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'](https://imgs.xkcd.com/comics/timeghost.png)
+> "Timeghost", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A ghost flies over to a couple of people.]]

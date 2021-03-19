@@ -2,7 +2,7 @@
 id: xkcd.fountain
 title: Fountain
 desc: ''
-updated: '1616125521372'
+updated: '1616126764620'
 created: '1333522800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Implausible, did you say? Sorry, couldn't quite hear you from all the way up heeeeeeeeere!](https://imgs.xkcd.com/comics/fountain.png)
+> "Fountain", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A wannabe Mary Poppins heads to a fountain with three massive water jets while holding an umbrella]]

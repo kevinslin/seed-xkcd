@@ -2,7 +2,7 @@
 id: xkcd.the-mother-of-all-suspicious-files
 title: The Mother of All Suspicious Files
 desc: ''
-updated: '1616125521397'
+updated: '1616126764433'
 created: '1375686000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Better change the URL to 'https' before downloading.](https://imgs.xkcd.com/comics/the_mother_of_all_suspicious_files.png)
+> "The Mother of All Suspicious Files", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Browser download warning box containing the following text]]

@@ -2,7 +2,7 @@
 id: xkcd.you-tube
 title: YouTube
 desc: ''
-updated: '1616125521526'
+updated: '1616126764631'
 created: '1167206400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I pray GunPistolMan never learns the word 'sheeple'.](https://imgs.xkcd.com/comics/youtube.png)
+> "YouTube", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Internet has always had loud dumb people, but I've never seen anything quite as bad as the people who comment on YouTube videos.

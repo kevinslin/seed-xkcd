@@ -2,7 +2,7 @@
 id: xkcd.that-lovin-feelin
 title: That Lovin' Feelin'
 desc: ''
-updated: '1616125521567'
+updated: '1616126764656'
 created: '1190012400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Maybe there's no tenderness in her fingertips either, but at least SHE puts out.](https://imgs.xkcd.com/comics/that_lovin_feelin.png)
+> "That Lovin' Feelin'", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is in the middle of the frame, talking]]

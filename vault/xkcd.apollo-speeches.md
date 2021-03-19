@@ -2,7 +2,7 @@
 id: xkcd.apollo-speeches
 title: Apollo Speeches
 desc: ''
-updated: '1616125521449'
+updated: '1616126764536'
 created: '1423468800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![While our commitment to recycling initiatives has been unwavering, this is not a cost any of us should be expected to pay.](https://imgs.xkcd.com/comics/apollo_speeches.png)
+> "Apollo Speeches", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stack of speeches, with text above them describing the situation]]

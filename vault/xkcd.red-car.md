@@ -2,7 +2,7 @@
 id: xkcd.red-car
 title: Red Car
 desc: ''
-updated: '1616125521407'
+updated: '1616126764559'
 created: '1449820800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That guy only drives an alkaline car to overcompensate for his highly acidic penis.](https://imgs.xkcd.com/comics/red_car.png)
+> "Red Car", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Why Asimov put the Three Laws of Robotics in the order he did:

@@ -2,7 +2,7 @@
 id: xkcd.boyfriend
 title: Boyfriend
 desc: ''
-updated: '1616125521609'
+updated: '1616126764711'
 created: '1233734400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![... okay, but because you said that, we're breaking up.](https://imgs.xkcd.com/comics/boyfriend.png)
+> "Boyfriend", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Girl (on the phone): Can my boyfriend come along?

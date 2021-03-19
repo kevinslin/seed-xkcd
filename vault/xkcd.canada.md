@@ -2,7 +2,7 @@
 id: xkcd.canada
 title: Canada
 desc: ''
-updated: '1616125521333'
+updated: '1616126764471'
 created: '1162800000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![IT'S ALL REAL](https://imgs.xkcd.com/comics/canada.png)
+> "Canada", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men stand talking to each other]]

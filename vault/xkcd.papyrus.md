@@ -2,7 +2,7 @@
 id: xkcd.papyrus
 title: Papyrus
 desc: ''
-updated: '1616125521615'
+updated: '1616126764725'
 created: '1243580400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I secretly, deep in my guilty heart, like Papyrus and don't care if it's overused. [Cue hate mail in beautifully-kerned Helvetica.]](https://imgs.xkcd.com/comics/papyrus.png)
+> "Papyrus", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Hobby:

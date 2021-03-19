@@ -2,7 +2,7 @@
 id: xkcd.asshole
 title: Asshole
 desc: ''
-updated: '1616125521626'
+updated: '1616126764745'
 created: '1261123200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[Shortly thereafter, at a nearby bakery] ::CRASH:: ::RUMBLE:: ::VRRRRRR:: '... I don't know, officer.  It just scooped up an entire rack of scones and drove away!'](https://imgs.xkcd.com/comics/asshole.png)
+> "Asshole", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A couple watches Beret Guy drive by in an SUV.]]

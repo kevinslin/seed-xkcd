@@ -2,7 +2,7 @@
 id: xkcd.things-fall-apart
 title: Things Fall Apart
 desc: ''
-updated: '1616125521591'
+updated: '1616126764683'
 created: '1216018800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['I'm nothing without you' is a fucked-up sentiment.](https://imgs.xkcd.com/comics/things_fall_apart.png)
+> "Things Fall Apart", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 girl: I wonder about us.

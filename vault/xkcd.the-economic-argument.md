@@ -2,7 +2,7 @@
 id: xkcd.the-economic-argument
 title: The Economic Argument
 desc: ''
-updated: '1616125521655'
+updated: '1616126764767'
 created: '1287558000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.](https://imgs.xkcd.com/comics/the_economic_argument.png)
+> "The Economic Argument", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{A table is labeled with three columns: "Crazy phenomenon," "If it worked, people would be using it to make a killing in..." and "Are they?"}}

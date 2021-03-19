@@ -2,7 +2,7 @@
 id: xkcd.geoguessr
 title: Geoguessr
 desc: ''
-updated: '1616125521392'
+updated: '1616126764425'
 created: '1369033200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm not sure if you can get Epcot, but my friend just got LegoLand. He guessed California but it was the one in Denmark. Meanwhile, I'm rapidly becoming a connoisseur of unmarked dirt roads over flat, barren landscapes.](https://imgs.xkcd.com/comics/geoguessr.png)
+> "Geoguessr", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1:  This one's easy; There's the Parthenon. Athens.

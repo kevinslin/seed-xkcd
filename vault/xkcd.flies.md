@@ -2,7 +2,7 @@
 id: xkcd.flies
 title: Flies
 desc: ''
-updated: '1616125521577'
+updated: '1616126764665'
 created: '1197619200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I don't know about houseflies, but we definitely caught a lot of fruit flies with our vinegar bowl.  Hooray science!](https://imgs.xkcd.com/comics/flies.png)
+> "Flies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Interior, man types on computer, friend is lying on the floor]]

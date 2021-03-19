@@ -2,7 +2,7 @@
 id: xkcd.chess-enlightenment
 title: Chess Enlightenment
 desc: ''
-updated: '1616125521530'
+updated: '1616126764638'
 created: '1173254400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You know that 'sweep the pieces off the board and see it in your mind' thing?  Doesn't work.](https://imgs.xkcd.com/comics/chess_enlightenment.png)
+> "Chess Enlightenment", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: Why is chess so hard? Maybe the answers lie within me. Maybe I just need to let go, relax, and let my instincts and subconscious speak.

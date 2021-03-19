@@ -2,7 +2,7 @@
 id: xkcd.secretary-part-3
 title: 'Secretary: Part 3'
 desc: ''
-updated: '1616125521600'
+updated: '1616126764689'
 created: '1225263600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He actually installed each piece in a different car in the lot, then built a new car in the spot from the displaced pieces.  It's a confusing maneuver known as the auto-troll shuffle.](https://imgs.xkcd.com/comics/secretary_part_3.png)
+> "Secretary: Part 3", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The confirmation hearings begin...]]

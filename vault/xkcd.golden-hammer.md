@@ -2,7 +2,7 @@
 id: xkcd.golden-hammer
 title: Golden Hammer
 desc: ''
-updated: '1616125521654'
+updated: '1616126764766'
 created: '1286175600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Took me five tries to find the right one, but I managed to salvage our night out--if not the boat--in the end.](https://imgs.xkcd.com/comics/golden_hammer.png)
+> "Golden Hammer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man with a black hat is going through a door, a bottle in his hand.  A voice speaks to him from off panel.]]

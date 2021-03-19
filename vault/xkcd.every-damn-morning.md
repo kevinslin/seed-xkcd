@@ -2,7 +2,7 @@
 id: xkcd.every-damn-morning
 title: Every Damn Morning
 desc: ''
-updated: '1616125521589'
+updated: '1616126764676'
 created: '1212130800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There was something about a cup and a sword and a tree and a green hill ...](https://imgs.xkcd.com/comics/every_damn_morning.png)
+> "Every Damn Morning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[In background, a vivid dream scene is apparent, including mountains, a zeppelin, a city with a mushroom cloud, and some people interacting]] Inset: Man awakens, very surprised

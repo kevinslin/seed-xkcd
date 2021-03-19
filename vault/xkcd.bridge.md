@@ -2,7 +2,7 @@
 id: xkcd.bridge
 title: Bridge
 desc: ''
-updated: '1616125521430'
+updated: '1616126764412'
 created: '1360137600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And it says a lot about you that when your friends jump off a bridge en masse, your first thought is apparently 'my friends are all foolish and I won't be like them' and not 'are my friends ok?'.](https://imgs.xkcd.com/comics/bridge.png)
+> "Bridge", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A teenager stands talking to a parent off-screen.]]

@@ -2,7 +2,7 @@
 id: xkcd.shouldnt-be-hard
 title: Shouldn't Be Hard
 desc: ''
-updated: '1616125521503'
+updated: '1616126764491'
 created: '1396249200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!](https://imgs.xkcd.com/comics/shouldnt_be_hard.png)
+> "Shouldn't Be Hard", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is sitting at a desk, typing on a laptop.]]

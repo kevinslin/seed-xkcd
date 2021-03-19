@@ -2,7 +2,7 @@
 id: xkcd.archimedes
 title: Archimedes
 desc: ''
-updated: '1616125521674'
+updated: '1616126764772'
 created: '1297065600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Give a man a fish, or he will destroy the only existing vial of antidote.](https://imgs.xkcd.com/comics/archimedes.png)
+> "Archimedes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Guy: In the words of Archimedes,

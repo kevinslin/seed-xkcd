@@ -2,7 +2,7 @@
 id: xkcd.reassuring
 title: Reassuring
 desc: ''
-updated: '1616125521399'
+updated: '1616126764437'
 created: '1378882800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years.](https://imgs.xkcd.com/comics/reassuring.png)
+> "Reassuring", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sits at her computer. A man stands behind her.]]

@@ -2,7 +2,7 @@
 id: xkcd.what-if
 title: What If
 desc: ''
-updated: '1616125521344'
+updated: '1616126764362'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I once made an anniversary card for my then-girlfriend with this layout.](https://imgs.xkcd.com/comics/what_if.jpg)
+> "What If", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A large black circle with white bubbles inside it, filled with hearts, question marks, and stick figure couples]]

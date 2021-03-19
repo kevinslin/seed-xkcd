@@ -2,7 +2,7 @@
 id: xkcd.riemann-zeta
 title: Riemann-Zeta
 desc: ''
-updated: '1616125521314'
+updated: '1616126764456'
 created: '1149836400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The graph is of the magnitude of the function with the real value between 0 and 2 and the imaginary between about 35 and 40.  I've misplaced the exact parameters I used.](https://imgs.xkcd.com/comics/riemann-zeta.jpg)
+> "Riemann-Zeta", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A z=fn(x, y) plot, with pointy spikes on the back sloping to a relatively flat front.]]

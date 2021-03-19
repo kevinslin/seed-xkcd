@@ -2,7 +2,7 @@
 id: xkcd.drop-those-pounds
 title: Drop Those Pounds
 desc: ''
-updated: '1616125521429'
+updated: '1616126764410'
 created: '1358150400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If the flyers don't work, we'll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.](https://imgs.xkcd.com/comics/drop_those_pounds.png)
+> "Drop Those Pounds", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[We see a poster taped to a wall. It has two people in the bottom left, a silhouetted crenellated tower in the bottom right, and a thin arc between them. It reads:]]

@@ -2,7 +2,7 @@
 id: xkcd.i-po-d
 title: IPoD
 desc: ''
-updated: '1616125521335'
+updated: '1616126764473'
 created: '1164787200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For smaller numbers he has to SAVE lives.  The birthrate channel is even more of a mixed bag.](https://imgs.xkcd.com/comics/ipod.png)
+> "IPoD", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Character 1 - wearing a black hat - sits at a computer. Character 2 stands behind Character 1]]

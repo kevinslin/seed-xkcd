@@ -2,7 +2,7 @@
 id: xkcd.desecration
 title: Desecration
 desc: ''
-updated: '1616125521651'
+updated: '1616126764703'
 created: '1282287600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?](https://imgs.xkcd.com/comics/desecration.png)
+> "Desecration", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman runs up to a man.]]

@@ -2,7 +2,7 @@
 id: xkcd.sticks-and-stones
 title: Sticks and Stones
 desc: ''
-updated: '1616125521392'
+updated: '1616126764425'
 created: '1369378800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sticks and stones may break my bones, but words can make me think I deserved it.](https://imgs.xkcd.com/comics/sticks_and_stones.png)
+> "Sticks and Stones", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Child: Did you hear what he said about me!?

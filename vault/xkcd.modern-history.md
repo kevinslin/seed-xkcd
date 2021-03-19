@@ -2,7 +2,7 @@
 id: xkcd.modern-history
 title: Modern History
 desc: ''
-updated: '1616125521667'
+updated: '1616126764771'
 created: '1294646400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![During the week, I research my character by living in his house and raising his children.](https://imgs.xkcd.com/comics/modern_history.png)
+> "Modern History", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two soldiers are talking.  Behind them, rubble burns and smokes.]]

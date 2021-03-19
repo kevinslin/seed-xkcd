@@ -2,7 +2,7 @@
 id: xkcd.opportunity
 title: Opportunity
 desc: ''
-updated: '1616125521454'
+updated: '1616126764502'
 created: '1427439600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We all remember those famous first words spoken by an astronaut on the surface of Mars: "That's one small step fo- HOLY SHIT LOOK OUT IT'S GOT SOME KIND OF DRILL! Get back to the ... [unintelligible] ... [signal lost]"](https://imgs.xkcd.com/comics/opportunity.png)
+> "Opportunity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The year is 2010. Two scientists hunker over a large console.))

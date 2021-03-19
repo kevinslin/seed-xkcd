@@ -2,7 +2,7 @@
 id: xkcd.wasted-time
 title: Wasted Time
 desc: ''
-updated: '1616125521454'
+updated: '1616126764502'
 created: '1427094000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Since it sounds like your time spent typing can't possibly be less productive than your time spent not typing, have you tried typing SLOWER?](https://imgs.xkcd.com/comics/wasted_time.png)
+> "Wasted Time", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Two characters are talking. One is wielding a small electronic device. The other is wearing a hat.))

@@ -2,7 +2,7 @@
 id: xkcd.water-delivery
 title: Water Delivery
 desc: ''
-updated: '1616125521469'
+updated: '1616126764524'
 created: '1446624000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.](https://imgs.xkcd.com/comics/water_delivery.png)
+> "Water Delivery", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Now that Amazon is advertising one-hour delivery of bottled water,

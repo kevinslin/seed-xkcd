@@ -2,7 +2,7 @@
 id: xkcd.instagram
 title: Instagram
 desc: ''
-updated: '1616125521428'
+updated: '1616126764408'
 created: '1356076800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm gonna call the cops and get Chad arrested for theft, then move all my stuff to the house across the street. Hopefully the owners there are more responsible.](https://imgs.xkcd.com/comics/instagram.png)
+> "Instagram", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One man sits at a computer. Another stands behind him, talking.]]

@@ -2,7 +2,7 @@
 id: xkcd.communication
 title: Communication
 desc: ''
-updated: '1616125521369'
+updated: '1616126764617'
 created: '1331535600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Anyone who says that they're great at communicating but 'people are bad at listening' is confused about how communication works.](https://imgs.xkcd.com/comics/communication.png)
+> "Communication", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy in a hat looks down at a large gap in the walkway; a thought bubble with a warning symbol and an image of the gap appears above the guy's head.]]

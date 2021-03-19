@@ -2,7 +2,7 @@
 id: xkcd.working-for-google
 title: Working for Google
 desc: ''
-updated: '1616125521336'
+updated: '1616126764474'
 created: '1165219200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hear once you've worked there for 256 days they teach you the secret of levitation.](https://imgs.xkcd.com/comics/working_for_google.png)
+> "Working for Google", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Have you read about Google HQ? It sounds like an incredible place to work.

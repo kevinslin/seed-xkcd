@@ -2,7 +2,7 @@
 id: xkcd.turnabout
 title: Turnabout
 desc: ''
-updated: '1616125521443'
+updated: '1616126764531'
 created: '1414738800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.](https://imgs.xkcd.com/comics/turnabout.png)
+> "Turnabout", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures are engaged in a fight with laser pistols. Figure 1 is standing behind a small box, firing his gun at figure 2.]]

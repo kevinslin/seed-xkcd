@@ -2,7 +2,7 @@
 id: xkcd.regex-golf
 title: Regex Golf
 desc: ''
-updated: '1616125521500'
+updated: '1616126764480'
 created: '1388995200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![/bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.](https://imgs.xkcd.com/comics/regex_golf.png)
+> "Regex Golf", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sits at a laptop, leaning back over her chair to address a figure.]]

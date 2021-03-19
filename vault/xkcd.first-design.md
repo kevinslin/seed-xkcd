@@ -2,7 +2,7 @@
 id: xkcd.first-design
 title: FIRST Design
 desc: ''
-updated: '1616125521628'
+updated: '1616126764747'
 created: '1263542400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Pool on the roof must've sprung a leak.](https://imgs.xkcd.com/comics/first_design.png)
+> "FIRST Design", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Team Member 1 (out of panel): Wow, this is a much better design.

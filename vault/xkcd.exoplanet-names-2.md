@@ -2,7 +2,7 @@
 id: xkcd.exoplanet-names-2
 title: Exoplanet Names 2
 desc: ''
-updated: '1616125521460'
+updated: '1616126764515'
 created: '1437721200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm going to drive this Netherlands joke so far into the ground they'll have to build levees around it to keep the sea out.](https://imgs.xkcd.com/comics/exoplanet_names_2.png)
+> "Exoplanet Names 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Title: Exoplanet names 2]]

@@ -2,7 +2,7 @@
 id: xkcd.tensile-vs-shear-strength
 title: Tensile vs. Shear Strength
 desc: ''
-updated: '1616125521628'
+updated: '1616126764748'
 created: '1265184000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Although really, the damage was done when the party planners took the hole punch to the elevator ribbon to hang up the sign.](https://imgs.xkcd.com/comics/tensile_vs_shear_strength.png)
+> "Tensile vs. Shear Strength", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A banner flutters in the breeze, evidently attached to the elevator it mentions in its text. It reads "SPACE ELEVATOR" "GRAND OPENING"]]

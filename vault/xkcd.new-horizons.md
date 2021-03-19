@@ -2,7 +2,7 @@
 id: xkcd.new-horizons
 title: New Horizons
 desc: ''
-updated: '1616125521458'
+updated: '1616126764507'
 created: '1433142000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Last-minute course change: Let's see if we can hit Steve's house.](https://imgs.xkcd.com/comics/new_horizons.png)
+> "New Horizons", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people stand at a mission control terminal.]]

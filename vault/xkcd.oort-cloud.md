@@ -2,7 +2,7 @@
 id: xkcd.oort-cloud
 title: Oort Cloud
 desc: ''
-updated: '1616125521404'
+updated: '1616126764453'
 created: '1385712000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![... I wanna try.  Hang on, be right back.](https://imgs.xkcd.com/comics/oort_cloud.png)
+> "Oort Cloud", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[3 asteroids are talking.]]

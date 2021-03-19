@@ -2,7 +2,7 @@
 id: xkcd.thermostat
 title: Thermostat
 desc: ''
-updated: '1616125521509'
+updated: '1616126764597'
 created: '1509955200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Your problem is so terrible, I worry that, if I help you, I risk drawing the attention of whatever god of technology inflicted it on you.](https://imgs.xkcd.com/comics/thermostat.png)
+> "Thermostat", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

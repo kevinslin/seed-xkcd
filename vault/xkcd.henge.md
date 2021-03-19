@@ -2,7 +2,7 @@
 id: xkcd.henge
 title: Henge
 desc: ''
-updated: '1616125521408'
+updated: '1616126764559'
 created: '1451289600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've got the Craigslist post ready to go! I wasn't sure what category it should go in, so I listed it as property and put that it has 'good sun exposure.'](https://imgs.xkcd.com/comics/henge.png)
+> "Henge", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people walk toward a large control panel.]]

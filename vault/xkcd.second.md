@@ -2,7 +2,7 @@
 id: xkcd.second
 title: Second
 desc: ''
-updated: '1616125521502'
+updated: '1616126764488'
 created: '1393228800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Let me just scroll down and check behind that rock. Annnnd ... nope, page copyright year starts with '19'. Oh God, is this a WEBRING?](https://imgs.xkcd.com/comics/second.png)
+> "Second", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure stands in a desert, looking at a rock in front of it.]]

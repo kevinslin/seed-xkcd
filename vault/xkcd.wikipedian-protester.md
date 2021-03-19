@@ -2,7 +2,7 @@
 id: xkcd.wikipedian-protester
 title: Wikipedian Protester
 desc: ''
-updated: '1616125521555'
+updated: '1616126764646'
 created: '1183532400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![SEMI-PROTECT THE CONSTITUTION](https://imgs.xkcd.com/comics/wikipedian_protester.png)
+> "Wikipedian Protester", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a politician speaking at a podium, which sports an American flag.]]

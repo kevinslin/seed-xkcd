@@ -2,7 +2,7 @@
 id: xkcd.swine-flu
 title: Swine Flu
 desc: ''
-updated: '1616125521613'
+updated: '1616126764716'
 created: '1240815600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Bad flu epidemics can hit young adults hardest because they provoke their powerful immune systems into overreaction, so to stay healthy spend the next few weeks drunk and sleep-deprived to keep yours suppressed.](https://imgs.xkcd.com/comics/swine_flu.png)
+> "Swine Flu", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Twitter is great for watching uninformed panics unfold live.

@@ -2,7 +2,7 @@
 id: xkcd.rocket-packs
 title: Rocket Packs
 desc: ''
-updated: '1616125521506'
+updated: '1616126764498'
 created: '1402902000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'](https://imgs.xkcd.com/comics/rocket_packs.png)
+> "Rocket Packs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Rocket packs are easy.

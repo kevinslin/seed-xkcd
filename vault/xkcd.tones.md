@@ -2,7 +2,7 @@
 id: xkcd.tones
 title: Tones
 desc: ''
-updated: '1616125521598'
+updated: '1616126764687'
 created: '1222066800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I need a lawn, so I can yell at kids to stay off it.](https://imgs.xkcd.com/comics/tones.png)
+> "Tones", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man standing in room next to round table, looking out window. Blue and orange sunset visible outside the window]]

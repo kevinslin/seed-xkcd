@@ -2,7 +2,7 @@
 id: xkcd.united-states-map
 title: United States Map
 desc: ''
-updated: '1616125521412'
+updated: '1616126764564'
 created: '1457510400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It would be pretty unfair to give to someone a blank version of this map as a 'how many states can you name?' quiz. (If you include Alaska and Hawaii, you should swap the Aleutian Islands with the Hawaiian ones.)](https://imgs.xkcd.com/comics/united_states_map.png)
+> "United States Map", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black Hat Guy gestures at a person in a car in front of him, indicating they should drive behind him.]]

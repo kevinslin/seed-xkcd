@@ -2,7 +2,7 @@
 id: xkcd.with-apologies-to-the-who
 title: With Apologies to The Who
 desc: ''
-updated: '1616125521552'
+updated: '1616126764644'
 created: '1181286000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.](https://imgs.xkcd.com/comics/with_apologies_to_the_who.png)
+> "With Apologies to The Who", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Stick figure is sitting at a desk with a computer, typing]]

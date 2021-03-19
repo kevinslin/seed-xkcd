@@ -2,7 +2,7 @@
 id: xkcd.forgetting
 title: Forgetting
 desc: ''
-updated: '1616125521581'
+updated: '1616126764668'
 created: '1202112000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Of course, the assert doesn't work.](https://imgs.xkcd.com/comics/forgetting.png)
+> "Forgetting", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man sits at computer, coding]]

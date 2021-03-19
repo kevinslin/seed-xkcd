@@ -2,7 +2,7 @@
 id: xkcd.vomiting-emoji
 title: Vomiting Emoji
 desc: ''
-updated: '1616125521488'
+updated: '1616126764578'
 created: '1489993200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My favorite might be U+1F609 U+1F93F WINKING FACE VOMITING.](https://imgs.xkcd.com/comics/vomiting_emoji.png)
+> "Vomiting Emoji", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

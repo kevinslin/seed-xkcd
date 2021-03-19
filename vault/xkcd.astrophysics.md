@@ -2,7 +2,7 @@
 id: xkcd.astrophysics
 title: Astrophysics
 desc: ''
-updated: '1616125521479'
+updated: '1616126764549'
 created: '1478851200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."](https://imgs.xkcd.com/comics/astrophysics.png)
+> "Astrophysics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

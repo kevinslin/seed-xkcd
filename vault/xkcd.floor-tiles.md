@@ -2,7 +2,7 @@
 id: xkcd.floor-tiles
 title: Floor Tiles
 desc: ''
-updated: '1616125521545'
+updated: '1616126764640'
 created: '1175842800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The worst part is when sidewalk cracks are out-of-sync with your natural stride.](https://imgs.xkcd.com/comics/floor_tiles.png)
+> "Floor Tiles", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters walk on a floor tiled in black and white.]]

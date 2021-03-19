@@ -2,7 +2,7 @@
 id: xkcd.appropriate-term
 title: Appropriate Term
 desc: ''
-updated: '1616125521544'
+updated: '1616126764640'
 created: '1175497200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I know a lot of people hate these, but I prefer them to touchpads.](https://imgs.xkcd.com/comics/appropriate_term.png)
+> "Appropriate Term", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A diagram of a TrackPoint pointer on a keyboard, under which is a continuity line labeled "Tone of Conversation-Formal to Informal." There are four boxes under this line]]

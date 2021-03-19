@@ -2,7 +2,7 @@
 id: xkcd.trash
 title: Trash
 desc: ''
-updated: '1616125521483'
+updated: '1616126764552'
 created: '1484553600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership.](https://imgs.xkcd.com/comics/trash.png)
+> "Trash", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

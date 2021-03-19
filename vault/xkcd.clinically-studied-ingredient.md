@@ -2,7 +2,7 @@
 id: xkcd.clinically-studied-ingredient
 title: Clinically Studied Ingredient
 desc: ''
-updated: '1616125521388'
+updated: '1616126764628'
 created: '1345186800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.](https://imgs.xkcd.com/comics/clinically_studied_ingredient.png)
+> "Clinically Studied Ingredient", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 I can't help but admire the audacity of the marketer who came up with the phrase "contains a clinically studied ingredient"

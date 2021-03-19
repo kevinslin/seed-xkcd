@@ -2,7 +2,7 @@
 id: xkcd.density
 title: Density
 desc: ''
-updated: '1616125521610'
+updated: '1616126764712'
 created: '1235980800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If only I had asked 4chan for ideas for what I should do to prevent this!](https://imgs.xkcd.com/comics/density.png)
+> "Density", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy is in a bed with a girl]]

@@ -2,7 +2,7 @@
 id: xkcd.wait-wait
 title: Wait Wait
 desc: ''
-updated: '1616125521713'
+updated: '1616126764801'
 created: '1325232000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can't stab Carl Kasell. He sounds all slow and stentorian, but he moves like a snake.](https://imgs.xkcd.com/comics/wait_wait.png)
+> "Wait Wait", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Headlines!

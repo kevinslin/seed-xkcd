@@ -2,7 +2,7 @@
 id: xkcd.priorities
 title: Priorities
 desc: ''
-updated: '1616125521573'
+updated: '1616126764660'
 created: '1193814000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You should start giving out 'E's so I can spell FACADE or DEFACED.](https://imgs.xkcd.com/comics/priorities.png)
+> "Priorities", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A teacher is talking to a student, sitting at a desk.]]

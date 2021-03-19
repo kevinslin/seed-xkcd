@@ -2,7 +2,7 @@
 id: xkcd.now-playing
 title: '#NowPlaying'
 desc: ''
-updated: '1616125521449'
+updated: '1616126764536'
 created: '1423036800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you click on the post, it takes you to search results for the note on various online music stores.](https://imgs.xkcd.com/comics/nowplaying.png)
+> "#NowPlaying", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A series of social media entries]]

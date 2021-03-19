@@ -2,7 +2,7 @@
 id: xkcd.basketball-earth
 title: Basketball Earth
 desc: ''
-updated: '1616125521456'
+updated: '1616126764505'
 created: '1429686000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![How many points do you get for dunking every basketball in existence at once?](https://imgs.xkcd.com/comics/basketball_earth.png)
+> "Basketball Earth", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[This comic consists of four rows of four panels each.]]

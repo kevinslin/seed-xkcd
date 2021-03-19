@@ -2,7 +2,7 @@
 id: xkcd.coupon-code
 title: Coupon Code
 desc: ''
-updated: '1616125521666'
+updated: '1616126764770'
 created: '1293004800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This also guarantees he won't be one of the ones to get a bobcat.](https://imgs.xkcd.com/comics/coupon_code.png)
+> "Coupon Code", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The panel shows an online shopping form.]]

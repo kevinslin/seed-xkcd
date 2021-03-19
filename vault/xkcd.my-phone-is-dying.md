@@ -2,7 +2,7 @@
 id: xkcd.my-phone-is-dying
 title: My Phone is Dying
 desc: ''
-updated: '1616125521440'
+updated: '1616126764529'
 created: '1410937200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When it explodes, it will cast off its outer layers, leaving behind nothing but a slowly fading PalmPilot, calculator, or two-way pager.](https://imgs.xkcd.com/comics/my_phone_is_dying.png)
+> "My Phone is Dying", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Beret guy walks up to a figure, holding his phone.]]

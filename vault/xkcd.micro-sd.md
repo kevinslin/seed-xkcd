@@ -2,7 +2,7 @@
 id: xkcd.micro-sd
 title: MicroSD
 desc: ''
-updated: '1616125521628'
+updated: '1616126764747'
 created: '1263974400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That card holds a refrigerator carton's worth of floppy discs, and a soda can full of those cards could hold the entire iTunes store's music library. Mmmm.](https://imgs.xkcd.com/comics/microsd.png)
+> "MicroSD", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures approach a table]]

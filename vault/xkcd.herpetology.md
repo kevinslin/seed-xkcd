@@ -2,7 +2,7 @@
 id: xkcd.herpetology
 title: Herpetology
 desc: ''
-updated: '1616125521686'
+updated: '1616126764775'
 created: '1299052800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Birds are Aves, which is part of the clade Theropoda, which is in Saurischia, which is in Dinosauria. Those birds outside our windows are dinosaurs. We can clear out the rest of our brains because we now have the best fact.](https://imgs.xkcd.com/comics/herpetology.png)
+> "Herpetology", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Ornithology conference:

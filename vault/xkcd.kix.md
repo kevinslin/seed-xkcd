@@ -2,7 +2,7 @@
 id: xkcd.kix
 title: Kix
 desc: ''
-updated: '1616125521447'
+updated: '1616126764535'
 created: '1420617600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My parents sent me to several years of intensive Kix test prep.](https://imgs.xkcd.com/comics/kix.png)
+> "Kix", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This comic is a single panel))

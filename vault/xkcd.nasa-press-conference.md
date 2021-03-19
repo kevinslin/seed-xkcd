@@ -2,7 +2,7 @@
 id: xkcd.nasa-press-conference
 title: NASA Press Conference
 desc: ''
-updated: '1616125521467'
+updated: '1616126764521'
 created: '1443423600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Why are we spending billions to ruin Mars with swarms of robots when Elon Musk has promised to ruin Mars for a FRACTION of the cost?](https://imgs.xkcd.com/comics/nasa_press_conference.png)
+> "NASA Press Conference", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Someone stands at a podium with the NASA logo on it, speaking.]]

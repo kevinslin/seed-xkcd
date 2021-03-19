@@ -2,7 +2,7 @@
 id: xkcd.namespace-land-rush
 title: Namespace Land Rush
 desc: ''
-updated: '1616125521518'
+updated: '1616126764608'
 created: '1520236800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.](https://imgs.xkcd.com/comics/namespace_land_rush.png)
+> "Namespace Land Rush", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

@@ -2,7 +2,7 @@
 id: xkcd.email
 title: Email
 desc: ''
-updated: '1616125521447'
+updated: '1616126764534'
 created: '1420012800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.](https://imgs.xkcd.com/comics/email.png)
+> "Email", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters meet.  One is wearing a beret.]]

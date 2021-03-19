@@ -2,7 +2,7 @@
 id: xkcd.google-trends
 title: Google Trends
 desc: ''
-updated: '1616125521607'
+updated: '1616126764709'
 created: '1230278400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal.  Excerpt:  Lincoln lay back on the bed, nude save for his trademark stovepipe hat.  'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'](https://imgs.xkcd.com/comics/google_trends.png)
+> "Google Trends", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Bloggers were recently amused to discover that, according to Google Trends, the search term "men kissing" is most popular in conservative Utah.  A few other embarrassing correlations:

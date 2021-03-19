@@ -2,7 +2,7 @@
 id: xkcd.researcher-translation
 title: Researcher Translation
 desc: ''
-updated: '1616125521626'
+updated: '1616126764746'
 created: '1261382400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A technology that is '20 years away' will be 20 years away indefinitely.](https://imgs.xkcd.com/comics/researcher_translation.png)
+> "Researcher Translation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A table showing two columns. The left column is labeled "If a researcher says a cool new technology should be available to consumers in...", and the right column is labeled "What they mean is..."))

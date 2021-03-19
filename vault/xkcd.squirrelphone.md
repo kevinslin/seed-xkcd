@@ -2,7 +2,7 @@
 id: xkcd.squirrelphone
 title: Squirrelphone
 desc: ''
-updated: '1616125521467'
+updated: '1616126764520'
 created: '1442386800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.](https://imgs.xkcd.com/comics/squirrelphone.png)
+> "Squirrelphone", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is walking along and they see a squirrel standing on a tree stump.]]

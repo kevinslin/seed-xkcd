@@ -2,7 +2,7 @@
 id: xkcd.cold-medicine
 title: Cold Medicine
 desc: ''
-updated: '1616125521407'
+updated: '1616126764559'
 created: '1450425600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Seriously considering buying some illegal drugs to try to turn them back into cold medicine.](https://imgs.xkcd.com/comics/cold_medicine.png)
+> "Cold Medicine", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures stand behind a table with cheese, bread, tomato sauce, and salt on it.]]

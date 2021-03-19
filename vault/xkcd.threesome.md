@@ -2,7 +2,7 @@
 id: xkcd.threesome
 title: Threesome
 desc: ''
-updated: '1616125521618'
+updated: '1616126764733'
 created: '1248246000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wanted us to try finding an approximate numeric solution, but noooo.](https://imgs.xkcd.com/comics/threesome.png)
+> "Threesome", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Woman: We had a threesome last night.

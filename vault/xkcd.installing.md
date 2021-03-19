@@ -2,7 +2,7 @@
 id: xkcd.installing
 title: Installing
 desc: ''
-updated: '1616125521505'
+updated: '1616126764494'
 created: '1399878000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But still, my scheme for creating and saving user config files and data locally to preserve them across reinstalls might be useful for--wait, that's cookies.](https://imgs.xkcd.com/comics/installing.png)
+> "Installing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One character is talking to another.]]

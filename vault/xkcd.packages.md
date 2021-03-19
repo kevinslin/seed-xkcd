@@ -2,7 +2,7 @@
 id: xkcd.packages
 title: Packages
 desc: ''
-updated: '1616125521613'
+updated: '1616126764718'
 created: '1241161200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Day six: 'The hell?  Who mails a bobcat?'](https://imgs.xkcd.com/comics/packages.png)
+> "Packages", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A dude is sitting at his computer.]]

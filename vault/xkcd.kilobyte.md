@@ -2,7 +2,7 @@
 id: xkcd.kilobyte
 title: Kilobyte
 desc: ''
-updated: '1616125521583'
+updated: '1616126764671'
 created: '1205132400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I would take 'kibibyte' more seriously if it didn't sound so much like 'Kibbles N Bits'.](https://imgs.xkcd.com/comics/kilobyte.png)
+> "Kilobyte", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 There's been a lot of confusion over 1024 vs 1000,

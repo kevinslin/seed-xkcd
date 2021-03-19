@@ -2,7 +2,7 @@
 id: xkcd.marketing-interview
 title: Marketing Interview
 desc: ''
-updated: '1616125521318'
+updated: '1616126764459'
 created: '1152255600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There are a lot of books on marketing out there.  I wonder if you're safest just buying the most popular one.](https://imgs.xkcd.com/comics/marketing_interview.png)
+> "Marketing Interview", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people, one sitting behind a executive desk, looking at some paper, and the other one by foot using a hat.]]

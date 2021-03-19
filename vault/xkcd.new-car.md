@@ -2,7 +2,7 @@
 id: xkcd.new-car
 title: New Car
 desc: ''
-updated: '1616125521613'
+updated: '1616126764715'
 created: '1239951600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.](https://imgs.xkcd.com/comics/new_car.png)
+> "New Car", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: When'd you get the car?

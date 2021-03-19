@@ -2,7 +2,7 @@
 id: xkcd.mobius-battle
 title: Mobius Battle
 desc: ''
-updated: '1616125521582'
+updated: '1616126764669'
 created: '1202457600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Films need to do this more, if only to piss off the people who have to feed it into the projector.](https://imgs.xkcd.com/comics/mobius_battle.png)
+> "Mobius Battle", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Left side:}}

@@ -2,7 +2,7 @@
 id: xkcd.automation
 title: Automation
 desc: ''
-updated: '1616125521500'
+updated: '1616126764482'
 created: '1390204800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.](https://imgs.xkcd.com/comics/automation.png)
+> "Automation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 "I spend a lot of time on this task. I should write a program automating it!"

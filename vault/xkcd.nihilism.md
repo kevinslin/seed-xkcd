@@ -2,7 +2,7 @@
 id: xkcd.nihilism
 title: Nihilism
 desc: ''
-updated: '1616125521330'
+updated: '1616126764468'
 created: '1160118000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Why can't you have normal existential angst like all the other boys?](https://imgs.xkcd.com/comics/nihilism.png)
+> "Nihilism", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Alt Text: Why can't you have normal existential angst like all the other boys?}}

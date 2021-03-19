@@ -2,7 +2,7 @@
 id: xkcd.backward-in-time
 title: Backward in Time
 desc: ''
-updated: '1616125521367'
+updated: '1616126764615'
 created: '1329206400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![People tell me I have too much time on my hands, but really the problem is that there's too much time, PERIOD.](https://imgs.xkcd.com/comics/backward_in_time.png)
+> "Backward in Time", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When I have a boring task to get through -- a three-hour lecture, a giant file download, or a long term point goal in fitocracy -- I use this formula to convert the percentage completed (p) into a date:

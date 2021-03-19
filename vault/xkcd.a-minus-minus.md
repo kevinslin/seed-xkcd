@@ -2,7 +2,7 @@
 id: xkcd.a-minus-minus
 title: A-Minus-Minus
 desc: ''
-updated: '1616125521569'
+updated: '1616126764658'
 created: '1191567600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can do this one in every 30 times and still have 97% positive feedback.](https://imgs.xkcd.com/comics/a-minus-minus.png)
+> "A-Minus-Minus", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[the hat guy is packing a bobcat into a box; a woman stands beside him.]]

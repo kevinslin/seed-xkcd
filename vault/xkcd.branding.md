@@ -2,7 +2,7 @@
 id: xkcd.branding
 title: Branding
 desc: ''
-updated: '1616125521619'
+updated: '1616126764735'
 created: '1250492400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Actually, 'RSS&M' is kinda catchy.](https://imgs.xkcd.com/comics/branding.png)
+> "Branding", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Browsing without adblock

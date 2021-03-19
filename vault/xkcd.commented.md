@@ -2,7 +2,7 @@
 id: xkcd.commented
 title: Commented
 desc: ''
-updated: '1616125521328'
+updated: '1616126764466'
 created: '1158130800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Your IDE's color may vary.](https://imgs.xkcd.com/comics/commented.png)
+> "Commented", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[two men are talking, one is hat-man]]

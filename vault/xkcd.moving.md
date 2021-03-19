@@ -2,7 +2,7 @@
 id: xkcd.moving
 title: Moving
 desc: ''
-updated: '1616125521597'
+updated: '1616126764685'
 created: '1219388400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.](https://imgs.xkcd.com/comics/moving.png)
+> "Moving", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 There are few forces more powerful than geeks desperately trying to get internet in a new apartment.

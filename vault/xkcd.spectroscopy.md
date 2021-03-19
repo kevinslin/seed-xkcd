@@ -2,7 +2,7 @@
 id: xkcd.spectroscopy
 title: Spectroscopy
 desc: ''
-updated: '1616125521456'
+updated: '1616126764505'
 created: '1430118000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Although right now I'm more excited about ESPRESSO's radial velocity measurements, so I'm listening to This Kiss, her song about measuring "centrifugal motion" on "a rooftop under the sky".](https://imgs.xkcd.com/comics/spectroscopy.png)
+> "Spectroscopy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A large white planet fills the void of space, orbited by a tiny moon.]]

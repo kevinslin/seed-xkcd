@@ -2,7 +2,7 @@
 id: xkcd.marie-curie
 title: Marie Curie
 desc: ''
-updated: '1616125521694'
+updated: '1616126764779'
 created: '1304924400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Although not permanently.](https://imgs.xkcd.com/comics/marie_curie.png)
+> "Marie Curie", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Woman: My teacher always told me that if I applied myself, I could become the next Marie Curie.

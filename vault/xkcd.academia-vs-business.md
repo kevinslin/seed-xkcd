@@ -2,7 +2,7 @@
 id: xkcd.academia-vs-business
 title: Academia vs. Business
 desc: ''
-updated: '1616125521624'
+updated: '1616126764744'
 created: '1258531200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Some engineer out there has solved P=NP and it's locked up in an electric eggbeater calibration routine.  For every 0x5f375a86 we learn about, there are thousands we never see.](https://imgs.xkcd.com/comics/academia_vs_business.png)
+> "Academia vs. Business", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A programmer sits at a desk in front of a computer. There are cans on the desk and more crushed ones on the floor.]]

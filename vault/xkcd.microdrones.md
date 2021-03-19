@@ -2,7 +2,7 @@
 id: xkcd.microdrones
 title: Microdrones
 desc: ''
-updated: '1616125521456'
+updated: '1616126764506'
 created: '1431327600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, weird, Amazon is out of butterfly nets.](https://imgs.xkcd.com/comics/microdrones.png)
+> "Microdrones", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures. One is standing, one is sitting at a desk with a laptop computer.]]

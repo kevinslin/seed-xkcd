@@ -2,7 +2,7 @@
 id: xkcd.addiction
 title: Addiction
 desc: ''
-updated: '1616125521616'
+updated: '1616126764728'
 created: '1245049200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum.  And then the whispers begin.](https://imgs.xkcd.com/comics/addiction.png)
+> "Addiction", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is typing at a computer.]]

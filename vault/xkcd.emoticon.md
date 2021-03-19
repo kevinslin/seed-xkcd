@@ -2,7 +2,7 @@
 id: xkcd.emoticon
 title: Emoticon
 desc: ''
-updated: '1616125521582'
+updated: '1616126764669'
 created: '1202284800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.](https://imgs.xkcd.com/comics/emoticon.png)
+> "Emoticon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man sits at computer, typing]]

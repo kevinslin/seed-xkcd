@@ -2,7 +2,7 @@
 id: xkcd.slideshow
 title: Slideshow
 desc: ''
-updated: '1616125521399'
+updated: '1616126764437'
 created: '1379055600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Points to anyone who hacks the Flickr devs' computers to make their text editors do this when you click on anything.](https://imgs.xkcd.com/comics/slideshow.gif)
+> "Slideshow", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This strip is in the form of an animated gif. The panels transition with a Ken Burns-like fade-and-pan.))

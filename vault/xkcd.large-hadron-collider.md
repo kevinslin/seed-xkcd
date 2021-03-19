@@ -2,7 +2,7 @@
 id: xkcd.large-hadron-collider
 title: Large Hadron Collider
 desc: ''
-updated: '1616125521525'
+updated: '1616126764629'
 created: '1206514800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When charged particles of more than 5 TeV pass through a bubble chamber, they leave a trail of candy.](https://imgs.xkcd.com/comics/large_hadron_collider.png)
+> "Large Hadron Collider", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Large Hadron Collider, CERN...

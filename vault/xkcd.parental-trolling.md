@@ -2,7 +2,7 @@
 id: xkcd.parental-trolling
 title: Parental Trolling
 desc: ''
-updated: '1616125521613'
+updated: '1616126764716'
 created: '1240556400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They'll pick music and culture that they know annoys you.  Building in behavioral easter eggs is a fair retaliation!](https://imgs.xkcd.com/comics/parental_trolling.png)
+> "Parental Trolling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Future

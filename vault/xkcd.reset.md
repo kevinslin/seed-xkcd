@@ -2,7 +2,7 @@
 id: xkcd.reset
 title: Reset
 desc: ''
-updated: '1616125521578'
+updated: '1616126764666'
 created: '1198828800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Clearance for this Sign: 11 Feet](https://imgs.xkcd.com/comics/reset.png)
+> "Reset", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure stands looking at a flip-counter sign posted on a wall.]]

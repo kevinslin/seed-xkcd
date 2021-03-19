@@ -2,7 +2,7 @@
 id: xkcd.connoisseur
 title: Connoisseur
 desc: ''
-updated: '1616125521699'
+updated: '1616126764783'
 created: '1308726000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Our brains have just one scale, and we resize our experiences to fit.](https://imgs.xkcd.com/comics/connoisseur.png)
+> "Connoisseur", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man in a white hat is standing with another man. They each hold a wine glass in one hand, in the man in the hat is holding a bottle of wine in the other. He looks at the label.]]

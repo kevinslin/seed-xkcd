@@ -2,7 +2,7 @@
 id: xkcd.90-s-kid
 title: 90s Kid
 desc: ''
-updated: '1616125521460'
+updated: '1616126764512'
 created: '1436338800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We remember Rugrats, and think of them every time our kids look at us through their baby gates.](https://imgs.xkcd.com/comics/90s_kid.png)
+> "90s Kid", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two children on a playground]]

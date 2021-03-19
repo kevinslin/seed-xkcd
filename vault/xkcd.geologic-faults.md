@@ -2,7 +2,7 @@
 id: xkcd.geologic-faults
 title: Geologic Faults
 desc: ''
-updated: '1616125521496'
+updated: '1616126764585'
 created: '1502262000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I live on a torn-bag-of-potato-chips-where-the-tear-is-rapidly-growing fault, which is terrifying.](https://imgs.xkcd.com/comics/geologic_faults.png)
+> "Geologic Faults", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

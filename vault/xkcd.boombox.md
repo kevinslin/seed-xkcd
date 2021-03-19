@@ -2,7 +2,7 @@
 id: xkcd.boombox
 title: Boombox
 desc: ''
-updated: '1616125521328'
+updated: '1616126764466'
 created: '1158735600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And she's gonna feel like a jerk when she realizes it was actually Under Pressure.](https://imgs.xkcd.com/comics/boombox.png)
+> "Boombox", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman is looking out a second story window at a guy holding a boombox over his head.]]

@@ -2,7 +2,7 @@
 id: xkcd.kepler
 title: Kepler
 desc: ''
-updated: '1616125521344'
+updated: '1616126764364'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Science joke.  You should probably just move along.](https://imgs.xkcd.com/comics/kepler.jpg)
+> "Kepler", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Two people stand in an aisle in a store ]]

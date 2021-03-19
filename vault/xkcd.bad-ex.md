@@ -2,7 +2,7 @@
 id: xkcd.bad-ex
 title: Bad Ex
 desc: ''
-updated: '1616125521653'
+updated: '1616126764706'
 created: '1285138800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Since the goatee, glasses, and Seltzer & Friedberg DVD collection didn't tip you off, there will be a $20 negligence charge for this service.](https://imgs.xkcd.com/comics/bad_ex.png)
+> "Bad Ex", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are walking.  The first is wearing a white hat.]]

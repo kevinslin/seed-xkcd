@@ -2,7 +2,7 @@
 id: xkcd.macgyver-gets-lazy
 title: Macgyver Gets Lazy
 desc: ''
-updated: '1616125521590'
+updated: '1616126764682'
 created: '1214982000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At the time of this writing, Wikipedia has a wonderful article titled 'List of problems solved by Macgyver'.](https://imgs.xkcd.com/comics/macgyver_gets_lazy.png)
+> "Macgyver Gets Lazy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Outside of a building with a door marked No Entry and a guard standing outside, Character 1 and Macgyver are hiding]]

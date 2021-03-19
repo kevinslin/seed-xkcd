@@ -2,7 +2,7 @@
 id: xkcd.teaching-physics
 title: Teaching Physics
 desc: ''
-updated: '1616125521694'
+updated: '1616126764778'
 created: '1304665200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.](https://imgs.xkcd.com/comics/teaching_physics.png)
+> "Teaching Physics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Teacher: Understanding gravity: Space-time is like a rubber sheet. Massive objects distort the sheet, and--

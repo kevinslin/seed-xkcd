@@ -2,7 +2,7 @@
 id: xkcd.complexion
 title: Complexion
 desc: ''
-updated: '1616125521629'
+updated: '1616126764748'
 created: '1265788800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Why do all my attempts at science end with me being punched by Batman?  (P.S. benzoyl peroxide soap works great.)](https://imgs.xkcd.com/comics/complexion.png)
+> "Complexion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 I get frustrated trying to judge whether acne creams are having any effect. In the spirit of a controlled trial, I used one on just half my face for a few weeks.

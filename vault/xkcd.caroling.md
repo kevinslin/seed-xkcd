@@ -2,7 +2,7 @@
 id: xkcd.caroling
 title: Caroling
 desc: ''
-updated: '1616125521704'
+updated: '1616126764796'
 created: '1317625200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.](https://imgs.xkcd.com/comics/caroling.png)
+> "Caroling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three people stand together singing Christmas carols.]]

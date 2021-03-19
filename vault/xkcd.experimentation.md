@@ -2,7 +2,7 @@
 id: xkcd.experimentation
 title: Experimentation
 desc: ''
-updated: '1616125521601'
+updated: '1616126764708'
 created: '1227254400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?](https://imgs.xkcd.com/comics/experimentation.png)
+> "Experimentation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A young male and female are holding hands, and the female is pointing off to the side.]]

@@ -2,7 +2,7 @@
 id: xkcd.dne
 title: DNE
 desc: ''
-updated: '1616125521557'
+updated: '1616126764648'
 created: '1185519600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've seen advertisers put their URLs on chalkboards, encircled with a DNE.  They went unerased for months.  If you see this, feel free to replace the URL with xkcd.com.](https://imgs.xkcd.com/comics/dne.png)
+> "DNE", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is in an empty classroom writing on the whiteboard.  In the top right corner in large print is written "Fuck This Place!."  It is circled, and underneath he is writing "DNE"]]

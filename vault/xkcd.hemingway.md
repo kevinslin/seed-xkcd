@@ -2,7 +2,7 @@
 id: xkcd.hemingway
 title: Hemingway
 desc: ''
-updated: '1616125521459'
+updated: '1616126764511'
 created: '1434697200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Instead of bobcat, package contained chair.](https://imgs.xkcd.com/comics/hemingway.png)
+> "Hemingway", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Hemingway's Rough Drafts

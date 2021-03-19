@@ -2,7 +2,7 @@
 id: xkcd.november
 title: November
 desc: ''
-updated: '1616125521711'
+updated: '1616126764798'
 created: '1320217200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![November marks the birthday of Charles Schulz, pioneer of tongue awareness.](https://imgs.xkcd.com/comics/november.png)
+> "November", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black Hat Guy and a person sit in a room]]

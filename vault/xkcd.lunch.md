@@ -2,7 +2,7 @@
 id: xkcd.lunch
 title: Lunch
 desc: ''
-updated: '1616125521407'
+updated: '1616126764559'
 created: '1450080000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm trying to be healthier, so after I eat this brick of cheese, I'll have a spoonful of grease-soaked vegetables.](https://imgs.xkcd.com/comics/lunch.png)
+> "Lunch", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people flying kites.]]

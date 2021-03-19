@@ -2,7 +2,7 @@
 id: xkcd.far-away
 title: Far Away
 desc: ''
-updated: '1616125521576'
+updated: '1616126764665'
 created: '1196668800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sometimes an impulsive 2:00 AM cross-country trip is the only solution.](https://imgs.xkcd.com/comics/far_away.png)
+> "Far Away", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The window of an instant messaging program. A drawing of two people hugging in the text part of the window.]]

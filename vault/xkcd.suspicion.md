@@ -2,7 +2,7 @@
 id: xkcd.suspicion
 title: Suspicion
 desc: ''
-updated: '1616125521620'
+updated: '1616126764736'
 created: '1252047600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Fine, walk away.  I'm gonna go cry into a pint of Ben&Jerry's Brownie Batter(tm) ice cream [link], then take out my frustration on a variety of great flash games from PopCap Games(r) [link].](https://imgs.xkcd.com/comics/suspicion.png)
+> "Suspicion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting at a computer, typing.]]

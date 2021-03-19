@@ -2,7 +2,7 @@
 id: xkcd.force
 title: Force
 desc: ''
-updated: '1616125521627'
+updated: '1616126764746'
 created: '1262160000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Force-choking the chicken.](https://imgs.xkcd.com/comics/force.png)
+> "Force", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two EMTs are rushing Darth Vader away from a front door on a stretcher.]]

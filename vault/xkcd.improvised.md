@@ -2,7 +2,7 @@
 id: xkcd.improvised
 title: Improvised
 desc: ''
-updated: '1616125521597'
+updated: '1616126764685'
 created: '1219993200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, your brother is Luke.  Sorry, should've mentioned that first.](https://imgs.xkcd.com/comics/improvised.png)
+> "Improvised", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Harrison Ford Famously Improvised His "I know" Line in E.S.B. (The Empire Strikes Back). Here are a few of his less-successful ad-libs:

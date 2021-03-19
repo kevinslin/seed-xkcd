@@ -2,7 +2,7 @@
 id: xkcd.ghostbusters-marathon
 title: Ghostbusters Marathon
 desc: ''
-updated: '1616125521527'
+updated: '1616126764634'
 created: '1169452800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you walk out that door you'll be crossing the Rubicon with me, and that's one stream I'm not ready to cross.](https://imgs.xkcd.com/comics/ghostbusters_marathon.png)
+> "Ghostbusters Marathon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are in a room.  One is standing up.  There is litter around them.]]

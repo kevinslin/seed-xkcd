@@ -2,7 +2,7 @@
 id: xkcd.librarians
 title: Librarians
 desc: ''
-updated: '1616125521554'
+updated: '1616126764645'
 created: '1182495600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Don't expect any leniency on late fees, though.](https://imgs.xkcd.com/comics/librarians.png)
+> "Librarians", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Advantages to dating librarians}}

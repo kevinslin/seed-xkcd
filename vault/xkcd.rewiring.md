@@ -2,7 +2,7 @@
 id: xkcd.rewiring
 title: Rewiring
 desc: ''
-updated: '1616125521591'
+updated: '1616126764683'
 created: '1216969200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My friend Finn tried to mail one end of the cable to me and thread the mail system.](https://imgs.xkcd.com/comics/rewiring.png)
+> "Rewiring", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title: Rewiring}}

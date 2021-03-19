@@ -2,7 +2,7 @@
 id: xkcd.reviews
 title: Reviews
 desc: ''
-updated: '1616125521372'
+updated: '1616126764619'
 created: '1333090800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord.](https://imgs.xkcd.com/comics/reviews.png)
+> "Reviews", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Shopping before online reviews:

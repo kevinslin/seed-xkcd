@@ -2,7 +2,7 @@
 id: xkcd.new-products
 title: New Products
 desc: ''
-updated: '1616125521453'
+updated: '1616126764538'
 created: '1426057200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you ever hear "Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...", it's time to dig a bunker in your backyard.](https://imgs.xkcd.com/comics/new_products.png)
+> "New Products", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((There are no pictures. It is a table)

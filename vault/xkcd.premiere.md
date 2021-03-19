@@ -2,7 +2,7 @@
 id: xkcd.premiere
 title: Premiere
 desc: ''
-updated: '1616125521422'
+updated: '1616126764393'
 created: '1348210800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['But what's the buzz about the film?' 'We're hoping it's distracting.'](https://imgs.xkcd.com/comics/premiere.png)
+> "Premiere", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Standard vacuous entertainment newscast. An anchor starts off the segment with an inset feed of a field reporter]]

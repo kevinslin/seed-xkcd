@@ -2,7 +2,7 @@
 id: xkcd.worst-case-shopping
 title: Worst-Case Shopping
 desc: ''
-updated: '1616125521699'
+updated: '1616126764782'
 created: '1307516400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.](https://imgs.xkcd.com/comics/worst_case_shopping.png)
+> "Worst-Case Shopping", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is diving in very deep, dark blue water. He shines a flashlight at the sea floor.]]

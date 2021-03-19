@@ -2,7 +2,7 @@
 id: xkcd.laser-pointer
 title: Laser Pointer
 desc: ''
-updated: '1616125521646'
+updated: '1616126764697'
 created: '1271660400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's a lasing cat-vity!](https://imgs.xkcd.com/comics/laser_pointer.png)
+> "Laser Pointer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A human points a laser pointer at the floor. A black cat crouches, staring at the red dot.]]

@@ -2,7 +2,7 @@
 id: xkcd.debugger
 title: Debugger
 desc: ''
-updated: '1616125521429'
+updated: '1616126764411'
 created: '1358755200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It can take a site a while to figure out that there's a problem with their 'report a bug' form.](https://imgs.xkcd.com/comics/debugger.png)
+> "Debugger", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters are silhouetted on a hill. The first sits, the second is lying down.]]

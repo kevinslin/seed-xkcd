@@ -2,7 +2,7 @@
 id: xkcd.bored-with-the-internet
 title: Bored with the Internet
 desc: ''
-updated: '1616125521356'
+updated: '1616126764383'
 created: '1142582400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I used to do this all the time.](https://imgs.xkcd.com/comics/bored_with_the_internet.jpg)
+> "Bored with the Internet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men are talking in a room with a computer on. One is wearing a black hat.]]

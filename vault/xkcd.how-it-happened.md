@@ -2,7 +2,7 @@
 id: xkcd.how-it-happened
 title: How it Happened
 desc: ''
-updated: '1616125521590'
+updated: '1616126764677'
 created: '1213340400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I was there, dude.](https://imgs.xkcd.com/comics/how_it_happened.png)
+> "How it Happened", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people standing]]

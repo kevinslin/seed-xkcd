@@ -2,7 +2,7 @@
 id: xkcd.useless
 title: Useless
 desc: ''
-updated: '1616125521352'
+updated: '1616126764378'
 created: '1138348800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Even the identity matrix doesn't work normally](https://imgs.xkcd.com/comics/useless.jpg)
+> "Useless", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Different mathematic equations, all with heart on left side, and all equal question mark. Equations are as follows:

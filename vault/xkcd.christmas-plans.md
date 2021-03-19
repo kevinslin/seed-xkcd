@@ -2,7 +2,7 @@
 id: xkcd.christmas-plans
 title: Christmas Plans
 desc: ''
-updated: '1616125521626'
+updated: '1616126764746'
 created: '1261555200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Physicists who want to protect traditional Christmas realize that the only way to keep from changing Christmas is not to observe it.](https://imgs.xkcd.com/comics/christmas_plans.png)
+> "Christmas Plans", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Character A is standing behind Character B, who is sitting at a computer.]]

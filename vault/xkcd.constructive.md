@@ -2,7 +2,7 @@
 id: xkcd.constructive
 title: Constructive
 desc: ''
-updated: '1616125521655'
+updated: '1616126764767'
 created: '1287990000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.](https://imgs.xkcd.com/comics/constructive.png)
+> "Constructive", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is talking to a woman]]

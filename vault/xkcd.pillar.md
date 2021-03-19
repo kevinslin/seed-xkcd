@@ -2,7 +2,7 @@
 id: xkcd.pillar
 title: Pillar
 desc: ''
-updated: '1616125521347'
+updated: '1616126764369'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A comic by my brother Doug, redrawn and rewritten by me](https://imgs.xkcd.com/comics/pillar.jpg)
+> "Pillar", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 This one is mostly by my little brother, Doug.

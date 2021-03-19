@@ -2,7 +2,7 @@
 id: xkcd.front-door
 title: Front Door
 desc: ''
-updated: '1616125521379'
+updated: '1616126764624'
 created: '1338793200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!](https://imgs.xkcd.com/comics/front_door.png)
+> "Front Door", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A graph titled 'Walking Back to My Frong Door at Night': the x axis represents geographic location, where 0 to around the midpoint is 'yard', a point beyond the midpoint is 'steps', a point after that is 'door', and all points afterward are 'inside.' 

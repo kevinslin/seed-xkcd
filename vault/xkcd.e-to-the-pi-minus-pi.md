@@ -2,7 +2,7 @@
 id: xkcd.e-to-the-pi-minus-pi
 title: e to the pi Minus pi
 desc: ''
-updated: '1616125521528'
+updated: '1616126764635'
 created: '1170230400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also, I hear the 4th root of (9^2 + 19^2/22) is pi.](https://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png)
+> "e to the pi Minus pi", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person: Hey, check it out: e^pi-pi is 19.999099979. That's weird.

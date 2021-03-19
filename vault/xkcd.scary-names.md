@@ -2,7 +2,7 @@
 id: xkcd.scary-names
 title: Scary Names
 desc: ''
-updated: '1616125521396'
+updated: '1616126764431'
 created: '1374649200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Far off to the right of the chart is the Helvetica Scenario.](https://imgs.xkcd.com/comics/scary_names.png)
+> "Scary Names", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A scatterplot, with the y-axis labeled "scariness of name" and the x-axis labeled "scariness of thing name refers to.

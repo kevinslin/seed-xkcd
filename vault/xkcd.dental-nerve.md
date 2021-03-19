@@ -2,7 +2,7 @@
 id: xkcd.dental-nerve
 title: Dental Nerve
 desc: ''
-updated: '1616125521667'
+updated: '1616126764771'
 created: '1294819200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![WAKE up in the MORning and my BREATH ain't PREtty / and noBODY'S gonna KISS me if my MOUTH smells SHItty / so I ALways brush my TEETH before I START on the JACK / sure, my DRINKing's out of HAND, but I'm conTROLLing my PLAQUE.](https://imgs.xkcd.com/comics/dental_nerve.png)
+> "Dental Nerve", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Woman: Dear Ke$ha,

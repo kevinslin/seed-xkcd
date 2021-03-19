@@ -2,7 +2,7 @@
 id: xkcd.seashell
 title: Seashell
 desc: ''
-updated: '1616125521395'
+updated: '1616126764430'
 created: '1373439600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This is roughly equivalent to 'number of times I've picked up a seashell at the ocean' / 'number of times I've picked up a seashell', which in my case is pretty close to 1, and gets much closer if we're considering only times I didn't put it to my ear.](https://imgs.xkcd.com/comics/seashell.png)
+> "Seashell", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((At the top of the panel is an equation showing Bayes' Theorem for the probability that a person is near the ocean given that they just picked up a seashell.))

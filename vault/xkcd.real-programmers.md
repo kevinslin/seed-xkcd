@@ -2,7 +2,7 @@
 id: xkcd.real-programmers
 title: Real Programmers
 desc: ''
-updated: '1616125521581'
+updated: '1616126764668'
 created: '1201852800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.](https://imgs.xkcd.com/comics/real_programmers.png)
+> "Real Programmers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at a computer, programming. Another man behind him looks over his shoulder.]]

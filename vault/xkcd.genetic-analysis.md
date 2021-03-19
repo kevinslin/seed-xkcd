@@ -2,7 +2,7 @@
 id: xkcd.genetic-analysis
 title: Genetic Analysis
 desc: ''
-updated: '1616125521657'
+updated: '1616126764769'
 created: '1291622400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's still a chance you were conceived via IVF. But we've checked your mom's college yearbook photos, and whether or not she and your father had sex, it's clear that ... listen, I know this is hard for you.](https://imgs.xkcd.com/comics/genetic_analysis.png)
+> "Genetic Analysis", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands next to a woman holding a clipboard, she gestures to a comfy-looking chair.]]

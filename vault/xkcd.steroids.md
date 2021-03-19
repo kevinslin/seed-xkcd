@@ -2,7 +2,7 @@
 id: xkcd.steroids
 title: Steroids
 desc: ''
-updated: '1616125521431'
+updated: '1616126764413'
 created: '1360742400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A human is a system for converting dust billions of years ago into dust billions of years from now via a roundabout process which involves checking email a lot.](https://imgs.xkcd.com/comics/steroids.png)
+> "Steroids", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An indescribable being of energy and a person are walking along]]

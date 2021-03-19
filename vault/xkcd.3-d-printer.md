@@ -2,7 +2,7 @@
 id: xkcd.3-d-printer
 title: 3D Printer
 desc: ''
-updated: '1616125521701'
+updated: '1616126764786'
 created: '1310540400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.](https://imgs.xkcd.com/comics/3d_printer.png)
+> "3D Printer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.}}

@@ -2,7 +2,7 @@
 id: xkcd.penny-arcade-parody
 title: Penny Arcade Parody
 desc: ''
-updated: '1616125521329'
+updated: '1616126764466'
 created: '1158735600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No one show this to Tycho's wife, okay?](https://imgs.xkcd.com/comics/penny_arcade_parody.png)
+> "Penny Arcade Parody", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The first panel uses the art style of Penny Arcade.]]

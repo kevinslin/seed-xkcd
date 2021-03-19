@@ -2,7 +2,7 @@
 id: xkcd.graffiti
 title: Graffiti
 desc: ''
-updated: '1616125521529'
+updated: '1616126764637'
 created: '1172649600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![FOR AN INTRIGUING TIME CALL](https://imgs.xkcd.com/comics/graffiti.png)
+> "Graffiti", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy sits on a toilet in a bathroom. The stall sidewalll next to him is covered in graffiti--"you suck," "Mike sucks cock," "Cunt," "dane was here" stuck through and "dane is a fag" written under it. One block of graffiti is salient:]]

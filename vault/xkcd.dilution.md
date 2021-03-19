@@ -2,7 +2,7 @@
 id: xkcd.dilution
 title: Dilution
 desc: ''
-updated: '1616125521649'
+updated: '1616126764701'
 created: '1278918000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Dear editors of Homeopathy Monthly: I have two small corrections for your July issue.  One, it's spelled "echinacea", and two, homeopathic medicines are no better than placebos and your entire magazine is a sham.](https://imgs.xkcd.com/comics/dilution.png)
+> "Dilution", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands at a desk with a beaker in one hand and a turkey baster in the other. A woman lies in a bed in the same room.]]

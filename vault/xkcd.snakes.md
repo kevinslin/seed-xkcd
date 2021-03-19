@@ -2,7 +2,7 @@
 id: xkcd.snakes
 title: Snakes
 desc: ''
-updated: '1616125521406'
+updated: '1616126764557'
 created: '1447660800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The last band of color indicates the snake's tolerance for being held before biting.](https://imgs.xkcd.com/comics/snakes.png)
+> "Snakes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures examine a colorful banded serpent.]]

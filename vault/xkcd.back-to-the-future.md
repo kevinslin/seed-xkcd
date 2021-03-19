@@ -2,7 +2,7 @@
 id: xkcd.back-to-the-future
 title: Back to the Future
 desc: ''
-updated: '1616125521308'
+updated: '1616126764454'
 created: '1147676400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He's kind of an asshole, when you think about it](https://imgs.xkcd.com/comics/back_to_the_future.jpg)
+> "Back to the Future", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title: Back to the Future}}

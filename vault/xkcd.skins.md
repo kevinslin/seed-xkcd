@@ -2,7 +2,7 @@
 id: xkcd.skins
 title: Skins
 desc: ''
-updated: '1616125521620'
+updated: '1616126764736'
 created: '1251442800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's Livejournal drama between those who want to wear human suits over fursuits and those who just take off the fursuits.](https://imgs.xkcd.com/comics/skins.png)
+> "Skins", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is packing luggage.]]

@@ -2,7 +2,7 @@
 id: xkcd.urgent-mission
 title: Urgent Mission
 desc: ''
-updated: '1616125521612'
+updated: '1616126764715'
 created: '1239346800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.](https://imgs.xkcd.com/comics/urgent_mission.png)
+> "Urgent Mission", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy steps out of rift. Benjamin Franklin is sitting at his desk with quill and parchment.]]

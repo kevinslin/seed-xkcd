@@ -2,7 +2,7 @@
 id: xkcd.countdown
 title: Countdown
 desc: ''
-updated: '1616125521429'
+updated: '1616126764410'
 created: '1357891200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For all we know, the odds are in our favor.](https://imgs.xkcd.com/comics/countdown.png)
+> "Countdown", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat guy sits at his computer. A man stands behind him. On the wall is a digital countdown, partially obscured by a picture of a sunset. The part of the countdown we can see reads "0002409".]]

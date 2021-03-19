@@ -2,7 +2,7 @@
 id: xkcd.hand-sanitizer
 title: Hand Sanitizer
 desc: ''
-updated: '1616125521429'
+updated: '1616126764411'
 created: '1358323200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hipster CDC Reports Flu Epidemic Peaked Years Ago](https://imgs.xkcd.com/comics/hand_sanitizer.png)
+> "Hand Sanitizer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands in front of a poster with a bottle in his hand.]]

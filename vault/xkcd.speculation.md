@@ -2,7 +2,7 @@
 id: xkcd.speculation
 title: Speculation
 desc: ''
-updated: '1616125521701'
+updated: '1616126764786'
 created: '1311577200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['I was pretty good at skeet shooting, but was eventually kicked off the range for catching the clay pigeons in a net and dispatching them execution-style.'](https://imgs.xkcd.com/comics/speculation.png)
+> "Speculation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are playing basketball, and black hat guy is looking at a phone.]]

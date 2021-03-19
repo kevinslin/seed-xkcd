@@ -2,7 +2,7 @@
 id: xkcd.reindeer
 title: Reindeer
 desc: ''
-updated: '1616125521481'
+updated: '1616126764551'
 created: '1482480000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And then in a twinkling, a sound gave me pause / From the roof came the scratching of eight tarsal claws.](https://imgs.xkcd.com/comics/reindeer.png)
+> "Reindeer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

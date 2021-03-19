@@ -2,7 +2,7 @@
 id: xkcd.kites
 title: Kites
 desc: ''
-updated: '1616125521407'
+updated: '1616126764558'
 created: '1449648000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[Dog returns with the end of a string in its mouth] [Voice drifts down from the sky] Kites are fun!](https://imgs.xkcd.com/comics/kites.png)
+> "Kites", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Worst Part About Colds

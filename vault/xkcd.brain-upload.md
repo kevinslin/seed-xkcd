@@ -2,7 +2,7 @@
 id: xkcd.brain-upload
 title: Brain Upload
 desc: ''
-updated: '1616125521414'
+updated: '1616126764566'
 created: '1460358000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I just spent 20 minutes deciding whether to start an email with 'Hi' or 'Hey', so I think it transferred correctly.](https://imgs.xkcd.com/comics/brain_upload.png)
+> "Brain Upload", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

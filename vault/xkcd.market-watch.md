@@ -2,7 +2,7 @@
 id: xkcd.market-watch
 title: MarketWatch
 desc: ''
-updated: '1616125521405'
+updated: '1616126764555'
 created: '1446796800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Markets have been rocked by a second day of uncertainty after someone set up a giant Ouija board on the NYSE wall controlled collectively by the movement of the stock tickers.](https://imgs.xkcd.com/comics/marketwatch.png)
+> "MarketWatch", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A reporter delivers the news, with a graph behind her indicating the performance of the Dow Jones Industrial Average, behaving strangely.  The news program is labeled "Marketwatch"]]

@@ -2,7 +2,7 @@
 id: xkcd.tag-combination
 title: Tag Combination
 desc: ''
-updated: '1616125521613'
+updated: '1616126764717'
 created: '1240988400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)](https://imgs.xkcd.com/comics/tag_combination.png)
+> "Tag Combination", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Guy: So you can come up with a song title fitting any tag combination?

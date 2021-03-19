@@ -2,7 +2,7 @@
 id: xkcd.mystery-solved
 title: Mystery Solved
 desc: ''
-updated: '1616125521704'
+updated: '1616126764793'
 created: '1315810800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Roanoke Lost Colonists founded Roanoke, the Franklin Expedition reached the Pacific in 2009 when the Northwest Passage opened, and Jimmy Hoffa currently heads the Teamsters Union--he just started going by 'James'.](https://imgs.xkcd.com/comics/mystery_solved.png)
+> "Mystery Solved", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A twin prop airplane flies high overhead.]]

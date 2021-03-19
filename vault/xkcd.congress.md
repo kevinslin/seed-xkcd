@@ -2,7 +2,7 @@
 id: xkcd.congress
 title: Congress
 desc: ''
-updated: '1616125521424'
+updated: '1616126764402'
 created: '1351494000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It'd be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.](https://imgs.xkcd.com/comics/congress.png)
+> "Congress", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A history of the

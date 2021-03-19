@@ -2,7 +2,7 @@
 id: xkcd.technically
 title: Technically
 desc: ''
-updated: '1616125521448'
+updated: '1616126764535'
 created: '1421654400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["Technically that sentence started with 'well', so--" "Ooh, a rock with a fossil in it!"](https://imgs.xkcd.com/comics/technically.png)
+> "Technically", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character with a jaunty hat holds forth to character paying rather more attention to a nearby insect.]]

@@ -2,7 +2,7 @@
 id: xkcd.angular-size
 title: Angular Size
 desc: ''
-updated: '1616125521400'
+updated: '1616126764443'
 created: '1381474800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If the celestial sphere were mapped to the Earth's surface, astronomy would get a LOT easier; you'd just need a magnifying glass.](https://imgs.xkcd.com/comics/angular_size.png)
+> "Angular Size", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The size of the part of Earth's surface directly under various space objects

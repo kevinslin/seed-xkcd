@@ -2,7 +2,7 @@
 id: xkcd.quantum-teleportation
 title: Quantum Teleportation
 desc: ''
-updated: '1616125521597'
+updated: '1616126764685'
 created: '1219215600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Science should be exactly as cool as the headlines sound.  Like the 'RUSSIANS CUT APART AND REASSEMBLE DOGS' thing.](https://imgs.xkcd.com/comics/quantum_teleportation.png)
+> "Quantum Teleportation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Reporter and a Scientist are facing each other, sitting in chairs.]]

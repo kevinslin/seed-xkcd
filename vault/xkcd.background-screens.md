@@ -2,7 +2,7 @@
 id: xkcd.background-screens
 title: Background Screens
 desc: ''
-updated: '1616125521444'
+updated: '1616126764532'
 created: '1416816000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.](https://imgs.xkcd.com/comics/background_screens.png)
+> "Background Screens", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 What I Pay Attento to In Movies:

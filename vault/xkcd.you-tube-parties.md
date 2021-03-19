@@ -2,7 +2,7 @@
 id: xkcd.you-tube-parties
 title: YouTube Parties
 desc: ''
-updated: '1616125521700'
+updated: '1616126764785'
 created: '1309762800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.](https://imgs.xkcd.com/comics/youtube_parties.png)
+> "YouTube Parties", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One person is standing by a laptop, showing a video to a group with drinks.]]

@@ -2,7 +2,7 @@
 id: xkcd.finish-line
 title: Finish Line
 desc: ''
-updated: '1616125521588'
+updated: '1616126764675'
 created: '1210748400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The question with Lucy and the football was always whether, on some level, she believed the things she said.](https://imgs.xkcd.com/comics/finish_line.png)
+> "Finish Line", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Mario and Luigi in go carts, Luigi in the lead]]

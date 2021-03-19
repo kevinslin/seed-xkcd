@@ -2,7 +2,7 @@
 id: xkcd.impostor-syndrome
 title: Impostor Syndrome
 desc: ''
-updated: '1616125521517'
+updated: '1616126764606'
 created: '1518422400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.](https://imgs.xkcd.com/comics/impostor_syndrome.png)
+> "Impostor Syndrome", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

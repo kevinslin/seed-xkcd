@@ -2,7 +2,7 @@
 id: xkcd.seven
 title: Seven
 desc: ''
-updated: '1616125521440'
+updated: '1616126764528'
 created: '1409900400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.](https://imgs.xkcd.com/comics/seven.png)
+> "Seven", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are having a conversation.]]

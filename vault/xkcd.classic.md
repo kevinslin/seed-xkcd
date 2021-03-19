@@ -2,7 +2,7 @@
 id: xkcd.classic
 title: Classic
 desc: ''
-updated: '1616125521573'
+updated: '1616126764661'
 created: '1194422400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Someone get that Pachelbel's Canon kid a recording contract, stat.](https://imgs.xkcd.com/comics/classic.png)
+> "Classic", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is sitting on the floor by a record player.]]

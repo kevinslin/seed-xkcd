@@ -2,7 +2,7 @@
 id: xkcd.president
 title: President
 desc: ''
-updated: '1616125521505'
+updated: '1616126764495'
 created: '1400482800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Anyone who thinks we're all going to spend the 2032 elections poring over rambling blog posts by teenagers has never tried to read a rambling blog post by a teenager.](https://imgs.xkcd.com/comics/president.png)
+> "President", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A large person is talking to a small person, who is presumably young.]]

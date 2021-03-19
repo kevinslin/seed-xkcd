@@ -2,7 +2,7 @@
 id: xkcd.cryogenics
 title: Cryogenics
 desc: ''
-updated: '1616125521712'
+updated: '1616126764800'
 created: '1323676800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Welcome to the future! Nothing's changed.' was the slogan of my astonishingly short-lived tech startup.](https://imgs.xkcd.com/comics/cryogenics.png)
+> "Cryogenics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people, one of which is staring at a smartphone]]

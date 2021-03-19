@@ -2,7 +2,7 @@
 id: xkcd.workaround
 title: Workaround
 desc: ''
-updated: '1616125521649'
+updated: '1616126764701'
 created: '1278486000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask.](https://imgs.xkcd.com/comics/workaround.png)
+> "Workaround", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands at a computer terminal, while another man behind him stands with his head in his hands.]]

@@ -2,7 +2,7 @@
 id: xkcd.regarding-mussolini
 title: Regarding Mussolini
 desc: ''
-updated: '1616125521549'
+updated: '1616126764642'
 created: '1179126000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Constantly stopping these briefings halfway through is becoming a pain.](https://imgs.xkcd.com/comics/regarding_mussolini.png)
+> "Regarding Mussolini", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three people are standing around a map.  One of them is pushing something with a stick.]]

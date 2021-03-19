@@ -2,7 +2,7 @@
 id: xkcd.nighttime-stories
 title: Nighttime Stories
 desc: ''
-updated: '1616125521560'
+updated: '1616126764650'
 created: '1187334000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Cue angry letters from all seven fans of Xenocide.](https://imgs.xkcd.com/comics/nighttime_stories.jpg)
+> "Nighttime Stories", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Man sitting in an armchair in a darkened room, behind him a bookshelf and an open window. A girl is seen outside reading a book by an eerie glow]]

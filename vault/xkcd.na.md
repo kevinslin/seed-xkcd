@@ -2,7 +2,7 @@
 id: xkcd.na
 title: Na
 desc: ''
-updated: '1616125521668'
+updated: '1616126764771'
 created: '1295856000000'
 sources:
   name: xkcd
@@ -10,7 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.](https://imgs.xkcd.com/comics/na.png)
-
+> "Na", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{A flowchart.}}

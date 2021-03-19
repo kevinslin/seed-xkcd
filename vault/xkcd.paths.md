@@ -2,7 +2,7 @@
 id: xkcd.paths
 title: Paths
 desc: ''
-updated: '1616125521358'
+updated: '1616126764385'
 created: '1144220400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's true, I think about this all the time.](https://imgs.xkcd.com/comics/paths.jpg)
+> "Paths", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Blueprint of a campus. Two buildings in the upper and lower left corners, respectively, and a rectangular lawn. A road encloses the lawn, another road traverses horizontally through the center of the lawn. The character is in the lower left and the upper right corner, where it says "my apartment".]]

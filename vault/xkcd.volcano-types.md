@@ -2,7 +2,7 @@
 id: xkcd.volcano-types
 title: Volcano Types
 desc: ''
-updated: '1616125521472'
+updated: '1616126764540'
 created: '1470034800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's hard living somewhere with antlions, because every time you find one of their traps, you feel compelled to spend all day constructing a tiny model of Jabba's sail barge next to it.](https://imgs.xkcd.com/comics/volcano_types.png)
+> "Volcano Types", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

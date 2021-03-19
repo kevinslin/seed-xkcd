@@ -2,7 +2,7 @@
 id: xkcd.unpickable
 title: Unpickable
 desc: ''
-updated: '1616125521700'
+updated: '1616126764784'
 created: '1308898800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The safe is empty except for an unsolved 5x5 Rubik's cube.](https://imgs.xkcd.com/comics/unpickable.png)
+> "Unpickable", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 HackerShield geek-proof safe system:

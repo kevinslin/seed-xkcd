@@ -2,7 +2,7 @@
 id: xkcd.launch-status-check
 title: Launch Status Check
 desc: ''
-updated: '1616125521469'
+updated: '1616126764524'
 created: '1446015600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Visual checks suggest the cool bird has exited the launch zone. Tip the rocket sideways and resume the countdown--we're gonna go find it!](https://imgs.xkcd.com/comics/launch_status_check.png)
+> "Launch Status Check", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A multiengine rocket sits on a launch pad.  Flight controllers monitor the launch.]]

@@ -2,7 +2,7 @@
 id: xkcd.pore-strips
 title: Pore Strips
 desc: ''
-updated: '1616125521650'
+updated: '1616126764703'
 created: '1281337200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm sure they're a harmful tool of the cosmetics-industrial complex and all, but my goodness do those strips ever work to pull gunk out of your pores. I was shocked, disgusted, and vaguely fascinated by the result.](https://imgs.xkcd.com/comics/pore_strips.png)
+> "Pore Strips", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A box of pore strips, marked "deep cleaning."]]

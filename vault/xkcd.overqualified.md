@@ -2,7 +2,7 @@
 id: xkcd.overqualified
 title: Overqualified
 desc: ''
-updated: '1616125521586'
+updated: '1616126764674'
 created: '1207724400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To anyone I've taken on a terrible date, this is retroactively my cover story.](https://imgs.xkcd.com/comics/overqualified.png)
+> "Overqualified", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [On phone] 

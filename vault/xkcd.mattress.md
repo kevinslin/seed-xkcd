@@ -2,7 +2,7 @@
 id: xkcd.mattress
 title: Mattress
 desc: ''
-updated: '1616125521572'
+updated: '1616126764660'
 created: '1193641200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The TempurPedic wineglass guy broke his ankle.](https://imgs.xkcd.com/comics/mattress.png)
+> "Mattress", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A couple is cuddling.]]

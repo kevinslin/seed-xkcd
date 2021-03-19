@@ -2,7 +2,7 @@
 id: xkcd.moria
 title: Moria
 desc: ''
-updated: '1616125521648'
+updated: '1616126764701'
 created: '1277881200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.](https://imgs.xkcd.com/comics/moria.png)
+> "Moria", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A far shot of Gandalf the Grey and the four hobbits standing in a dark, underground city.]]

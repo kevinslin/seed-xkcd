@@ -2,7 +2,7 @@
 id: xkcd.a-bunch-of-rocks
 title: A Bunch of Rocks
 desc: ''
-updated: '1616125521601'
+updated: '1616126764707'
 created: '1226908800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I call Rule 34 on Wolfram's Rule 34.](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)
+> "A Bunch of Rocks", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is walking, alone in desert.  Man is narrating his own situation]]

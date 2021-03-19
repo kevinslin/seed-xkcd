@@ -2,7 +2,7 @@
 id: xkcd.words-for-pets
 title: Words for Pets
 desc: ''
-updated: '1616125521458'
+updated: '1616126764508'
 created: '1433746800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Seventh year: Perfectly coherent words, but in the pet's language, not mine.](https://imgs.xkcd.com/comics/words_for_pets.png)
+> "Words for Pets", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[This comic uses a series of venn diagrams to show "Words I use to refer to a pet over the years that I live with"]]

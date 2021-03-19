@@ -2,7 +2,7 @@
 id: xkcd.eyelash-wish-log
 title: Eyelash Wish Log
 desc: ''
-updated: '1616125521387'
+updated: '1616126764627'
 created: '1343199600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ooh, another one. Uh ... the ability to alter any coefficients of friction at will during sporting events.](https://imgs.xkcd.com/comics/eyelash_wish_log.png)
+> "Eyelash Wish Log", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The panel appears to be the log from a 'wish bureau'.))

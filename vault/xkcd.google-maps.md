@@ -2,7 +2,7 @@
 id: xkcd.google-maps
 title: Google Maps
 desc: ''
-updated: '1616125521592'
+updated: '1616126764684'
 created: '1218438000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Apparently Google assumes you're traveling during the ferry's normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).](https://imgs.xkcd.com/comics/google_maps.png)
+> "Google Maps", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: MY ROAD TRIP WITH MY BROTHER RAN INTO TROUBLE AROUND PAGE THREE OF THE GOOGLE MAPS PRINTOUT

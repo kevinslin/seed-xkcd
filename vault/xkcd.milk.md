@@ -2,7 +2,7 @@
 id: xkcd.milk
 title: Milk
 desc: ''
-updated: '1616125521674'
+updated: '1616126764773'
 created: '1297238400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's not hard when you have the same thought like 40 or 50 percent of the time.](https://imgs.xkcd.com/comics/milk.png)
+> "Milk", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Couple sitting opposed, woman on couch reading book and man on a chair with a laptop]]

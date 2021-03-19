@@ -2,7 +2,7 @@
 id: xkcd.borders
 title: Borders
 desc: ''
-updated: '1616125521613'
+updated: '1616126764715'
 created: '1239778800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Eventually a UN is set up.  And then a lone rebel runs down the line of flags in front of it, runs back to his base, and gets a kajillion points.](https://imgs.xkcd.com/comics/borders.png)
+> "Borders", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two stick figures stand on a hill overlooking a great city. Between them and the city stands an embassy flying a red flag.]]

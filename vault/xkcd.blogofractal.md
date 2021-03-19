@@ -2,7 +2,7 @@
 id: xkcd.blogofractal
 title: Blogofractal
 desc: ''
-updated: '1616125521318'
+updated: '1616126764458'
 created: '1152082800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Edward Tufte's 'The Visual Display of Quantitative Information' is a fantastic book, and should be required reading for anyone in either the sciences or graphic design.](https://imgs.xkcd.com/comics/blogofractal.png)
+> "Blogofractal", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 From the makers of the Blogosphere, Blogocube, and Blogodrome comes

@@ -2,7 +2,7 @@
 id: xkcd.cemetery
 title: Cemetery
 desc: ''
-updated: '1616125521647'
+updated: '1616126764698'
 created: '1273042800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Three headstones down, I got a call from my mom and it went from bad to worse.](https://imgs.xkcd.com/comics/cemetery.png)
+> "Cemetery", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is in a cemetery, near a gravestone. Other people stand around staring.]]

@@ -2,7 +2,7 @@
 id: xkcd.grownups
 title: Grownups
 desc: ''
-updated: '1616125521327'
+updated: '1616126764464'
 created: '1156834800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.](https://imgs.xkcd.com/comics/grownups.png)
+> "Grownups", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is talking to Woman who is behind a waste-high screen across a doorway with colorful playpen balls behind her.]]

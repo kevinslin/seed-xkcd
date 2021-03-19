@@ -2,7 +2,7 @@
 id: xkcd.altitude
 title: Altitude
 desc: ''
-updated: '1616125521446'
+updated: '1616126764534'
 created: '1419235200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["TURN OFF THE LASER GUIDE STAR" "WHY" "STAR CATS"](https://imgs.xkcd.com/comics/altitude.png)
+> "Altitude", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An astronomy building is surrounded by trees.  Inside it, someone is talking.]]

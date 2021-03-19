@@ -2,7 +2,7 @@
 id: xkcd.chaos
 title: Chaos
 desc: ''
-updated: '1616125521507'
+updated: '1616126764500'
 created: '1406271600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Although the oral exam for the doctorate was just 'can you do that weird laugh?'](https://imgs.xkcd.com/comics/chaos.png)
+> "Chaos", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick figure is looking at a whiteboard covered in diagrams.]]

@@ -2,7 +2,7 @@
 id: xkcd.xkcd-loves-the-discovery-channel
 title: xkcd Loves the Discovery Channel
 desc: ''
-updated: '1616125521590'
+updated: '1616126764682'
 created: '1214550000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I love the title-text!](https://imgs.xkcd.com/comics/xkcd_loves_the_discovery_channel.png)
+> "xkcd Loves the Discovery Channel", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{The comic is in parody of the Discovery Channel commercial showing various clips of people singing a song with the chorus line "Boom De Yada"}}

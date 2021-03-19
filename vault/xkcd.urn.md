@@ -2,7 +2,7 @@
 id: xkcd.urn
 title: Urn
 desc: ''
-updated: '1616125521505'
+updated: '1616126764495'
 created: '1401260400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Can this PLEASE be drawing with replacement?](https://imgs.xkcd.com/comics/urn.png)
+> "Urn", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A lecturer is standing in front of a student at a desk.]]

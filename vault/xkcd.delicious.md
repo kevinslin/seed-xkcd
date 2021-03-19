@@ -2,7 +2,7 @@
 id: xkcd.delicious
 title: Delicious
 desc: ''
-updated: '1616125521324'
+updated: '1616126764462'
 created: '1155279600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm currently in the I Have Cheese phase of this cycle.](https://imgs.xkcd.com/comics/delicious.png)
+> "Delicious", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Frame is split by a diagonal]]

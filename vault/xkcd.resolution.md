@@ -2,7 +2,7 @@
 id: xkcd.resolution
 title: Resolution
 desc: ''
-updated: '1616125521428'
+updated: '1616126764409'
 created: '1356940800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If at first you don't succeed, that's one data point.](https://imgs.xkcd.com/comics/resolution.png)
+> "Resolution", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man: I'm scared of being stuck  thinking I'm fixing things about myself but never actually changing. 

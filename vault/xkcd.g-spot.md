@@ -2,7 +2,7 @@
 id: xkcd.g-spot
 title: G-Spot
 desc: ''
-updated: '1616125521627'
+updated: '1616126764746'
 created: '1262764800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The BBC lead was 'The elusive erogenous zone said to exist in some women may be a myth, say researchers who have hunted for it.'  I couldn't read it with a straight face.](https://imgs.xkcd.com/comics/g-spot.png)
+> "G-Spot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A study published in the journal of sexual medicine suggests that the g-spot may not actually exist.

@@ -2,7 +2,7 @@
 id: xkcd.pickup-artist
 title: Pickup Artist
 desc: ''
-updated: '1616125521369'
+updated: '1616126764617'
 created: '1331280000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Son, don't try to play 'make you feel bad' with the Michael Jordan of making you feel bad.](https://imgs.xkcd.com/comics/pickup_artist.png)
+> "Pickup Artist", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two guys sit and enjoy some beverages while making conversation]]

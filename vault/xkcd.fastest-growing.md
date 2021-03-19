@@ -2,7 +2,7 @@
 id: xkcd.fastest-growing
 title: Fastest-Growing
 desc: ''
-updated: '1616125521421'
+updated: '1616126764390'
 created: '1346396400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.](https://imgs.xkcd.com/comics/fastest_growing.png)
+> "Fastest-Growing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man with a combover, a book, and a clipboard approaches black-hat man.]]

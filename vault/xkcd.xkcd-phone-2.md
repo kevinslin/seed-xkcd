@@ -2,7 +2,7 @@
 id: xkcd.xkcd-phone-2
 title: xkcd Phone 2
 desc: ''
-updated: '1616125521447'
+updated: '1616126764534'
 created: '1419580800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Washable, though only once.](https://imgs.xkcd.com/comics/xkcd_phone_2.png)
+> "xkcd Phone 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There's a phone.]]

@@ -2,7 +2,7 @@
 id: xkcd.feel-old
 title: Feel Old
 desc: ''
-updated: '1616125521418'
+updated: '1616126764573'
 created: '1464332400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 !['How long are you going to keep this up?' 'Statistically, only four or five more decades.'](https://imgs.xkcd.com/comics/feel_old.png)
+> "Feel Old", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

@@ -2,7 +2,7 @@
 id: xkcd.lakes-and-oceans
 title: Lakes and Oceans
 desc: ''
-updated: '1616125521373'
+updated: '1616126764620'
 created: '1333954800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![James Cameron has said that he didn't know its song would be so beautiful. He didn't close the door in time. He's sorry.](https://imgs.xkcd.com/comics/lakes_and_oceans.png)
+> "Lakes and Oceans", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: James Cameron has said that he didn't know its song would be so beautiful. He didn't close the door in time. He's sorry.}}

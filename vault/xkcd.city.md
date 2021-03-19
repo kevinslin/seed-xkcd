@@ -2,7 +2,7 @@
 id: xkcd.city
 title: City
 desc: ''
-updated: '1616125521315'
+updated: '1616126764457'
 created: '1150441200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![God, she's such a whore.](https://imgs.xkcd.com/comics/city.jpg)
+> "City", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A picture of various apartment buildings]]

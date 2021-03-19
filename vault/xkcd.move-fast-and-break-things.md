@@ -2,7 +2,7 @@
 id: xkcd.move-fast-and-break-things
 title: Move Fast and Break Things
 desc: ''
-updated: '1616125521441'
+updated: '1616126764530'
 created: '1412146800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them.](https://imgs.xkcd.com/comics/move_fast_and_break_things.png)
+> "Move Fast and Break Things", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them.}}

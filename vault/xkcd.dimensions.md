@@ -2,7 +2,7 @@
 id: xkcd.dimensions
 title: Dimensions
 desc: ''
-updated: '1616125521456'
+updated: '1616126764506'
 created: '1431500400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I would say time is definitely one of my top three favorite dimensions.](https://imgs.xkcd.com/comics/dimensions.png)
+> "Dimensions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures sit beneath a tree in a meadow]]

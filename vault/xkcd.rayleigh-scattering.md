@@ -2,7 +2,7 @@
 id: xkcd.rayleigh-scattering
 title: Rayleigh Scattering
 desc: ''
-updated: '1616125521489'
+updated: '1616126764578'
 created: '1490943600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you ask "why are leaves green?" the usual answer is "because they're full of chlorophyll, and chlorophyll is green," even though "why does chlorophyll scatter green light?" is a great question too.](https://imgs.xkcd.com/comics/rayleigh_scattering.png)
+> "Rayleigh Scattering", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

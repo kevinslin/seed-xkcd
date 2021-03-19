@@ -2,7 +2,7 @@
 id: xkcd.warning
 title: Warning
 desc: ''
-updated: '1616125521382'
+updated: '1616126764625'
 created: '1340953200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also possibly several miles beyond that.](https://imgs.xkcd.com/comics/warning.png)
+> "Warning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An American Diamond warning sign with the following message on it:

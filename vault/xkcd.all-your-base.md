@@ -2,7 +2,7 @@
 id: xkcd.all-your-base
 title: All Your Base
 desc: ''
-updated: '1616125521555'
+updated: '1616126764646'
 created: '1183705200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.](https://imgs.xkcd.com/comics/all_your_base.png)
+> "All Your Base", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A section of a Linux terminal window is shown]]

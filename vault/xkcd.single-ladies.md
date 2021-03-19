@@ -2,7 +2,7 @@
 id: xkcd.single-ladies
 title: Single Ladies
 desc: ''
-updated: '1616125521644'
+updated: '1616126764692'
 created: '1268208000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.](https://imgs.xkcd.com/comics/single_ladies.png)
+> "Single Ladies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Sauron is sitting at a bar with a drink, beret guy is his bartender, wiping a glass.]]

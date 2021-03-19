@@ -2,7 +2,7 @@
 id: xkcd.retro-virus
 title: Retro Virus
 desc: ''
-updated: '1616125521628'
+updated: '1616126764747'
 created: '1264579200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He says this is the year of Linux on the desktop! The world of Windows will fade any moment now!](https://imgs.xkcd.com/comics/retro_virus.png)
+> "Retro Virus", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Dude is using a computer.]]

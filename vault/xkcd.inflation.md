@@ -2,7 +2,7 @@
 id: xkcd.inflation
 title: Inflation
 desc: ''
-updated: '1616125521505'
+updated: '1616126764494'
 created: '1399446000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wait till they notice the faint reflection of Michael Jordan and Bugs Bunny in the E-mode.](https://imgs.xkcd.com/comics/inflation.png)
+> "Inflation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Scientists are standing and sitting at a computer.]]

@@ -2,7 +2,7 @@
 id: xkcd.time-machine
 title: Time Machine
 desc: ''
-updated: '1616125521645'
+updated: '1616126764692'
 created: '1268982000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.](https://imgs.xkcd.com/comics/time_machine.png)
+> "Time Machine", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Rob is working at a workbench. Future-Rob appears out of nowhere with a baseball bat.]]

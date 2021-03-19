@@ -2,7 +2,7 @@
 id: xkcd.i-am-not-good-with-boomerangs
 title: I Am Not Good with Boomerangs
 desc: ''
-updated: '1616125521591'
+updated: '1616126764682'
 created: '1215154800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Bonus strip: just read the rightmost panels straight down. ](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)
+> "I Am Not Good with Boomerangs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man Throws a Boomerang]]

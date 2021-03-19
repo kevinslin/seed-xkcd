@@ -2,7 +2,7 @@
 id: xkcd.suddenly-popular
 title: Suddenly Popular
 desc: ''
-updated: '1616125521439'
+updated: '1616126764528'
 created: '1409122800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Are Your Teens Practicing Amplexus? Learn These Six Telltale Signs!](https://imgs.xkcd.com/comics/suddenly_popular.png)
+> "Suddenly Popular", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Are Your Teens Practicing Amplexus? Learn These Six Telltale Signs!}}

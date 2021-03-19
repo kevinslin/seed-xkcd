@@ -2,7 +2,7 @@
 id: xkcd.two-years
 title: Two Years
 desc: ''
-updated: '1616125521426'
+updated: '1616126764406'
 created: '1354262400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![She won the first half of all our chemo Scrabble games, but then her IV drugs started kicking in and I *dominated*.](https://imgs.xkcd.com/comics/two_years.png)
+> "Two Years", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman sit on a bed, the woman is talking on the phone. The person she is talking to, a doctor holding a clipboard, is shown inset.]]

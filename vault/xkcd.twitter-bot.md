@@ -2,7 +2,7 @@
 id: xkcd.twitter-bot
 title: Twitter Bot
 desc: ''
-updated: '1616125521411'
+updated: '1616126764563'
 created: '1456128000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![PYTHON FLAG ENABLE THREE LAWS](https://imgs.xkcd.com/comics/twitter_bot.png)
+> "Twitter Bot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Inverse color panel - white on black))

@@ -2,7 +2,7 @@
 id: xkcd.shopping-teams
 title: Shopping Teams
 desc: ''
-updated: '1616125521563'
+updated: '1616126764651'
 created: '1188370800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I am never going out to buy an air conditioner with my sysadmin again.](https://imgs.xkcd.com/comics/shopping_teams.png)
+> "Shopping Teams", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Each team is looking at a counter with two cubes on it.]]

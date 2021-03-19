@@ -2,7 +2,7 @@
 id: xkcd.progeny
 title: Progeny
 desc: ''
-updated: '1616125521694'
+updated: '1616126764778'
 created: '1304492400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I tell my children 'it's not whether you win or lose, it's how you play the game.' I'm trying to take the edge off their competitive drive to ensure that I can always beat them.](https://imgs.xkcd.com/comics/progeny.png)
+> "Progeny", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy sits at a computer; a woman stands behind him.]]

@@ -2,7 +2,7 @@
 id: xkcd.ancient-stars
 title: Ancient Stars
 desc: ''
-updated: '1616125521503'
+updated: '1616126764490'
 created: '1394780400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.](https://imgs.xkcd.com/comics/ancient_stars.png)
+> "Ancient Stars", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((All of the panels of this comic are white-on-black.))

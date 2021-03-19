@@ -2,7 +2,7 @@
 id: xkcd.automatic-doors
 title: Automatic Doors
 desc: ''
-updated: '1616125521332'
+updated: '1616126764470'
 created: '1161759600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hope no automatic doors I know read this.  I would be so embarrassed.](https://imgs.xkcd.com/comics/automatic_doors.png)
+> "Automatic Doors", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When I walk past an automatic door and it opens for me, I worry that if I don't go in I'll hurt its feelings.

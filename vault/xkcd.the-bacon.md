@@ -2,7 +2,7 @@
 id: xkcd.the-bacon
 title: The bacon
 desc: ''
-updated: '1616125521376'
+updated: '1616126764622'
 created: '1336719600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Normally pronounced 'THEH-buh-kon', I assume.](https://imgs.xkcd.com/comics/thebacon.png)
+> "The bacon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1; I'm out of work, but I'm not stressed about it because my wife is a pharmacist and she brings home Thebacon.

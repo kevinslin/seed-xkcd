@@ -2,7 +2,7 @@
 id: xkcd.f-mri
 title: fMRI
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1417161600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They also showed activation in the parts of the brain associated with exposure to dubious study methodology, concern about unremoved piercings, and exasperation with fMRI techs who won't stop talking about Warped Tour.](https://imgs.xkcd.com/comics/fmri.png)
+> "fMRI", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person stands on a stage, pointing at an fMRI of a brain projected on a screen.]]

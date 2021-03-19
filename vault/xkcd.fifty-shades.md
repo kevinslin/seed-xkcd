@@ -2,7 +2,7 @@
 id: xkcd.fifty-shades
 title: Fifty Shades
 desc: ''
-updated: '1616125521424'
+updated: '1616126764402'
 created: '1351666800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wishbone and the Illustrated Classics series have gotten me through every conversation I've ever had about Dickens, Treasure Island, The Anarchist's Cookbook, and Our Bodies, Ourselves.](https://imgs.xkcd.com/comics/fifty_shades.png)
+> "Fifty Shades", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 As with most famous books, I've never actually READ 

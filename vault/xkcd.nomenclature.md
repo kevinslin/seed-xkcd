@@ -2,7 +2,7 @@
 id: xkcd.nomenclature
 title: Nomenclature
 desc: ''
-updated: '1616125521393'
+updated: '1616126764426'
 created: '1370415600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[shouted, from the field] 'Aunt Beast hit a pop fly to second! Dive for it, Mrs Whatsit!'](https://imgs.xkcd.com/comics/nomenclature.png)
+> "Nomenclature", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Mrs. Whatsit is talking to Abbott and Costello.]]

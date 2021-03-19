@@ -2,7 +2,7 @@
 id: xkcd.scheduling
 title: Scheduling
 desc: ''
-updated: '1616125521650'
+updated: '1616126764703'
 created: '1281510000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['How about a little ... *family growth*?'  'Dude, that's not until round two.'](https://imgs.xkcd.com/comics/scheduling.png)
+> "Scheduling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Pizza guy enters through door; maid is dusting.]]

@@ -2,7 +2,7 @@
 id: xkcd.game-a-is
 title: Game AIs
 desc: ''
-updated: '1616125521364'
+updated: '1616126764614'
 created: '1326268800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The top computer champion at Seven Minutes in Heaven is a Honda-built Realdoll, but to date it has been unable to outperform the human Seven Minutes in Heaven champion, Ken Jennings.](https://imgs.xkcd.com/comics/game_ais.png)
+> "Game AIs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Difficulty of Various Games for Computers

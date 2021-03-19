@@ -2,7 +2,7 @@
 id: xkcd.tv-problems
 title: TV Problems
 desc: ''
-updated: '1616125521479'
+updated: '1616126764549'
 created: '1479283200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.](https://imgs.xkcd.com/comics/tv_problems.png)
+> "TV Problems", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

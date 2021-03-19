@@ -2,7 +2,7 @@
 id: xkcd.error-code
 title: Error Code
 desc: ''
-updated: '1616125521368'
+updated: '1616126764617'
 created: '1330675200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.](https://imgs.xkcd.com/comics/error_code.png)
+> "Error Code", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at a computer, while another man takes a book off a shelf behind him.]]

@@ -2,7 +2,7 @@
 id: xkcd.cadbury-eggs
 title: Cadbury Eggs
 desc: ''
-updated: '1616125521371'
+updated: '1616126764619'
 created: '1332918000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.](https://imgs.xkcd.com/comics/cadbury_eggs.png)
+> "Cadbury Eggs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two Cadbury eggs, one in the foil, the other out of the foil and broken open to reveal the gooey center.]]

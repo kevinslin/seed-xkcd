@@ -2,7 +2,7 @@
 id: xkcd.parallel-universe
 title: Parallel Universe
 desc: ''
-updated: '1616125521309'
+updated: '1616126764455'
 created: '1148281200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's possible.  Better to be on the safe side.](https://imgs.xkcd.com/comics/parallel_universe.jpg)
+> "Parallel Universe", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are standing next to a large pentagram with candles at the points. A figure is hovering above it in a wave of energy.]]

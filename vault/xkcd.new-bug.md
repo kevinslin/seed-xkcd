@@ -2,7 +2,7 @@
 id: xkcd.new-bug
 title: New Bug
 desc: ''
-updated: '1616125521470'
+updated: '1616126764539'
 created: '1467183600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's also a unicode-handling bug in the URL request library, and we're storing the passwords unsalted ... so if we salt them with emoji, we can close three issues at once!](https://imgs.xkcd.com/comics/new_bug.png)
+> "New Bug", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

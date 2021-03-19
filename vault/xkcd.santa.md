@@ -2,7 +2,7 @@
 id: xkcd.santa
 title: Santa
 desc: ''
-updated: '1616125521446'
+updated: '1616126764534'
 created: '1419408000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He probably just poops over the side of the sleigh.](https://imgs.xkcd.com/comics/santa.png)
+> "Santa", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters are walking and talking.]]

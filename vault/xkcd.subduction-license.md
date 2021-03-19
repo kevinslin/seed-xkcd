@@ -2,7 +2,7 @@
 id: xkcd.subduction-license
 title: Subduction License
 desc: ''
-updated: '1616125521506'
+updated: '1616126764499'
 created: '1404111600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'](https://imgs.xkcd.com/comics/subduction_license.png)
+> "Subduction License", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[White Beret approaches Stick Man, who is at his computer desk.]]

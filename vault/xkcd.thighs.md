@@ -2,7 +2,7 @@
 id: xkcd.thighs
 title: Thighs
 desc: ''
-updated: '1616125521568'
+updated: '1616126764656'
 created: '1190790000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My thighs have seen the glory of the coming of the Lord?](https://imgs.xkcd.com/comics/thighs.png)
+> "Thighs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy singing, Girl at computer]]

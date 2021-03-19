@@ -2,7 +2,7 @@
 id: xkcd.meeting
 title: Meeting
 desc: ''
-updated: '1616125521452'
+updated: '1616126764538'
 created: '1425283200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Here at CompanyName.website, our three main strengths are our web-facing chairs, our huge collection of white papers, and the fact that we physically cannot die.](https://imgs.xkcd.com/comics/meeting.png)
+> "Meeting", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((An enthusiastic, beret-clad figure gives a presentation. A logo fills the background, it reads Company name dot website: If you're reading this, the web server was installed correctly. <<Trademark symbol>> ))

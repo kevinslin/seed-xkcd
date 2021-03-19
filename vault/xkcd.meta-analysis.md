@@ -2,7 +2,7 @@
 id: xkcd.meta-analysis
 title: Meta-Analysis
 desc: ''
-updated: '1616125521444'
+updated: '1616126764532'
 created: '1415952000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Life goal #29 is to get enough of them rejected that I can publish a comparative analysis of the rejection letters.](https://imgs.xkcd.com/comics/meta-analysis.png)
+> "Meta-Analysis", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Simply text, cropped at the very top of the first line and very bottom of the last line to give the impression it is a snippet of a longer text. Reads: 

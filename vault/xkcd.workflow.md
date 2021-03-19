@@ -2,7 +2,7 @@
 id: xkcd.workflow
 title: Workflow
 desc: ''
-updated: '1616125521431'
+updated: '1616126764413'
 created: '1360569600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.](https://imgs.xkcd.com/comics/workflow.png)
+> "Workflow", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Changelog for version 10.17 of a piece of software.  One change listed: "The CPU no longer overheats when you hold down the spacebar"

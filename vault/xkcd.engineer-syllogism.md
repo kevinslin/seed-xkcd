@@ -2,7 +2,7 @@
 id: xkcd.engineer-syllogism
 title: Engineer Syllogism
 desc: ''
-updated: '1616125521466'
+updated: '1616126764518'
 created: '1440745200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The less common, even worse outcome: "3: [everyone in the financial system] WOW, where did all my money just go?"](https://imgs.xkcd.com/comics/engineer_syllogism.png)
+> "Engineer Syllogism", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Empty panel with text]]

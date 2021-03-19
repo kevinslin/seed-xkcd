@@ -2,7 +2,7 @@
 id: xkcd.password-strength
 title: Password Strength
 desc: ''
-updated: '1616125521702'
+updated: '1616126764788'
 created: '1312959600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize.](https://imgs.xkcd.com/comics/password_strength.png)
+> "Password Strength", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The comic illustrates the relative strength of passwords assuming basic knowledge of the system used to generate them. A set of boxes is used to indicate how many bits of entropy a section of the password provides. The comic is laid out with 6 panels arranged in a 3x2 grid. On each row, the first panel explains the breakdown of a password, the second panel shows how long it would take for a computer to guess, and the third panel provides an example scene showing someone trying to remember the password.))

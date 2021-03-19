@@ -2,7 +2,7 @@
 id: xkcd.the-simpsons
 title: The Simpsons
 desc: ''
-updated: '1616125521518'
+updated: '1616126764608'
 created: '1519372800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In-universe, Bart Simpson and Harry Potter were the same age in 1990. Bart is perpetually 10 years old because of a spell put on his town by someone trying to keep him from getting his Hogwarts letter.](https://imgs.xkcd.com/comics/the_simpsons.png)
+> "The Simpsons", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

@@ -2,7 +2,7 @@
 id: xkcd.password-reuse
 title: Password Reuse
 desc: ''
-updated: '1616125521652'
+updated: '1616126764706'
 created: '1284361200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It'll be hilarious the first few times this happens.](https://imgs.xkcd.com/comics/password_reuse.png)
+> "Password Reuse", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is sitting facing a computer, Hat man is standing behind him.]]

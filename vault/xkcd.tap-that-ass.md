@@ -2,7 +2,7 @@
 id: xkcd.tap-that-ass
 title: Tap That Ass
 desc: ''
-updated: '1616125521584'
+updated: '1616126764672'
 created: '1205910000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, when you're done draining the syrup, just leave the hole, okay?](https://imgs.xkcd.com/comics/tap_that_ass.png)
+> "Tap That Ass", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man in a hallway looking in on a board meeting.]]

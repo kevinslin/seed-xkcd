@@ -2,7 +2,7 @@
 id: xkcd.limerick
 title: Limerick
 desc: ''
-updated: '1616125521559'
+updated: '1616126764650'
 created: '1186729200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Fun game: try to post a YouTube comment so stupid that people realize you must be joking.  (Hint: this is impossible)](https://imgs.xkcd.com/comics/limerick.png)
+> "Limerick", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Stick figure sitting at computer, typing]]

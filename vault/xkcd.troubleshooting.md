@@ -2,7 +2,7 @@
 id: xkcd.troubleshooting
 title: Troubleshooting
 desc: ''
-updated: '1616125521449'
+updated: '1616126764536'
 created: '1422432000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["Oh, you're using their Chrome APP, not their Chrome EXTENSION. They're very similar but one handles window creation differently." is a thing I hope I can stop saying soon.](https://imgs.xkcd.com/comics/troubleshooting.png)
+> "Troubleshooting", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters sit at a computer. The hair'd one sits at the controls, and the bald one hovers impatiently behind.]]

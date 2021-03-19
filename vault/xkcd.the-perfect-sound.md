@@ -2,7 +2,7 @@
 id: xkcd.the-perfect-sound
 title: The Perfect Sound
 desc: ''
-updated: '1616125521336'
+updated: '1616126764474'
 created: '1165392000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, what a pity, can't you understand . . .](https://imgs.xkcd.com/comics/the_perfect_sound.png)
+> "The Perfect Sound", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are listening to music on a stereo]]

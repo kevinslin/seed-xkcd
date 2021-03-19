@@ -2,7 +2,7 @@
 id: xkcd.elevator
 title: Elevator
 desc: ''
-updated: '1616125521556'
+updated: '1616126764647'
 created: '1184137200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Quick, try it with 'LOVE'.](https://imgs.xkcd.com/comics/elevator.jpg)
+> "Elevator", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Elevator panel, with a Certificate of Inspection and five floor buttons, numbered 1â4. The fifth button is unlabeled.]]

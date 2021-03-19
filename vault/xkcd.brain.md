@@ -2,7 +2,7 @@
 id: xkcd.brain
 title: Brain
 desc: ''
-updated: '1616125521527'
+updated: '1616126764634'
 created: '1169193600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The rest is fear of raptors.](https://imgs.xkcd.com/comics/brain.png)
+> "Brain", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My brain:

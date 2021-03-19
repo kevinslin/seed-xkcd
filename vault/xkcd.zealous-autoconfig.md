@@ -2,7 +2,7 @@
 id: xkcd.zealous-autoconfig
 title: Zealous Autoconfig
 desc: ''
-updated: '1616125521587'
+updated: '1616126764675'
 created: '1209366000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hear this is an option in the latest Ubuntu release.](https://imgs.xkcd.com/comics/zealous_autoconfig.png)
+> "Zealous Autoconfig", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy sitting on a chair with his laptop in his lap]]

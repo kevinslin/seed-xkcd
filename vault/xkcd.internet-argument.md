@@ -2,7 +2,7 @@
 id: xkcd.internet-argument
 title: Internet Argument
 desc: ''
-updated: '1616125521590'
+updated: '1616126764678'
 created: '1213772400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's easier to be an asshole to words than to people.](https://imgs.xkcd.com/comics/internet_argument.png)
+> "Internet Argument", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Stick figure 1 is typing profanities into his computer]]

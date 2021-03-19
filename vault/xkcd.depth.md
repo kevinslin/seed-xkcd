@@ -2,7 +2,7 @@
 id: xkcd.depth
 title: Depth
 desc: ''
-updated: '1616125521599'
+updated: '1616126764687'
 created: '1223276400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Planck length is another thousand or two pixels below the comic.](https://imgs.xkcd.com/comics/depth.png)
+> "Depth", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Sizes Accurate on a vertical log scale

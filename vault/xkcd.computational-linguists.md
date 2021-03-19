@@ -2,7 +2,7 @@
 id: xkcd.computational-linguists
 title: Computational Linguists
 desc: ''
-updated: '1616125521315'
+updated: '1616126764456'
 created: '1150095600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Chomskyists, generative linguists, and Ryan North, your days are numbered.](https://imgs.xkcd.com/comics/computational_linguists.png)
+> "Computational Linguists", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat Guy is standing next to a large badge which says FUCK Computational Lingustics]]

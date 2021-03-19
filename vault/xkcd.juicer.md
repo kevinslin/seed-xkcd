@@ -2,7 +2,7 @@
 id: xkcd.juicer
 title: Juicer
 desc: ''
-updated: '1616125521399'
+updated: '1616126764438'
 created: '1379314800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But the rind is where all the vitamins are!](https://imgs.xkcd.com/comics/juicer.png)
+> "Juicer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[We see a shelf. On it, from left to right, are: a bag of fruit gushers; a juicer; a bottle of bright red liquid; a bottle of bright blue liquid; and another bottle of bright red liquid.]]

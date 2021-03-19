@@ -2,7 +2,7 @@
 id: xkcd.clumsy-foreshadowing
 title: Clumsy Foreshadowing
 desc: ''
-updated: '1616125521506'
+updated: '1616126764498'
 created: '1403852400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['... hosts were unexpectedly fired from ABC's 'The View' today. ABC will likely announce new ...'](https://imgs.xkcd.com/comics/clumsy_foreshadowing.png)
+> "Clumsy Foreshadowing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 TODAYS NEWS

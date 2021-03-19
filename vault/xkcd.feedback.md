@@ -2,7 +2,7 @@
 id: xkcd.feedback
 title: Feedback
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1418025600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A new study finds that if you give rats a cell phone and a lever they can push to improve the signal, the rats will chew on the cell phone until it breaks and your research supervisors will start to ask some questions about your grant money.](https://imgs.xkcd.com/comics/feedback.png)
+> "Feedback", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is standing on a chair with a mobile phone in one hand and a pineapple in the other. Another person is standing behind them.]]

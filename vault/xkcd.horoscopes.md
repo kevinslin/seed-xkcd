@@ -2,7 +2,7 @@
 id: xkcd.horoscopes
 title: Horoscopes
 desc: ''
-updated: '1616125521455'
+updated: '1616126764504'
 created: '1429081200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you live in the Northern hemisphere, anyway. In the southern hemisphere, due to the coriolis effect, babies are born nine months BEFORE they're conceived.](https://imgs.xkcd.com/comics/horoscopes.png)
+> "Horoscopes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Horoscopes with an actual basis in fact.

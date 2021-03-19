@@ -2,7 +2,7 @@
 id: xkcd.fixion
 title: Fixion
 desc: ''
-updated: '1616125521408'
+updated: '1616126764559'
 created: '1451030400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My theory predicts that, at high enough energies, FRBs and perytons become indistinguishable because the detector burns out.](https://imgs.xkcd.com/comics/fixion.png)
+> "Fixion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A guide to the medical diagnostic and treatment algorithm used by IBM's Watson computer system.

@@ -2,7 +2,7 @@
 id: xkcd.delta-p
 title: Delta-P
 desc: ''
-updated: '1616125521710'
+updated: '1616126764797'
 created: '1319612400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you fire a Portal gun through the door of the wardrobe, space and time knot together, which leads to a frustrated Aslan trying to impart Christian morality to the Space sphere.](https://imgs.xkcd.com/comics/delta_p.png)
+> "Delta-P", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A wardrobe with an anchor attached to it falls into the ocean]]

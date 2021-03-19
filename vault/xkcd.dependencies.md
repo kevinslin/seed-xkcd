@@ -2,7 +2,7 @@
 id: xkcd.dependencies
 title: Dependencies
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1276671600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.](https://imgs.xkcd.com/comics/dependencies.png)
+> "Dependencies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A portion of a page from an imaginary course catalog.)

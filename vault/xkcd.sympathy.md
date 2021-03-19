@@ -2,7 +2,7 @@
 id: xkcd.sympathy
 title: Sympathy
 desc: ''
-updated: '1616125521624'
+updated: '1616126764744'
 created: '1257753600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Excellent recovery: ... which we could try to use to somehow save your original brother!](https://imgs.xkcd.com/comics/sympathy.png)
+> "Sympathy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A bereaved person and his friend are talking.]]

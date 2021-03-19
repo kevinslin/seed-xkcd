@@ -2,7 +2,7 @@
 id: xkcd.every-seven-seconds
 title: Every Seven Seconds
 desc: ''
-updated: '1616125521465'
+updated: '1616126764517'
 created: '1439535600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Every few months, I think about sex every seven seconds and how weird and implausible it would be.](https://imgs.xkcd.com/comics/every_seven_seconds.png)
+> "Every Seven Seconds", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A single figure plods along alone, deep in thought.]]

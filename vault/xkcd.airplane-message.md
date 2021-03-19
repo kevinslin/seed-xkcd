@@ -2,7 +2,7 @@
 id: xkcd.airplane-message
 title: Airplane Message
 desc: ''
-updated: '1616125521504'
+updated: '1616126764492'
 created: '1397458800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.](https://imgs.xkcd.com/comics/airplane_message.png)
+> "Airplane Message", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A little propeller plane toting a banner from behind that reads, 'Adriamycin, one of our most poten chemotherapy drugs, come from the dirt from an Italian castle.']]

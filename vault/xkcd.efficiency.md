@@ -2,7 +2,7 @@
 id: xkcd.efficiency
 title: Efficiency
 desc: ''
-updated: '1616125521443'
+updated: '1616126764532'
 created: '1415606400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.](https://imgs.xkcd.com/comics/efficiency.png)
+> "Efficiency", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.}}

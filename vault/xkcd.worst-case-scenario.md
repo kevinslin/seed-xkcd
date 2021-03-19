@@ -2,7 +2,7 @@
 id: xkcd.worst-case-scenario
 title: Worst-Case Scenario
 desc: ''
-updated: '1616125521647'
+updated: '1616126764700'
 created: '1275462000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.](https://imgs.xkcd.com/comics/worst_case_scenario.png)
+> "Worst-Case Scenario", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two reporters, a man and a woman, point microphones toward a scientist.]]

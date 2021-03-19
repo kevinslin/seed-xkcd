@@ -2,7 +2,7 @@
 id: xkcd.meteor
 title: Meteor
 desc: ''
-updated: '1616125521438'
+updated: '1616126764526'
 created: '1407481200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No, only LAVA is called 'magma' while underground. Any other object underground is called 'lava'.](https://imgs.xkcd.com/comics/meteor.png)
+> "Meteor", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person A approaches Person B with a rock in his hand.]]

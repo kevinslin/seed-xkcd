@@ -2,7 +2,7 @@
 id: xkcd.habitable-zone
 title: Habitable Zone
 desc: ''
-updated: '1616125521394'
+updated: '1616126764429'
 created: '1372402800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They have a telescope pointed RIGHT AT US!](https://imgs.xkcd.com/comics/habitable_zone.png)
+> "Habitable Zone", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An astronomer stands in front of a huge telescope, looking through the eyepiece.]]

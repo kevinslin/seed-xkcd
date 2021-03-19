@@ -2,7 +2,7 @@
 id: xkcd.anatomy-text
 title: Anatomy Text
 desc: ''
-updated: '1616125521620'
+updated: '1616126764736'
 created: '1251874800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For many of the anatomy pictures on Wikipedia, I think this is actually not far from reality. They only look all formal and professional due to careful cropping.](https://imgs.xkcd.com/comics/anatomy_text.png)
+> "Anatomy Text", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Plate 15: Female breast.

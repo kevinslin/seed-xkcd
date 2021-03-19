@@ -2,7 +2,7 @@
 id: xkcd.bookstore
 title: Bookstore
 desc: ''
-updated: '1616125521557'
+updated: '1616126764648'
 created: '1185346800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can search it if you want, but you may want to skip the memories of your mom.](https://imgs.xkcd.com/comics/bookstore.png)
+> "Bookstore", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is standing in a bookstore, looking at a book]]

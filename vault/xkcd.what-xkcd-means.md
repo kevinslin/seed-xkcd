@@ -2,7 +2,7 @@
 id: xkcd.what-xkcd-means
 title: What xkcd Means
 desc: ''
-updated: '1616125521527'
+updated: '1616126764632'
 created: '1168243200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.](https://imgs.xkcd.com/comics/what_xkcd_means.png)
+> "What xkcd Means", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title: What does XKCD mean?}}

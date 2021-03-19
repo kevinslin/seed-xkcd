@@ -2,7 +2,7 @@
 id: xkcd.escape-artist
 title: Escape Artist
 desc: ''
-updated: '1616125521530'
+updated: '1616126764638'
 created: '1173682800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Easier to escape: n-layered nested quotes or an iron maiden?](https://imgs.xkcd.com/comics/escape_artist.png)
+> "Escape Artist", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One man sits before a computer on a desk while another stands behind him.]]

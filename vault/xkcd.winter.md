@@ -2,7 +2,7 @@
 id: xkcd.winter
 title: Winter
 desc: ''
-updated: '1616125521501'
+updated: '1616126764483'
 created: '1390809600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Stay warm, little flappers, and find lots of plant eggs!](https://imgs.xkcd.com/comics/winter.png)
+> "Winter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures, one in a winter hat and the other in a beret, are walking through snow and across a patch of ice.]]

@@ -2,7 +2,7 @@
 id: xkcd.fire
 title: Fire
 desc: ''
-updated: '1616125521484'
+updated: '1616126764553'
 created: '1486108800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Billy Joel briefly detained](https://imgs.xkcd.com/comics/fire.png)
+> "Fire", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

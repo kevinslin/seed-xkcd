@@ -2,7 +2,7 @@
 id: xkcd.malaria
 title: Malaria
 desc: ''
-updated: '1616125521351'
+updated: '1616126764377'
 created: '1137571200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The malaria party was David's idea](https://imgs.xkcd.com/comics/malaria.jpg)
+> "Malaria", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[People wearing party hat, a discarded balloon to the side]]

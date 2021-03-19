@@ -2,7 +2,7 @@
 id: xkcd.aeris-dies
 title: Aeris Dies
 desc: ''
-updated: '1616125521558'
+updated: '1616126764649'
 created: '1186383600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.](https://imgs.xkcd.com/comics/aeris_dies.png)
+> "Aeris Dies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men are talking.  The second man is sitting on the ground, hugging his knees to his chest]]

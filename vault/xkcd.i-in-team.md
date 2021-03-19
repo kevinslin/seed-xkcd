@@ -2,7 +2,7 @@
 id: xkcd.i-in-team
 title: I in Team
 desc: ''
-updated: '1616125521464'
+updated: '1616126764516'
 created: '1439190000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's no "I" in "VOWELS".](https://imgs.xkcd.com/comics/i_in_team.png)
+> "I in Team", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures chatting]]

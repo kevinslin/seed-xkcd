@@ -2,7 +2,7 @@
 id: xkcd.bookshelf
 title: Bookshelf
 desc: ''
-updated: '1616125521375'
+updated: '1616126764621'
 created: '1335769200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'](https://imgs.xkcd.com/comics/bookshelf.png)
+> "Bookshelf", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person stands in front of a bookshelf]]

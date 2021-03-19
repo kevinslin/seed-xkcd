@@ -2,7 +2,7 @@
 id: xkcd.forget
 title: Forget
 desc: ''
-updated: '1616125521388'
+updated: '1616126764628'
 created: '1344582000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Baby Got Back' turned 20 this year. My favorite nostalgia show is VH1's 'I Love The Inexorable March of Time Toward the Grave That Awaits Us All.'](https://imgs.xkcd.com/comics/forget.png)
+> "Forget", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When will we forget?

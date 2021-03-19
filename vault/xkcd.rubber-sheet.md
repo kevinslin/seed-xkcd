@@ -2,7 +2,7 @@
 id: xkcd.rubber-sheet
 title: Rubber Sheet
 desc: ''
-updated: '1616125521429'
+updated: '1616126764410'
 created: '1357718400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It IS about physics. It ALL is.](https://imgs.xkcd.com/comics/rubber_sheet.png)
+> "Rubber Sheet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman is standing on the left edge of a rubber sheet. In the middle is a bowling ball. A man in a beret is standing on top of the bowling ball.]]

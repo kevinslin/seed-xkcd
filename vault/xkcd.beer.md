@@ -2,7 +2,7 @@
 id: xkcd.beer
 title: Beer
 desc: ''
-updated: '1616125521458'
+updated: '1616126764507'
 created: '1433487600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Mmmm, this is such a positive experience! I feel no social pressure to enjoy it at all!](https://imgs.xkcd.com/comics/beer.png)
+> "Beer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people stand at an open refrigerator.]]

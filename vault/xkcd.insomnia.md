@@ -2,7 +2,7 @@
 id: xkcd.insomnia
 title: Insomnia
 desc: ''
-updated: '1616125521565'
+updated: '1616126764652'
 created: '1189148400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Crap, I have levitation class at 25:131.  Better set the alarm to 'cinnamon'.](https://imgs.xkcd.com/comics/insomnia.png)
+> "Insomnia", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[It is black, except a few blue and green lights, and red numbers from a clock. The clock shows 4:31]]

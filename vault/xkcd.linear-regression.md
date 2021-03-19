@@ -2,7 +2,7 @@
 id: xkcd.linear-regression
 title: Linear Regression
 desc: ''
-updated: '1616125521473'
+updated: '1616126764542'
 created: '1472194800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.](https://imgs.xkcd.com/comics/linear_regression.png)
+> "Linear Regression", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

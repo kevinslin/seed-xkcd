@@ -2,7 +2,7 @@
 id: xkcd.the-carriage
 title: The Carriage
 desc: ''
-updated: '1616125521652'
+updated: '1616126764705'
 created: '1283497200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.](https://imgs.xkcd.com/comics/the_carriage.png)
+> "The Carriage", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The Grim Reaper driving a horse-drawn carriage.]]

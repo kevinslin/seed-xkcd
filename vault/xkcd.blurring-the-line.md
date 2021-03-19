@@ -2,7 +2,7 @@
 id: xkcd.blurring-the-line
 title: Blurring the Line
 desc: ''
-updated: '1616125521423'
+updated: '1616126764397'
 created: '1350025200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![People into masturbatory navel-gazing have a lot to learn about masturbation.](https://imgs.xkcd.com/comics/blurring_the_line.png)
+> "Blurring the Line", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure with a hat is talking to another figure.]]

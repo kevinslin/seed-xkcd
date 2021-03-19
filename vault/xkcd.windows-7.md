@@ -2,7 +2,7 @@
 id: xkcd.windows-7
 title: Windows 7
 desc: ''
-updated: '1616125521608'
+updated: '1616126764710'
 created: '1231488000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.](https://imgs.xkcd.com/comics/windows_7.png)
+> "Windows 7", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl is standing behind a guy sitting at a desk using his laptop]]

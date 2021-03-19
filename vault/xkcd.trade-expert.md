@@ -2,7 +2,7 @@
 id: xkcd.trade-expert
 title: Trade Expert
 desc: ''
-updated: '1616125521646'
+updated: '1616126764696'
 created: '1271228400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.](https://imgs.xkcd.com/comics/trade_expert.png)
+> "Trade Expert", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Anchorman sitting at newsdesk.]]

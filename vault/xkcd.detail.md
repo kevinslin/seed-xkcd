@@ -2,7 +2,7 @@
 id: xkcd.detail
 title: Detail
 desc: ''
-updated: '1616125521390'
+updated: '1616126764422'
 created: '1366959600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![2031: Google defends the swiveling roof-mounted scanning electron microscopes on its Street View cars, saying they 'don't reveal anything that couldn't be seen by any pedestrian scanning your house with an electron microscope.'](https://imgs.xkcd.com/comics/detail.png)
+> "Detail", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Neighborhood's Resolution In:

@@ -2,7 +2,7 @@
 id: xkcd.merlin
 title: Merlin
 desc: ''
-updated: '1616125521550'
+updated: '1616126764643'
 created: '1180508400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I mean, the black-and-white stuff was running backward, but it hardly mattered to the story.](https://imgs.xkcd.com/comics/merlin.png)
+> "Merlin", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man and woman standing by a train]]

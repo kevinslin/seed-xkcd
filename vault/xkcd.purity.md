@@ -2,7 +2,7 @@
 id: xkcd.purity
 title: Purity
 desc: ''
-updated: '1616125521589'
+updated: '1616126764677'
 created: '1213167600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![On the other hand, physicists like to say physics is to math as sex is to masturbation.](https://imgs.xkcd.com/comics/purity.png)
+> "Purity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Texts reads 'Fields arranged by purity'. An arrow is shown pointing right with the text 'more pure'. Six people are shown representing six scientific fields. They stand on a scale of purity with the left end representing less purity and the right representing more purity. They appear in this order, from left to right: Sociology, Psychology, Biology, Chemistry, Physics, Mathematics. The mathematician stands much further to the right than any other field.]]

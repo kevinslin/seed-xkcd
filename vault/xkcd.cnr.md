@@ -2,7 +2,7 @@
 id: xkcd.cnr
 title: CNR
 desc: ''
-updated: '1616125521614'
+updated: '1616126764721'
 created: '1242198000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Can't and shouldn't.](https://imgs.xkcd.com/comics/cnr.png)
+> "CNR", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman is sitting at a computer.]]

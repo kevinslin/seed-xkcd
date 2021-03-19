@@ -2,7 +2,7 @@
 id: xkcd.art-project
 title: Art Project
 desc: ''
-updated: '1616125521453'
+updated: '1616126764538'
 created: '1425884400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's my most ambitious project yet, judging by the amount of guacamole.](https://imgs.xkcd.com/comics/art_project.png)
+> "Art Project", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Four figures hold forth with expository monologue.))

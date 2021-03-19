@@ -2,7 +2,7 @@
 id: xkcd.geography
 title: Geography
 desc: ''
-updated: '1616125521447'
+updated: '1616126764535'
 created: '1421049600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The place I'd least like to live is the farm in the background of those diagrams showing how tornadoes form.](https://imgs.xkcd.com/comics/geography.png)
+> "Geography", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This comic is a single panel.))

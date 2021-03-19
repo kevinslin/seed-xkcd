@@ -2,7 +2,7 @@
 id: xkcd.nerd-girls
 title: Nerd Girls
 desc: ''
-updated: '1616125521355'
+updated: '1616126764381'
 created: '1140595200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Nothing personal, high schoolers.](https://imgs.xkcd.com/comics/nerd_girls.jpg)
+> "Nerd Girls", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl with shoulder length brown hair and glasses, wearing a shirt which says "Do not meddle in the affairs of dragons"]]

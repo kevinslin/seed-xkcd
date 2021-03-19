@@ -2,7 +2,7 @@
 id: xkcd.drawing-stars
 title: Drawing Stars
 desc: ''
-updated: '1616125521371'
+updated: '1616126764617'
 created: '1331708400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Screw these 36-degree angles. I'm converting to Judaism.](https://imgs.xkcd.com/comics/drawing_stars.png)
+> "Drawing Stars", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 HOW TO DRAW A STAR:

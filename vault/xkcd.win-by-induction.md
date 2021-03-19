@@ -2,7 +2,7 @@
 id: xkcd.win-by-induction
 title: Win by Induction
 desc: ''
-updated: '1616125521456'
+updated: '1616126764505'
 created: '1429858800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.](https://imgs.xkcd.com/comics/win_by_induction.png)
+> "Win by Induction", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[This will not make sense if you do not know what Pokemon is.]]

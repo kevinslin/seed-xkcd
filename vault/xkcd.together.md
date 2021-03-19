@@ -2,7 +2,7 @@
 id: xkcd.together
 title: Together
 desc: ''
-updated: '1616125521613'
+updated: '1616126764716'
 created: '1240383600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This scavenger hunt is getting boring.  Let's go work on the treehouse!](https://imgs.xkcd.com/comics/together.png)
+> "Together", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A male and female are running in a field, holding hands. Another male and female stand in the background, next to a table.]]

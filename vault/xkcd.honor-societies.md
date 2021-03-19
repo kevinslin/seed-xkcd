@@ -2,7 +2,7 @@
 id: xkcd.honor-societies
 title: Honor Societies
 desc: ''
-updated: '1616125521629'
+updated: '1616126764749'
 created: '1266393600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, why do YOU get to be the president of Tautology Clu-- wait, I can guess.](https://imgs.xkcd.com/comics/honor_societies.png)
+> "Honor Societies", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A student sits at a desk, while a teacher or counselor out of frame advises]]

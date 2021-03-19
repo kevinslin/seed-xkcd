@@ -2,7 +2,7 @@
 id: xkcd.dirty-harry
 title: Dirty Harry
 desc: ''
-updated: '1616125521628'
+updated: '1616126764747'
 created: '1264147200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.](https://imgs.xkcd.com/comics/dirty_harry.png)
+> "Dirty Harry", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Detective "Dirty" Harry Callahan stands near a wall, pointing a revolver at another figure, presumably a suspect, reclined on the ground. A shotgun is on the ground next to the reclined figure.]]

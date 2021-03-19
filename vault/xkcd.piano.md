@@ -2,7 +2,7 @@
 id: xkcd.piano
 title: Piano
 desc: ''
-updated: '1616125521608'
+updated: '1616126764710'
 created: '1232352000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Good thing he didn't make it smaller, or it'd need someone three inches tall to play it.](https://imgs.xkcd.com/comics/piano.png)
+> "Piano", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is holding a box with an open lid. A miniature piano is inside. The girl is looking at it]]

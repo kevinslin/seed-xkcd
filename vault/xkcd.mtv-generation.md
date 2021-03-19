@@ -2,7 +2,7 @@
 id: xkcd.mtv-generation
 title: MTV Generation
 desc: ''
-updated: '1616125521711'
+updated: '1616126764798'
 created: '1320390000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.](https://imgs.xkcd.com/comics/mtv_generation.png)
+> "MTV Generation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One of them damn kids that won't get OFF MY LAWN plays with some gadgetamabob while ignoring every damn thing around him off in the background.  Person 1 with a white hat, along with another person with long hair is in the foreground]]

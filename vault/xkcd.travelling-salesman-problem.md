@@ -2,7 +2,7 @@
 id: xkcd.travelling-salesman-problem
 title: Travelling Salesman Problem
 desc: ''
-updated: '1616125521584'
+updated: '1616126764672'
 created: '1206082800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![What's the complexity class of the best linear programming cutting-plane techniques?  I couldn't find it anywhere.  Man, the Garfield guy doesn't have these problems ...](https://imgs.xkcd.com/comics/travelling_salesman_problem.png)
+> "Travelling Salesman Problem", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a linked black web, with a path in red]]

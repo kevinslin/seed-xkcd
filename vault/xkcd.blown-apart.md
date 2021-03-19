@@ -2,7 +2,7 @@
 id: xkcd.blown-apart
 title: Blown apart
 desc: ''
-updated: '1616125521339'
+updated: '1616126764357'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Blown into prime factors](https://imgs.xkcd.com/comics/blownapart_color.jpg)
+> "Blown apart", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A black number 70 sees a red package.]]

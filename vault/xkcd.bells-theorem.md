@@ -2,7 +2,7 @@
 id: xkcd.bells-theorem
 title: Bell's Theorem
 desc: ''
-updated: '1616125521468'
+updated: '1616126764523'
 created: '1444978800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling.](https://imgs.xkcd.com/comics/bells_theorem.png)
+> "Bell's Theorem", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 t=0 nanoseconds

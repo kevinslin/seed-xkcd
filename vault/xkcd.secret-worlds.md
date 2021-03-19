@@ -2,7 +2,7 @@
 id: xkcd.secret-worlds
 title: Secret Worlds
 desc: ''
-updated: '1616125521351'
+updated: '1616126764377'
 created: '1137830400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No two adjacent circles are the same color.](https://imgs.xkcd.com/comics/secret_worlds.jpg)
+> "Secret Worlds", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Pieces of a quote in circles with lines drawn in between them]]

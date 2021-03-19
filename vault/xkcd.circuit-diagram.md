@@ -2,7 +2,7 @@
 id: xkcd.circuit-diagram
 title: Circuit Diagram
 desc: ''
-updated: '1616125521646'
+updated: '1616126764698'
 created: '1271833200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.](https://imgs.xkcd.com/comics/circuit_diagram.png)
+> "Circuit Diagram", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.}}

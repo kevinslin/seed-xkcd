@@ -2,7 +2,7 @@
 id: xkcd.unicode
 title: Unicode
 desc: ''
-updated: '1616125521473'
+updated: '1616126764542'
 created: '1472454000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm excited about the proposal to add a "brontosaurus" emoji codepoint because it has the potential to bring together a half-dozen different groups of pedantic people into a single glorious internet argument.](https://imgs.xkcd.com/comics/unicode.png)
+> "Unicode", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

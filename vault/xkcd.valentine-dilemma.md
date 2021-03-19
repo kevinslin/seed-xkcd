@@ -2,7 +2,7 @@
 id: xkcd.valentine-dilemma
 title: Valentine Dilemma
 desc: ''
-updated: '1616125521367'
+updated: '1616126764615'
 created: '1329120000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.](https://imgs.xkcd.com/comics/valentine_dilemma.png)
+> "Valentine Dilemma", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man, hand on chin, thinking aloud to himself.]]

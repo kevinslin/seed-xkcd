@@ -2,7 +2,7 @@
 id: xkcd.wisdom-teeth
 title: Wisdom Teeth
 desc: ''
-updated: '1616125521675'
+updated: '1616126764774'
 created: '1297843200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I heard the general anesthesia drugs can cause amnesia, so when I woke up mid-extraction I started taking notes on my hand so I'd remember things later. I managed 'AWAKE BUT EVERYTHING OK' before the dental assistant managed to find and confiscate all my pens.](https://imgs.xkcd.com/comics/wisdom_teeth.png)
+> "Wisdom Teeth", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Guy, on phone: Hey! Know how you've been bugging me to play Minecraft for the past year? I'm game.

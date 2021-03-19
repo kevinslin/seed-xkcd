@@ -2,7 +2,7 @@
 id: xkcd.encryptic
 title: Encryptic
 desc: ''
-updated: '1616125521403'
+updated: '1616126764450'
 created: '1383552000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.](https://imgs.xkcd.com/comics/encryptic.png)
+> "Encryptic", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Hackers recently leaked 153 million Adobe user emails, encrypted passwords, and password hints.

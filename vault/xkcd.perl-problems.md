@@ -2,7 +2,7 @@
 id: xkcd.perl-problems
 title: Perl Problems
 desc: ''
-updated: '1616125521431'
+updated: '1616126764412'
 created: '1360310400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To generate #1 albums, 'jay --help' recommends the -z flag.](https://imgs.xkcd.com/comics/perl_problems.png)
+> "Perl Problems", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures stand facing each other. One is wearing sunglasses.]]

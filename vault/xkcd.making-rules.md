@@ -2,7 +2,7 @@
 id: xkcd.making-rules
 title: Making Rules
 desc: ''
-updated: '1616125521583'
+updated: '1616126764671'
 created: '1204704000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I never understood why someone would expect me to accept their rules right after they'd punched me.  I'm sure it's all very symbolic or something.](https://imgs.xkcd.com/comics/making_rules.png)
+> "Making Rules", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men are sitting. A yellow buggy passes by.]]

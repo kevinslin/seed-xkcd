@@ -2,7 +2,7 @@
 id: xkcd.where-do-birds-go
 title: Where Do Birds Go
 desc: ''
-updated: '1616125521442'
+updated: '1616126764531'
 created: '1413356400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Water/ice has a lot of weird phases. Maybe asking 'where do birds go when it rains' is like asking 'where does Clark Kent go whenever Superman shows up?'](https://imgs.xkcd.com/comics/where_do_birds_go.png)
+> "Where Do Birds Go", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Water

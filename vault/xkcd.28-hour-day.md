@@ -2,7 +2,7 @@
 id: xkcd.28-hour-day
 title: 28-Hour Day
 desc: ''
-updated: '1616125521568'
+updated: '1616126764656'
 created: '1190617200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Small print: this schedule will eventually drive one stark raving mad.](https://imgs.xkcd.com/comics/28_hour_day.png)
+> "28-Hour Day", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a diagram which shows the hours in a week. It has sections labeled "bed" and below has sections labeled "night." They do not line up.]]

@@ -2,7 +2,7 @@
 id: xkcd.pickup-lines
 title: Pickup Lines
 desc: ''
-updated: '1616125521554'
+updated: '1616126764645'
 created: '1182322800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.](https://imgs.xkcd.com/comics/pickup_lines.png)
+> "Pickup Lines", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [picture of a man at a bar]

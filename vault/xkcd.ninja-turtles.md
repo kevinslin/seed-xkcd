@@ -2,7 +2,7 @@
 id: xkcd.ninja-turtles
 title: Ninja Turtles
 desc: ''
-updated: '1616125521337'
+updated: '1616126764475'
 created: '1166169600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The henchmen Bebop and Rocksteady have hijacked the musical genres for us just like the Lone Ranger hijacked the William Tell Overture for our parents.](https://imgs.xkcd.com/comics/ninja_turtles.png)
+> "Ninja Turtles", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Four pie graphs, each colored green and brown]]

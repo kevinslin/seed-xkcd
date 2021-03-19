@@ -2,7 +2,7 @@
 id: xkcd.tools
 title: Tools
 desc: ''
-updated: '1616125521409'
+updated: '1616126764560'
 created: '1452672000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I make tools for managing job-hunting sites for people who make tools for managing job-hunting sites for people who make tools for ...](https://imgs.xkcd.com/comics/tools.png)
+> "Tools", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ We're looking at a comment thread.]]

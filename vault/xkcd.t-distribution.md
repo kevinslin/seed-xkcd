@@ -2,7 +2,7 @@
 id: xkcd.t-distribution
 title: t Distribution
 desc: ''
-updated: '1616125521503'
+updated: '1616126764491'
 created: '1395817200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If data fails the Teacher's t test, you can just force it to take the test again until it passes.](https://imgs.xkcd.com/comics/t_distribution.png)
+> "t Distribution", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A physical bell-curve-shaped object labeled "Student's t distribution" is resting on a table. A figure is working with it and a piece of paper.]]

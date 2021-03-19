@@ -2,7 +2,7 @@
 id: xkcd.tmi
 title: TMI
 desc: ''
-updated: '1616125521505'
+updated: '1616126764495'
 created: '1400223600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['TMI' he whispered, gazing into the sea.](https://imgs.xkcd.com/comics/tmi.png)
+> "TMI", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Someone is sitting at a desk with a laptop.]]

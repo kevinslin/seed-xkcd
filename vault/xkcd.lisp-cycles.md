@@ -2,7 +2,7 @@
 id: xkcd.lisp-cycles
 title: Lisp Cycles
 desc: ''
-updated: '1616125521557'
+updated: '1616126764648'
 created: '1185951600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've just received word that the Emperor has dissolved the MIT computer science program permanently.](https://imgs.xkcd.com/comics/lisp_cycles.png)
+> "Lisp Cycles", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy sitting at computer. Girl listening]]

@@ -2,7 +2,7 @@
 id: xkcd.the-cloud
 title: The Cloud
 desc: ''
-updated: '1616125521698'
+updated: '1616126764782'
 created: '1307343600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There's planned downtime every night when we turn on the Roomba and it runs over the cord.](https://imgs.xkcd.com/comics/the_cloud.png)
+> "The Cloud", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man finds a computer tower with a wire leading away from it.]]

@@ -2,7 +2,7 @@
 id: xkcd.mysteries
 title: Mysteries
 desc: ''
-updated: '1616125521454'
+updated: '1616126764502'
 created: '1426834800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At the bottom left: The mystery of why, when I know I needed to be asleep an hour ago, I decide it's a good time to read through every Wikipedia article in the categories 'Out-of-place artifacts', 'Earth mysteries', 'Anomalous weather', and 'List of people who disappeared mysteriously'.](https://imgs.xkcd.com/comics/mysteries.png)
+> "Mysteries", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Title of this comic is MYSTERIES, it's a graph with two axis. The horizontal axis ranges from NOT THAT WEIRD to WEIRD AS HELL. The vertical axis ranges from I HAVE NO EXPLANATION to EXPLANATION SEEMS PRETTY CLEAR.]]

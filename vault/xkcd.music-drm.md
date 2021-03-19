@@ -2,7 +2,7 @@
 id: xkcd.music-drm
 title: Music DRM
 desc: ''
-updated: '1616125521610'
+updated: '1616126764712'
 created: '1235116800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Just yesterday I bought my first non-DRM'd songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme).](https://imgs.xkcd.com/comics/music_drm.png)
+> "Music DRM", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Interior, a man sits at his computer typing, woman enters]]

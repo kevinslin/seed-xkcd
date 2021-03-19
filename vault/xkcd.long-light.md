@@ -2,7 +2,7 @@
 id: xkcd.long-light
 title: Long Light
 desc: ''
-updated: '1616125521553'
+updated: '1616126764645'
 created: '1181890800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this.'  It's a little human connection.](https://imgs.xkcd.com/comics/long_light.png)
+> "Long Light", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man in a car, sitting at a red light.]]

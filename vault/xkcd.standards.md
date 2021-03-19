@@ -2,7 +2,7 @@
 id: xkcd.standards
 title: Standards
 desc: ''
-updated: '1616125521701'
+updated: '1616126764786'
 created: '1311145200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.](https://imgs.xkcd.com/comics/standards.png)
+> "Standards", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 HOW STANDARDS PROLIFERATE

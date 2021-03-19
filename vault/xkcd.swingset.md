@@ -2,7 +2,7 @@
 id: xkcd.swingset
 title: Swingset
 desc: ''
-updated: '1616125521529'
+updated: '1616126764637'
 created: '1172044800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Someone bring me a pocket fan so I can drift around the yard.](https://imgs.xkcd.com/comics/swingset.png)
+> "Swingset", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Woman talking to boy on swing-set]]

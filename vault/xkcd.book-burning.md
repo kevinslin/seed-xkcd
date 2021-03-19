@@ -2,7 +2,7 @@
 id: xkcd.book-burning
 title: Book Burning
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1275894000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Of course, since their cautionary tale was reported in a print newspaper, no one read it.](https://imgs.xkcd.com/comics/book_burning.png)
+> "Book Burning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man holds a book aloft, displaying it to his two acquaintances.]]

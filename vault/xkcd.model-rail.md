@@ -2,7 +2,7 @@
 id: xkcd.model-rail
 title: Model Rail
 desc: ''
-updated: '1616125521689'
+updated: '1616126764776'
 created: '1301295600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.](https://imgs.xkcd.com/comics/model_rail.png)
+> "Model Rail", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters are standing in a basement, the support beams bare.]]

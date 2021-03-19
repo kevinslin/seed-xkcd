@@ -2,7 +2,7 @@
 id: xkcd.tabletop-roleplaying
 title: Tabletop Roleplaying
 desc: ''
-updated: '1616125521544'
+updated: '1616126764640'
 created: '1175670000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.](https://imgs.xkcd.com/comics/tabletop_roleplaying.png)
+> "Tabletop Roleplaying", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Four people sit around a table]]

@@ -2,7 +2,7 @@
 id: xkcd.permanence
 title: Permanence
 desc: ''
-updated: '1616125521699'
+updated: '1616126764782'
 created: '1307689200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!](https://imgs.xkcd.com/comics/permanence.png)
+> "Permanence", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A large panel the combined width of the four panels below it.))

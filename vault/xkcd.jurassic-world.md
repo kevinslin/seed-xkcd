@@ -2,7 +2,7 @@
 id: xkcd.jurassic-world
 title: Jurassic World
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1416988800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.](https://imgs.xkcd.com/comics/jurassic_world.png)
+> "Jurassic World", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[White Hat guy and another person are walking along.]]

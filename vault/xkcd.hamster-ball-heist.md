@@ -2,7 +2,7 @@
 id: xkcd.hamster-ball-heist
 title: Hamster Ball Heist
 desc: ''
-updated: '1616125521527'
+updated: '1616126764634'
 created: '1169020800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.](https://imgs.xkcd.com/comics/hamster_ball_heist.png)
+> "Hamster Ball Heist", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: You know that giant hamster ball you've always wanted? I just found out that Wayne Coyne from the Flaming Lips crowd-surfs in one.

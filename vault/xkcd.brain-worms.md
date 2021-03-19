@@ -2,7 +2,7 @@
 id: xkcd.brain-worms
 title: Brain Worms
 desc: ''
-updated: '1616125521645'
+updated: '1616126764693'
 created: '1269586800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, it says here that if you dream about your teeth falling out, it means they're spreading.](https://imgs.xkcd.com/comics/brain_worms.png)
+> "Brain Worms", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sits at a computer desk, and a man stands near her holding a book.]]

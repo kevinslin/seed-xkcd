@@ -2,7 +2,7 @@
 id: xkcd.cell-phones
 title: Cell Phones
 desc: ''
-updated: '1616125521701'
+updated: '1616126764786'
 created: '1310713200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He holds the laptop like that on purpose, to make you cringe.](https://imgs.xkcd.com/comics/cell_phones.png)
+> "Cell Phones", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is holding a cellphone.  The black hat guy is sitting at a desk with a laptop.]]

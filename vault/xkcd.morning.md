@@ -2,7 +2,7 @@
 id: xkcd.morning
 title: Morning
 desc: ''
-updated: '1616125521584'
+updated: '1616126764671'
 created: '1205305200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?](https://imgs.xkcd.com/comics/morning.png)
+> "Morning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl standing to one side]]

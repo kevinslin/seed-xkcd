@@ -2,7 +2,7 @@
 id: xkcd.battle-room
 title: Battle Room
 desc: ''
-updated: '1616125521544'
+updated: '1616126764639'
 created: '1175065200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Bean actually sabotaged it just to give Dink the excuse to make that joke.](https://imgs.xkcd.com/comics/battle_room.png)
+> "Battle Room", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A scene is depicted from the Battle Room of the novel Ender's Game by Orson Scott Card.  The men are floating in a room with random cubes.]]

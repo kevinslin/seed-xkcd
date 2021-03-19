@@ -2,7 +2,7 @@
 id: xkcd.unsatisfied
 title: Unsatisfied
 desc: ''
-updated: '1616125521614'
+updated: '1616126764721'
 created: '1242370800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Forever comparing, never evaluating on any external scale.  If you were a sort function, you'd never break the nlogn barrier.](https://imgs.xkcd.com/comics/unsatisfied.png)
+> "Unsatisfied", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A blonde and a man are holding hands, looking at another woman with black hair.]]

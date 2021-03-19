@@ -2,7 +2,7 @@
 id: xkcd.a-simple-plan
 title: A Simple Plan
 desc: ''
-updated: '1616125521361'
+updated: '1616126764388'
 created: '1146639600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This is true.  The lyrics are ridiculous.](https://imgs.xkcd.com/comics/a_simple_plan.jpg)
+> "A Simple Plan", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man standing in front of stool with radio on it]]

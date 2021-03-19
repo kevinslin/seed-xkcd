@@ -2,7 +2,7 @@
 id: xkcd.couple
 title: Couple
 desc: ''
-updated: '1616125521577'
+updated: '1616126764665'
 created: '1197273600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'](https://imgs.xkcd.com/comics/couple.png)
+> "Couple", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man and woman in bed]]

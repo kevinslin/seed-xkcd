@@ -2,7 +2,7 @@
 id: xkcd.quotative-like
 title: Quotative Like
 desc: ''
-updated: '1616125521449'
+updated: '1616126764536'
 created: '1423209600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![God was like, "Let there be light," and there was light.](https://imgs.xkcd.com/comics/quotative_like.png)
+> "Quotative Like", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two stick figures are walking, one is holding an article]]

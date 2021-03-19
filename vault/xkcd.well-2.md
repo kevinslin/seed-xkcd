@@ -2,7 +2,7 @@
 id: xkcd.well-2
 title: Well 2
 desc: ''
-updated: '1616125521613'
+updated: '1616126764715'
 created: '1239606000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But I've made $13.72 already today!  Ow, stop throwing pennies.](https://imgs.xkcd.com/comics/well_2.png)
+> "Well 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[People are lined up by a well. A sign says "The Uncomfortable Truths Well." The first person in line drops in a coin.]]

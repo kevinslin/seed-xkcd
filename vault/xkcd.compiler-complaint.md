@@ -2,7 +2,7 @@
 id: xkcd.compiler-complaint
 title: Compiler Complaint
 desc: ''
-updated: '1616125521580'
+updated: '1616126764667'
 created: '1200470400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.](https://imgs.xkcd.com/comics/compiler_complaint.png)
+> "Compiler Complaint", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at a computer, hand over the keyboard]]

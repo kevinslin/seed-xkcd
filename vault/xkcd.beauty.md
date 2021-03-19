@@ -2,7 +2,7 @@
 id: xkcd.beauty
 title: Beauty
 desc: ''
-updated: '1616125521689'
+updated: '1616126764776'
 created: '1301036400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!](https://imgs.xkcd.com/comics/beauty.png)
+> "Beauty", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two humans are discussing science.  They are interrupted by an off-panel shout.]]

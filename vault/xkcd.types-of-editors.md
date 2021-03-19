@@ -2,7 +2,7 @@
 id: xkcd.types-of-editors
 title: Types of Editors
 desc: ''
-updated: '1616125521503'
+updated: '1616126764490'
 created: '1394607600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![m-x machineofdeath-mode](https://imgs.xkcd.com/comics/types_of_editors.png)
+> "Types of Editors", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 WYSIWYG

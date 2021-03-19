@@ -2,7 +2,7 @@
 id: xkcd.network
 title: Network
 desc: ''
-updated: '1616125521576'
+updated: '1616126764663'
 created: '1196236800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out.  When Linux/Mac win in a decade or so the game will be over.](https://imgs.xkcd.com/comics/network.png)
+> "Network", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Girl looking at a large screen with many green and red squares. The squares have writing in them and lines connecting them.]]

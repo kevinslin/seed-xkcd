@@ -2,7 +2,7 @@
 id: xkcd.phone-checking
 title: Phone Checking
 desc: ''
-updated: '1616125521447'
+updated: '1616126764534'
 created: '1419840000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Where were you when you learned you'd won?' 'I was actually asleep; I woke up when I refreshed the webite and saw the news.'](https://imgs.xkcd.com/comics/phone_checking.png)
+> "Phone Checking", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters are talking.]]

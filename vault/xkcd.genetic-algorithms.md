@@ -2,7 +2,7 @@
 id: xkcd.genetic-algorithms
 title: Genetic Algorithms
 desc: ''
-updated: '1616125521608'
+updated: '1616126764710'
 created: '1232697600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Just make sure you don't have it maximize instead of minimize.](https://imgs.xkcd.com/comics/genetic_algorithms.png)
+> "Genetic Algorithms", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Code displayed, presumably from an IDE]]

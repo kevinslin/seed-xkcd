@@ -2,7 +2,7 @@
 id: xkcd.digits
 title: Digits
 desc: ''
-updated: '1616125521503'
+updated: '1616126764490'
 created: '1395212400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's taken me 20 years to get over skyline tetris.](https://imgs.xkcd.com/comics/digits.png)
+> "Digits", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A first figure is walking past a second.]]

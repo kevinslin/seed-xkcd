@@ -2,7 +2,7 @@
 id: xkcd.broomstick
 title: Broomstick
 desc: ''
-updated: '1616125521427'
+updated: '1616126764408'
 created: '1355904000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'](https://imgs.xkcd.com/comics/broomstick.png)
+> "Broomstick", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman in red slippers, Dorothy, stands talking to somebody off-screen.]]

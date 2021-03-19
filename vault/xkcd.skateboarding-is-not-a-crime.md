@@ -2,7 +2,7 @@
 id: xkcd.skateboarding-is-not-a-crime
 title: Skateboarding is Not a Crime
 desc: ''
-updated: '1616125521331'
+updated: '1616126764469'
 created: '1161154800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Arrest me, I'm a skateboarder' is an even more obnoxious variant.](https://imgs.xkcd.com/comics/skateboarding_is_not_a_crime.png)
+> "Skateboarding is Not a Crime", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A set of lockers. The middle one has a sticker stuck to it proclaiming "Skateboarding is not a crime"]]

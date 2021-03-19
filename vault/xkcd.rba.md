@@ -2,7 +2,7 @@
 id: xkcd.rba
 title: RBA
 desc: ''
-updated: '1616125521596'
+updated: '1616126764685'
 created: '1219042800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This is a story all about how I started drinking.](https://imgs.xkcd.com/comics/rba.png)
+> "RBA", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl walks up to boy pouring himself a drink]]

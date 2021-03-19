@@ -2,7 +2,7 @@
 id: xkcd.unquote
 title: Unquote
 desc: ''
-updated: '1616125521398'
+updated: '1616126764436'
 created: '1378710000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I guess it's a saying from the Old Country.](https://imgs.xkcd.com/comics/unquote.png)
+> "Unquote", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures with spiky hair and backpacks are conversing. One is riding in a hover-car, or similar.]]

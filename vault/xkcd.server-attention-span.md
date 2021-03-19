@@ -2,7 +2,7 @@
 id: xkcd.server-attention-span
 title: Server Attention Span
 desc: ''
-updated: '1616125521688'
+updated: '1616126764775'
 created: '1299484800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They have to keep the adjacent rack units empty. Otherwise, half the entries in their /var/log/syslog are just 'SERVER BELOW TRYING TO START CONVERSATION *AGAIN*.' and 'WISH THEY'D STOP GIVING HIM SO MUCH COFFEE IT SPLATTERS EVERYWHERE.'](https://imgs.xkcd.com/comics/server_attention_span.png)
+> "Server Attention Span", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[single blade in a server rack]]

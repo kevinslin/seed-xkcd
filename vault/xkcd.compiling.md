@@ -2,7 +2,7 @@
 id: xkcd.compiling
 title: Compiling
 desc: ''
-updated: '1616125521560'
+updated: '1616126764650'
 created: '1187161200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Are you stealing those LCDs?' 'Yeah, but I'm doing it while my code compiles.'](https://imgs.xkcd.com/comics/compiling.png)
+> "Compiling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{ Title: The #1 Programmer Excuse for Legitimately Slacking Off: âMy code's compiling.â }}

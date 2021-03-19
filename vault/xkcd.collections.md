@@ -2,7 +2,7 @@
 id: xkcd.collections
 title: Collections
 desc: ''
-updated: '1616125521619'
+updated: '1616126764735'
 created: '1250665200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.](https://imgs.xkcd.com/comics/collections.png)
+> "Collections", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man: I now have every Discworld book!

@@ -2,7 +2,7 @@
 id: xkcd.vows
 title: Vows
 desc: ''
-updated: '1616125521420'
+updated: '1616126764390'
 created: '1346050800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![So, um. Do you want to get a drink after the game?](https://imgs.xkcd.com/comics/vows.png)
+> "Vows", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A bride and groom stand next to each other. Each has a hand outstretched toward the other.]]

@@ -2,7 +2,7 @@
 id: xkcd.exoplanet-neighborhood
 title: Exoplanet Neighborhood
 desc: ''
-updated: '1616125521404'
+updated: '1616126764453'
 created: '1385971200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's a beautiful day in the neighborhood!](https://imgs.xkcd.com/comics/exoplanet_neighborhood.png)
+> "Exoplanet Neighborhood", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A multitude of circles in various colors and sizes. The following label is centered horizontally, a quarter of the way down the image.]]

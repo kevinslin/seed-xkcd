@@ -2,7 +2,7 @@
 id: xkcd.swiftkey
 title: Swiftkey
 desc: ''
-updated: '1616125521380'
+updated: '1616126764624'
 created: '1339570800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Although the Markov chain-style text model is still rudimentary; it recently gave me "Massachusetts Institute of America". Although I have to admit it sounds prestigious.](https://imgs.xkcd.com/comics/swiftkey.png)
+> "Swiftkey", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person 1 shows off phone to Person 2]]

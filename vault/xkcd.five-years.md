@@ -2,7 +2,7 @@
 id: xkcd.five-years
 title: Five Years
 desc: ''
-updated: '1616125521387'
+updated: '1616126764627'
 created: '1343631600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'](https://imgs.xkcd.com/comics/five_years.png)
+> "Five Years", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Two characters sit across from each other at a desk.  One has a beret and the other has a bun. ]]

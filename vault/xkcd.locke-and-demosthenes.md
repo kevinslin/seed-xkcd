@@ -2,7 +2,7 @@
 id: xkcd.locke-and-demosthenes
 title: Locke and Demosthenes
 desc: ''
-updated: '1616125521620'
+updated: '1616126764736'
 created: '1252566000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.](https://imgs.xkcd.com/comics/locke_and_demosthenes.png)
+> "Locke and Demosthenes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Valentine is laying on her back on the ground.  Peter is feeding a squirrel.]]

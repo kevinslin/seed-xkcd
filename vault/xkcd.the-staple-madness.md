@@ -2,7 +2,7 @@
 id: xkcd.the-staple-madness
 title: The Staple Madness
 desc: ''
-updated: '1616125521598'
+updated: '1616126764686'
 created: '1221807600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Staple guns: because duct tape can't make that 'kaCHUNK' noise.](https://imgs.xkcd.com/comics/the_staple_madness.png)
+> "The Staple Madness", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man with Beret: I FOUND MEGAN'S STAPLE GUN! [[holds up staple gun]]

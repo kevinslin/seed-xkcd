@@ -2,7 +2,7 @@
 id: xkcd.alternative-literature
 title: Alternative Literature
 desc: ''
-updated: '1616125521711'
+updated: '1616126764798'
 created: '1320044400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I just noticed CVS has started stocking homeopathic pills on the same shelves with--and labeled similarly to--their actual medicine. Telling someone who trusts you that you're giving them medicine, when you know you’re not, because you want their money, isn’t just lying--it’s like an example you’d make up if you had to illustrate for a child why lying is wrong.](https://imgs.xkcd.com/comics/alternative_literature.png)
+> "Alternative Literature", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person 1 and 2 stand in front of Person 2's bookcase.  Person 1 flips through a number of them]]

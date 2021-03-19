@@ -2,7 +2,7 @@
 id: xkcd.arrow
 title: Arrow
 desc: ''
-updated: '1616125521702'
+updated: '1616126764788'
 created: '1313564400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['The Return of the Boomerang' would make a great movie title.](https://imgs.xkcd.com/comics/arrow.png)
+> "Arrow", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An archer stands with a bow and arrow drawn tightly, aiming off-screen.]]

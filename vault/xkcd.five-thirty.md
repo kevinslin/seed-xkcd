@@ -2,7 +2,7 @@
 id: xkcd.five-thirty
 title: Five Thirty
 desc: ''
-updated: '1616125521355'
+updated: '1616126764381'
 created: '1140768000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The 8th panel is my favorite](https://imgs.xkcd.com/comics/five_thirty.jpg)
+> "Five Thirty", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Comics from 5.30 AM

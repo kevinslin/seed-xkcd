@@ -2,7 +2,7 @@
 id: xkcd.estimation
 title: Estimation
 desc: ''
-updated: '1616125521618'
+updated: '1616126764732'
 created: '1248073200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.](https://imgs.xkcd.com/comics/estimation.png)
+> "Estimation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is in a car, talking on his phone.]]

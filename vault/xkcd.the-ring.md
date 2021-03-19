@@ -2,7 +2,7 @@
 id: xkcd.the-ring
 title: The Ring
 desc: ''
-updated: '1616125521584'
+updated: '1616126764672'
 created: '1205478000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.](https://imgs.xkcd.com/comics/the_ring.png)
+> "The Ring", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Tall girl with a pony tail is speaking to a boy sitting in front of a TV with a black background and a white ring.]]

@@ -2,7 +2,7 @@
 id: xkcd.mess
 title: Mess
 desc: ''
-updated: '1616125521399'
+updated: '1616126764438'
 created: '1379660400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.](https://imgs.xkcd.com/comics/mess.png)
+> "Mess", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures walk into a bedroom. There's a bed, a picture on the wall, some curtains, a rug, and one item on the floor. On the whole, the room is immaculate.]]

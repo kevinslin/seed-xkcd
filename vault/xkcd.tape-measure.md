@@ -2,7 +2,7 @@
 id: xkcd.tape-measure
 title: Tape Measure
 desc: ''
-updated: '1616125521555'
+updated: '1616126764646'
 created: '1183359600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This sequence was later reproduced in the International Tape-Extending Federation archives, retitled 'The Founding of the Sport'.](https://imgs.xkcd.com/comics/tape_measure.png)
+> "Tape Measure", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man finds a tape measure]]

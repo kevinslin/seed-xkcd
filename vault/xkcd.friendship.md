@@ -2,7 +2,7 @@
 id: xkcd.friendship
 title: Friendship
 desc: ''
-updated: '1616125521450'
+updated: '1616126764537'
 created: '1423641600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The only other Wikipedia vandalism that I would feel zero remorse about is editing the article on active US militia groups to replace "militia" with "fanclub".](https://imgs.xkcd.com/comics/friendship.png)
+> "Friendship", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{A fictional wikipedia article is depicted here}}

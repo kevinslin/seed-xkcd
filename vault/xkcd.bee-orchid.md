@@ -2,7 +2,7 @@
 id: xkcd.bee-orchid
 title: Bee Orchid
 desc: ''
-updated: '1616125521398'
+updated: '1616126764435'
 created: '1378105200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.](https://imgs.xkcd.com/comics/bee_orchid.png)
+> "Bee Orchid", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Beret guy and a woman are walking through a wood.]]

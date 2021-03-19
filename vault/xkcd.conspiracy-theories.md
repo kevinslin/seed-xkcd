@@ -2,7 +2,7 @@
 id: xkcd.conspiracy-theories
 title: Conspiracy Theories
 desc: ''
-updated: '1616125521548'
+updated: '1616126764642'
 created: '1178521200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There are a lot of graduate-educated young-earth creationists.](https://imgs.xkcd.com/comics/conspiracy_theories.png)
+> "Conspiracy Theories", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Figure A:]]

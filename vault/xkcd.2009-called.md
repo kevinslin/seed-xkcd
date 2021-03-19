@@ -2,7 +2,7 @@
 id: xkcd.2009-called
 title: 2009 Called
 desc: ''
-updated: '1616125521689'
+updated: '1616126764776'
 created: '1300690800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![2017 called, but I couldn't understand what they were saying over all the screams.](https://imgs.xkcd.com/comics/2009_called.png)
+> "2009 Called", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man is at computer. Woman is standing behind him, looking at clothes on the floor.]]

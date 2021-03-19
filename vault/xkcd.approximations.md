@@ -2,7 +2,7 @@
 id: xkcd.approximations
 title: Approximations
 desc: ''
-updated: '1616125521374'
+updated: '1616126764621'
 created: '1335337200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Two tips: 1) 8675309 is not just prime, it's a twin prime, and 2) if you ever find yourself raising log(anything)^e or taking the pi-th root of anything, set down the marker and back away from the whiteboard; something has gone horribly wrong.](https://imgs.xkcd.com/comics/approximations.png)
+> "Approximations", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A table of slightly wrong equations and identities useful for approximations and

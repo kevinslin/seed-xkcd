@@ -2,7 +2,7 @@
 id: xkcd.e-to-the-pi-times-i
 title: e to the pi times i
 desc: ''
-updated: '1616125521333'
+updated: '1616126764471'
 created: '1162540800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I have never been totally satisfied by the explanations for why e to the ix gives a sinusoidal wave.](https://imgs.xkcd.com/comics/e_to_the_pi_times_i.png)
+> "e to the pi times i", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Note my use of ^(x) and â(x) standing in for the normal maths syntax in the comic}}

@@ -2,7 +2,7 @@
 id: xkcd.godel-escher-kurt-halsey
 title: 'Godel, Escher, Kurt Halsey'
 desc: ''
-updated: '1616125521345'
+updated: '1616126764365'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I love the idea here, though of course it's not a great-quality drawing or scan.](https://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg)
+> "Godel, Escher, Kurt Halsey", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Drawn during an unending NASA lecture.

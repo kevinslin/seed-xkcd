@@ -2,7 +2,7 @@
 id: xkcd.cover-up
 title: Cover-Up
 desc: ''
-updated: '1616125521609'
+updated: '1616126764711'
 created: '1234339200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Man, this trick has saved me so many times.](https://imgs.xkcd.com/comics/cover_up.png)
+> "Cover-Up", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat Guy is holding blood stained rags while woman is holding an equally bloody mop]]

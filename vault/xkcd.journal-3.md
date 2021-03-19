@@ -2,7 +2,7 @@
 id: xkcd.journal-3
 title: Journal 3
 desc: ''
-updated: '1616125521585'
+updated: '1616126764673'
 created: '1207119600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, and, uh, if the Russian government asks, that submarine was always there.](https://imgs.xkcd.com/comics/journal_3.png)
+> "Journal 3", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two women ice-skating outside]]

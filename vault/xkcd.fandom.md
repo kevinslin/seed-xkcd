@@ -2,7 +2,7 @@
 id: xkcd.fandom
 title: Fandom
 desc: ''
-updated: '1616125521579'
+updated: '1616126764667'
 created: '1199692800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ron Paul wants to put the New Republic back on the Corusca gem standard.](https://imgs.xkcd.com/comics/fandom.png)
+> "Fandom", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Boy is looking through box]]

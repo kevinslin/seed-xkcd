@@ -2,7 +2,7 @@
 id: xkcd.state-word-map
 title: State Word Map
 desc: ''
-updated: '1616125521491'
+updated: '1616126764581'
 created: '1496386800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The top search for every state is PORN, except Florida, where it's SEX PORN.](https://imgs.xkcd.com/comics/state_word_map.png)
+> "State Word Map", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

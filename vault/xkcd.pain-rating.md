@@ -2,7 +2,7 @@
 id: xkcd.pain-rating
 title: Pain Rating
 desc: ''
-updated: '1616125521690'
+updated: '1616126764777'
 created: '1302246000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If it were a two or above I wouldn't be able to answer because it would mean a pause in the screaming.](https://imgs.xkcd.com/comics/pain_rating.png)
+> "Pain Rating", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A doctor is carrying a clipboard and consulting with a patient, who's sitting on a high medical table.]]

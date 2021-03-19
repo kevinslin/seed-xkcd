@@ -2,7 +2,7 @@
 id: xkcd.never
 title: Never
 desc: ''
-updated: '1616125521373'
+updated: '1616126764620'
 created: '1334300400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'll never forget you--at least, the parts of you that were important red flags.](https://imgs.xkcd.com/comics/never.png)
+> "Never", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person staring into a pond]]

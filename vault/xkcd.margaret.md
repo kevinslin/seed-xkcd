@@ -2,7 +2,7 @@
 id: xkcd.margaret
 title: Margaret
 desc: ''
-updated: '1616125521459'
+updated: '1616126764511'
 created: '1435561200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.](https://imgs.xkcd.com/comics/margaret.png)
+> "Margaret", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A single woman, MARGARET, speaks alone, in the darkness.]]

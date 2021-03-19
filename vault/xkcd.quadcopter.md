@@ -2,7 +2,7 @@
 id: xkcd.quadcopter
 title: Quadcopter
 desc: ''
-updated: '1616125521409'
+updated: '1616126764560'
 created: '1452844800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I always have to turn off nature documentaries when they show these scenes.](https://imgs.xkcd.com/comics/quadcopter.png)
+> "Quadcopter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure holding a phone is talking to a woman.]]

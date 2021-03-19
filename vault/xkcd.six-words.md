@@ -2,7 +2,7 @@
 id: xkcd.six-words
 title: Six Words
 desc: ''
-updated: '1616125521396'
+updated: '1616126764432'
 created: '1375081200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ahem. We are STRICTLY an Orbiter shop.](https://imgs.xkcd.com/comics/six_words.png)
+> "Six Words", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The six words you *never* say at NASA:

@@ -2,7 +2,7 @@
 id: xkcd.tween-bromance
 title: Tween Bromance
 desc: ''
-updated: '1616125521700'
+updated: '1616126764785'
 created: '1309503600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Verbiage. Va-jay-jay. Irregardless.](https://imgs.xkcd.com/comics/tween_bromance.png)
+> "Tween Bromance", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: Verbiage. Va-jay-jay. Irregardless.}}

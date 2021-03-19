@@ -2,7 +2,7 @@
 id: xkcd.period
 title: Period
 desc: ''
-updated: '1616125521616'
+updated: '1616126764727'
 created: '1244444400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![413 nanohertz, by the way.](https://imgs.xkcd.com/comics/period.png)
+> "Period", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Voice: Ugh. Stupid uterus.

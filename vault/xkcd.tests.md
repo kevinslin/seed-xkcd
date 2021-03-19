@@ -2,7 +2,7 @@
 id: xkcd.tests
 title: Tests
 desc: ''
-updated: '1616125521428'
+updated: '1616126764409'
 created: '1356336000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In fact, one of the boxes is full of Staphylococcus. The wrapping paper is coated in E. coli, though, so it's an understandable mistake. You know, we should really stop accepting gifts from that guy.](https://imgs.xkcd.com/comics/tests.png)
+> "Tests", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman stands next to a Christmas tree with presents underneath it. She has a bucket full of pink liquid next to her, and a bucket full of purple liquid in her hands.]]

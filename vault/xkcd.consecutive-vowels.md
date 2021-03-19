@@ -2,7 +2,7 @@
 id: xkcd.consecutive-vowels
 title: Consecutive Vowels
 desc: ''
-updated: '1616125521669'
+updated: '1616126764772'
 created: '1296201600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![But the windows! What if there's a voyeur watchi-- wait, now I'm turned on too.](https://imgs.xkcd.com/comics/consecutive_vowels.png)
+> "Consecutive Vowels", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 He: I was running a factor analysis on this huge database, and check out what it found:

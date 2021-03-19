@@ -2,7 +2,7 @@
 id: xkcd.indecision
 title: Indecision
 desc: ''
-updated: '1616125521569'
+updated: '1616126764658'
 created: '1192604400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, I don't make the rules.  It's in the book.](https://imgs.xkcd.com/comics/indecision.png)
+> "Indecision", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 First Guy: So, what do you want to do?

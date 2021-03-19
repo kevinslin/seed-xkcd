@@ -2,7 +2,7 @@
 id: xkcd.hitler
 title: Hitler
 desc: ''
-updated: '1616125521346'
+updated: '1616126764368'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![So he's saying that God thought Hitler's art was so bad that the Holocaust was an acceptable alternative.  It's no secret that the hat guy is closely based on Aram, from Men in Hats.](https://imgs.xkcd.com/comics/hitler.jpg)
+> "Hitler", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Learning about the Holocaust has really shaken my belief in God.

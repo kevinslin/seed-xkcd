@@ -2,7 +2,7 @@
 id: xkcd.doors-of-durin
 title: Doors of Durin
 desc: ''
-updated: '1616125521392'
+updated: '1616126764426'
 created: '1369810800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If we get the doors open and plug up the dam on the Sirannon so the water rises a little, the pool will start draining into Moria. How do you think the Watcher would fare against a drenched Balrog?](https://imgs.xkcd.com/comics/doors_of_durin.png)
+> "Doors of Durin", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three people stand facing what we can assume are the Doors of Durin (not pictured). One has a hat, one has hair, the other has neither.]]

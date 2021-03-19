@@ -2,7 +2,7 @@
 id: xkcd.converting-to-metric
 title: Converting to Metric
 desc: ''
-updated: '1616125521607'
+updated: '1616126764709'
 created: '1231142400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.](https://imgs.xkcd.com/comics/converting_to_metric.png)
+> "Converting to Metric", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Guide to Converting to Metric

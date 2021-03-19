@@ -2,7 +2,7 @@
 id: xkcd.beliefs
 title: Beliefs
 desc: ''
-updated: '1616125521327'
+updated: '1616126764465'
 created: '1157698800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Scientists are also sexy, let's not forget that.](https://imgs.xkcd.com/comics/beliefs.jpg)
+> "Beliefs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl and man stand together, with another figure in the distance]]

@@ -2,7 +2,7 @@
 id: xkcd.outbreak
 title: Outbreak
 desc: ''
-updated: '1616125521646'
+updated: '1616126764698'
 created: '1272610800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Let's get dinner after we promptly destroy all the X-7 we've manufactured.](https://imgs.xkcd.com/comics/outbreak.png)
+> "Outbreak", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The outbreak started with Patient Zero ...

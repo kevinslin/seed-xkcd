@@ -2,7 +2,7 @@
 id: xkcd.loop
 title: Loop
 desc: ''
-updated: '1616125521439'
+updated: '1616126764527'
 created: '1408690800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ugh, today's kids are forgetting the old-fashioned art of absentmindedly reading the same half-page of a book over and over and then letting your attention wander and picking up another book.](https://imgs.xkcd.com/comics/loop.png)
+> "Loop", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a desk with a monitor and a laptop on it. The figure is holding a tablet and a smartphone.]]

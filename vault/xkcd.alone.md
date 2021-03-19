@@ -2,7 +2,7 @@
 id: xkcd.alone
 title: Alone
 desc: ''
-updated: '1616125521556'
+updated: '1616126764647'
 created: '1184310000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Worries assuaged, the numbers become less important than your touches.](https://imgs.xkcd.com/comics/alone.png)
+> "Alone", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl crawling on bed toward boy

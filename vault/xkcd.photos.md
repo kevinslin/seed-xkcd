@@ -2,7 +2,7 @@
 id: xkcd.photos
 title: Photos
 desc: ''
-updated: '1616125521500'
+updated: '1616126764480'
 created: '1389168000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hate when people take photos of their meal instead of eating it, because there's nothing I love more than the sound of other people chewing.](https://imgs.xkcd.com/comics/photos.png)
+> "Photos", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man in a hat stands next to another figure on a roof. There's a sunset; in the distance, there are three people taking photos of the skyline as the sun sets.]]

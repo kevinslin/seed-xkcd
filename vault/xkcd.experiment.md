@@ -2,7 +2,7 @@
 id: xkcd.experiment
 title: Experiment
 desc: ''
-updated: '1616125521625'
+updated: '1616126764745'
 created: '1259568000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The other two are still lost on the infinite plane of uniform density.](https://imgs.xkcd.com/comics/experiment.png)
+> "Experiment", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Darkness.]]

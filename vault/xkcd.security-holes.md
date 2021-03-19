@@ -2,7 +2,7 @@
 id: xkcd.security-holes
 title: Security Holes
 desc: ''
-updated: '1616125521588'
+updated: '1616126764676'
 created: '1210921200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![True story: I had to try several times to upload this comic because my ssh key was blacklisted.](https://imgs.xkcd.com/comics/security_holes.png)
+> "Security Holes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man sitting at computer]]I'll just comment out these lines...

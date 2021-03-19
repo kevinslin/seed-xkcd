@@ -2,7 +2,7 @@
 id: xkcd.journal-2
 title: Journal 2
 desc: ''
-updated: '1616125521581'
+updated: '1616126764668'
 created: '1201680000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That's my hat!  You took my hat!](https://imgs.xkcd.com/comics/journal_2.png)
+> "Journal 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hatguy and a girl are sitting in a train across from each other. Hatguy is writing in a journal.]]

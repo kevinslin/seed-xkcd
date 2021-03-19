@@ -2,7 +2,7 @@
 id: xkcd.immune-system
 title: Immune System
 desc: ''
-updated: '1616125521508'
+updated: '1616126764594'
 created: '1508914800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It also helps with negotiation. "Look, if it were up to me, *I'd* accept your offer, but my swarm of autonomous killer cells literally can't be reasoned with. It's out of my hands!"](https://imgs.xkcd.com/comics/immune_system.png)
+> "Immune System", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

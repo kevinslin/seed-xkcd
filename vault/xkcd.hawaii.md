@@ -2,7 +2,7 @@
 id: xkcd.hawaii
 title: Hawaii
 desc: ''
-updated: '1616125521516'
+updated: '1616126764605'
 created: '1516780800000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Ok, I've got it, just need to plug in my security key. Hmm, which way does the USB go? Nope, not that way. I'll just flip it and– OH JEEZ IT FELL INTO THE VENT.](https://imgs.xkcd.com/comics/hawaii.png)
+> "Hawaii", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

@@ -2,7 +2,7 @@
 id: xkcd.los-alamos
 title: Los Alamos
 desc: ''
-updated: '1616125521655'
+updated: '1616126764767'
 created: '1287730800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.](https://imgs.xkcd.com/comics/los_alamos.png)
+> "Los Alamos", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Three stick figures stand in front of a few graphs and scientific looking pictures. One of them has hair.]]

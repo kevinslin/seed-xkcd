@@ -2,7 +2,7 @@
 id: xkcd.dna
 title: DNA
 desc: ''
-updated: '1616125521406'
+updated: '1616126764557'
 created: '1447833600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.](https://imgs.xkcd.com/comics/dna.png)
+> "DNA", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 White Hat Guy: Biology is largely solved. DNA is the source code for our bodies. Now that gene sequencing is easy, we just have to read it.

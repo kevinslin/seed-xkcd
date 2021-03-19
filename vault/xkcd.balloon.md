@@ -2,7 +2,7 @@
 id: xkcd.balloon
 title: Balloon
 desc: ''
-updated: '1616125521317'
+updated: '1616126764458'
 created: '1151478000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![So I'm a bad person.](https://imgs.xkcd.com/comics/balloon.png)
+> "Balloon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 I watched the scene in the restaurant for a full fifteen minutes hoping this would happen:

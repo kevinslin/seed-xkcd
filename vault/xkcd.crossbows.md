@@ -2,7 +2,7 @@
 id: xkcd.crossbows
 title: Crossbows
 desc: ''
-updated: '1616125521612'
+updated: '1616126764714'
 created: '1238742000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hate being the slowest guy in the lab.](https://imgs.xkcd.com/comics/crossbows.png)
+> "Crossbows", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man 1 is pulling a crossbow out of a desk]]

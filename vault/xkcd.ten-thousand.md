@@ -2,7 +2,7 @@
 id: xkcd.ten-thousand
 title: Ten Thousand
 desc: ''
-updated: '1616125521375'
+updated: '1616126764622'
 created: '1336546800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.](https://imgs.xkcd.com/comics/ten_thousand.png)
+> "Ten Thousand", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 I try not to make fun of people for admitting they don't know things.

@@ -2,7 +2,7 @@
 id: xkcd.engineering-hubris
 title: Engineering Hubris
 desc: ''
-updated: '1616125521567'
+updated: '1616126764656'
 created: '1190358000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Chuck Jones is a vengeful god.](https://imgs.xkcd.com/comics/engineering_hubris.png)
+> "Engineering Hubris", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Landscape in the background, canyon with a winding road ]]

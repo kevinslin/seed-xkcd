@@ -2,7 +2,7 @@
 id: xkcd.keyboards-are-disgusting
 title: Keyboards are Disgusting
 desc: ''
-updated: '1616125521531'
+updated: '1616126764639'
 created: '1174287600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Alternate method: convince them to pretend it's an Etch-a-Sketch and try to erase it.](https://imgs.xkcd.com/comics/keyboards_are_disgusting.png)
+> "Keyboards are Disgusting", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{title text: Keyboards are Disgusting}}

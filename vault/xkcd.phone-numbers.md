@@ -2,7 +2,7 @@
 id: xkcd.phone-numbers
 title: Phone Numbers
 desc: ''
-updated: '1616125521483'
+updated: '1616126764552'
 created: '1485158400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Texting should work. Unless the message is too long, in which case it gets converted to voicemails, and I think I'm locked out of my voicemail.](https://imgs.xkcd.com/comics/phone_numbers.png)
+> "Phone Numbers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

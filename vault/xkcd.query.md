@@ -2,7 +2,7 @@
 id: xkcd.query
 title: Query
 desc: ''
-updated: '1616125521439'
+updated: '1616126764527'
 created: '1408345200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![SELECT * FROM GHOSTS](https://imgs.xkcd.com/comics/query.png)
+> "Query", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: SELECT * FROM GHOSTS}}

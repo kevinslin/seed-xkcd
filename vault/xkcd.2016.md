@@ -2,7 +2,7 @@
 id: xkcd.2016
 title: '2016'
 desc: ''
-updated: '1616125521408'
+updated: '1616126764560'
 created: '1451635200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Want to feel old? Wait.](https://imgs.xkcd.com/comics/2016.png)
+> "2016", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure and two women stand on a hill around two bare trees.]]

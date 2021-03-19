@@ -2,7 +2,7 @@
 id: xkcd.collatz-conjecture
 title: Collatz Conjecture
 desc: ''
-updated: '1616125521644'
+updated: '1616126764691'
 created: '1267776000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.](https://imgs.xkcd.com/comics/collatz_conjecture.png)
+> "Collatz Conjecture", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person sits in a chair at a desk, papers piled on top, writing furiously. Depicted above are apparently the writing, a series of nodes in various Collatz sequences (starting with 7, 21, 24, 29, 106, 176 and 256), all eventually leading back to 1.]]

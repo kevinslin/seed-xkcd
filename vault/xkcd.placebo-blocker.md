@@ -2,7 +2,7 @@
 id: xkcd.placebo-blocker
 title: Placebo Blocker
 desc: ''
-updated: '1616125521457'
+updated: '1616126764506'
 created: '1431932400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.](https://imgs.xkcd.com/comics/placebo_blocker.png)
+> "Placebo Blocker", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures, one is monologuing]]

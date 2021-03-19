@@ -2,7 +2,7 @@
 id: xkcd.frogger
 title: Frogger
 desc: ''
-updated: '1616125521649'
+updated: '1616126764702'
 created: '1280300400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.](https://imgs.xkcd.com/comics/frogger.png)
+> "Frogger", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Frogger is standing by the side of the road, looking out into traffic, which includes several semis and a couple sedans.]]

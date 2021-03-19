@@ -2,7 +2,7 @@
 id: xkcd.food-rule
 title: Food Rule
 desc: ''
-updated: '1616125521468'
+updated: '1616126764522'
 created: '1444201200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.](https://imgs.xkcd.com/comics/food_rule.png)
+> "Food Rule", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Title: My food rule

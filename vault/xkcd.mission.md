@@ -2,7 +2,7 @@
 id: xkcd.mission
 title: Mission
 desc: ''
-updated: '1616125521591'
+updated: '1616126764683'
 created: '1216623600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Don't you know?  The chances of a random object being a scone are about one in six.](https://imgs.xkcd.com/comics/mission.png)
+> "Mission", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two figures, one in a beret, are rappelling down separate ropes into the interior workings of a large machine]]

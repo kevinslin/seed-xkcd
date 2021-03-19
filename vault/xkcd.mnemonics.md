@@ -2,7 +2,7 @@
 id: xkcd.mnemonics
 title: Mnemonics
 desc: ''
-updated: '1616125521712'
+updated: '1616126764801'
 created: '1324281600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).](https://imgs.xkcd.com/comics/mnemonics.png)
+> "Mnemonics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 XKCD Presents: Some New Science Mnemonics

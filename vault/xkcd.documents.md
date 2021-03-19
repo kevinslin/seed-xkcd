@@ -2,7 +2,7 @@
 id: xkcd.documents
 title: Documents
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1418371200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled.doc](https://imgs.xkcd.com/comics/documents.png)
+> "Documents", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[White Hat Guy sits at a desk and types at a computer. Stick Guy looks over his shoulder. A balloon shows a list of documents on the screen:

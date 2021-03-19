@@ -2,7 +2,7 @@
 id: xkcd.weekend
 title: Weekend
 desc: ''
-updated: '1616125521382'
+updated: '1616126764625'
 created: '1340607600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Of the two Garfields, you wouldn't think the cat would turn out to be the more compelling presidential speechwriter, but there you go.](https://imgs.xkcd.com/comics/weekend.png)
+> "Weekend", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands at a podium before a very large crowd.]]

@@ -2,7 +2,7 @@
 id: xkcd.going-west
 title: Going West
 desc: ''
-updated: '1616125521599'
+updated: '1616126764688'
 created: '1224054000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Listen, they request that you stop submitting a listing for your house labeled 'WHERE YOU BROKE MY HEART'.](https://imgs.xkcd.com/comics/going_west.png)
+> "Going West", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man and woman are talking, and the man is walking away from the woman. Woman is holding a an open envelope]]

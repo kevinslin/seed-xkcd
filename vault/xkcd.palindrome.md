@@ -2,7 +2,7 @@
 id: xkcd.palindrome
 title: Palindrome
 desc: ''
-updated: '1616125521410'
+updated: '1616126764561'
 created: '1453276800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hope that somewhere in the world, "Panamax" is the last option on a "size" drop-down menu on a sex toy site.](https://imgs.xkcd.com/comics/palindrome.png)
+> "Palindrome", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure with a quadcopter next to him stands addressing a group of three students.]]

@@ -2,7 +2,7 @@
 id: xkcd.still-raw
 title: Still Raw
 desc: ''
-updated: '1616125521597'
+updated: '1616126764686'
 created: '1220857200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)](https://imgs.xkcd.com/comics/still_raw.png)
+> "Still Raw", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man laying on sidewalk outside a house, surrounded by his belongings]]

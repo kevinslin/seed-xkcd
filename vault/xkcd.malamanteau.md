@@ -2,7 +2,7 @@
 id: xkcd.malamanteau
 title: Malamanteau
 desc: ''
-updated: '1616125521647'
+updated: '1616126764699'
 created: '1273647600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.](https://imgs.xkcd.com/comics/malamanteau.png)
+> "Malamanteau", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The strip is set up as the top of a Wikipedia page.))

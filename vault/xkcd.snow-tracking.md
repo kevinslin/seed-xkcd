@@ -2,7 +2,7 @@
 id: xkcd.snow-tracking
 title: Snow Tracking
 desc: ''
-updated: '1616125521629'
+updated: '1616126764749'
 created: '1266220800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I suppose that's more accurately a hare dryer.](https://imgs.xkcd.com/comics/snow_tracking.png)
+> "Snow Tracking", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 BACKYARD SNOW TRACKING GUIDE

@@ -2,7 +2,7 @@
 id: xkcd.goto
 title: goto
 desc: ''
-updated: '1616125521556'
+updated: '1616126764648'
 created: '1184914800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Neal Stephenson thinks it's cute to name his labels 'dengo'](https://imgs.xkcd.com/comics/goto.png)
+> "goto", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man sits at computer, thinking]]

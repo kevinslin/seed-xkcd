@@ -2,7 +2,7 @@
 id: xkcd.savannah-ancestry
 title: Savannah Ancestry
 desc: ''
-updated: '1616125521650'
+updated: '1616126764702'
 created: '1280905200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![She's a perfectly nice lady from a beautiful city, and there's no reason to be mean just because she thinks a quarterback is a river in Egypt.](https://imgs.xkcd.com/comics/savannah_ancestry.png)
+> "Savannah Ancestry", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and woman are at a blackboard with equations and graphs on it.]]

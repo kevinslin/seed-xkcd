@@ -2,7 +2,7 @@
 id: xkcd.simple
 title: Simple
 desc: ''
-updated: '1616125521610'
+updated: '1616126764712'
 created: '1235376000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Actually, I think if all higher math professors had to write for the Simple English Wikipedia for a year, we'd be in much better shape academically.](https://imgs.xkcd.com/comics/simple.png)
+> "Simple", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man points to a diagram of a particle accelerator]]

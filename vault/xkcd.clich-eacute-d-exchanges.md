@@ -2,7 +2,7 @@
 id: xkcd.clich-eacute-d-exchanges
 title: Clich&eacute;d Exchanges
 desc: ''
-updated: '1616125521549'
+updated: '1616126764642'
 created: '1178694000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's like they say, you gotta fight fire with clich&eacute;s.](https://imgs.xkcd.com/comics/cliched_exchanges.png)
+> "Clich&eacute;d Exchanges", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: MY HOBBY: DERAILING CLICHÉD EXCHANGES BY USING THE WRONG REPLIES

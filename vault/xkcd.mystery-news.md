@@ -2,7 +2,7 @@
 id: xkcd.mystery-news
 title: Mystery News
 desc: ''
-updated: '1616125521402'
+updated: '1616126764448'
 created: '1382338800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!](https://imgs.xkcd.com/comics/mystery_news.png)
+> "Mystery News", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a laptop.]]

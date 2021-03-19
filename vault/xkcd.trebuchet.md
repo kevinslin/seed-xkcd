@@ -2,7 +2,7 @@
 id: xkcd.trebuchet
 title: Trebuchet
 desc: ''
-updated: '1616125521582'
+updated: '1616126764669'
 created: '1202716800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.](https://imgs.xkcd.com/comics/trebuchet.png)
+> "Trebuchet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is working on something on a table, and a woman is sitting at a computer]]

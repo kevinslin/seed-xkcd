@@ -2,7 +2,7 @@
 id: xkcd.famous-duos
 title: Famous Duos
 desc: ''
-updated: '1616125521412'
+updated: '1616126764563'
 created: '1456473600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Romeo and Butt-Head film actually got two thumbs up from Siskel and Oates.](https://imgs.xkcd.com/comics/famous_duos.png)
+> "Famous Duos", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Alone at a desk. Our hero.]]

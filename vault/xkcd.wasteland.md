@@ -2,7 +2,7 @@
 id: xkcd.wasteland
 title: Wasteland
 desc: ''
-updated: '1616125521572'
+updated: '1616126764660'
 created: '1193382000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You make forgetting look so easy.](https://imgs.xkcd.com/comics/wasteland.png)
+> "Wasteland", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy is walking through a wasteland talking to himself]]

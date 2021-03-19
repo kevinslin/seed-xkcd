@@ -2,7 +2,7 @@
 id: xkcd.fiction-rule-of-thumb
 title: Fiction Rule of Thumb
 desc: ''
-updated: '1616125521598'
+updated: '1616126764687'
 created: '1222844400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I'm looking at you, Anathem.](https://imgs.xkcd.com/comics/fiction_rule_of_thumb.png)
+> "Fiction Rule of Thumb", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Line graph shown with an inverse curve]] 

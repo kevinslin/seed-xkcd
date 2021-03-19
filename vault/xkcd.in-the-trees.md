@@ -2,7 +2,7 @@
 id: xkcd.in-the-trees
 title: In the Trees
 desc: ''
-updated: '1616125521355'
+updated: '1616126764382'
 created: '1141372800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It was tricky.](https://imgs.xkcd.com/comics/in_the_trees.jpg)
+> "In the Trees", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man standing in forest]]

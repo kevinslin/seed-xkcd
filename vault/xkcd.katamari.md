@@ -2,7 +2,7 @@
 id: xkcd.katamari
 title: Katamari
 desc: ''
-updated: '1616125521357'
+updated: '1616126764385'
 created: '1143792000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'](https://imgs.xkcd.com/comics/katamari.jpg)
+> "Katamari", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl stands on the left.  A man is sitting on the floor with a game controller in his hand.  He is looking at a TV on the floor connected to a game console, also on the floor.]]

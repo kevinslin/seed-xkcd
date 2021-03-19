@@ -2,7 +2,7 @@
 id: xkcd.the-flake-equation
 title: The Flake Equation
 desc: ''
-updated: '1616125521645'
+updated: '1616126764693'
 created: '1269414000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.](https://imgs.xkcd.com/comics/the_flake_equation.png)
+> "The Flake Equation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Panel consists of a large equation with call-out text indicating what each variable indicates))

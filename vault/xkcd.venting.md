@@ -2,7 +2,7 @@
 id: xkcd.venting
 title: Venting
 desc: ''
-updated: '1616125521586'
+updated: '1616126764673'
 created: '1207292400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![P.P.S. I can kill you with my brain.](https://imgs.xkcd.com/comics/venting.png)
+> "Venting", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Above frame]]  When I need to blow off steam, I find a particularly stupid blog comment and reply with an exhaustively researched word-by-word rebuttal, which I sign "Summer Glau".

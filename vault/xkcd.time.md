@@ -2,7 +2,7 @@
 id: xkcd.time
 title: Time
 desc: ''
-updated: '1616125521435'
+updated: '1616126764418'
 created: '1364194800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The end.](https://imgs.xkcd.com/comics/time.png)
+> "Time", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This comic changed periodically for a series of over 3000 frames, progressing through a story involving many characters. The following description is only the final frame, which continues to be displayed now that the sequence is finished.))

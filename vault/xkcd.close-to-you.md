@@ -2,7 +2,7 @@
 id: xkcd.close-to-you
 title: Close to You
 desc: ''
-updated: '1616125521575'
+updated: '1616126764663'
 created: '1195804800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We should probably talk about this before the wedding.](https://imgs.xkcd.com/comics/close_to_you.png)
+> "Close to You", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man: <<Singing>> Why do birds suddenly appear

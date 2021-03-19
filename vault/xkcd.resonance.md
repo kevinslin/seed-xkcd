@@ -2,7 +2,7 @@
 id: xkcd.resonance
 title: Resonance
 desc: ''
-updated: '1616125521529'
+updated: '1616126764637'
 created: '1172476800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's really hard to control the frequency, actually.](https://imgs.xkcd.com/comics/resonance.png)
+> "Resonance", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is sitting at a desk, which is vibrating.]]

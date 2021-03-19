@@ -2,7 +2,7 @@
 id: xkcd.war
 title: War
 desc: ''
-updated: '1616125521649'
+updated: '1616126764702'
 created: '1279695600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They offered to make me a green beret, but I liked my regular one. Although it gets kind of squashed under my helmet.](https://imgs.xkcd.com/comics/war.png)
+> "War", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A soldier is on the ground behind a low wall, writing a letter.]]

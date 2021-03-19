@@ -2,7 +2,7 @@
 id: xkcd.explorers
 title: Explorers
 desc: ''
-updated: '1616125521667'
+updated: '1616126764770'
 created: '1293436800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We're going to have to work together to get over our hangups if we're going to learn to move on Catan's hexagonal grid. It's bad enough that we lost our crew of pawns when we passed within firing range of Battleship.](https://imgs.xkcd.com/comics/explorers.png)
+> "Explorers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A black bishop, Ba3, and a white knight, Nc3, are on a three by three chessboard.  Both are on white squares.  There is a heap of supplies at b2, also a white square.  The chessboard is mounted on rockets and appears to be flying through the air.]]

@@ -2,7 +2,7 @@
 id: xkcd.romantic-drama-equation
 title: Romantic Drama Equation
 desc: ''
-updated: '1616125521528'
+updated: '1616126764635'
 created: '1170057600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Real-life prospective-pairing curves over things like age can get depressing.](https://imgs.xkcd.com/comics/romantic_drama_equation.png)
+> "Romantic Drama Equation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 TV Romantic Drama Equation

@@ -2,7 +2,7 @@
 id: xkcd.the-difference
 title: The Difference
 desc: ''
-updated: '1616125521544'
+updated: '1616126764640'
 created: '1175238000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![How could you choose avoiding a little pain over understanding a magic lightning machine?](https://imgs.xkcd.com/comics/the_difference.png)
+> "The Difference", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man pulls a lever.]]

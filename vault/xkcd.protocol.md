@@ -2,7 +2,7 @@
 id: xkcd.protocol
 title: Protocol
 desc: ''
-updated: '1616125521501'
+updated: '1616126764483'
 created: '1390982400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc.](https://imgs.xkcd.com/comics/protocol.png)
+> "Protocol", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A standing figure is conversing with another figure who is sitting on computer desk chair. Behind the sitting figure is a desk with a flat-panel monitor.]]

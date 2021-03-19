@@ -2,7 +2,7 @@
 id: xkcd.scantron
 title: Scantron
 desc: ''
-updated: '1616125521600'
+updated: '1616126764689'
 created: '1225699200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.](https://imgs.xkcd.com/comics/scantron.png)
+> "Scantron", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A classroom scene. There are two desks, and the front one is occupied by the STUDENT. The TEACHER stands panel right facing the student.]]

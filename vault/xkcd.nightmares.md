@@ -2,7 +2,7 @@
 id: xkcd.nightmares
 title: Nightmares
 desc: ''
-updated: '1616125521583'
+updated: '1616126764671'
 created: '1204272000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Well, *I* think I'm real.  Look at me.  Look at my face.  Cut me and I'll bleed.  What more do you want?  Please don't go.](https://imgs.xkcd.com/comics/nightmares.png)
+> "Nightmares", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When I got used to the regular nightmares, my subconscious got creative.

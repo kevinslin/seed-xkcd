@@ -2,7 +2,7 @@
 id: xkcd.tech-loops
 title: Tech Loops
 desc: ''
-updated: '1616125521467'
+updated: '1616126764521'
 created: '1442559600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.](https://imgs.xkcd.com/comics/tech_loops.png)
+> "Tech Loops", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Flowchart of things which support things. Arrows indicate what supports what.]]

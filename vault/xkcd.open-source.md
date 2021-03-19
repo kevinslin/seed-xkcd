@@ -2,7 +2,7 @@
 id: xkcd.open-source
 title: Open Source
 desc: ''
-updated: '1616125521529'
+updated: '1616126764636'
 created: '1171872000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Later we'll dress up like Big Oil thugs and jump Ralph Nader.](https://imgs.xkcd.com/comics/open_source.png)
+> "Open Source", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man with much facial hair is sleeping on a bed.]]

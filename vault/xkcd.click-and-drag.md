@@ -2,7 +2,7 @@
 id: xkcd.click-and-drag
 title: Click and Drag
 desc: ''
-updated: '1616125521422'
+updated: '1616126764393'
 created: '1348038000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Click and drag.](https://imgs.xkcd.com/comics/click_and_drag.png)
+> "Click and Drag", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character is dangling from a balloon.  All text appears in rectangular bubbles.]]

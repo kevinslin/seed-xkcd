@@ -2,7 +2,7 @@
 id: xkcd.advertising-discovery
 title: Advertising Discovery
 desc: ''
-updated: '1616125521698'
+updated: '1616126764781'
 created: '1306911600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When advertisers figure this out, our only weapon will be blue sharpies and "[disputed]".](https://imgs.xkcd.com/comics/citations.png)
+> "Advertising Discovery", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Advertising discovery:

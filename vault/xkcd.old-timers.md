@@ -2,7 +2,7 @@
 id: xkcd.old-timers
 title: Old-Timers
 desc: ''
-updated: '1616125521377'
+updated: '1616126764623'
 created: '1337583600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You were on the internet before I was born? Well, so was I.](https://imgs.xkcd.com/comics/old_timers.png)
+> "Old-Timers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man with a neck beard types away at his computer screen.]]

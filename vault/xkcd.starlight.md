@@ -2,7 +2,7 @@
 id: xkcd.starlight
 title: Starlight
 desc: ''
-updated: '1616125521655'
+updated: '1616126764767'
 created: '1288162800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.](https://imgs.xkcd.com/comics/starlight.png)
+> "Starlight", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl and beret guy stand under the stars]]

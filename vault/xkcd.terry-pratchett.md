@@ -2,7 +2,7 @@
 id: xkcd.terry-pratchett
 title: Terry Pratchett
 desc: ''
-updated: '1616125521453'
+updated: '1616126764538'
 created: '1426230000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Thank you for teaching us how big our world is by sharing so many of your own.](https://imgs.xkcd.com/comics/terry_pratchett.png)
+> "Terry Pratchett", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The text is written in an italic font, rather than hand-written, like it would be in a book. It goes across the top of the first four panels.))

@@ -2,7 +2,7 @@
 id: xkcd.interdisciplinary
 title: Interdisciplinary
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1276844400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Replace the pendulums with history students and you'll qualify for a grant!](https://imgs.xkcd.com/comics/interdisciplinary.png)
+> "Interdisciplinary", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[2 men and 1 woman stand in the foreground, while in the background, a woman stands on a platform and releases a pendulum hanging from the ceiling toward a man who is running away.]]

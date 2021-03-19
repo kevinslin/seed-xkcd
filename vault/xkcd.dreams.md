@@ -2,7 +2,7 @@
 id: xkcd.dreams
 title: Dreams
 desc: ''
-updated: '1616125521323'
+updated: '1616126764461'
 created: '1154674800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In Connor's second thesis it is stated 'There is no fate but what we make for ourselves.'  Does the routine destroy our creativity or do we lose creativity and fall into the routine?  Anyway, who's up for a road trip!](https://imgs.xkcd.com/comics/dreams.png)
+> "Dreams", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A is standing behind B, who is typing at a computer.]]

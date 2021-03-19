@@ -2,7 +2,7 @@
 id: xkcd.new-pet
 title: New Pet
 desc: ''
-updated: '1616125521587'
+updated: '1616126764674'
 created: '1208761200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![ONE LAPTOP PER HAMSTER!](https://imgs.xkcd.com/comics/new_pet.png)
+> "New Pet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl is placing EEE PC inside hamster ball. Guy scratches head]]

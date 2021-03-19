@@ -2,7 +2,7 @@
 id: xkcd.freedom
 title: Freedom
 desc: ''
-updated: '1616125521644'
+updated: '1616126764691'
 created: '1266998400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sometimes I'm terrified to realize how many options other people have.](https://imgs.xkcd.com/comics/freedom.png)
+> "Freedom", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men face each other, conversing.]]

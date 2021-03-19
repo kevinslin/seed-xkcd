@@ -2,7 +2,7 @@
 id: xkcd.conversation
 title: Conversation
 desc: ''
-updated: '1616125521440'
+updated: '1616126764529'
 created: '1411110000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Later, at home: 'Dear diary: Still can't figure out what to write here ...'](https://imgs.xkcd.com/comics/conversation.png)
+> "Conversation", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure and a woman sit facing each other at a dining table with glasses of wine and a candle on it.]]

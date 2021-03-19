@@ -2,7 +2,7 @@
 id: xkcd.diet-coke-mentos
 title: Diet Coke+Mentos
 desc: ''
-updated: '1616125521574'
+updated: '1616126764662'
 created: '1195459200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The cola+Mentos trick is up there with corn starch+water (vibrating platter optional) in scientific coolness out of common kitchen supplies.](https://imgs.xkcd.com/comics/diet_coke_mentos.png)
+> "Diet Coke+Mentos", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two boys are kneeling down on either side of a coke bottle.]]

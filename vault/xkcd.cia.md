@@ -2,7 +2,7 @@
 id: xkcd.cia
 title: CIA
 desc: ''
-updated: '1616125521701'
+updated: '1616126764787'
 created: '1312182000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...](https://imgs.xkcd.com/comics/cia.png)
+> "CIA", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A television is showing a news anchor.  The inset picture of the news shows Anonymous wearing a monocle and top hat.]]

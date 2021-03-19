@@ -2,7 +2,7 @@
 id: xkcd.arachnoneurology
 title: Arachnoneurology
 desc: ''
-updated: '1616125521425'
+updated: '1616126764404'
 created: '1353052800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![SPIDER PSYCHOLOGY (21st Ed.) is a comprehensive overview of arachnoneurology, neuro-arachnology, forensic arachnology, neuro-arachnoneurology (the study of the brains of spider neurology experts), and arachnoarachnology (the study of too many spiders).](https://imgs.xkcd.com/comics/arachnoneurology.png)
+> "Arachnoneurology", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The artist has a book titled Spider Psychology, and is carefully adjusting one of those things with clips that's used to hold objects in place.]]

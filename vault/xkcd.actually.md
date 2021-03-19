@@ -2,7 +2,7 @@
 id: xkcd.actually
 title: Actually
 desc: ''
-updated: '1616125521500'
+updated: '1616126764482'
 created: '1389945600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.](https://imgs.xkcd.com/comics/actually.png)
+> "Actually", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((The text of the comic is circular. Each statement is followed by the next, wrapping around back to the original speaker. Thus, the speaker chosen to be "first" below is chosen arbitrarily - in this case, the one that is facing upwards on the page.))

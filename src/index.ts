@@ -55,7 +55,7 @@ function toNote(opts: { meta: XKCDResp }): NotePropsV2 {
     var dt = DateTime.local(parseInt(year), parseInt(month), parseInt(day));
     const body = [
         `![${alt}](${img})`,
-        `> "${title}", by Randall Munroe, licensed under CC BY 2.5`,
+        `> "${title}", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License`,
         "",
         "## Transcript",
         transcript

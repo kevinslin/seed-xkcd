@@ -2,7 +2,7 @@
 id: xkcd.wait-for-me
 title: Wait For Me
 desc: ''
-updated: '1616125521353'
+updated: '1616126764378'
 created: '1138694400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Opening dialogue by Scott](https://imgs.xkcd.com/comics/wait_for_me.jpg)
+> "Wait For Me", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman stand facing one another]]

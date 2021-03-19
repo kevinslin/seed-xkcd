@@ -2,7 +2,7 @@
 id: xkcd.humans
 title: Humans
 desc: ''
-updated: '1616125521457'
+updated: '1616126764507'
 created: '1432105200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At this point, if we're going to keep insisting on portraying dinosaurs as featherless because it's "cooler", it's time to apply that same logic to art involving bald eagles.](https://imgs.xkcd.com/comics/humans.png)
+> "Humans", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two hovering robots have an amiable chat]]

@@ -2,7 +2,7 @@
 id: xkcd.the-bdlpswdks-effect
 title: The BDLPSWDKS Effect
 desc: ''
-updated: '1616125521458'
+updated: '1616126764507'
 created: '1432882800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This well-known effect has of course been replicated in countless experiments.](https://imgs.xkcd.com/comics/the_bdlpswdks_effect.png)
+> "The BDLPSWDKS Effect", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person with a ponytail stands in front of a projector screen with an image of a speeding firetruck hurtling toward a person on it. They hold a pointer, and indicate towards the image.]]

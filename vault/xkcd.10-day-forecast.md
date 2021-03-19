@@ -2,7 +2,7 @@
 id: xkcd.10-day-forecast
 title: 10-Day Forecast
 desc: ''
-updated: '1616125521396'
+updated: '1616126764432'
 created: '1375254000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, definitely not; they don't have Amazon Prime.](https://imgs.xkcd.com/comics/10_day_forecast.png)
+> "10-Day Forecast", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a desk using a computer, conversing with an off-screen woman.]]

@@ -2,7 +2,7 @@
 id: xkcd.t-cells
 title: T-Cells
 desc: ''
-updated: '1616125521702'
+updated: '1616126764788'
 created: '1313391600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'](https://imgs.xkcd.com/comics/t_cells.png)
+> "T-Cells", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are standing facing each other, having a conversation. One is holding a laptop.]]

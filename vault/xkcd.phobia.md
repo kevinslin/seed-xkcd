@@ -2,7 +2,7 @@
 id: xkcd.phobia
 title: Phobia
 desc: ''
-updated: '1616125521648'
+updated: '1616126764700'
 created: '1276239600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh God, the tornado picked up snakes!](https://imgs.xkcd.com/comics/phobia.png)
+> "Phobia", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A blonde woman and a brunette woman observe a snake on the ground.]]

@@ -2,7 +2,7 @@
 id: xkcd.stingray-nebula
 title: Stingray Nebula
 desc: ''
-updated: '1616125521668'
+updated: '1616126764771'
 created: '1294992000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Eärendil will patrol the walls of night only until the sun reaches red giant stage, engulfing the Morning Star on his brow. Light and high beauty are passing things as well.](https://imgs.xkcd.com/comics/stingray_nebula.png)
+> "Stingray Nebula", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two white figures are silhouetted against a dark sky.  They're sitting on top of a grassy hill.]]

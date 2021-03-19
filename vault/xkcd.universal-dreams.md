@@ -2,7 +2,7 @@
 id: xkcd.universal-dreams
 title: Universal Dreams
 desc: ''
-updated: '1616125521516'
+updated: '1616126764605'
 created: '1516176000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 !["That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." ](https://imgs.xkcd.com/comics/universal_dreams.png)
+> "Universal Dreams", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

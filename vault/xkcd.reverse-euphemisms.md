@@ -2,7 +2,7 @@
 id: xkcd.reverse-euphemisms
 title: Reverse Euphemisms
 desc: ''
-updated: '1616125521330'
+updated: '1616126764468'
 created: '1160377200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm still waiting for a chance to use 'I have to see a man about a horse'.](https://imgs.xkcd.com/comics/reverse_euphemisms.png)
+> "Reverse Euphemisms", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Hobby:  Reverse Euphemisms

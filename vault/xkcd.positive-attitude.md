@@ -2,7 +2,7 @@
 id: xkcd.positive-attitude
 title: Positive Attitude
 desc: ''
-updated: '1616125521657'
+updated: '1616126764769'
 created: '1291190400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Having a positive attitude is almost tautologically good for your mental health, and extreme stress can hurt your immune system, but that doesn't mean you should feel like shit for feeling like shit.](https://imgs.xkcd.com/comics/positive_attitude.png)
+> "Positive Attitude", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits hunched with his knees drawn up to him on a hospital bed, hooked up to an IV. A friend stands by.]]

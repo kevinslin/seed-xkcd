@@ -2,7 +2,7 @@
 id: xkcd.degree-off
 title: Degree-Off
 desc: ''
-updated: '1616125521456'
+updated: '1616126764506'
 created: '1430722800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'M SORRY, FROM YOUR YEARS OF CONDESCENDING TOWARD THE 'SQUISHY SCIENCES', I ASSUMED YOU'D BE A LITTLE HARDER.](https://imgs.xkcd.com/comics/degree_off.png)
+> "Degree-Off", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A gameshow setting. Three figures stand behind podiums labeled PHYS, BIO, and CHEM, in front of an announcer.]]

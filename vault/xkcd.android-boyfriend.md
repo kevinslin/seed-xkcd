@@ -2,7 +2,7 @@
 id: xkcd.android-boyfriend
 title: Android Boyfriend
 desc: ''
-updated: '1616125521616'
+updated: '1616126764728'
 created: '1245654000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Which is, coincidentally, the most unsettling mantlepiece decoration in my house.](https://imgs.xkcd.com/comics/android_boyfriend.png)
+> "Android Boyfriend", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two couples meet.]]

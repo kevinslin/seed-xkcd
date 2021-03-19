@@ -2,7 +2,7 @@
 id: xkcd.nanobots
 title: Nanobots
 desc: ''
-updated: '1616125521683'
+updated: '1616126764775'
 created: '1298620800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I think the IETF hit the right balance with the 128 bits thing. We can fit MAC addresses in a /64 subnet, and the nanobots will only be able to devour half the planet.](https://imgs.xkcd.com/comics/nanobots.png)
+> "Nanobots", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Scientist and commander are on a space station.]]

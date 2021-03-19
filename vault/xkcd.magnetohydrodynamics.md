@@ -2,7 +2,7 @@
 id: xkcd.magnetohydrodynamics
 title: Magnetohydrodynamics
 desc: ''
-updated: '1616125521493'
+updated: '1616126764581'
 created: '1497596400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Magnetohydrodynamics combines the intuitive nature of Maxwell's equations with the easy solvability of the Navier-Stokes equations. It's so straightforward physicists add "relativistic" or "quantum" just to keep it from getting boring.](https://imgs.xkcd.com/comics/magnetohydrodynamics.png)
+> "Magnetohydrodynamics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

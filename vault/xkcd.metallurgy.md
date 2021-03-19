@@ -2,7 +2,7 @@
 id: xkcd.metallurgy
 title: Metallurgy
 desc: ''
-updated: '1616125521422'
+updated: '1616126764395'
 created: '1348815600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!](https://imgs.xkcd.com/comics/metallurgy.png)
+> "Metallurgy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman stand at the counter of a shop. A man with a beard and a beret stands behind the counter, holding a sword.]]

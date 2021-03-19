@@ -2,7 +2,7 @@
 id: xkcd.vet
 title: Vet
 desc: ''
-updated: '1616125521461'
+updated: '1616126764516'
 created: '1438326000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's probably for the best. Since Roombas are native to North America, it's illegal for Americans to keep them in their houses under the Migratory Bird Treaty Act.](https://imgs.xkcd.com/comics/vet.png)
+> "Vet", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A concerned pet owner at the front of a row of customers in a veterinarian's  office. A tired veterinary assistant performs arbitrage. A pet carrier cage, the sort used to contain a small dog or cat, is on a desk for the vet tech to examine.]]

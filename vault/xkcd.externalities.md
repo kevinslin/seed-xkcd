@@ -2,7 +2,7 @@
 id: xkcd.externalities
 title: Externalities
 desc: ''
-updated: '1616125521436'
+updated: '1616126764418'
 created: '1364799600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![](https://imgs.xkcd.com/comics/externalities.png)
+> "Externalities", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This is a dynamic image with several different mouse-overs. Mouse-overs for specific panels are included in double curly brackets.))

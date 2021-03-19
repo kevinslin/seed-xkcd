@@ -2,7 +2,7 @@
 id: xkcd.simple-answers
 title: Simple Answers
 desc: ''
-updated: '1616125521403'
+updated: '1616126764451'
 created: '1384156800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Will [     ] allow us to better understand each other and thus make war undesirable?' is one that pops up whenever we invent a new communication medium.](https://imgs.xkcd.com/comics/simple_answers.png)
+> "Simple Answers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Simple Answers to the Questions that get asked about every new technology: 

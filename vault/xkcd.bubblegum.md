@@ -2,7 +2,7 @@
 id: xkcd.bubblegum
 title: Bubblegum
 desc: ''
-updated: '1616125521463'
+updated: '1616126764516'
 created: '1438758000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I came here to chew bubblegum and say no more than eighteen words ... and I'm all out of](https://imgs.xkcd.com/comics/bubblegum.png)
+> "Bubblegum", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[BERET GUY stands in a doorway into a dark room, silhouetted against the light]]

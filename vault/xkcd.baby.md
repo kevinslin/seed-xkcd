@@ -2,7 +2,7 @@
 id: xkcd.baby
 title: Baby
 desc: ''
-updated: '1616125521412'
+updated: '1616126764563'
 created: '1456905600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Does it get taller first and then widen, or does it reach full width before getting taller, or alternate, or what?](https://imgs.xkcd.com/comics/baby.png)
+> "Baby", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

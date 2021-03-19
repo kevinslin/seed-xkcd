@@ -2,7 +2,7 @@
 id: xkcd.stories-of-the-past-and-future
 title: Stories of the Past and Future
 desc: ''
-updated: '1616125521452'
+updated: '1616126764537'
 created: '1424851200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Little-known fact: The 'Dawn of Man' opening sequence in 2001 cuts away seconds before the Flintstones theme becomes recognizable.](https://imgs.xkcd.com/comics/stories_of_the_past_and_future.png)
+> "Stories of the Past and Future", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Title: stories of the past and future]]

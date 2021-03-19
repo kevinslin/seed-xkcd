@@ -2,7 +2,7 @@
 id: xkcd.fucking-blue-shells
 title: Fucking Blue Shells
 desc: ''
-updated: '1616125521556'
+updated: '1616126764647'
 created: '1184569200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can evade blue shells in Double Dash, but it is deep magic.](https://imgs.xkcd.com/comics/fucking_blue_shells.png)
+> "Fucking Blue Shells", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Profanity Usage By Cause:

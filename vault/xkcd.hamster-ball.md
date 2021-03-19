@@ -2,7 +2,7 @@
 id: xkcd.hamster-ball
 title: Hamster Ball
 desc: ''
-updated: '1616125521327'
+updated: '1616126764464'
 created: '1157266800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Reportedly, double-walled inflatable balls like this exist somewhere.  Now to find that place.](https://imgs.xkcd.com/comics/hamster_ball.png)
+> "Hamster Ball", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man stands by a genie, whose lower body becomes smoke and trails down to an old-fashioned lamp]]

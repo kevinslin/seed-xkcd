@@ -2,7 +2,7 @@
 id: xkcd.philosophy
 title: Philosophy
 desc: ''
-updated: '1616125521528'
+updated: '1616126764636'
 created: '1170835200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's like the squirt bottle we use with the cat.](https://imgs.xkcd.com/comics/philosophy.png)
+> "Philosophy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl sits on chair, thinking]]

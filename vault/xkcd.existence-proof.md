@@ -2,7 +2,7 @@
 id: xkcd.existence-proof
 title: Existence Proof
 desc: ''
-updated: '1616125521493'
+updated: '1616126764582'
 created: '1498633200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Real analysis is way realer than I expected.](https://imgs.xkcd.com/comics/existence_proof.png)
+> "Existence Proof", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

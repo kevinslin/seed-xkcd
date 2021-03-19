@@ -2,7 +2,7 @@
 id: xkcd.reductionism
 title: Reductionism
 desc: ''
-updated: '1616125521474'
+updated: '1616126764544'
 created: '1474009200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 !["I've noticed you physics people can be a little on the reductionist side." "That's ridiculous. Name ONE reductionist word I've ever said."](https://imgs.xkcd.com/comics/reductionism.png)
+> "Reductionism", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

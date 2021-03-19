@@ -2,7 +2,7 @@
 id: xkcd.frequency
 title: Frequency
 desc: ''
-updated: '1616125521502'
+updated: '1616126764487'
 created: '1392624000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This comic shows estimated average frequency. I wanted to include the pitch drop experiment, but it turns out the gif format has some issues with decade-long loops.](https://imgs.xkcd.com/comics/frequency.png)
+> "Frequency", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A grid of individual text items, five columns wide by ten rows tall. Each describes a particular event, and periodically individual items flash to full opacity before gradually fading again, indicating the average frequency of each occurring.]]

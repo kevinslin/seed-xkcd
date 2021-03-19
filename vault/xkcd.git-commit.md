@@ -2,7 +2,7 @@
 id: xkcd.git-commit
 title: Git Commit
 desc: ''
-updated: '1616125521404'
+updated: '1616126764452'
 created: '1385539200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Merge branch 'asdfasjkfdlas/alkdjf' into sdkjfls-final](https://imgs.xkcd.com/comics/git_commit.png)
+> "Git Commit", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A commit log is shown, each commit having a comment and a relative date.]]

@@ -2,7 +2,7 @@
 id: xkcd.overthinking
 title: Overthinking
 desc: ''
-updated: '1616125521468'
+updated: '1616126764523'
 created: '1445238000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."](https://imgs.xkcd.com/comics/overthinking.png)
+> "Overthinking", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person and White Hat Guy walk along]]

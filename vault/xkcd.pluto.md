@@ -2,7 +2,7 @@
 id: xkcd.pluto
 title: Pluto
 desc: ''
-updated: '1616125521460'
+updated: '1616126764513'
 created: '1436857200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."](https://imgs.xkcd.com/comics/pluto.png)
+> "Pluto", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Title:PLUTO

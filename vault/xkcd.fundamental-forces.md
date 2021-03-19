@@ -2,7 +2,7 @@
 id: xkcd.fundamental-forces
 title: Fundamental Forces
 desc: ''
-updated: '1616125521452'
+updated: '1616126764537'
 created: '1424419200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["Of these four forces, there's one we don't really understand." "Is it the weak force or the strong--" "It's gravity."](https://imgs.xkcd.com/comics/fundamental_forces.png)
+> "Fundamental Forces", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick figure lectures]]

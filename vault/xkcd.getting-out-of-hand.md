@@ -2,7 +2,7 @@
 id: xkcd.getting-out-of-hand
 title: Getting Out of Hand
 desc: ''
-updated: '1616125521572'
+updated: '1616126764660'
 created: '1193209200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wikipedia's role as brain-extension, while a little troubling, is also really cool.](https://imgs.xkcd.com/comics/getting_out_of_hand.png)
+> "Getting Out of Hand", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A couple is in bed in the dark, and the guy reaches out from under the covers to do a Wikipedia search about Foreplay.]]

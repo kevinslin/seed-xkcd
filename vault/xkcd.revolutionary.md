@@ -2,7 +2,7 @@
 id: xkcd.revolutionary
 title: Revolutionary
 desc: ''
-updated: '1616125521626'
+updated: '1616126764745'
 created: '1260777600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.](https://imgs.xkcd.com/comics/revolutionary.png)
+> "Revolutionary", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person: Yes, science is an open process in which a good idea can come from anybody.

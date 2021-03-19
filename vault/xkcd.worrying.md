@@ -2,7 +2,7 @@
 id: xkcd.worrying
 title: Worrying
 desc: ''
-updated: '1616125521447'
+updated: '1616126764534'
 created: '1420185600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.](https://imgs.xkcd.com/comics/worrying.png)
+> "Worrying", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((There's a 2D chart.))

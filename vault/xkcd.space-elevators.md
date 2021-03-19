@@ -2,7 +2,7 @@
 id: xkcd.space-elevators
 title: Space Elevators
 desc: ''
-updated: '1616125521609'
+updated: '1616126764711'
 created: '1233129600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you think space elevators are good, but just too boring and practical, check out the 'space fountain'.](https://imgs.xkcd.com/comics/space_elevators.png)
+> "Space Elevators", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman sit beside a moonlit lake.]]

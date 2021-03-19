@@ -2,7 +2,7 @@
 id: xkcd.infrastructures
 title: Infrastructures
 desc: ''
-updated: '1616125521647'
+updated: '1616126764699'
 created: '1274425200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.](https://imgs.xkcd.com/comics/infrastructures.png)
+> "Infrastructures", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 2003:

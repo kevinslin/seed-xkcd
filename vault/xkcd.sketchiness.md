@@ -2,7 +2,7 @@
 id: xkcd.sketchiness
 title: Sketchiness
 desc: ''
-updated: '1616125521421'
+updated: '1616126764390'
 created: '1346223600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![factory --- spire --- onslaught --- extractor --- judge](https://imgs.xkcd.com/comics/sketchiness.png)
+> "Sketchiness", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A timeline style graph.]]

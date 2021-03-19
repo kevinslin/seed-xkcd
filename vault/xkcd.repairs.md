@@ -2,7 +2,7 @@
 id: xkcd.repairs
 title: Repairs
 desc: ''
-updated: '1616125521524'
+updated: '1616126764612'
 created: '1526454000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I was just disassembling it over the course of five hours so it would fit in the trash more efficiently.](https://imgs.xkcd.com/comics/repairs.png)
+> "Repairs", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

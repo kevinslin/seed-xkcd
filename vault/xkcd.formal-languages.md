@@ -2,7 +2,7 @@
 id: xkcd.formal-languages
 title: Formal Languages
 desc: ''
-updated: '1616125521387'
+updated: '1616126764627'
 created: '1343977200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[audience looks around] 'What just happened?' 'There must be some context we're missing.'](https://imgs.xkcd.com/comics/formal_languages.png)
+> "Formal Languages", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A large banner is hanging over a podium, where a speaker is standing.  A stick figure crashes through the left side of the panel, scattering glass.]]

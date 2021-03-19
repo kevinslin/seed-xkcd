@@ -2,7 +2,7 @@
 id: xkcd.lightsaber
 title: Lightsaber
 desc: ''
-updated: '1616125521442'
+updated: '1616126764530'
 created: '1413183600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.](https://imgs.xkcd.com/comics/lightsaber.png)
+> "Lightsaber", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.}}

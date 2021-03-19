@@ -2,7 +2,7 @@
 id: xkcd.visual-field
 title: Visual Field
 desc: ''
-updated: '1616125521384'
+updated: '1616126764626'
 created: '1341990000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google "stopped clock illusion".](https://imgs.xkcd.com/comics/visual_field.png)
+> "Visual Field", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Your Central Visual Field

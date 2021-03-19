@@ -2,7 +2,7 @@
 id: xkcd.screenshot
 title: Screenshot
 desc: ''
-updated: '1616125521505'
+updated: '1616126764495'
 created: '1401087600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'M PLUGGING IN MY PHONE BUT THE BATTERY ON THE SCREEN ISN'T CHARGING](https://imgs.xkcd.com/comics/screenshot.png)
+> "Screenshot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When someone posts a screenshot of their phone,

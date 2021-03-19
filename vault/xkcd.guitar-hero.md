@@ -2,7 +2,7 @@
 id: xkcd.guitar-hero
 title: Guitar Hero
 desc: ''
-updated: '1616125521355'
+updated: '1616126764381'
 created: '1141200000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And then do it again in a moment now that they're out of Star Power](https://imgs.xkcd.com/comics/guitar_hero.jpg)
+> "Guitar Hero", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[On a stage, a guy with a beard is in the background, holding a microphone. In the center is a guy with an electric guitar. The catwalk has bumps to resemble the tracks of Guitar Hero.]]

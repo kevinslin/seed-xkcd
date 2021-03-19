@@ -2,7 +2,7 @@
 id: xkcd.who
 title: Who?
 desc: ''
-updated: '1616125521491'
+updated: '1616126764581'
 created: '1495609200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Gonna feel even dumber when I realize that all this time he's been talking into a bluetooth thingy and we're not actually friends.](https://imgs.xkcd.com/comics/who.png)
+> "Who?", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

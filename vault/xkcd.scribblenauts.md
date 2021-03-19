@@ -2,7 +2,7 @@
 id: xkcd.scribblenauts
 title: Scribblenauts
 desc: ''
-updated: '1616125521620'
+updated: '1616126764737'
 created: '1253084400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!](https://imgs.xkcd.com/comics/scribblenauts.png)
+> "Scribblenauts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((In Scribblenauts word input format))

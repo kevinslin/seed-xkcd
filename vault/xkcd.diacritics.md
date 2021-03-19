@@ -2,7 +2,7 @@
 id: xkcd.diacritics
 title: Diacritics
 desc: ''
-updated: '1616125521412'
+updated: '1616126764563'
 created: '1456300800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Using diacritics correctly is not my forté.](https://imgs.xkcd.com/comics/diacritics.png)
+> "Diacritics", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A lot of people making toasts]]

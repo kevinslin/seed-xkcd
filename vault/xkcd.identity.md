@@ -2,7 +2,7 @@
 id: xkcd.identity
 title: Identity
 desc: ''
-updated: '1616125521423'
+updated: '1616126764397'
 created: '1350284400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Not sure why I just taught everyone to flawlessly impersonate me to pretty much anyone I know. Just remember to constantly bring up how cool it is that birds are dinosaurs and you'll be set.](https://imgs.xkcd.com/comics/identity.png)
+> "Identity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character is sending a message from their phone.]]

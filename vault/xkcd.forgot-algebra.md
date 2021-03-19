@@ -2,7 +2,7 @@
 id: xkcd.forgot-algebra
 title: Forgot Algebra
 desc: ''
-updated: '1616125521375'
+updated: '1616126764622'
 created: '1335942000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The only things you HAVE to know are how to make enough of a living to stay alive and how to get your taxes done. All the fun parts of life are optional.](https://imgs.xkcd.com/comics/forgot_algebra.png)
+> "Forgot Algebra", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An algebra teacher by the name of Miss Lenhart, a former student, and a bystander.  Miss Lenhart is walking away while the former student shouts at her the following:]]

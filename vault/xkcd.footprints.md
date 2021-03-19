@@ -2,7 +2,7 @@
 id: xkcd.footprints
 title: Footprints
 desc: ''
-updated: '1616125521466'
+updated: '1616126764518'
 created: '1441782000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !["There's one set of foot-p's cause I was totes carrying you, bro!" said Jesus seconds before I punched him.](https://imgs.xkcd.com/comics/footprints.png)
+> "Footprints", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An untitled graph. Horizontal axis: Time. Vertical axis: Sets of footprints. Data points are listed below, in the format NUMBER: EVENT LABEL]]

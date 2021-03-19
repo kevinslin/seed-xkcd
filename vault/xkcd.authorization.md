@@ -2,7 +2,7 @@
 id: xkcd.authorization
 title: Authorization
 desc: ''
-updated: '1616125521390'
+updated: '1616126764421'
 created: '1366182000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Before you say anything, no, I know not to leave my computer sitting out logged in to all my accounts. I have it set up so after a few minutes of inactivity it automatically switches to my brother's.](https://imgs.xkcd.com/comics/authorization.png)
+> "Authorization", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A web chart. In the center is a bubble labeled 'user account on my laptop', connecting from which are the bubbles 'Dropbox', 'photos & files', 'Facebook', 'Gmail', 'Paypal', and 'bank'. These bubbles are also all connected to each other. A seventh bubble is attached to the center bubble, labeled 'admin account'. It is covered in a thick border, spikes, and has a lock between it and the central bubble.]]

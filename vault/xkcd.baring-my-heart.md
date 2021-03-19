@@ -2,7 +2,7 @@
 id: xkcd.baring-my-heart
 title: Baring My Heart
 desc: ''
-updated: '1616125521314'
+updated: '1616126764456'
 created: '1149663600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?](https://imgs.xkcd.com/comics/baring_my_heart.png)
+> "Baring My Heart", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A venn diagram with three sets]]

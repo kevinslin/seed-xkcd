@@ -2,7 +2,7 @@
 id: xkcd.think-logically
 title: Think Logically
 desc: ''
-updated: '1616125521422'
+updated: '1616126764394'
 created: '1348470000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've developed a more logical set of rules but the people on the chess community have a bunch of stupid emotional biases and won't reply to my posts.](https://imgs.xkcd.com/comics/think_logically.png)
+> "Think Logically", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy in a knit hat is sitting at a desk, typing on a laptop. Another guy is looking over his shoulder.]]

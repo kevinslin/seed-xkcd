@@ -2,7 +2,7 @@
 id: xkcd.kickstarter
 title: Kickstarter
 desc: ''
-updated: '1616125521376'
+updated: '1616126764623'
 created: '1336978800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you pledge more than $50 you'll get on the VIP list and have first dibs on a slot on ANY of the pledge levels in the actual campaign.](https://imgs.xkcd.com/comics/kickstarter.png)
+> "Kickstarter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A kickstarter page with zero donations, a target of $5,000, and 90 days to go.  Black Hat Man has posted a video and a description of his project, the first lines of which are visible]]

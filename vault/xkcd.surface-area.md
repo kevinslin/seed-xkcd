@@ -2,7 +2,7 @@
 id: xkcd.surface-area
 title: Surface Area
 desc: ''
-updated: '1616125521507'
+updated: '1616126764499'
 created: '1404284400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.](https://imgs.xkcd.com/comics/surface_area.png)
+> "Surface Area", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.}}

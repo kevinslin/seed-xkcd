@@ -2,7 +2,7 @@
 id: xkcd.national-language
 title: National Language
 desc: ''
-updated: '1616125521358'
+updated: '1616126764385'
 created: '1144047600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![She's pretty sharp when provoked.](https://imgs.xkcd.com/comics/national_language.jpg)
+> "National Language", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 This happened to my friend:

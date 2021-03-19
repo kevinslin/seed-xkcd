@@ -2,7 +2,7 @@
 id: xkcd.feathers
 title: Feathers
 desc: ''
-updated: '1616125521421'
+updated: '1616126764391'
 created: '1346828400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Click to see a video of a modern bird using stability flapping during predatory behavior. It all fits! Also, apparently Microraptor had *four* wings? The past keeps getting cooler! (And there's more of it every day!)](https://imgs.xkcd.com/comics/feathers.png)
+> "Feathers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman approaches a little girl, who is sitting on the floor with a pile of books, once of which she is reading.]]

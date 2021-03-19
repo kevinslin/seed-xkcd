@@ -2,7 +2,7 @@
 id: xkcd.cyberintelligence
 title: Cyberintelligence
 desc: ''
-updated: '1616125521466'
+updated: '1616126764518'
 created: '1441350000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We had gathered that raw information, but had yet to put it all together.](https://imgs.xkcd.com/comics/cyberintelligence.png)
+> "Cyberintelligence", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two scientists look at graphs, intensely!]]

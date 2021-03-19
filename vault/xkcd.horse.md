@@ -2,7 +2,7 @@
 id: xkcd.horse
 title: Horse
 desc: ''
-updated: '1616125521440'
+updated: '1616126764528'
 created: '1410159600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Officer suspended from horse.](https://imgs.xkcd.com/comics/horse.png)
+> "Horse", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 New Favorite Browser Text Replacement:

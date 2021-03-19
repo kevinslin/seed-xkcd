@@ -2,7 +2,7 @@
 id: xkcd.objects-in-mirror
 title: Objects In Mirror
 desc: ''
-updated: '1616125521424'
+updated: '1616126764401'
 created: '1351062000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Universes in mirror, like those in windshield, are larger than they appear.](https://imgs.xkcd.com/comics/objects_in_mirror.png)
+> "Objects In Mirror", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A view of the passenger-side sideview mirror from the inside of the car. A message on the bottom of the mirror reads 'Objects in mirror are bluer than they appear.']]

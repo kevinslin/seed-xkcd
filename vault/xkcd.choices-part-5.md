@@ -2,7 +2,7 @@
 id: xkcd.choices-part-5
 title: 'Choices: Part 5'
 desc: ''
-updated: '1616125521550'
+updated: '1616126764643'
 created: '1180076400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wonder what percentage of not-obviously-busy people on the street would say yes to kite-flying with a stranger.  This looks like a job for Science!](https://imgs.xkcd.com/comics/choices_part_5.png)
+> "Choices: Part 5", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A girl is walking towards the right of the panel.]]

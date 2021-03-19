@@ -2,7 +2,7 @@
 id: xkcd.visited
 title: Visited
 desc: ''
-updated: '1616125521375'
+updated: '1616126764622'
 created: '1336114800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.](https://imgs.xkcd.com/comics/visited.png)
+> "Visited", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((the following is in the standard format of a wikipedia article, modified to reflect the content of the comic))

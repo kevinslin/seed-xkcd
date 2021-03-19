@@ -2,7 +2,7 @@
 id: xkcd.conditionals
 title: Conditionals
 desc: ''
-updated: '1616125521412'
+updated: '1616126764564'
 created: '1457337600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'](https://imgs.xkcd.com/comics/conditionals.png)
+> "Conditionals", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person is confronted with a couple, holding their newborn baby. They think a series of thoughts, each of which are crossed out in the thought bubble.]]

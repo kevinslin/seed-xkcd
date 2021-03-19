@@ -2,7 +2,7 @@
 id: xkcd.writers-strike
 title: Writers Strike
 desc: ''
-updated: '1616125521577'
+updated: '1616126764666'
 created: '1198224000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He's just jealous because everyone's up in the attic listening to Stephen Colbert.](https://imgs.xkcd.com/comics/writers_strike.png)
+> "Writers Strike", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One character sits in front of a computer, Hat Guy behind him]]

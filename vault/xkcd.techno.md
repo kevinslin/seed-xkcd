@@ -2,7 +2,7 @@
 id: xkcd.techno
 title: Techno
 desc: ''
-updated: '1616125521586'
+updated: '1616126764674'
 created: '1208329200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I don't know what's worse -- that there exists broken-hard-drive-sound techno, or that it's not half bad.](https://imgs.xkcd.com/comics/techno.png)
+> "Techno", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy looking over girl's shoulder while girl is clicking her mouse with her other hand on her chin]]

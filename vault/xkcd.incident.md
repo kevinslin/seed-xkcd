@@ -2,7 +2,7 @@
 id: xkcd.incident
 title: Incident
 desc: ''
-updated: '1616125521667'
+updated: '1616126764770'
 created: '1293177600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake.](https://imgs.xkcd.com/comics/incident.png)
+> "Incident", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Someone is sitting at a computer.  The computer's prompt is shown.]]

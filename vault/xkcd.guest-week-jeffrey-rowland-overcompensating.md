@@ -2,7 +2,7 @@
 id: xkcd.guest-week-jeffrey-rowland-overcompensating
 title: 'Guest Week: Jeffrey Rowland (Overcompensating)'
 desc: ''
-updated: '1616125521657'
+updated: '1616126764769'
 created: '1290672000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)
+> "Guest Week: Jeffrey Rowland (Overcompensating)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Jeffrey Rowland and Randall are sitting together, with a globe between them.  Mr. Rowland has a drink with a small umbrella over it.]]

@@ -2,7 +2,7 @@
 id: xkcd.snake-facts
 title: Snake Facts
 desc: ''
-updated: '1616125521507'
+updated: '1616126764500'
 created: '1406098800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Biologically speaking, what we call a 'snake' is actually a human digestive tract which has escaped from its host.](https://imgs.xkcd.com/comics/snake_facts.png)
+> "Snake Facts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Snake Facts:

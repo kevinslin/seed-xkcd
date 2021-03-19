@@ -2,7 +2,7 @@
 id: xkcd.linux-user-at-best-buy
 title: Linux User at Best Buy
 desc: ''
-updated: '1616125521551'
+updated: '1616126764644'
 created: '1180940400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We actually stand around the antivirus displays with the Mac users just waiting for someone to ask.](https://imgs.xkcd.com/comics/linux_user_at_best_buy.png)
+> "Linux User at Best Buy", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Salesman: Interested in updating your antivirus software?

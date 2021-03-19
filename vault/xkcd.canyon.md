@@ -2,7 +2,7 @@
 id: xkcd.canyon
 title: Canyon
 desc: ''
-updated: '1616125521342'
+updated: '1616126764360'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They're standing at the lip of the canyon, which isn't clear at all.](https://imgs.xkcd.com/comics/canyon_small.jpg)
+> "Canyon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men are standing at some kind of cliff edge]]

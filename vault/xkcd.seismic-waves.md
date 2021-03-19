@@ -2,7 +2,7 @@
 id: xkcd.seismic-waves
 title: Seismic Waves
 desc: ''
-updated: '1616125521645'
+updated: '1616126764694'
 created: '1270450800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.](https://imgs.xkcd.com/comics/seismic_waves.png)
+> "Seismic Waves", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When an earthquake hits, people flood the internet with posts about it--some within 20 or 30 seconds.

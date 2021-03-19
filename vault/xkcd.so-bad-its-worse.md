@@ -2,7 +2,7 @@
 id: xkcd.so-bad-its-worse
 title: So Bad It's Worse
 desc: ''
-updated: '1616125521622'
+updated: '1616126764743'
 created: '1256281200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You think it's so legendarily bad that you'll torrent it and sit through it just for the kitschy nerd cred. I, too, once thought as you did.](https://imgs.xkcd.com/comics/so_bad_its_worse.png)
+> "So Bad It's Worse", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Protip: Even at "Bad Movie Night," avoid the Star Wars holiday special.

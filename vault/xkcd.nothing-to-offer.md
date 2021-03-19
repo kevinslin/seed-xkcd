@@ -2,7 +2,7 @@
 id: xkcd.nothing-to-offer
 title: Nothing to Offer
 desc: ''
-updated: '1616125521427'
+updated: '1616126764408'
 created: '1355731200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.](https://imgs.xkcd.com/comics/nothing_to_offer.png)
+> "Nothing to Offer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An old-fashioned radio sits atop a dresser.]]

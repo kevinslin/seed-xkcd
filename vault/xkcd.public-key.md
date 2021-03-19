@@ -2,7 +2,7 @@
 id: xkcd.public-key
 title: Public Key
 desc: ''
-updated: '1616125521460'
+updated: '1616126764515'
 created: '1437375600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I guess I should be signing stuff, but I've never been sure what to sign. Maybe if I post my private key, I can crowdsource my decisions about what to sign.](https://imgs.xkcd.com/comics/public_key.png)
+> "Public Key", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Character sits alone at a desk.. drifting in an infinite white void..]]

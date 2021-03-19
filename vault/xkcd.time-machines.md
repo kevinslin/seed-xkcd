@@ -2,7 +2,7 @@
 id: xkcd.time-machines
 title: Time Machines
 desc: ''
-updated: '1616125521390'
+updated: '1616126764422'
 created: '1366786800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['All time machine systems nominal ... T-minus ten ... eleven ...'](https://imgs.xkcd.com/comics/time_machines.png)
+> "Time Machines", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Problem With Time Machines:

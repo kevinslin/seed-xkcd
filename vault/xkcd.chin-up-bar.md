@@ -2,7 +2,7 @@
 id: xkcd.chin-up-bar
 title: Chin-Up Bar
 desc: ''
-updated: '1616125521704'
+updated: '1616126764796'
 created: '1316588400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.](https://imgs.xkcd.com/comics/chin_up_bar.png)
+> "Chin-Up Bar", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Hat man is standing on an escalator as it ascends. He is carrying a pole with what looks like a bracket on each end, resting on his shoulder. In front of him is a punk with spiked hair and a girl with her hair in a ponytail. Behind him is a featureless person and a man wearing glasses with a goatee standing next to someone with short hair.]]

@@ -2,7 +2,7 @@
 id: xkcd.ultimate-game
 title: Ultimate Game
 desc: ''
-updated: '1616125521583'
+updated: '1616126764671'
 created: '1204876800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![RIP, Gary.](https://imgs.xkcd.com/comics/ultimate_game.png)
+> "Ultimate Game", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Split screen.  Man on office phone in upper left, Death on cell phone in bottom left]]

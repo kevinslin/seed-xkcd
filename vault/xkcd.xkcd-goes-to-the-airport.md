@@ -2,7 +2,7 @@
 id: xkcd.xkcd-goes-to-the-airport
 title: xkcd Goes to the Airport
 desc: ''
-updated: '1616125521589'
+updated: '1616126764677'
 created: '1212994800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Under three ounces, but it stains panties.](https://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png)
+> "xkcd Goes to the Airport", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Standing outside the Airport. There is a sign saying "Airport" and a plane in the background.]]

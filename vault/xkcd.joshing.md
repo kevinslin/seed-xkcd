@@ -2,7 +2,7 @@
 id: xkcd.joshing
 title: Joshing
 desc: ''
-updated: '1616125521644'
+updated: '1616126764691'
 created: '1267171200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You'll be moved up from 49 of ~7 billion to 31 of ~7 billion.](https://imgs.xkcd.com/comics/joshing.png)
+> "Joshing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two men converse.]]

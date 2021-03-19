@@ -2,7 +2,7 @@
 id: xkcd.supreme-court
 title: Supreme Court
 desc: ''
-updated: '1616125521406'
+updated: '1616126764558'
 created: '1448265600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."](https://imgs.xkcd.com/comics/supreme_court.png)
+> "Supreme Court", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A news reader sits at a desk. A graphic of the Scales of Justice floats beside her head.]]

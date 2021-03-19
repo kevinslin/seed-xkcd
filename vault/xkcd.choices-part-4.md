@@ -2,7 +2,7 @@
 id: xkcd.choices-part-4
 title: 'Choices: Part 4'
 desc: ''
-updated: '1616125521550'
+updated: '1616126764643'
 created: '1179990000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Making out with yourself: now an official xkcd theme?  Troubling.](https://imgs.xkcd.com/comics/choices_part_4.jpg)
+> "Choices: Part 4", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl in bubble, floating in outer space next to her clone]]

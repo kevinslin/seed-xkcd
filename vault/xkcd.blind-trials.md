@@ -2,7 +2,7 @@
 id: xkcd.blind-trials
 title: Blind Trials
 desc: ''
-updated: '1616125521446'
+updated: '1616126764534'
 created: '1418976000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Plus, you have to control for the fact that some people are into being blindfolded.](https://imgs.xkcd.com/comics/blind_trials.png)
+> "Blind Trials", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A human stands on a stage, pointing at a projected display.]]

@@ -2,7 +2,7 @@
 id: xkcd.turing-test
 title: Turing Test
 desc: ''
-updated: '1616125521569'
+updated: '1616126764658'
 created: '1192431600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hit Turing right in the test-ees.](https://imgs.xkcd.com/comics/turing_test.png)
+> "Turing Test", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at a computer connected through a wall to another computer.]]

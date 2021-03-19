@@ -2,7 +2,7 @@
 id: xkcd.exoplanet-names
 title: Exoplanet Names
 desc: ''
-updated: '1616125521397'
+updated: '1616126764434'
 created: '1376895600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you have any ideas, I hear you can send them to iaupublic@iap.fr.](https://imgs.xkcd.com/comics/exoplanet_names.png)
+> "Exoplanet Names", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 August 2013: The Internation Astronomical Union decides to start naming exoplanets, and - for the first time ever - asks for suggestions from the general public. 

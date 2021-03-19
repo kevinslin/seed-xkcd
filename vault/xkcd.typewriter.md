@@ -2,7 +2,7 @@
 id: xkcd.typewriter
 title: Typewriter
 desc: ''
-updated: '1616125521598'
+updated: '1616126764686'
 created: '1221634800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Somewhere in the world, my actual grandmothers are reading this and angrily exclaiming that I never write even malformed thank-you notes.  DEAR GRANDMOMS: I AM SORRY! YOU ARE WONDERFUL PEOPLE AND THANK YOU FOR EVERYTHING.  LOVE reddit.com RANDALL.](https://imgs.xkcd.com/comics/typewriter.png)
+> "Typewriter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A typewriter is shown with the following letter in it:

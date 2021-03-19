@@ -2,7 +2,7 @@
 id: xkcd.podium
 title: Podium
 desc: ''
-updated: '1616125521413'
+updated: '1616126764565'
 created: '1459148400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![BREAKING: Senator's bold pro-podium stand leads to primary challenge from prescriptivist base.](https://imgs.xkcd.com/comics/podium.png)
+> "Podium", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two women stand in front of a tree with a tire swing on it.]]

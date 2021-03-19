@@ -2,7 +2,7 @@
 id: xkcd.eclipse-review
 title: Eclipse Review
 desc: ''
-updated: '1616125521496'
+updated: '1616126764588'
 created: '1503471600000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.](https://imgs.xkcd.com/comics/eclipse_review.png)
+> "Eclipse Review", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

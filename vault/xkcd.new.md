@@ -2,7 +2,7 @@
 id: xkcd.new
 title: New
 desc: ''
-updated: '1616125521438'
+updated: '1616126764526'
 created: '1406703600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The nice thing about headcannnons is that it's really easy to get other people to believe in them.](https://imgs.xkcd.com/comics/new.png)
+> "New", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black hat guy is walking.]]

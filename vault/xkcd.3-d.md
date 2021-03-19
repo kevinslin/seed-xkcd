@@ -2,7 +2,7 @@
 id: xkcd.3-d
 title: 3D
 desc: ''
-updated: '1616125521668'
+updated: '1616126764771'
 created: '1295251200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.](https://imgs.xkcd.com/comics/3d.png)
+> "3D", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[People are lined up to see a movie.]]

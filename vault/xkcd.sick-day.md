@@ -2,7 +2,7 @@
 id: xkcd.sick-day
 title: Sick Day
 desc: ''
-updated: '1616125521429'
+updated: '1616126764410'
 created: '1357545600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses](https://imgs.xkcd.com/comics/sick_day.png)
+> "Sick Day", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Activities while sick:

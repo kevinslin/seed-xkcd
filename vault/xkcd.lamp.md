@@ -2,7 +2,7 @@
 id: xkcd.lamp
 title: Lamp
 desc: ''
-updated: '1616125521689'
+updated: '1616126764777'
 created: '1301468400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'](https://imgs.xkcd.com/comics/lamp.png)
+> "Lamp", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person stumbles on a lamp, lying on the ground.]]

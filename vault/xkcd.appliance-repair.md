@@ -2,7 +2,7 @@
 id: xkcd.appliance-repair
 title: Appliance Repair
 desc: ''
-updated: '1616125521481'
+updated: '1616126764551'
 created: '1483344000000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[holding up a three-phase motor] As you can see here, the problem is that the humidifier I took this from is broken.](https://imgs.xkcd.com/comics/appliance_repair.png)
+> "Appliance Repair", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

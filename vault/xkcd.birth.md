@@ -2,7 +2,7 @@
 id: xkcd.birth
 title: Birth
 desc: ''
-updated: '1616125521647'
+updated: '1616126764699'
 created: '1275030000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![All those GTA marathons during the pregnancy were a bad idea.](https://imgs.xkcd.com/comics/birth.png)
+> "Birth", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman is giving birth. A doctor stands near the end of the table.]]

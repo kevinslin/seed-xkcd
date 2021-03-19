@@ -2,7 +2,7 @@
 id: xkcd.1337-part-4
 title: '1337: Part 4'
 desc: ''
-updated: '1616125521574'
+updated: '1616126764662'
 created: '1195027200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.](https://imgs.xkcd.com/comics/1337_part_4.png)
+> "1337: Part 4", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 As time passed, Elaine intensified her hacking work, anonymously publishing exploit after exploit.

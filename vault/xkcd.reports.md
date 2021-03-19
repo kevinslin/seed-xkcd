@@ -2,7 +2,7 @@
 id: xkcd.reports
 title: Reports
 desc: ''
-updated: '1616125521392'
+updated: '1616126764426'
 created: '1369983600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If that fails, just multiply every number by a thousand. 'The 2nd St speed limit should be set at 25,000 mph, which would likely have prevented 1,000 of the intersection's 3,000 serious accidents last month.'](https://imgs.xkcd.com/comics/reports.png)
+> "Reports", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 How to make boring technical reports more fun to read: 

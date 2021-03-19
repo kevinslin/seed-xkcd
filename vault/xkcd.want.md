@@ -2,7 +2,7 @@
 id: xkcd.want
 title: Want
 desc: ''
-updated: '1616125521351'
+updated: '1616126764376'
 created: '1137225600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Well, she's pretty hot.](https://imgs.xkcd.com/comics/want.jpg)
+> "Want", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 I want to be brave enough to tell you how I feel.

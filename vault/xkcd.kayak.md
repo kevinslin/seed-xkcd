@@ -2,7 +2,7 @@
 id: xkcd.kayak
 title: Kayak
 desc: ''
-updated: '1616125521527'
+updated: '1616126764633'
 created: '1168588800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Man, there's future *everywhere*.](https://imgs.xkcd.com/comics/kayak.png)
+> "Kayak", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person with beret in a kayak is talking to person on pier.]]

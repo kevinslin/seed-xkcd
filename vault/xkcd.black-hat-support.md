@@ -2,7 +2,7 @@
 id: xkcd.black-hat-support
 title: Black Hat Support
 desc: ''
-updated: '1616125521553'
+updated: '1616126764645'
 created: '1182150000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![So as not to leave you hanging -- it was a problem with select() calls.](https://imgs.xkcd.com/comics/black_hat_support.png)
+> "Black Hat Support", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man - wearing a black hat - is sitting at his computer, wearing a phone headset]]

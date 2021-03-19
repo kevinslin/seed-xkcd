@@ -2,7 +2,7 @@
 id: xkcd.adjectives
 title: Adjectives
 desc: ''
-updated: '1616125521653'
+updated: '1616126764707'
 created: '1285570800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Fucking ineffable' sounds like someone remembering how to do self-censorship halfway through a phrase.](https://imgs.xkcd.com/comics/adjectives.png)
+> "Adjectives", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Frequency with which various adjectives are intensified with obscenities (based on Google hits)

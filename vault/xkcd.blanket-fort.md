@@ -2,7 +2,7 @@
 id: xkcd.blanket-fort
 title: Blanket Fort
 desc: ''
-updated: '1616125521528'
+updated: '1616126764636'
 created: '1170662400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also, we have a fort out in the woods where we stashed that hooker's body.](https://imgs.xkcd.com/comics/blanket_fort.png)
+> "Blanket Fort", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two girls are talking with each other.  There is a fort made of cushions and blankets on the left]]

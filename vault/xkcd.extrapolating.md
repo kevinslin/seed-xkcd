@@ -2,7 +2,7 @@
 id: xkcd.extrapolating
 title: Extrapolating
 desc: ''
-updated: '1616125521617'
+updated: '1616126764732'
 created: '1246604400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![By the third trimester, there will be hundreds of babies inside you.](https://imgs.xkcd.com/comics/extrapolating.png)
+> "Extrapolating", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Hobby: Extrapolating

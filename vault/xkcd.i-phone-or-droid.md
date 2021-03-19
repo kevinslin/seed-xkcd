@@ -2,7 +2,7 @@
 id: xkcd.i-phone-or-droid
 title: iPhone or Droid
 desc: ''
-updated: '1616125521624'
+updated: '1616126764744'
 created: '1258099200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It may be a fundamentally empty experience, but holy crap the Droid's 265 ppi screen is amazing.](https://imgs.xkcd.com/comics/iphone_or_droid.png)
+> "iPhone or Droid", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sitting at her computer is talking to a man standing behind her.]]

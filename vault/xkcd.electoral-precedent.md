@@ -2,7 +2,7 @@
 id: xkcd.electoral-precedent
 title: Electoral Precedent
 desc: ''
-updated: '1616125521423'
+updated: '1616126764397'
 created: '1350457200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![No white guy who's been mentioned on Twitter has gone on to win.](https://imgs.xkcd.com/comics/electoral_precedent.png)
+> "Electoral Precedent", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 The Problem with Statements Like

@@ -2,7 +2,7 @@
 id: xkcd.helping
 title: Helping
 desc: ''
-updated: '1616125521582'
+updated: '1616126764669'
 created: '1202889600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, look, the 'make everything better' button was here behind the bookshelf all along.](https://imgs.xkcd.com/comics/helping.png)
+> "Helping", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 It turns out you can't take responsibility for someone else's happiness.

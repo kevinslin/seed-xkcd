@@ -2,7 +2,7 @@
 id: xkcd.important-life-lesson
 title: Important Life Lesson
 desc: ''
-updated: '1616125521584'
+updated: '1616126764672'
 created: '1206342000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I didn't even know I *had* the Monty Python 'Lumberjack' song.](https://imgs.xkcd.com/comics/important_life_lesson.png)
+> "Important Life Lesson", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Important life lesson: if there's any possibility of sex, do not leave your music library on "shuffle all.

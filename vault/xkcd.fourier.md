@@ -2,7 +2,7 @@
 id: xkcd.fourier
 title: Fourier
 desc: ''
-updated: '1616125521345'
+updated: '1616126764365'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![That cat has some serious periodic components](https://imgs.xkcd.com/comics/fourier.jpg)
+> "Fourier", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Person talks on phone.  Cat with many sharp points looks on. ]]

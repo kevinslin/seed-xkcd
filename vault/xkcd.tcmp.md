@@ -2,7 +2,7 @@
 id: xkcd.tcmp
 title: TCMP
 desc: ''
-updated: '1616125521550'
+updated: '1616126764643'
 created: '1180335600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A big obstacle in experimenting with the mind's dream-simulation-engine is holding onto the details as you wake up.  With TCMP you can bring back any information you want.](https://imgs.xkcd.com/comics/tcmp.png)
+> "TCMP", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two guys and a girl are standing in a room, the first guy holds a keyboard.]]

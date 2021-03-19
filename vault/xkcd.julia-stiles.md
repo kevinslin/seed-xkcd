@@ -2,7 +2,7 @@
 id: xkcd.julia-stiles
 title: Julia Stiles
 desc: ''
-updated: '1616125521320'
+updated: '1616126764460'
 created: '1153292400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!](https://imgs.xkcd.com/comics/julia_stiles.jpg)
+> "Julia Stiles", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Author Comment: The best thing ever to appear on TV: 12-year-old Julia Stiles as a hacker in a 1993 episode of PBS's "Ghostwriter"]]

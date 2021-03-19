@@ -2,7 +2,7 @@
 id: xkcd.substitutions-2
 title: Substitutions 2
 desc: ''
-updated: '1616125521409'
+updated: '1616126764560'
 created: '1451894400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.](https://imgs.xkcd.com/comics/substitutions_2.png)
+> "Substitutions 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((This is like a flowchart. The first line has arrows pointing to all the subsequent lines.))

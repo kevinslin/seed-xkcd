@@ -2,7 +2,7 @@
 id: xkcd.falling-asleep
 title: Falling Asleep
 desc: ''
-updated: '1616125521651'
+updated: '1616126764704'
 created: '1282719600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sweet unintersecting dreams!](https://imgs.xkcd.com/comics/falling_asleep.png)
+> "Falling Asleep", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man gets into bed.]]

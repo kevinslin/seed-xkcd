@@ -2,7 +2,7 @@
 id: xkcd.inexplicable
 title: Inexplicable
 desc: ''
-updated: '1616125521500'
+updated: '1616126764482'
 created: '1389600000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['It has a ghost in it. Take it back.' 'No.'](https://imgs.xkcd.com/comics/inexplicable.png)
+> "Inexplicable", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a desk with a laptop. A woman is off-screen.]]

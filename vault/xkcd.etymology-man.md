@@ -2,7 +2,7 @@
 id: xkcd.etymology-man
 title: Etymology-Man
 desc: ''
-updated: '1616125521365'
+updated: '1616126764614'
 created: '1327910400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['I can't believe I'm saying this, but I wish Aquaman were here instead--HE'D be able to help.'](https://imgs.xkcd.com/comics/etymology_man.png)
+> "Etymology-Man", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: Earthquake!

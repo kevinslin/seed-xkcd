@@ -2,7 +2,7 @@
 id: xkcd.iambic-pentameter
 title: Iambic Pentameter
 desc: ''
-updated: '1616125521357'
+updated: '1616126764384'
 created: '1143014400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Of course, you don't wanna limit yourself to the strict forms of the meter.  That could get pretty difficult.](https://imgs.xkcd.com/comics/iambic_pentameter.jpg)
+> "Iambic Pentameter", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Person 1: What time can you pick Michael up?

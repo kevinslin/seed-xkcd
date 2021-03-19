@@ -2,7 +2,7 @@
 id: xkcd.right-hand-rule
 title: Right-Hand Rule
 desc: ''
-updated: '1616125521337'
+updated: '1616126764476'
 created: '1166601600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To really expand your mind try some noncartesian porn.  Edwin Abbot Abbott has nothing on 'Girls on Girls in Tightly Closed Nonorientable Spaces'.](https://imgs.xkcd.com/comics/right_hand_rule.png)
+> "Right-Hand Rule", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Picture of a right hand with fingers curved, thumb pointed away, with axes drawn to demonstrate the right-hand rule of physics]]

@@ -2,7 +2,7 @@
 id: xkcd.local-g
 title: Local g
 desc: ''
-updated: '1616125521669'
+updated: '1616126764772'
 created: '1296028800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.](https://imgs.xkcd.com/comics/local_g.png)
+> "Local g", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 He: Did you know that because of centrifugal* force and the shape of the Earth, "gravity" can vary by nearly half a percent between major cities?

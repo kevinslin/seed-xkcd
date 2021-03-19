@@ -2,7 +2,7 @@
 id: xkcd.admin-mourning
 title: Admin Mourning
 desc: ''
-updated: '1616125521627'
+updated: '1616126764746'
 created: '1262937600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And every day it gets harder to fight the urge to su to the user and freak people out.](https://imgs.xkcd.com/comics/admin_mourning.png)
+> "Admin Mourning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The text is over a white-on-black terminal showing a bit of output from ps -el, with processes running from root and sam.]]

@@ -2,7 +2,7 @@
 id: xkcd.westleys-a-dick
 title: Westley's a Dick
 desc: ''
-updated: '1616125521610'
+updated: '1616126764712'
 created: '1235721600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Inigo/Buttercup 4eva <3](https://imgs.xkcd.com/comics/westleys_a_dick.png)
+> "Westley's a Dick", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Buttercup: Oh, my sweet Westley!

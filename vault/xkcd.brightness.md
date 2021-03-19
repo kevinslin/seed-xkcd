@@ -2,7 +2,7 @@
 id: xkcd.brightness
 title: Brightness
 desc: ''
-updated: '1616125521505'
+updated: '1616126764495'
 created: '1400655600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.](https://imgs.xkcd.com/comics/brightness.png)
+> "Brightness", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The panel is white ink on a black background.  A character is staring at the ground.]]

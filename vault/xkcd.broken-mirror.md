@@ -2,7 +2,7 @@
 id: xkcd.broken-mirror
 title: Broken Mirror
 desc: ''
-updated: '1616125521425'
+updated: '1616126764404'
 created: '1353312000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['I see you're in this mood again.' 'I am always in this mood.'](https://imgs.xkcd.com/comics/broken_mirror.png)
+> "Broken Mirror", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The man in the black hat is standing next to a vanity cabinet, with a broken mirror on the floor.  Another chap is in the room with him.]]

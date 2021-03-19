@@ -2,7 +2,7 @@
 id: xkcd.orphaned-projects
 title: Orphaned Projects
 desc: ''
-updated: '1616125521561'
+updated: '1616126764650'
 created: '1187766000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![His date works for Red Hat, who hired a coach for her, too.  He advised her to 'rent lots of movies like Hitch.  Guys love those.'](https://imgs.xkcd.com/comics/orphaned_projects.png)
+> "Orphaned Projects", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Voices are coming from behind a door with a sign that reads "Debian Linux HQ"]]

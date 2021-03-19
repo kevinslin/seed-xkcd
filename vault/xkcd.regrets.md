@@ -2,7 +2,7 @@
 id: xkcd.regrets
 title: Regrets
 desc: ''
-updated: '1616125521592'
+updated: '1616126764684'
 created: '1217833200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And nothing for 'I'm glad I saw Epic Movie.'](https://imgs.xkcd.com/comics/regrets.png)
+> "Regrets", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Bar Graph]]

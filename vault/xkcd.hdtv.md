@@ -2,7 +2,7 @@
 id: xkcd.hdtv
 title: HDTV
 desc: ''
-updated: '1616125521646'
+updated: '1616126764698'
 created: '1272265200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.](https://imgs.xkcd.com/comics/hdtv.png)
+> "HDTV", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One person is pointing to a huge flatscreen HDTV on the wall. The other is holding a cell phone.]]

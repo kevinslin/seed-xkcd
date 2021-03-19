@@ -2,7 +2,7 @@
 id: xkcd.geese
 title: Geese
 desc: ''
-updated: '1616125521443'
+updated: '1616126764531'
 created: '1414566000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Anyway, that's a common misconception. Geese live for a long time; all the ones we can see will probably keep flying around for billions of years before they explode.](https://imgs.xkcd.com/comics/geese.png)
+> "Geese", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure and a woman lie on the ground, looking up at the sky. A flock of geese fly into frame in a V.]]

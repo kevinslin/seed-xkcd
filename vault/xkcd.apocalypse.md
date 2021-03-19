@@ -2,7 +2,7 @@
 id: xkcd.apocalypse
 title: Apocalypse
 desc: ''
-updated: '1616125521616'
+updated: '1616126764728'
 created: '1245394800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wonder if I still have time to go shoot a short film with Kevin Bacon.](https://imgs.xkcd.com/comics/apocalypse.png)
+> "Apocalypse", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An apocalyptic scene.  Flaming balls rain down on a darkened landscape.  The sky is red.]]

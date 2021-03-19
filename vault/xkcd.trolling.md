@@ -2,7 +2,7 @@
 id: xkcd.trolling
 title: Trolling
 desc: ''
-updated: '1616125521576'
+updated: '1616126764664'
 created: '1196409600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And I was really impressed with how they managed to shock the Goatse guy.](https://imgs.xkcd.com/comics/trolling.png)
+> "Trolling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Great Moments in Trolling: Rick Astley is successfully rickrolled.

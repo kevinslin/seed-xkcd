@@ -2,7 +2,7 @@
 id: xkcd.atheists
 title: Atheists
 desc: ''
-updated: '1616125521650'
+updated: '1616126764702'
 created: '1280732400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'](https://imgs.xkcd.com/comics/atheists.png)
+> "Atheists", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Guy: Personally, I find atheists just as annoying as fundamentalist Christians.

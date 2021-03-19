@@ -2,7 +2,7 @@
 id: xkcd.girls-and-boys
 title: Girls and Boys
 desc: ''
-updated: '1616125521390'
+updated: '1616126764422'
 created: '1366614000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![To get more knowledge](https://imgs.xkcd.com/comics/girls_and_boys.png)
+> "Girls and Boys", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman sits at a desk, writing. The desk is covered in books & a laptop.]]

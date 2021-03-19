@@ -2,7 +2,7 @@
 id: xkcd.mutual
 title: Mutual
 desc: ''
-updated: '1616125521656'
+updated: '1616126764768'
 created: '1289376000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A universe that needed someone to observe it in order to collapse it into existence would be a pretty sorry universe indeed.](https://imgs.xkcd.com/comics/mutual.png)
+> "Mutual", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman are inside each others' thought bubbles.]]

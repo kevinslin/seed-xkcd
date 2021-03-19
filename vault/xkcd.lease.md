@@ -2,7 +2,7 @@
 id: xkcd.lease
 title: Lease
 desc: ''
-updated: '1616125521618'
+updated: '1616126764733'
 created: '1248850800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You should talk to the girl down the hall; I think you'd like her.  Lemme know if you find out why she's ordering all those colored plastic balls.](https://imgs.xkcd.com/comics/lease.png)
+> "Lease", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is holding a sheet of paper.]]

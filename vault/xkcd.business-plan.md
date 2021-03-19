@@ -2,7 +2,7 @@
 id: xkcd.business-plan
 title: Business Plan
 desc: ''
-updated: '1616125521368'
+updated: '1616126764617'
 created: '1330070400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The investor elevator pitch is "Wheeeeeeee! Elevators are fun!"](https://imgs.xkcd.com/comics/business_plan.png)
+> "Business Plan", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person in a beret stands on a shoreline and takes the environment in in silent contemplation]]

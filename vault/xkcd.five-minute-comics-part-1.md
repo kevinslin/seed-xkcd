@@ -2,7 +2,7 @@
 id: xkcd.five-minute-comics-part-1
 title: 'Five-Minute Comics: Part 1'
 desc: ''
-updated: '1616125521656'
+updated: '1616126764768'
 created: '1289808000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.](https://imgs.xkcd.com/comics/five_minute_comics_part_1.png)
+> "Five-Minute Comics: Part 1", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Because of a family illness, instead of regular comics, this week I'll be sharing some strips that I drew as part of a game I played with friends. Each comic had to be written and drawn in five minutes. -- Randall

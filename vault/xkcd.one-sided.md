@@ -2,7 +2,7 @@
 id: xkcd.one-sided
 title: One-Sided
 desc: ''
-updated: '1616125521598'
+updated: '1616126764686'
 created: '1221462000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![He continued, 'Okay, Bernanke is uncontaminated.  Find a crossbow and get him into position behind one of the columns at the Fed entrance.  This is gonna get ugly.'](https://imgs.xkcd.com/comics/one-sided.png)
+> "One-Sided", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Caption Above Comic]] Sometimes my conversations with strangers go on for a while before I realize that they're talking on their phones.

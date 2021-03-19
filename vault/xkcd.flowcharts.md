@@ -2,7 +2,7 @@
 id: xkcd.flowcharts
 title: Flowcharts
 desc: ''
-updated: '1616125521452'
+updated: '1616126764537'
 created: '1424246400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!](https://imgs.xkcd.com/comics/flowcharts.png)
+> "Flowcharts", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Title: Flowcharts]]

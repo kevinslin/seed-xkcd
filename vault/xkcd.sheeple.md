@@ -2,7 +2,7 @@
 id: xkcd.sheeple
 title: Sheeple
 desc: ''
-updated: '1616125521618'
+updated: '1616126764732'
 created: '1247641200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Hey, what are the odds -- five Ayn Rand fans on the same train!  Must be going to a convention.](https://imgs.xkcd.com/comics/sheeple.png)
+> "Sheeple", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((A thought bubble is shared between the five occupants of a subway car.))

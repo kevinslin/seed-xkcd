@@ -2,7 +2,7 @@
 id: xkcd.metaball
 title: Metaball
 desc: ''
-updated: '1616125521455'
+updated: '1616126764503'
 created: '1428044400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!](https://imgs.xkcd.com/comics/metaball.png)
+> "Metaball", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character kicks a soccer ball at an upward angle]]

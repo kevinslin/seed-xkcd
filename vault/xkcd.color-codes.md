@@ -2,7 +2,7 @@
 id: xkcd.color-codes
 title: Color Codes
 desc: ''
-updated: '1616125521529'
+updated: '1616126764637'
 created: '1172217600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![(It's the TMBG Dial-a-Song line, to save you some time.)](https://imgs.xkcd.com/comics/color_codes.png)
+> "Color Codes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man holding cell phone talks to a man at a desk littered with objects]]

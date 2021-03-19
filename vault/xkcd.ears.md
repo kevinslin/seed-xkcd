@@ -2,7 +2,7 @@
 id: xkcd.ears
 title: Ears
 desc: ''
-updated: '1616125521498'
+updated: '1616126764592'
 created: '1507273200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![My theory is that most humans have been colonized with alien mind-control slugs that hold the earbuds for them, and the ones who can't wear earbuds are the only surviving free ones.](https://imgs.xkcd.com/comics/ears.png)
+> "Ears", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

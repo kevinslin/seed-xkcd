@@ -2,7 +2,7 @@
 id: xkcd.sledding-discussion
 title: Sledding Discussion
 desc: ''
-updated: '1616125521608'
+updated: '1616126764710'
 created: '1231747200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you get your hands on that one, it's the worst place to have a breaking-up conversation.](https://imgs.xkcd.com/comics/sledding_discussion.png)
+> "Sledding Discussion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Girl looks out window through blinds]]

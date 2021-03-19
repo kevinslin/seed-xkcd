@@ -2,7 +2,7 @@
 id: xkcd.qwertial-aphasia
 title: Qwertial Aphasia
 desc: ''
-updated: '1616125521617'
+updated: '1616126764729'
 created: '1246431600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If this were SMBC, the alt-text drawing thingy would be a giraffe hooker fluttering her eyelashes.](https://imgs.xkcd.com/comics/qwertial_aphasia.png)
+> "Qwertial Aphasia", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: I hate how when I'm talking while I type, sometimes I accidentally type a word I'm saying.

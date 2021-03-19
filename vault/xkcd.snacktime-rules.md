@@ -2,7 +2,7 @@
 id: xkcd.snacktime-rules
 title: Snacktime Rules
 desc: ''
-updated: '1616125521334'
+updated: '1616126764472'
 created: '1163404800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I am not making this rule up.  Although my mom wants you all to know it made perfect sense at the time.](https://imgs.xkcd.com/comics/snacktime_rules.png)
+> "Snacktime Rules", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My dad was always the one who taught me about science, but looking back, I'm starting to realize how much my nerdiness was influenced by my mom.

@@ -2,7 +2,7 @@
 id: xkcd.annoying-ringtone-champion
 title: Annoying Ringtone Champion
 desc: ''
-updated: '1616125521396'
+updated: '1616126764431'
 created: '1374476400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It beat out 'Clock radio alarm', 'B-flat at 194 decibels', 'That noise from Dumb & Dumber', and 'Recording of a sobbing voice begging you to answer'.](https://imgs.xkcd.com/comics/annoying_ringtone_champion.png)
+> "Annoying Ringtone Champion", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 <<The sound of an insect going "hmmmmmmMMMMMMMMmmmmmm">>

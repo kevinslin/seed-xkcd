@@ -2,7 +2,7 @@
 id: xkcd.dark-flow
 title: Dark Flow
 desc: ''
-updated: '1616125521601'
+updated: '1616126764690'
 created: '1226304000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The Pioneer anomaly is due to the force of my love.](https://imgs.xkcd.com/comics/dark_flow.png)
+> "Dark Flow", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man in a beret sits at a computer.  A second man sits on the couch, which is facing the opposite direction, reading a book]]

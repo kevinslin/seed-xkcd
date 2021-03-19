@@ -2,7 +2,7 @@
 id: xkcd.atoms
 title: Atoms
 desc: ''
-updated: '1616125521452'
+updated: '1616126764537'
 created: '1424678400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...](https://imgs.xkcd.com/comics/atoms.png)
+> "Atoms", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A beret-wearing figure interrupts a Scienceer in the midst of their work.]]

@@ -2,7 +2,7 @@
 id: xkcd.car-model-names
 title: Car Model Names
 desc: ''
-updated: '1616125521466'
+updated: '1616126764518'
 created: '1441004400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![CLIMAX is good, but SEXCLIMAX is even better.](https://imgs.xkcd.com/comics/car_model_names.png)
+> "Car Model Names", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Certain letters and numbers are used disproporitionately often in car models compared to regular text.

@@ -2,7 +2,7 @@
 id: xkcd.hobby
 title: Hobby
 desc: ''
-updated: '1616125521352'
+updated: '1616126764377'
 created: '1138003200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The only one of these games I really played was Area 51](https://imgs.xkcd.com/comics/hobby.jpg)
+> "Hobby", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{My hobby:}}

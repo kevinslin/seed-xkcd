@@ -2,7 +2,7 @@
 id: xkcd.np-complete
 title: NP-Complete
 desc: ''
-updated: '1616125521555'
+updated: '1616126764647'
 created: '1183964400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![General solutions get you a 50% tip.](https://imgs.xkcd.com/comics/np_complete.png)
+> "NP-Complete", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 My Hobby:

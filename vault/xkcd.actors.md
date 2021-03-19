@@ -2,7 +2,7 @@
 id: xkcd.actors
 title: Actors
 desc: ''
-updated: '1616125521507'
+updated: '1616126764500'
 created: '1405666800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Once again topping the list of tonight's hottest rising stars in Hollywood is ξ Persei!](https://imgs.xkcd.com/comics/actors.png)
+> "Actors", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Who are today's 10 HOTTEST ACTORS?

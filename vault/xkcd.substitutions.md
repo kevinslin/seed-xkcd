@@ -2,7 +2,7 @@
 id: xkcd.substitutions
 title: Substitutions
 desc: ''
-updated: '1616125521403'
+updated: '1616126764451'
 created: '1383897600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![INSIDE ELON MUSK'S NEW ATOMIC CAT](https://imgs.xkcd.com/comics/substitutions.png)
+> "Substitutions", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Substitutions that make reading the news more fun: 

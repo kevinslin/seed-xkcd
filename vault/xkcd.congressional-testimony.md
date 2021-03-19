@@ -2,7 +2,7 @@
 id: xkcd.congressional-testimony
 title: Congressional Testimony
 desc: ''
-updated: '1616125521521'
+updated: '1616126764610'
 created: '1523257200000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 ![James Cameron's Terminator 3 was the REALLY prophetic one. That's why Skynet sent a robot back to the 1990s to prevent him from ever making it, ultimately handing the franchise over to other directors.](https://imgs.xkcd.com/comics/congressional_testimony.png)
+> "Congressional Testimony", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

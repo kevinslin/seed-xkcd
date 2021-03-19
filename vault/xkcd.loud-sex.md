@@ -2,7 +2,7 @@
 id: xkcd.loud-sex
 title: Loud Sex
 desc: ''
-updated: '1616125521567'
+updated: '1616126764655'
 created: '1189753200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Spherical or parabolic reflectors would of course lead to aberrant behavior.](https://imgs.xkcd.com/comics/loud_sex.png)
+> "Loud Sex", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man in bed, covering his head with pillow.]]

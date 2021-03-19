@@ -2,7 +2,7 @@
 id: xkcd.barrel-part-5
 title: Barrel - Part 5
 desc: ''
-updated: '1616125521347'
+updated: '1616126764368'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Too good not to happen.](https://imgs.xkcd.com/comics/barrel_part_5.jpg)
+> "Barrel - Part 5", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Boy floating on barrel in ocean]]

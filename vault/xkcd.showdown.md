@@ -2,7 +2,7 @@
 id: xkcd.showdown
 title: Showdown
 desc: ''
-updated: '1616125521652'
+updated: '1616126764705'
 created: '1283756400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The tumbleweed then tried to roll off into the sunset, but due to the Old West's placement north of the subtropical ridge, the prevailing winds were in the wrong direction.](https://imgs.xkcd.com/comics/showdown.png)
+> "Showdown", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two cowboys face off silently in the desert, the blazing sun beating down.]]

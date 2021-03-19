@@ -2,7 +2,7 @@
 id: xkcd.faust-2-0
 title: Faust 2.0
 desc: ''
-updated: '1616125521600'
+updated: '1616126764690'
 created: '1226044800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The only blood these contracts are signed in is from me cutting my hand trying to open the goddamn CD case.](https://imgs.xkcd.com/comics/faust_20.png)
+> "Faust 2.0", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Satan: Mortal! I come offering a deal - 

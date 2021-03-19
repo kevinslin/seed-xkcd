@@ -2,7 +2,7 @@
 id: xkcd.the-martian
 title: The Martian
 desc: ''
-updated: '1616125521458'
+updated: '1616126764508'
 created: '1433919600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I have never seen a work of fiction so perfectly capture the out-of-nowhere shock of discovering that you've just bricked something important because you didn't pay enough attention to a loose wire.](https://imgs.xkcd.com/comics/the_martian.png)
+> "The Martian", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[White Hat Guy comes up behind Stickman while he is sitting at a desk looking at a laptop.]]

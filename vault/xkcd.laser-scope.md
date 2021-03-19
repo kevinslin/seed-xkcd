@@ -2,7 +2,7 @@
 id: xkcd.laser-scope
 title: Laser Scope
 desc: ''
-updated: '1616125521304'
+updated: '1616126764454'
 created: '1147417200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wish I'd missed you then so I wouldn't be missing you now](https://imgs.xkcd.com/comics/laser_scope.jpg)
+> "Laser Scope", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[ Box with a mailing label on one side, and in the front: ]]

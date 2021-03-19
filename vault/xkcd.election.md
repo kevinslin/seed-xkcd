@@ -2,7 +2,7 @@
 id: xkcd.election
 title: Election
 desc: ''
-updated: '1616125521600'
+updated: '1616126764689'
 created: '1225872000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Someday I'll be rich enough to hire Nate Silver to help make all my life decisions.  'Should I sleep with her?'  'Well, I'm showing a 35% chance it will end badly.'](https://imgs.xkcd.com/comics/election.png)
+> "Election", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Character sits at his computer desk, staring at his computer.]]

@@ -2,7 +2,7 @@
 id: xkcd.parody-week-megatokyo
 title: 'Parody Week: Megatokyo'
 desc: ''
-updated: '1616125521325'
+updated: '1616126764462'
 created: '1155625200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I just want to give him a hug or something.](https://imgs.xkcd.com/comics/megaxkcd.png)
+> "Parody Week: Megatokyo", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [["megaxkcd" in Japanese quote characters.  An anime girl with pigtails, long rectangular earrings and a blank expression stands with her arms at her sides.]]

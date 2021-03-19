@@ -2,7 +2,7 @@
 id: xkcd.baby-names
 title: Baby Names
 desc: ''
-updated: '1616125521366'
+updated: '1616126764614'
 created: '1328083200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.](https://imgs.xkcd.com/comics/baby_names.png)
+> "Baby Names", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man sits at a desk, thinking with his hand on his chin, his other hand holding a pen over a piece of paper. A woman stands behind him, looking over his shoulder, also with her hand on her chin.]] 

@@ -2,7 +2,7 @@
 id: xkcd.conditioning
 title: Conditioning
 desc: ''
-updated: '1616125521428'
+updated: '1616126764410'
 created: '1357286400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'](https://imgs.xkcd.com/comics/conditioning.png)
+> "Conditioning", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A Rube-Goldberg-ish device]]

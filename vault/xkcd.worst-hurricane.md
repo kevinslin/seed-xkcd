@@ -2,7 +2,7 @@
 id: xkcd.worst-hurricane
 title: Worst Hurricane
 desc: ''
-updated: '1616125521438'
+updated: '1616126764526'
 created: '1407913200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.](https://imgs.xkcd.com/comics/worst_hurricane.png)
+> "Worst Hurricane", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: 'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.}}

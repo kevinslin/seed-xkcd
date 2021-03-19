@@ -2,7 +2,7 @@
 id: xkcd.sharks
 title: Sharks
 desc: ''
-updated: '1616125521501'
+updated: '1616126764484'
 created: '1391587200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Now, minions, I'm off to inspect our shark cages.' 'Do you really need to inspect them this often?' 'PRISONERS MUST NEVER ESCAPE.'](https://imgs.xkcd.com/comics/sharks.png)
+> "Sharks", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The character is sitting on a throne, talking to a minion who's not shown in the panel.]]

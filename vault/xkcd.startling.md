@@ -2,7 +2,7 @@
 id: xkcd.startling
 title: Startling
 desc: ''
-updated: '1616125521576'
+updated: '1616126764665'
 created: '1197014400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We actually reached the future about three years ago.](https://imgs.xkcd.com/comics/startling.png)
+> "Startling", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy in front of his computer.]]

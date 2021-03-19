@@ -2,7 +2,7 @@
 id: xkcd.context-bot
 title: ContextBot
 desc: ''
-updated: '1616125521387'
+updated: '1616126764627'
 created: '1343026800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.](https://imgs.xkcd.com/comics/contextbot.png)
+> "ContextBot", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A social network feed with four status updates from four different people. Each one has a reply from the same account, which is called 'ContextBot', underneath.]]

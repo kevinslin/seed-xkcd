@@ -2,7 +2,7 @@
 id: xkcd.oregon
 title: Oregon
 desc: ''
-updated: '1616125521619'
+updated: '1616126764735'
 created: '1250233200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A century later, the harrowing flight of the survivors from Oregon was dramatized in a popular video game.](https://imgs.xkcd.com/comics/oregon.png)
+> "Oregon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 History of 19th-Century Oregon

@@ -2,7 +2,7 @@
 id: xkcd.irony
 title: Irony
 desc: ''
-updated: '1616125521339'
+updated: '1616126764358'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's commonly known that too much perspective can be a downer.](https://imgs.xkcd.com/comics/irony_color.jpg)
+> "Irony", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: When self-reference, irony, and meta-humor go too far

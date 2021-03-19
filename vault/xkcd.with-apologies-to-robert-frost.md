@@ -2,7 +2,7 @@
 id: xkcd.with-apologies-to-robert-frost
 title: With Apologies to Robert Frost
 desc: ''
-updated: '1616125521564'
+updated: '1616126764651'
 created: '1188975600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Some say the world will end in fire; some say in segfaults.](https://imgs.xkcd.com/comics/with_apologies_to_robert_frost.png)
+> "With Apologies to Robert Frost", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 A God's Lament

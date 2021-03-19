@@ -2,7 +2,7 @@
 id: xkcd.success
 title: Success
 desc: ''
-updated: '1616125521575'
+updated: '1616126764663'
 created: '1196064000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![40% of OpenBSD installs lead to shark attacks.  It's their only standing security issue.](https://imgs.xkcd.com/comics/success.png)
+> "Success", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 As a project wears on, standards for success slip lower and lower.

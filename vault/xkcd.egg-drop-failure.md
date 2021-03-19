@@ -2,7 +2,7 @@
 id: xkcd.egg-drop-failure
 title: Egg Drop Failure
 desc: ''
-updated: '1616125521602'
+updated: '1616126764708'
 created: '1227859200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I hear my brother Ricky won his school's egg drop by leaving the egg inside the hen.](https://imgs.xkcd.com/comics/egg_drop_failure.png)
+> "Egg Drop Failure", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Boy tosses contraption off of building with egg in it.]]

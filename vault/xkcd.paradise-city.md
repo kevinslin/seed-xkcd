@@ -2,7 +2,7 @@
 id: xkcd.paradise-city
 title: Paradise City
 desc: ''
-updated: '1616125521654'
+updated: '1616126764766'
 created: '1286953200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Take me down to the paradise municipality / where the grass is mauve and the girls aren't fromthisreality.](https://imgs.xkcd.com/comics/paradise_city.png)
+> "Paradise City", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A stick figure sits on a box playing a guitar and singing]]

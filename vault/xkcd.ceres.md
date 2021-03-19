@@ -2,7 +2,7 @@
 id: xkcd.ceres
 title: Ceres
 desc: ''
-updated: '1616125521448'
+updated: '1616126764535'
 created: '1421827200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Earth clearly hasn't been inspected, since it's definitely contaminated with salmonella.](https://imgs.xkcd.com/comics/ceres.png)
+> "Ceres", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A character is engrossed in a laptop at a desk, while a standing character looks on silently.]]

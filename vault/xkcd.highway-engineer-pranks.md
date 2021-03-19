@@ -2,7 +2,7 @@
 id: xkcd.highway-engineer-pranks
 title: Highway Engineer Pranks
 desc: ''
-updated: '1616125521547'
+updated: '1616126764641'
 created: '1177484400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Prank #11: Boston](https://imgs.xkcd.com/comics/highway_engineer_pranks.png)
+> "Highway Engineer Pranks", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Highway Engineer Pranks:

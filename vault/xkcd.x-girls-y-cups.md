@@ -2,7 +2,7 @@
 id: xkcd.x-girls-y-cups
 title: X Girls Y Cups
 desc: ''
-updated: '1616125521597'
+updated: '1616126764685'
 created: '1219647600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Also no results: 1girl10000cups, 2girls(5+3i)cups, 65536girls65536cups, or 3frenchhens2turtledoves1cup.](https://imgs.xkcd.com/comics/x_girls_y_cups.png)
+> "X Girls Y Cups", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a table with eight columns and eight rows. Cups to the horizontal girls to the vertical.]]

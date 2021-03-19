@@ -2,7 +2,7 @@
 id: xkcd.michael-phelps
 title: Michael Phelps
 desc: ''
-updated: '1616125521388'
+updated: '1616126764628'
 created: '1344409200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![[shortly] ... he ate ALL of it!?](https://imgs.xkcd.com/comics/michael_phelps.png)
+> "Michael Phelps", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people standing outside their en-Phelps-ified swimming pool]]

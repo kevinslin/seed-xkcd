@@ -2,7 +2,7 @@
 id: xkcd.year-in-review
 title: Year in Review
 desc: ''
-updated: '1616125521499'
+updated: '1616126764477'
 created: '1386748800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![All in all, I give this year a C-. There were no aurora visible from my house and that comet evaporated. They'd better not cancel the 2017 eclipse.](https://imgs.xkcd.com/comics/year_in_review.png)
+> "Year in Review", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A newscaster sits in a studio, with an inset reporter on the scene.]]

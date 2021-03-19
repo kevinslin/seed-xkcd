@@ -2,7 +2,7 @@
 id: xkcd.turtles
 title: Turtles
 desc: ''
-updated: '1616125521693'
+updated: '1616126764778'
 created: '1303455600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You're a turtle!](https://imgs.xkcd.com/comics/turtles.png)
+> "Turtles", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is a turtle.]]

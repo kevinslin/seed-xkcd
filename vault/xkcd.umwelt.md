@@ -2,7 +2,7 @@
 id: xkcd.umwelt
 title: Umwelt
 desc: ''
-updated: '1616125521372'
+updated: '1616126764619'
 created: '1333263600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser.](https://imgs.xkcd.com/comics/reviews.png)
+> "Umwelt", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people...]]

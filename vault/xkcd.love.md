@@ -2,7 +2,7 @@
 id: xkcd.love
 title: Love
 desc: ''
-updated: '1616125521350'
+updated: '1616126764375'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![This one makes me wince every time I think about it](https://imgs.xkcd.com/comics/love.jpg)
+> "Love", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman stand facing one another]]

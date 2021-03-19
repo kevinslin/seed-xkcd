@@ -2,7 +2,7 @@
 id: xkcd.1337-part-2
 title: '1337: Part 2'
 desc: ''
-updated: '1616125521574'
+updated: '1616126764661'
 created: '1194940800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Trivia: Elaine is actually her middle name.](https://imgs.xkcd.com/comics/1337_part_2.png)
+> "1337: Part 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man 1 standing near Man 2, who is on the floor near the armchair.]]

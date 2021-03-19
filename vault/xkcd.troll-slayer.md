@@ -2,7 +2,7 @@
 id: xkcd.troll-slayer
 title: Troll Slayer
 desc: ''
-updated: '1616125521616'
+updated: '1616126764725'
 created: '1243839600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We have met the enemy and he is us.](https://imgs.xkcd.com/comics/troll_slayer.png)
+> "Troll Slayer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A website where people can post comments along side pictures.]]

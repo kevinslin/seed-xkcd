@@ -2,7 +2,7 @@
 id: xkcd.pirate-bay
 title: Pirate Bay
 desc: ''
-updated: '1616125521611'
+updated: '1616126764712'
 created: '1236582000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We find you guilty of closing your torrents as soon as they finish.  Your sentence is unremovable Hungarian subtitles on everything.](https://imgs.xkcd.com/comics/pirate_bay.png)
+> "Pirate Bay", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Awaiting the judges' ruling at the Pirate Bay trial]]

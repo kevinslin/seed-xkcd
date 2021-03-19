@@ -2,7 +2,7 @@
 id: xkcd.the-glass-necklace
 title: The Glass Necklace
 desc: ''
-updated: '1616125521549'
+updated: '1616126764642'
 created: '1178866800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Well, for some value of 'actually work'.](https://imgs.xkcd.com/comics/the_glass_necklace.png)
+> "The Glass Necklace", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man is drawing a diagram of a cylinder with electrical terminals on either end]]

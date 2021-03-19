@@ -2,7 +2,7 @@
 id: xkcd.moral-relativity
 title: Moral Relativity
 desc: ''
-updated: '1616125521309'
+updated: '1616126764454'
 created: '1147849200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's science!](https://imgs.xkcd.com/comics/moral_relativity.jpg)
+> "Moral Relativity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A graph, rationalization as a function of speed, increasing exponentially with an asymptote at c]]

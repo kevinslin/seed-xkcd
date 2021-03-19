@@ -2,7 +2,7 @@
 id: xkcd.jeremy-irons
 title: Jeremy Irons
 desc: ''
-updated: '1616125521360'
+updated: '1616126764387'
 created: '1145862000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Movies that I know word-for-word, part one](https://imgs.xkcd.com/comics/jeremy_irons.jpg)
+> "Jeremy Irons", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A guy points at a girl with his mouth open. A bearded man stands behind him.]]

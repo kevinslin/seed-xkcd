@@ -2,7 +2,7 @@
 id: xkcd.road-rage
 title: Road Rage
 desc: ''
-updated: '1616125521590'
+updated: '1616126764678'
 created: '1214204400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Okay, now just as the loss hits him, slam on the brakes.](https://imgs.xkcd.com/comics/road_rage.png)
+> "Road Rage", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man in black hat is driving and and the woman who seems to be his equal is in the passenger's seat.  They are closely followed by some other vehicle.]]

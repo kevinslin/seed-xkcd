@@ -2,7 +2,7 @@
 id: xkcd.delivery-notification
 title: Delivery Notification
 desc: ''
-updated: '1616125521701'
+updated: '1616126764785'
 created: '1309935600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![You can arrange a pickup of your sword in Rivendell between the hours of noon and 7:00 PM.](https://imgs.xkcd.com/comics/delivery_notification.png)
+> "Delivery Notification", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The first panel is a UPS InfoNotice(r).  Most of the text on it is just scribbles, though the company logo and header is clear.]]

@@ -2,7 +2,7 @@
 id: xkcd.zeppelin
 title: Zeppelin
 desc: ''
-updated: '1616125521356'
+updated: '1616126764382'
 created: '1141804800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A tribute to Buttercup Festival](https://imgs.xkcd.com/comics/zeppelin.jpg)
+> "Zeppelin", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two guys stand together]]

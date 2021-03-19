@@ -2,7 +2,7 @@
 id: xkcd.crazy-straws
 title: Crazy Straws
 desc: ''
-updated: '1616125521388'
+updated: '1616126764628'
 created: '1345014000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The new crowd is heavily shaped by this guy named Eric, who's basically the Paris Hilton of the amateur plastic crazy straw design world.](https://imgs.xkcd.com/comics/crazy_straws.png)
+> "Crazy Straws", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people hang out with some beverages.  The speaker here has a bright green crazy straw]]

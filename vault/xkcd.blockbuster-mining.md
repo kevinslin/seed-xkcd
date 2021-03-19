@@ -2,7 +2,7 @@
 id: xkcd.blockbuster-mining
 title: Blockbuster Mining
 desc: ''
-updated: '1616125521620'
+updated: '1616126764736'
 created: '1252306800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The 2007 Bridge to Terebithia trailer put me off too much to see that particular movie, but I am cautiously optimistic about Where the Wild Things Are.](https://imgs.xkcd.com/comics/blockbuster_mining.png)
+> "Blockbuster Mining", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Man: We've acquired some new rights, but I'm not sure it's in the spirit to make it a blockbuster --

@@ -2,7 +2,7 @@
 id: xkcd.star-wars
 title: Star Wars
 desc: ''
-updated: '1616125521448'
+updated: '1616126764536'
 created: '1422000000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...](https://imgs.xkcd.com/comics/star_wars.png)
+> "Star Wars", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two characters walk & talk together.]]

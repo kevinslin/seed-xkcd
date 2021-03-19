@@ -2,7 +2,7 @@
 id: xkcd.small-moon
 title: Small Moon
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1418198400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![GENERAL JAN DODONNA: An analysis of the plans provided by Princess Leia has reinvigorated the arguments of the 'artificial moonlet' and 'rogue planet-station' camps. I fear this question is fracturing the Rebellion.](https://imgs.xkcd.com/comics/small_moon.png)
+> "Small Moon", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The exterior of the Millennium Falcon, watching as an Imperial Fighter approaches the Death Star in the distance. Voices from inside...]]

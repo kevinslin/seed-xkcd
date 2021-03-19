@@ -2,7 +2,7 @@
 id: xkcd.george-clinton
 title: George Clinton
 desc: ''
-updated: '1616125521344'
+updated: '1616126764363'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I still wish it were true.](https://imgs.xkcd.com/comics/george_clinton.jpg)
+> "George Clinton", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: I once tried to start the urban legend that George Clinton has a B.A. in mathematics

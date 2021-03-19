@@ -2,7 +2,7 @@
 id: xkcd.bowl
 title: Bowl
 desc: ''
-updated: '1616125521349'
+updated: '1616126764372'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![For the moment it's a standoff](https://imgs.xkcd.com/comics/bowl.jpg)
+> "Bowl", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A boy is glaring at a model sailing ship floating in a bowl of water.]]

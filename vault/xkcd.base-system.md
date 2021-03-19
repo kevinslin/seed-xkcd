@@ -2,7 +2,7 @@
 id: xkcd.base-system
 title: Base System
 desc: ''
-updated: '1616125521609'
+updated: '1616126764711'
 created: '1233907200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I once got to second base with a basketball player.  She was so confused.](https://imgs.xkcd.com/comics/base_system.png)
+> "Base System", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and woman are talking; she's sitting on the back of a chair with her feet on the seat, and he's sitting on the floor facing her.]]

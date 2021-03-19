@@ -2,7 +2,7 @@
 id: xkcd.numbers
 title: Numbers
 desc: ''
-updated: '1616125521645'
+updated: '1616126764692'
 created: '1268809200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The typical internet user (who wants to share) has an IQ of 147 and a 9-inch penis. Well, better than the reverse, I guess.](https://imgs.xkcd.com/comics/numbers.png)
+> "Numbers", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Google Result for Various Phrases:

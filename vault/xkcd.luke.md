@@ -2,7 +2,7 @@
 id: xkcd.luke
 title: Luke
 desc: ''
-updated: '1616125521507'
+updated: '1616126764500'
 created: '1405926000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Don't turn it on.](https://imgs.xkcd.com/comics/luke.png)
+> "Luke", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Darth Vader is speaking to Luke Skywalker while holding what appears to be an unactivated light saber.]]

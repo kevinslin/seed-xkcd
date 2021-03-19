@@ -2,7 +2,7 @@
 id: xkcd.linguistics-club
 title: Linguistics Club
 desc: ''
-updated: '1616125521405'
+updated: '1616126764557'
 created: '1447228800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If that's too easy, you could try joining Tautology Club, which meets on the date of the Tautology Club meeting.](https://imgs.xkcd.com/comics/linguistics_club.png)
+> "Linguistics Club", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Person speaks to a second person]]

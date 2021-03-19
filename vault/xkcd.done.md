@@ -2,7 +2,7 @@
 id: xkcd.done
 title: Done
 desc: ''
-updated: '1616125521445'
+updated: '1616126764533'
 created: '1417420800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'm sorry, but the author of this Facebook comment clearly believes you were.](https://imgs.xkcd.com/comics/done.png)
+> "Done", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman with dark curly hair is sitting at a desk, typing on a laptop.]]

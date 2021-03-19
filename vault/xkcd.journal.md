@@ -2,7 +2,7 @@
 id: xkcd.journal
 title: Journal
 desc: ''
-updated: '1616125521580'
+updated: '1616126764668'
 created: '1201075200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And the journal is filled with all the things I'd say to her if I were nice like you.  I burn it when it's full.](https://imgs.xkcd.com/comics/journal.png)
+> "Journal", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man picks up book from a table]]

@@ -2,7 +2,7 @@
 id: xkcd.factoring-the-time
 title: Factoring the Time
 desc: ''
-updated: '1616125521545'
+updated: '1616126764640'
 created: '1176274800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I occasionally do this with mile markers on the highway.](https://imgs.xkcd.com/comics/factoring_the_time.png)
+> "Factoring the Time", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[One man is sitting at a computer.  Another man is sitting at a separate desk.  There is a clock which reads 2:53]]

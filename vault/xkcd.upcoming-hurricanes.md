@@ -2,7 +2,7 @@
 id: xkcd.upcoming-hurricanes
 title: Upcoming Hurricanes
 desc: ''
-updated: '1616125521591'
+updated: '1616126764683'
 created: '1216796400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time.](https://imgs.xkcd.com/comics/upcoming_hurricanes.png)
+> "Upcoming Hurricanes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[An unlabeled map shows the region roughly between central Canada and northern Brazil. Dotted lines indicating hurricane paths cover the map, all red except where noted.

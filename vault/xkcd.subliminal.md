@@ -2,7 +2,7 @@
 id: xkcd.subliminal
 title: Subliminal
 desc: ''
-updated: '1616125521705'
+updated: '1616126764796'
 created: '1317798000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Once you see it, you can't help seeing it every time. Until your body finishes metabolizing the mushrooms.](https://imgs.xkcd.com/comics/subliminal.png)
+> "Subliminal", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are gathered around a computer. A person is seated interacting with the computer while another stands behind them with an arm resting on the back of the chair.]]

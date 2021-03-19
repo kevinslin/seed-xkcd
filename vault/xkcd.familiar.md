@@ -2,7 +2,7 @@
 id: xkcd.familiar
 title: Familiar
 desc: ''
-updated: '1616125521356'
+updated: '1616126764383'
 created: '1142409600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![:(](https://imgs.xkcd.com/comics/familiar.jpg)
+> "Familiar", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman are talking]]

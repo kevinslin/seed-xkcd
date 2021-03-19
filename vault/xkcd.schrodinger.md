@@ -2,7 +2,7 @@
 id: xkcd.schrodinger
 title: Schrodinger
 desc: ''
-updated: '1616125521350'
+updated: '1616126764375'
 created: '1136361600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![There was no alt-text until you moused over](https://imgs.xkcd.com/comics/schrodinger.jpg)
+> "Schrodinger", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Label: Schrödinger's Comic]]

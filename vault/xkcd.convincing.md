@@ -2,7 +2,7 @@
 id: xkcd.convincing
 title: Convincing
 desc: ''
-updated: '1616125521660'
+updated: '1616126764770'
 created: '1292227200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And if you labeled your axes, I could tell you exactly how MUCH better.](https://imgs.xkcd.com/comics/convincing.png)
+> "Convincing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man and a woman are talking.  The woman has a board.]]

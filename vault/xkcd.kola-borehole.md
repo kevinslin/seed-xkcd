@@ -2,7 +2,7 @@
 id: xkcd.kola-borehole
 title: Kola Borehole
 desc: ''
-updated: '1616125521502'
+updated: '1616126764487'
 created: '1392364800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Tonight's top story: Lucifer, the Prince of Darkness, died in his home this morning at the age of [unintelligible rune]. Due to the large number of sharks inhabiting his former kingdom, no body could be recovered.](https://imgs.xkcd.com/comics/kola_borehole.png)
+> "Kola Borehole", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A woman and black hat guy sit at desks, their backs to each other, each using a laptop.]]

@@ -2,7 +2,7 @@
 id: xkcd.hyphen
 title: Hyphen
 desc: ''
-updated: '1616125521348'
+updated: '1616126764371'
 created: '1136102400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I do this constantly](https://imgs.xkcd.com/comics/hyphen.jpg)
+> "Hyphen", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Headline: My hobby: whenever calls something an [adjective]-ass [noun], I mentally move the hyphen one word to the right.}}

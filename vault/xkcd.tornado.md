@@ -2,7 +2,7 @@
 id: xkcd.tornado
 title: Tornado
 desc: ''
-updated: '1616125521450'
+updated: '1616126764537'
 created: '1424073600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.](https://imgs.xkcd.com/comics/tornado.png)
+> "Tornado", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A reporter holds a microphone in front of some houses]]

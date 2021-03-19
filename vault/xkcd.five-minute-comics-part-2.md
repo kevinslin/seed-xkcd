@@ -2,7 +2,7 @@
 id: xkcd.five-minute-comics-part-2
 title: 'Five-Minute Comics: Part 2'
 desc: ''
-updated: '1616125521656'
+updated: '1616126764768'
 created: '1289980800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Dear Wiccan readers: I understand modern Wiccans are not usually all about the curses and hexes. But Darth Vader was recently converted from Episcopalianism and he's still figuring it all out.](https://imgs.xkcd.com/comics/five_minute_comics_part_2.png)
+> "Five-Minute Comics: Part 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Because of a family illness, instead of regular comics, this week I'll be sharing some strips that I drew as part of a game I played with friends.  Each comic had to be written and drawn in five minutes.

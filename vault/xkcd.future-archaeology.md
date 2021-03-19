@@ -2,7 +2,7 @@
 id: xkcd.future-archaeology
 title: Future Archaeology
 desc: ''
-updated: '1616125521477'
+updated: '1616126764547'
 created: '1476860400000'
 sources:
   name: xkcd
@@ -10,5 +10,6 @@ sources:
   license: Creative Commons 2.5
 ---
 !["The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."](https://imgs.xkcd.com/comics/future_archaeology.png)
+> "Future Archaeology", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript

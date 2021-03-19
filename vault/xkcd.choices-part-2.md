@@ -2,7 +2,7 @@
 id: xkcd.choices-part-2
 title: 'Choices: Part 2'
 desc: ''
-updated: '1616125521550'
+updated: '1616126764643'
 created: '1179730800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.](https://imgs.xkcd.com/comics/choices_part_2.jpg)
+> "Choices: Part 2", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A boy is doing some excercises in a book. The clock on the wall says 12:50 or 13:50.]]

@@ -2,7 +2,7 @@
 id: xkcd.weather
 title: Weather
 desc: ''
-updated: '1616125521501'
+updated: '1616126764484'
 created: '1391155200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![At least if you're really into, like, Turkish archaeology, store clerks aren't like 'hey, how 'bout those Derinkuyu underground cities!' when they're trying to be polite.](https://imgs.xkcd.com/comics/weather.png)
+> "Weather", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Shorthair and Cueball are talking.]]

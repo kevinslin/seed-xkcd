@@ -2,7 +2,7 @@
 id: xkcd.mario
 title: Mario
 desc: ''
-updated: '1616125521327'
+updated: '1616126764464'
 created: '1157094000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Why would anyone ever, ever say that?  Please, nobody ever say that.](https://imgs.xkcd.com/comics/mario.png)
+> "Mario", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 First Girl: For our anniversary, my boyfriend took me hiking in the mountains.

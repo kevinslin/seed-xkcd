@@ -2,7 +2,7 @@
 id: xkcd.career
 title: Career
 desc: ''
-updated: '1616125521503'
+updated: '1616126764491'
 created: '1395644400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![They'd convince me to come out of retirement for one last job: biting into a giant lump of slightly soft wax a couple of times.](https://imgs.xkcd.com/comics/career.png)
+> "Career", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure stands facing a desk, behind which another figure is sitting in a desk chair.]]

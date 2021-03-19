@@ -2,7 +2,7 @@
 id: xkcd.morse-code
 title: Morse Code
 desc: ''
-updated: '1616125521504'
+updated: '1616126764493'
 created: '1398841200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Oh, because Facebook has worked out SO WELL for everyone.](https://imgs.xkcd.com/comics/morse_code.png)
+> "Morse Code", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are sitting on a stony hill. One is sitting on the ground, the other is lying back and looking at the sky.]]

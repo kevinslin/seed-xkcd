@@ -2,7 +2,7 @@
 id: xkcd.superlative
 title: Superlative
 desc: ''
-updated: '1616125521619'
+updated: '1616126764735'
 created: '1249887600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Stay while I recount the crazy TF2 kill I managed yesterday, my friends.](https://imgs.xkcd.com/comics/superlative.png)
+> "Superlative", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: He has dreams.

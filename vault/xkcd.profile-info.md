@@ -2,7 +2,7 @@
 id: xkcd.profile-info
 title: Profile Info
 desc: ''
-updated: '1616125521499'
+updated: '1616126764478'
 created: '1386921600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.](https://imgs.xkcd.com/comics/profile_info.png)
+> "Profile Info", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure sits at a desk, using a computer. He's filling out a form. "First name": "John", "Last name": "If-you-see-this-name-in-an-add-give-the-product-a-one-star-review-Smith".]]

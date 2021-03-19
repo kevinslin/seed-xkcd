@@ -2,7 +2,7 @@
 id: xkcd.the-fast-and-the-furious
 title: The Fast and the Furious
 desc: ''
-updated: '1616125521319'
+updated: '1616126764459'
 created: '1152687600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Sometimes when I steer shopping carts around corners, I slide them a little and pretend I'm getting the blue spark boost.](https://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg)
+> "The Fast and the Furious", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 On the other side of the world, a new style of street racing rules the Tokyo underground. The cars are lighter, the tires are slick. When you drift, if you ain't out of control, you ain't in control. And if you work the wheel back and forth just right,

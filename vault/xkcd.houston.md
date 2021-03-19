@@ -2,7 +2,7 @@
 id: xkcd.houston
 title: Houston
 desc: ''
-updated: '1616125521442'
+updated: '1616126764531'
 created: '1414134000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['Oh, hey Mom. No, nothing important, just at work.'](https://imgs.xkcd.com/comics/houston.png)
+> "Houston", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A spacecraft floats in outer space, the earth far in the background. Bits of it have broken off.]]

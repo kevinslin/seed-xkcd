@@ -2,7 +2,7 @@
 id: xkcd.file-transfer
 title: File Transfer
 desc: ''
-updated: '1616125521704'
+updated: '1616126764792'
 created: '1315551600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.](https://imgs.xkcd.com/comics/file_transfer.png)
+> "File Transfer", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A person stands near a computer, talking on the phone to another person.]]

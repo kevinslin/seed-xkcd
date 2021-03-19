@@ -2,7 +2,7 @@
 id: xkcd.fixed-width
 title: Fixed Width
 desc: ''
-updated: '1616125521553'
+updated: '1616126764645'
 created: '1181718000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I wish I knew how to quit this so I wouldn't have to quit you.](https://imgs.xkcd.com/comics/fixed_width.png)
+> "Fixed Width", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A man, Rob, is sitting at a computer. The text is an IRC-style transcript of a conversation, in a fixed-width font. He is text-messaging a girl he slept with named Emily; their messages read as follows:]]

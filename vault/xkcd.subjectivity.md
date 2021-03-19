@@ -2,7 +2,7 @@
 id: xkcd.subjectivity
 title: Subjectivity
 desc: ''
-updated: '1616125521548'
+updated: '1616126764641'
 created: '1177916400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)](https://imgs.xkcd.com/comics/subjectivity.png)
+> "Subjectivity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [tall slide, seen from the ground]

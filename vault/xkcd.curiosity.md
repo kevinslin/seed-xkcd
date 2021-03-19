@@ -2,7 +2,7 @@
 id: xkcd.curiosity
 title: Curiosity
 desc: ''
-updated: '1616125521388'
+updated: '1616126764627'
 created: '1344236400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.](https://imgs.xkcd.com/comics/curiosity.png)
+> "Curiosity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[The Curiosity rover is lowered onto the Mars surface by a Sky Crane.]]

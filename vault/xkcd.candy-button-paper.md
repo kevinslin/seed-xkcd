@@ -2,7 +2,7 @@
 id: xkcd.candy-button-paper
 title: Candy Button Paper
 desc: ''
-updated: '1616125521527'
+updated: '1616126764632'
 created: '1167811200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Nonrewritable tape?](https://imgs.xkcd.com/comics/candy_button_paper.png)
+> "Candy Button Paper", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 When it came to eating strips of candy buttons, there were two main strategies.  Some kids carefully removed each bead, checking closely for paper residue before eating.

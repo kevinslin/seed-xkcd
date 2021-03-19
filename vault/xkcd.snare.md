@@ -2,7 +2,7 @@
 id: xkcd.snare
 title: Snare
 desc: ''
-updated: '1616125521396'
+updated: '1616126764432'
 created: '1374822000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's going in A collection of satellites skewered with pins and mounted in display boxes. Not necessarily MY collection.](https://imgs.xkcd.com/comics/snare.png)
+> "Snare", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black hat guy is sitting at a desk, using a laptop. He's talking to a figure standing behind him.]]

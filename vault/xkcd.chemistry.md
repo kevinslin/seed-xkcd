@@ -2,7 +2,7 @@
 id: xkcd.chemistry
 title: Chemistry
 desc: ''
-updated: '1616125521443'
+updated: '1616126764531'
 created: '1415001600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.](https://imgs.xkcd.com/comics/chemistry.png)
+> "Chemistry", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{Title text: These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.}}

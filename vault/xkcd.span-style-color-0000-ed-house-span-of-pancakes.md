@@ -2,7 +2,7 @@
 id: xkcd.span-style-color-0000-ed-house-span-of-pancakes
 title: '<span style="color: #0000ED">House</span> of Pancakes'
 desc: ''
-updated: '1616125521597'
+updated: '1616126764686'
 created: '1220598000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Fuck it.  I'm just going to Waffle House.](https://imgs.xkcd.com/comics/house_of_pancakes.png)
+> "<span style="color: #0000ED">House</span> of Pancakes", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 {{All instances of the word "House" are in blue.}}

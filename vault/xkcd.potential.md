@@ -2,7 +2,7 @@
 id: xkcd.potential
 title: Potential
 desc: ''
-updated: '1616125521712'
+updated: '1616126764800'
 created: '1323244800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The bunch of disadvantaged kids I was tutoring became too good at writing, and their essays were forcing me to confront painful existential questions, so I started trying to turn them on to drugs and crime instead.](https://imgs.xkcd.com/comics/potential.png)
+> "Potential", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Narrator: When teachers complain "You're not working at your full potential!" 

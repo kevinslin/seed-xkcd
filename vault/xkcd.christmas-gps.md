@@ -2,7 +2,7 @@
 id: xkcd.christmas-gps
 title: Christmas GPS
 desc: ''
-updated: '1616125521526'
+updated: '1616126764630'
 created: '1167033600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![If it's over water, and you can't get a boat or revise the rules to preserve the makeout, there is no helping you.](https://imgs.xkcd.com/comics/christmas_gps.png)
+> "Christmas GPS", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 Boy: Check it out-- I got a GPS receiver for Christmas!  What should we do with it?

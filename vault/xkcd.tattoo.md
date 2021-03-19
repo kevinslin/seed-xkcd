@@ -2,7 +2,7 @@
 id: xkcd.tattoo
 title: Tattoo
 desc: ''
-updated: '1616125521702'
+updated: '1616126764787'
 created: '1312354800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).](https://imgs.xkcd.com/comics/tattoo.png)
+> "Tattoo", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[There is one human in the panel.  The human points at their chest.]]

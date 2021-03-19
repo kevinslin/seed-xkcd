@@ -2,7 +2,7 @@
 id: xkcd.i-am-not-a-ninja
 title: I am Not a Ninja
 desc: ''
-updated: '1616125521599'
+updated: '1616126764687'
 created: '1223449200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 !['The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'](https://imgs.xkcd.com/comics/i_am_not_a_ninja.png)
+> "I am Not a Ninja", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Man and woman are in the same panel]] Woman: we need to talk.

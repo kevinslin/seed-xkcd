@@ -2,7 +2,7 @@
 id: xkcd.never-do-this
 title: Never Do This
 desc: ''
-updated: '1616125521675'
+updated: '1616126764773'
 created: '1297670400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I call Rule 34 on The Secret House.](https://imgs.xkcd.com/comics/never_do_this.png)
+> "Never Do This", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Guy brings in a pocket microscope]]

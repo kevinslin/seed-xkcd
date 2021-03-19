@@ -2,7 +2,7 @@
 id: xkcd.hamiltonian
 title: Hamiltonian
 desc: ''
-updated: '1616125521529'
+updated: '1616126764637'
 created: '1172822400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The problem with perspective is that it's bidirectional.](https://imgs.xkcd.com/comics/hamiltonian.png)
+> "Hamiltonian", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Classroom]]

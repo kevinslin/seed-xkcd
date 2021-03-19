@@ -2,7 +2,7 @@
 id: xkcd.ayn-random
 title: Ayn Random
 desc: ''
-updated: '1616125521401'
+updated: '1616126764443'
 created: '1381734000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![In a cavern deep below the Earth, Ayn Rand, Paul Ryan, Rand Paul, Ann Druyan, Paul Rudd, Alan Alda, and Duran Duran meet together in the Secret Council of /(b[plurandy]+b ?){2}/i.](https://imgs.xkcd.com/comics/ayn_random.png)
+> "Ayn Random", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure in a hat stands behind another figure, who is seated at a desk using a laptop.]]

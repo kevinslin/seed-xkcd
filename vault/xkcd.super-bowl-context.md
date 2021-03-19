@@ -2,7 +2,7 @@
 id: xkcd.super-bowl-context
 title: Super Bowl Context
 desc: ''
-updated: '1616125521411'
+updated: '1616126764562'
 created: '1454918400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Why did the chicken cross the road? It begins over five thousand years ago with the domestication of the red junglefowl in southeast Asia and the development of paved roads in the Sumerian city of Ur.](https://imgs.xkcd.com/comics/super_bowl_context.png)
+> "Super Bowl Context", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 \ - Backslash

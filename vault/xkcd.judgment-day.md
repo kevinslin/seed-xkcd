@@ -2,7 +2,7 @@
 id: xkcd.judgment-day
 title: Judgment Day
 desc: ''
-updated: '1616125521409'
+updated: '1616126764560'
 created: '1452067200000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony.](https://imgs.xkcd.com/comics/judgment_day.png)
+> "Judgment Day", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[A figure has broken through a hole in the ceiling and dangles from a harness. A sleepy hat guy is sitting up in bed.]]

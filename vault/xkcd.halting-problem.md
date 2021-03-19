@@ -2,7 +2,7 @@
 id: xkcd.halting-problem
 title: Halting Problem
 desc: ''
-updated: '1616125521399'
+updated: '1616126764438'
 created: '1379487600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![I found a counterexample to the claim that all things must someday die, but I don't know how to show it to anyone.](https://imgs.xkcd.com/comics/halting_problem.png)
+> "Halting Problem", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((Today's strip is in the form of a short computer program.))

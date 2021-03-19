@@ -2,7 +2,7 @@
 id: xkcd.mobile-marketing
 title: Mobile Marketing
 desc: ''
-updated: '1616125521501'
+updated: '1616126764484'
 created: '1391760000000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![We're firing you, but the online headline-writing division wants to hire you.](https://imgs.xkcd.com/comics/mobile_marketing.png)
+> "Mobile Marketing", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Black Hat sits at a desk. A voice speaks from off panel, in front of Black Hat.]]

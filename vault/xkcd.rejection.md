@@ -2,7 +2,7 @@
 id: xkcd.rejection
 title: Rejection
 desc: ''
-updated: '1616125521501'
+updated: '1616126764484'
 created: '1391414400000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.](https://imgs.xkcd.com/comics/rejection.png)
+> "Rejection", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[Two people are walking.]]

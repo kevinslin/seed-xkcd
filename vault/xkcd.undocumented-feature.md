@@ -2,7 +2,7 @@
 id: xkcd.undocumented-feature
 title: Undocumented Feature
 desc: ''
-updated: '1616125521499'
+updated: '1616126764478'
 created: '1387353600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![And it doesn't pop up a box every time asking you to use your real name. In fact, there's no way to set your name at all. You just have to keep reminding people who you are.](https://imgs.xkcd.com/comics/undocumented_feature.png)
+> "Undocumented Feature", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 An old Windows utility has an undocumented feature.

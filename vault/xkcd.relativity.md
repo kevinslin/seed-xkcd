@@ -2,7 +2,7 @@
 id: xkcd.relativity
 title: Relativity
 desc: ''
-updated: '1616125521395'
+updated: '1616126764430'
 created: '1372834800000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.](https://imgs.xkcd.com/comics/relativity.png)
+> "Relativity", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 [[We see a head and shoulders view of Einstein. He looks ponderous.]]

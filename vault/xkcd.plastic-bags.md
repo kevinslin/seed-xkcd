@@ -2,7 +2,7 @@
 id: xkcd.plastic-bags
 title: Plastic Bags
 desc: ''
-updated: '1616125521712'
+updated: '1616126764800'
 created: '1323849600000'
 sources:
   name: xkcd
@@ -10,6 +10,7 @@ sources:
   license: Creative Commons 2.5
 ---
 ![The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.](https://imgs.xkcd.com/comics/plastic_bags.png)
+> "Plastic Bags", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
 
 ## Transcript
 ((not a character; just a colon in a normal sentence))
