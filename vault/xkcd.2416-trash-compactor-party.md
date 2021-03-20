@@ -5,9 +5,9 @@ desc: ''
 updated: 1611561600000
 created: 1611561600000
 sources:
-  name: xkcd
-  url: 'https://creativecommons.org/licenses/by-nc/2.5/'
-  license: Creative Commons 2.5
+  - name: xkcd
+    url: 'https://creativecommons.org/licenses/by-nc/2.5/'
+    license: Creative Commons 2.5
 ---
 ![What an incredible smell you've discovered.](https://imgs.xkcd.com/comics/trash_compactor_party.png)
 > "[Trash Compactor Party](https://xkcd.com/2416/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License

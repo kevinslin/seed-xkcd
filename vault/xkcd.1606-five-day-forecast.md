@@ -5,9 +5,9 @@ desc: ''
 updated: 1448006400000
 created: 1448006400000
 sources:
-  name: xkcd
-  url: 'https://creativecommons.org/licenses/by-nc/2.5/'
-  license: Creative Commons 2.5
+  - name: xkcd
+    url: 'https://creativecommons.org/licenses/by-nc/2.5/'
+    license: Creative Commons 2.5
 ---
 ![You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.](https://imgs.xkcd.com/comics/five_day_forecast.png)
 > "[Five-Day Forecast](https://xkcd.com/1606/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License

@@ -5,9 +5,9 @@ desc: ''
 updated: 1439190000000
 created: 1439190000000
 sources:
-  name: xkcd
-  url: 'https://creativecommons.org/licenses/by-nc/2.5/'
-  license: Creative Commons 2.5
+  - name: xkcd
+    url: 'https://creativecommons.org/licenses/by-nc/2.5/'
+    license: Creative Commons 2.5
 ---
 ![There's no "I" in "VOWELS".](https://imgs.xkcd.com/comics/i_in_team.png)
 > "[I in Team](https://xkcd.com/1562/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License

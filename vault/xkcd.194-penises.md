@@ -5,9 +5,9 @@ desc: ''
 updated: 1165564800000
 created: 1165564800000
 sources:
-  name: xkcd
-  url: 'https://creativecommons.org/licenses/by-nc/2.5/'
-  license: Creative Commons 2.5
+  - name: xkcd
+    url: 'https://creativecommons.org/licenses/by-nc/2.5/'
+    license: Creative Commons 2.5
 ---
 ![The penis varies in size when flaccid and is pretty consistently about yea big when erect.  Anyway, back to the sitcom one-liners and the constant flow of spam.](https://imgs.xkcd.com/comics/penises.png)
 > "[Penises](https://xkcd.com/194/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License

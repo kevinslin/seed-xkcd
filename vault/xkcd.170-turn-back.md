@@ -5,9 +5,9 @@ desc: ''
 updated: 1160722800000
 created: 1160722800000
 sources:
-  name: xkcd
-  url: 'https://creativecommons.org/licenses/by-nc/2.5/'
-  license: Creative Commons 2.5
+  - name: xkcd
+    url: 'https://creativecommons.org/licenses/by-nc/2.5/'
+    license: Creative Commons 2.5
 ---
 ![I hear that these days Bill Watterson is happy just painting in the Ohio woods with his father and doesn't get any mail or talk to anyone.](https://imgs.xkcd.com/comics/turn_back.png)
 > "[Turn Back](https://xkcd.com/170/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License

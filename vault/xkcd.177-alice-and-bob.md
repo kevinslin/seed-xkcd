@@ -5,9 +5,9 @@ desc: ''
 updated: 1162195200000
 created: 1162195200000
 sources:
-  name: xkcd
-  url: 'https://creativecommons.org/licenses/by-nc/2.5/'
-  license: Creative Commons 2.5
+  - name: xkcd
+    url: 'https://creativecommons.org/licenses/by-nc/2.5/'
+    license: Creative Commons 2.5
 ---
 ![Yet one more reason I'm barred from speaking at crypto conferences.](https://imgs.xkcd.com/comics/alice_and_bob.png)
 > "[Alice and Bob](https://xkcd.com/177/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License

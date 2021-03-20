@@ -65,11 +65,11 @@ function toNote(opts: { meta: XKCDResp }): NoteProps {
         cleanLinkString(alt)
     ].join("\n");
     const fname = `xkcd.${num}-${_.kebabCase(title)}`;
-    const sources = {
+    const sources = [{
         name: 'xkcd',
         url: 'https://creativecommons.org/licenses/by-nc/2.5/',
         license: "Creative Commons 2.5",
-    }
+    }]
     return NoteUtils.create({
         id: fname,
         title,
