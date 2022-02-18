@@ -2,3 +2,6 @@ lib
 node_modules
 build
 .dendron.*
+.next
+
+.next
