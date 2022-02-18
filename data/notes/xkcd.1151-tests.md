@@ -1,0 +1,5 @@
+![In fact, one of the boxes is full of Staphylococcus. The wrapping paper is coated in E. coli, though, so it's an understandable mistake. You know, we should really stop accepting gifts from that guy.](https://imgs.xkcd.com/comics/tests.png)
+> "[Tests](https://xkcd.com/1151/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+In fact, one of the boxes is full of Staphylococcus. The wrapping paper is coated in E. coli, though, so it's an understandable mistake. You know, we should really stop accepting gifts from that guy.

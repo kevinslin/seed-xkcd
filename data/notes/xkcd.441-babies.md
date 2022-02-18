@@ -1,0 +1,5 @@
+![I bet my future kids will read this someday.  DEAR FUTURE KIDS: how did you get internet in the cellar?](https://imgs.xkcd.com/comics/babies.png)
+> "[Babies](https://xkcd.com/441/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+I bet my future kids will read this someday.  DEAR FUTURE KIDS: how did you get internet in the cellar?

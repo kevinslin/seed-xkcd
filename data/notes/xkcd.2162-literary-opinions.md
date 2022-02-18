@@ -1,0 +1,5 @@
+![If I really focus, I can distinguish between John Steinbeck and John Updike, or between Gore Vidal and Vidal Sassoon, but not both at once.](https://imgs.xkcd.com/comics/literary_opinions.png)
+> "[Literary Opinions](https://xkcd.com/2162/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+If I really focus, I can distinguish between John Steinbeck and John Updike, or between Gore Vidal and Vidal Sassoon, but not both at once.

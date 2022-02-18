@@ -1,0 +1,5 @@
+![On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else.](https://imgs.xkcd.com/comics/manhattan_project.png)
+> "[Manhattan Project](https://xkcd.com/1736/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else.

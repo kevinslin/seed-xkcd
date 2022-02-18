@@ -1,0 +1,5 @@
+![We once got grounded when we convinced the FAA to block flights through our county because of ash clouds.](https://imgs.xkcd.com/comics/floor.png)
+> "[Floor](https://xkcd.com/735/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+We once got grounded when we convinced the FAA to block flights through our county because of ash clouds.

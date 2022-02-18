@@ -1,0 +1,122 @@
+{
+  "version": 4,
+  "site": {
+    "siteHierarchies": [
+      "root"
+    ],
+    "siteRootDir": "docs",
+    "copyAssets": true,
+    "siteUrl": "https://xkcd.dendron.so",
+    "siteLastModified": true,
+    "githubCname": "xkcd.dendron.so",
+    "title": "Dendron - XKCD",
+    "author": "kevin",
+    "twitter": "dendronhq",
+    "description": "Dendron Vault of XKCD Comics",
+    "usePrettyRefs": true,
+    "gh_edit_branch": "main",
+    "usePrettyLinks": true,
+    "siteNotesDir": "notes",
+    "siteFaviconPath": "favicon.ico",
+    "gh_edit_link": true,
+    "gh_edit_link_text": "Edit this page on GitHub",
+    "gh_root": "docs/",
+    "gh_edit_view_mode": "edit",
+    "writeStubs": true,
+    "siteIndex": "root"
+  },
+  "useFMTitle": false,
+  "mermaid": false,
+  "useNoteTitleForLink": true,
+  "commands": {
+    "lookup": {
+      "note": {
+        "selectionMode": "extract",
+        "confirmVaultOnCreate": true,
+        "leaveTrace": false,
+        "bubbleUpCreateNew": true,
+        "vaultSelectionModeOnCreate": "smart",
+        "fuzzThreshold": 0.2
+      }
+    },
+    "insertNote": {
+      "initialValue": "templates"
+    },
+    "insertNoteLink": {
+      "aliasMode": "none",
+      "enableMultiSelect": false
+    },
+    "insertNoteIndex": {
+      "enableMarker": false
+    },
+    "randomNote": {}
+  },
+  "workspace": {
+    "vaults": [
+      {
+        "fsPath": "vault",
+        "name": "xkcd"
+      }
+    ],
+    "journal": {
+      "dailyDomain": "daily",
+      "name": "journal",
+      "dateFormat": "y.MM.dd",
+      "addBehavior": "childOfDomain"
+    },
+    "scratch": {
+      "name": "scratch",
+      "dateFormat": "y.MM.dd.HHmmss",
+      "addBehavior": "asOwnDomain"
+    },
+    "graph": {
+      "zoomSpeed": 1
+    },
+    "enableAutoCreateOnDefinition": false,
+    "enableXVaultWikiLink": false,
+    "enableRemoteVaultInit": true,
+    "workspaceVaultSyncMode": "noCommit",
+    "enableAutoFoldFrontmatter": false,
+    "maxPreviewsCached": 10,
+    "maxNoteLength": 204800,
+    "task": {
+      "name": "",
+      "dateFormat": "",
+      "addBehavior": "childOfCurrent",
+      "statusSymbols": {
+        "": " ",
+        "wip": "w",
+        "done": "x",
+        "assigned": "a",
+        "moved": "m",
+        "blocked": "b",
+        "delegated": "l",
+        "dropped": "d",
+        "pending": "y"
+      },
+      "prioritySymbols": {
+        "H": "high",
+        "M": "medium",
+        "L": "low"
+      },
+      "todoIntegration": false,
+      "createTaskSelectionType": "selection2link"
+    },
+    "enableUserTags": true,
+    "enableHashTags": true,
+    "enableEditorDecorations": true,
+    "dendronVersion": "0.70.0"
+  },
+  "preview": {
+    "enableFMTitle": false,
+    "enableNoteTitleForLink": true,
+    "enableMermaid": false,
+    "enablePrettyRefs": true,
+    "enableKatex": true,
+    "automaticallyShowPreview": false
+  },
+  "useKatex": true,
+  "dev": {
+    "enablePreviewV2": true
+  }
+}

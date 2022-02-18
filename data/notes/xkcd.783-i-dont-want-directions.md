@@ -1,0 +1,5 @@
+![Yes, I understand that the turn is half a mile past the big field, but my GPS knows that, too.  This would be easier if you weren't about to ask me to repeat it all back to you.](https://imgs.xkcd.com/comics/i_dont_want_directions.png)
+> "[I Don't Want Directions](https://xkcd.com/783/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+Yes, I understand that the turn is half a mile past the big field, but my GPS knows that, too.  This would be easier if you weren't about to ask me to repeat it all back to you.

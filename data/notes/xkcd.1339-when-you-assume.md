@@ -1,0 +1,5 @@
+![You know what happens when you assert--you make an ass out of the emergency response team.](https://imgs.xkcd.com/comics/when_you_assume.png)
+> "[When You Assume](https://xkcd.com/1339/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+You know what happens when you assert--you make an ass out of the emergency response team.

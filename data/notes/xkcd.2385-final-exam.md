@@ -1,0 +1,5 @@
+![For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.](https://imgs.xkcd.com/comics/final_exam.png)
+> "[Final Exam](https://xkcd.com/2385/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.

@@ -1,0 +1,5 @@
+![I'm working on a car capable of evaluating arbitrarily complex boolean expressions on "honk if \[...\]" bumper stickers and responding accordingly.](https://imgs.xkcd.com/comics/self_driving_car_milestones.png)
+> "[Self-Driving Car Milestones](https://xkcd.com/1925/)", by Randall Munroe, licensed under Creative Commons Attribution-NonCommercial 2.5 License
+
+## Alt Text
+I'm working on a car capable of evaluating arbitrarily complex boolean expressions on "honk if \[...\]" bumper stickers and responding accordingly.
