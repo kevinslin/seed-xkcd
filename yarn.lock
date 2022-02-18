@@ -61,7 +61,7 @@
     morgan "^1.10.0"
     querystring "^0.2.1"
 
-"@dendronhq/common-all@^0.32.3", "@dendronhq/common-all@^0.82.0":
+"@dendronhq/common-all@^0.82.0":
   version "0.82.0"
   resolved "https://registry.npmjs.org/@dendronhq/common-all/-/common-all-0.82.0.tgz#7c015bdd49abbaddd27e6d73d3478f440c8fea2b"
   integrity sha512-atRmnyoGE0RtSMHNUsEOUTCdnlu5aAal8QIMhvRi+MYrcZjK+xS8EQGNuAmrkeqvgpGqh5S0Uogn5ocOq29/vQ==
@@ -95,7 +95,7 @@
     vscode-uri "^2.1.2"
     yamljs "^0.3.0"
 
-"@dendronhq/common-server@^0.33.1", "@dendronhq/common-server@^0.82.0":
+"@dendronhq/common-server@^0.82.0":
   version "0.82.0"
   resolved "https://registry.npmjs.org/@dendronhq/common-server/-/common-server-0.82.0.tgz#86e9b08abde7abd9a89a4f668588263c0444b13e"
   integrity sha512-i+H9Wp97i4LslXXAAenjH55MHfzU2xm6Mss7+HXTNRcueJeynF7D+KfeA4tOg6N0iJxLCgH3UYxcWawCZ+lD0Q==
